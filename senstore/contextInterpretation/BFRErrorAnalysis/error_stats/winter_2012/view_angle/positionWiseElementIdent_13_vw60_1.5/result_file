@@ -1,0 +1,4734 @@
+key is 4 and value is 100
+key is 5 and value is 100
+Count = 2 200
+error prob = 1
+0
+avg error per element= 0.00196850393700787
+key is 4 and value is 100
+key is 5 and value is 100
+Count = 2 200
+error prob = 1
+1
+avg error per element= 0.00393700787401575
+key is 1 and value is 100
+key is 4 and value is 100
+key is 7 and value is 100
+key is 5 and value is 100
+Count = 4 400
+error prob = 1
+2
+avg error per element= 0.00590551181102362
+key is 6 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.0078740157480315
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+4
+avg error per element= 0.00984251968503937
+There was a false negative in error number 43 and position 5
+There was a false negative in error number 57 and position 5
+There was a false negative in error number 63 and position 5
+There was a false negative in error number 64 and position 5
+There was a false negative in error number 66 and position 5
+There was a false negative in error number 70 and position 5
+There was a false negative in error number 76 and position 5
+There was a false negative in error number 78 and position 5
+There was a false negative in error number 81 and position 5
+There was a false negative in error number 90 and position 5
+There was a false negative in error number 91 and position 5
+There was a false negative in error number 93 and position 5
+There was a false negative in error number 94 and position 5
+There was a false negative in error number 95 and position 5
+key is 3 and value is 92
+key is 2 and value is 86
+Count = 2 178
+error prob = 0.89
+5
+avg error per element= 0.0115944881889764
+There was a false negative in error number 97 and position 6
+key is 1 and value is 99
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 599
+error prob = 0.998333333333333
+6
+avg error per element= 0.0135597112860892
+key is 1 and value is 100
+key is 4 and value is 100
+key is 7 and value is 100
+key is 5 and value is 100
+Count = 4 400
+error prob = 1
+7
+avg error per element= 0.0155282152230971
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+8
+avg error per element= 0.017496719160105
+key is 6 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.0194652230971129
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.0214337270341207
+There was a false negative in error number 55 and position 11
+There was a false negative in error number 57 and position 11
+There was a false negative in error number 59 and position 11
+There was a false negative in error number 62 and position 11
+There was a false negative in error number 72 and position 11
+There was a false negative in error number 75 and position 11
+There was a false negative in error number 85 and position 11
+There was a false negative in error number 87 and position 11
+There was a false negative in error number 89 and position 11
+There was a false negative in error number 91 and position 11
+There was a false negative in error number 93 and position 11
+key is 3 and value is 96
+key is 2 and value is 89
+Count = 2 185
+error prob = 0.925
+11
+avg error per element= 0.023254593175853
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.0252230971128609
+key is 1 and value is 100
+key is 4 and value is 100
+key is 7 and value is 100
+key is 5 and value is 100
+Count = 4 400
+error prob = 1
+13
+avg error per element= 0.0271916010498688
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+14
+avg error per element= 0.0291601049868766
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+15
+avg error per element= 0.0311286089238845
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.0330971128608924
+There was a false negative in error number 43 and position 17
+There was a false negative in error number 50 and position 17
+There was a false negative in error number 62 and position 17
+There was a false negative in error number 75 and position 17
+There was a false negative in error number 77 and position 17
+There was a false negative in error number 93 and position 17
+There was a false negative in error number 95 and position 17
+key is 3 and value is 97
+key is 2 and value is 93
+Count = 2 190
+error prob = 0.95
+17
+avg error per element= 0.0349671916010499
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.0369356955380577
+key is 1 and value is 100
+key is 4 and value is 100
+key is 7 and value is 100
+key is 5 and value is 100
+Count = 4 400
+error prob = 1
+19
+avg error per element= 0.0389041994750656
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+20
+avg error per element= 0.0408727034120735
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+21
+avg error per element= 0.0428412073490814
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.0448097112860892
+There was a false negative in error number 47 and position 23
+There was a false negative in error number 50 and position 23
+There was a false negative in error number 51 and position 23
+There was a false negative in error number 53 and position 23
+There was a false negative in error number 59 and position 23
+There was a false negative in error number 64 and position 23
+There was a false negative in error number 65 and position 23
+There was a false negative in error number 67 and position 23
+There was a false negative in error number 70 and position 23
+There was a false negative in error number 73 and position 23
+There was a false negative in error number 76 and position 23
+There was a false negative in error number 79 and position 23
+There was a false negative in error number 85 and position 23
+There was a false negative in error number 89 and position 23
+There was a false negative in error number 92 and position 23
+There was a false negative in error number 94 and position 23
+There was a false negative in error number 97 and position 23
+key is 3 and value is 93
+key is 2 and value is 83
+Count = 2 176
+error prob = 0.88
+23
+avg error per element= 0.0465419947506562
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+24
+avg error per element= 0.048510498687664
+key is 1 and value is 100
+key is 4 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 5 500
+error prob = 1
+25
+avg error per element= 0.0504790026246719
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+26
+avg error per element= 0.0524475065616798
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+27
+avg error per element= 0.0544160104986876
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 3 300
+error prob = 1
+28
+avg error per element= 0.0563845144356955
+There was a false negative in error number 49 and position 29
+There was a false negative in error number 60 and position 29
+There was a false negative in error number 64 and position 29
+There was a false negative in error number 72 and position 29
+There was a false negative in error number 74 and position 29
+There was a false negative in error number 75 and position 29
+There was a false negative in error number 76 and position 29
+There was a false negative in error number 81 and position 29
+There was a false negative in error number 83 and position 29
+There was a false negative in error number 89 and position 29
+There was a false negative in error number 92 and position 29
+There was a false negative in error number 93 and position 29
+There was a false negative in error number 94 and position 29
+There was a false negative in error number 95 and position 29
+key is 6 and value is 90
+key is 3 and value is 93
+key is 2 and value is 86
+Count = 3 269
+error prob = 0.896666666666667
+29
+avg error per element= 0.0581496062992126
+There was a false negative in error number 80 and position 30
+There was a false negative in error number 87 and position 30
+There was a false negative in error number 89 and position 30
+There was a false negative in error number 95 and position 30
+key is 6 and value is 96
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 7 696
+error prob = 0.994285714285714
+30
+avg error per element= 0.0601068616422947
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+31
+avg error per element= 0.0620753655793026
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+32
+avg error per element= 0.0640438695163104
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+33
+avg error per element= 0.0660123734533183
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 3 300
+error prob = 1
+34
+avg error per element= 0.0679808773903262
+There was a false negative in error number 54 and position 35
+There was a false negative in error number 59 and position 35
+There was a false negative in error number 60 and position 35
+There was a false negative in error number 61 and position 35
+There was a false negative in error number 62 and position 35
+There was a false negative in error number 65 and position 35
+There was a false negative in error number 68 and position 35
+There was a false negative in error number 69 and position 35
+There was a false negative in error number 73 and position 35
+There was a false negative in error number 87 and position 35
+There was a false negative in error number 94 and position 35
+There was a false negative in error number 99 and position 35
+key is 3 and value is 96
+key is 2 and value is 88
+Count = 2 184
+error prob = 0.92
+35
+avg error per element= 0.0697919010123734
+key is 6 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.0717604049493813
+key is 6 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.0737289088863892
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+38
+avg error per element= 0.075697412823397
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+39
+avg error per element= 0.0776659167604049
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 3 300
+error prob = 1
+avg error per element= 0.0796344206974128
+There was a false negative in error number 41 and position 41
+There was a false negative in error number 54 and position 41
+There was a false negative in error number 63 and position 41
+There was a false negative in error number 68 and position 41
+There was a false negative in error number 69 and position 41
+There was a false negative in error number 74 and position 41
+There was a false negative in error number 78 and position 41
+There was a false negative in error number 80 and position 41
+There was a false negative in error number 82 and position 41
+There was a false negative in error number 85 and position 41
+There was a false negative in error number 87 and position 41
+There was a false negative in error number 90 and position 41
+There was a false negative in error number 94 and position 41
+There was a false negative in error number 95 and position 41
+There was a false negative in error number 97 and position 41
+There was a false negative in error number 98 and position 41
+There was a false negative in error number 99 and position 41
+key is 3 and value is 90
+key is 2 and value is 83
+Count = 2 173
+error prob = 0.865
+41
+avg error per element= 0.0813371766029246
+key is 6 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.0833056805399324
+key is 6 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.0852741844769403
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+44
+avg error per element= 0.0872426884139482
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 3 300
+error prob = 1
+45
+avg error per element= 0.0892111923509561
+There was a false negative in error number 3 and position 46
+There was a false negative in error number 8 and position 46
+There was a false negative in error number 10 and position 46
+There was a false negative in error number 12 and position 46
+There was a false negative in error number 15 and position 46
+There was a false negative in error number 16 and position 46
+There was a false negative in error number 21 and position 46
+There was a false negative in error number 23 and position 46
+There was a false negative in error number 26 and position 46
+There was a false negative in error number 27 and position 46
+There was a false negative in error number 32 and position 46
+There was a false negative in error number 35 and position 46
+There was a false negative in error number 38 and position 46
+There was a false negative in error number 40 and position 46
+There was a false negative in error number 46 and position 46
+There was a false negative in error number 47 and position 46
+There was a false negative in error number 48 and position 46
+There was a false negative in error number 51 and position 46
+There was a false negative in error number 52 and position 46
+There was a false negative in error number 61 and position 46
+There was a false negative in error number 64 and position 46
+There was a false negative in error number 66 and position 46
+There was a false negative in error number 67 and position 46
+There was a false negative in error number 68 and position 46
+There was a false negative in error number 70 and position 46
+There was a false negative in error number 71 and position 46
+There was a false negative in error number 72 and position 46
+There was a false negative in error number 75 and position 46
+There was a false negative in error number 81 and position 46
+There was a false negative in error number 84 and position 46
+There was a false negative in error number 85 and position 46
+There was a false negative in error number 86 and position 46
+There was a false negative in error number 88 and position 46
+There was a false negative in error number 90 and position 46
+There was a false negative in error number 92 and position 46
+There was a false negative in error number 93 and position 46
+There was a false negative in error number 95 and position 46
+There was a false negative in error number 98 and position 46
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 62
+key is 2 and value is 100
+Count = 4 362
+error prob = 0.905
+46
+avg error per element= 0.0909926884139482
+There was a false negative in error number 59 and position 47
+There was a false negative in error number 60 and position 47
+There was a false negative in error number 62 and position 47
+There was a false negative in error number 66 and position 47
+There was a false negative in error number 69 and position 47
+There was a false negative in error number 73 and position 47
+There was a false negative in error number 74 and position 47
+There was a false negative in error number 75 and position 47
+There was a false negative in error number 77 and position 47
+There was a false negative in error number 78 and position 47
+There was a false negative in error number 80 and position 47
+There was a false negative in error number 82 and position 47
+There was a false negative in error number 83 and position 47
+There was a false negative in error number 94 and position 47
+There was a false negative in error number 96 and position 47
+There was a false negative in error number 98 and position 47
+There was a false negative in error number 99 and position 47
+key is 3 and value is 93
+key is 2 and value is 83
+Count = 2 176
+error prob = 0.88
+47
+avg error per element= 0.0927249718785151
+key is 6 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.094693475815523
+key is 6 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.0966619797525309
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+50
+avg error per element= 0.0986304836895387
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 3 300
+error prob = 1
+51
+avg error per element= 0.100598987626547
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.102567491563554
+There was a false negative in error number 50 and position 53
+There was a false negative in error number 52 and position 53
+There was a false negative in error number 60 and position 53
+There was a false negative in error number 63 and position 53
+There was a false negative in error number 64 and position 53
+There was a false negative in error number 66 and position 53
+There was a false negative in error number 75 and position 53
+There was a false negative in error number 84 and position 53
+There was a false negative in error number 85 and position 53
+There was a false negative in error number 89 and position 53
+There was a false negative in error number 91 and position 53
+There was a false negative in error number 92 and position 53
+There was a false negative in error number 94 and position 53
+There was a false negative in error number 95 and position 53
+There was a false negative in error number 96 and position 53
+There was a false negative in error number 97 and position 53
+There was a false negative in error number 99 and position 53
+key is 3 and value is 95
+key is 2 and value is 83
+Count = 2 178
+error prob = 0.89
+53
+avg error per element= 0.104319460067491
+key is 6 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.106287964004499
+key is 6 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.108256467941507
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+56
+avg error per element= 0.110224971878515
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+57
+avg error per element= 0.112193475815523
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.114161979752531
+There was a false negative in error number 48 and position 59
+There was a false negative in error number 50 and position 59
+There was a false negative in error number 51 and position 59
+There was a false negative in error number 69 and position 59
+There was a false negative in error number 70 and position 59
+There was a false negative in error number 77 and position 59
+There was a false negative in error number 79 and position 59
+There was a false negative in error number 80 and position 59
+There was a false negative in error number 81 and position 59
+There was a false negative in error number 84 and position 59
+There was a false negative in error number 85 and position 59
+There was a false negative in error number 90 and position 59
+There was a false negative in error number 95 and position 59
+There was a false negative in error number 97 and position 59
+There was a false negative in error number 98 and position 59
+key is 3 and value is 94
+key is 2 and value is 85
+Count = 2 179
+error prob = 0.895
+59
+avg error per element= 0.115923790776153
+key is 6 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.117892294713161
+key is 6 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.119860798650169
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+62
+avg error per element= 0.121829302587176
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+63
+avg error per element= 0.123797806524184
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.125766310461192
+There was a false negative in error number 60 and position 65
+There was a false negative in error number 63 and position 65
+There was a false negative in error number 65 and position 65
+There was a false negative in error number 68 and position 65
+There was a false negative in error number 69 and position 65
+There was a false negative in error number 71 and position 65
+There was a false negative in error number 73 and position 65
+There was a false negative in error number 76 and position 65
+There was a false negative in error number 78 and position 65
+There was a false negative in error number 83 and position 65
+There was a false negative in error number 86 and position 65
+There was a false negative in error number 87 and position 65
+There was a false negative in error number 90 and position 65
+There was a false negative in error number 93 and position 65
+There was a false negative in error number 94 and position 65
+There was a false negative in error number 97 and position 65
+key is 3 and value is 94
+key is 2 and value is 84
+Count = 2 178
+error prob = 0.89
+65
+avg error per element= 0.127518278965129
+key is 6 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.129486782902137
+key is 6 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.131455286839145
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 3 300
+error prob = 1
+68
+avg error per element= 0.133423790776153
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+69
+avg error per element= 0.135392294713161
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+70
+avg error per element= 0.137360798650169
+There was a false negative in error number 41 and position 71
+There was a false negative in error number 50 and position 71
+There was a false negative in error number 52 and position 71
+There was a false negative in error number 59 and position 71
+There was a false negative in error number 60 and position 71
+There was a false negative in error number 61 and position 71
+There was a false negative in error number 67 and position 71
+There was a false negative in error number 68 and position 71
+There was a false negative in error number 71 and position 71
+There was a false negative in error number 72 and position 71
+There was a false negative in error number 74 and position 71
+There was a false negative in error number 75 and position 71
+There was a false negative in error number 76 and position 71
+There was a false negative in error number 80 and position 71
+There was a false negative in error number 83 and position 71
+There was a false negative in error number 85 and position 71
+There was a false negative in error number 87 and position 71
+There was a false negative in error number 88 and position 71
+There was a false negative in error number 91 and position 71
+There was a false negative in error number 94 and position 71
+There was a false negative in error number 96 and position 71
+There was a false negative in error number 98 and position 71
+key is 3 and value is 88
+key is 2 and value is 78
+Count = 2 166
+error prob = 0.83
+71
+avg error per element= 0.138994656917885
+There was a false negative in error number 63 and position 72
+There was a false negative in error number 64 and position 72
+There was a false negative in error number 65 and position 72
+There was a false negative in error number 66 and position 72
+There was a false negative in error number 79 and position 72
+There was a false negative in error number 83 and position 72
+There was a false negative in error number 84 and position 72
+There was a false negative in error number 85 and position 72
+There was a false negative in error number 86 and position 72
+There was a false negative in error number 88 and position 72
+There was a false negative in error number 95 and position 72
+There was a false negative in error number 98 and position 72
+There was a false negative in error number 99 and position 72
+key is 6 and value is 100
+key is 1 and value is 100
+key is 4 and value is 87
+key is 3 and value is 100
+key is 7 and value is 99
+key is 2 and value is 100
+key is 5 and value is 97
+Count = 7 683
+error prob = 0.975714285714286
+72
+avg error per element= 0.140915354330709
+key is 6 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.142883858267716
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 3 300
+error prob = 1
+74
+avg error per element= 0.144852362204724
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+75
+avg error per element= 0.146820866141732
+There was a false negative in error number 3 and position 76
+There was a false negative in error number 5 and position 76
+There was a false negative in error number 8 and position 76
+There was a false negative in error number 11 and position 76
+There was a false negative in error number 13 and position 76
+There was a false negative in error number 24 and position 76
+There was a false negative in error number 32 and position 76
+There was a false negative in error number 35 and position 76
+There was a false negative in error number 39 and position 76
+There was a false negative in error number 40 and position 76
+There was a false negative in error number 42 and position 76
+There was a false negative in error number 43 and position 76
+There was a false negative in error number 46 and position 76
+There was a false negative in error number 51 and position 76
+There was a false negative in error number 53 and position 76
+There was a false negative in error number 54 and position 76
+There was a false negative in error number 55 and position 76
+There was a false negative in error number 60 and position 76
+There was a false negative in error number 63 and position 76
+There was a false negative in error number 64 and position 76
+There was a false negative in error number 65 and position 76
+There was a false negative in error number 66 and position 76
+There was a false negative in error number 75 and position 76
+There was a false negative in error number 77 and position 76
+There was a false negative in error number 78 and position 76
+There was a false negative in error number 79 and position 76
+There was a false negative in error number 80 and position 76
+There was a false negative in error number 87 and position 76
+There was a false negative in error number 88 and position 76
+There was a false negative in error number 90 and position 76
+There was a false negative in error number 93 and position 76
+There was a false negative in error number 94 and position 76
+There was a false negative in error number 95 and position 76
+There was a false negative in error number 96 and position 76
+There was a false negative in error number 97 and position 76
+There was a false negative in error number 98 and position 76
+There was a false negative in error number 99 and position 76
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 63
+Count = 5 463
+error prob = 0.926
+76
+avg error per element= 0.148643700787401
+There was a false negative in error number 47 and position 77
+There was a false negative in error number 51 and position 77
+There was a false negative in error number 56 and position 77
+There was a false negative in error number 60 and position 77
+There was a false negative in error number 78 and position 77
+There was a false negative in error number 84 and position 77
+There was a false negative in error number 85 and position 77
+There was a false negative in error number 89 and position 77
+There was a false negative in error number 90 and position 77
+There was a false negative in error number 92 and position 77
+There was a false negative in error number 93 and position 77
+There was a false negative in error number 94 and position 77
+There was a false negative in error number 99 and position 77
+key is 3 and value is 93
+key is 2 and value is 87
+Count = 2 180
+error prob = 0.9
+77
+avg error per element= 0.150415354330708
+There was a false negative in error number 1 and position 78
+There was a false negative in error number 7 and position 78
+There was a false negative in error number 8 and position 78
+There was a false negative in error number 12 and position 78
+There was a false negative in error number 13 and position 78
+There was a false negative in error number 14 and position 78
+There was a false negative in error number 15 and position 78
+There was a false negative in error number 18 and position 78
+There was a false negative in error number 21 and position 78
+There was a false negative in error number 25 and position 78
+There was a false negative in error number 27 and position 78
+There was a false negative in error number 29 and position 78
+There was a false negative in error number 31 and position 78
+There was a false negative in error number 32 and position 78
+There was a false negative in error number 34 and position 78
+There was a false negative in error number 35 and position 78
+There was a false negative in error number 37 and position 78
+There was a false negative in error number 38 and position 78
+There was a false negative in error number 40 and position 78
+There was a false negative in error number 44 and position 78
+There was a false negative in error number 46 and position 78
+There was a false negative in error number 47 and position 78
+There was a false negative in error number 51 and position 78
+There was a false negative in error number 53 and position 78
+There was a false negative in error number 54 and position 78
+There was a false negative in error number 55 and position 78
+There was a false negative in error number 56 and position 78
+There was a false negative in error number 59 and position 78
+There was a false negative in error number 62 and position 78
+There was a false negative in error number 63 and position 78
+There was a false negative in error number 64 and position 78
+There was a false negative in error number 66 and position 78
+There was a false negative in error number 68 and position 78
+There was a false negative in error number 69 and position 78
+There was a false negative in error number 70 and position 78
+There was a false negative in error number 73 and position 78
+There was a false negative in error number 76 and position 78
+There was a false negative in error number 77 and position 78
+There was a false negative in error number 80 and position 78
+There was a false negative in error number 81 and position 78
+There was a false negative in error number 83 and position 78
+There was a false negative in error number 84 and position 78
+There was a false negative in error number 85 and position 78
+There was a false negative in error number 89 and position 78
+There was a false negative in error number 90 and position 78
+There was a false negative in error number 91 and position 78
+There was a false negative in error number 93 and position 78
+There was a false negative in error number 95 and position 78
+There was a false negative in error number 98 and position 78
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 51
+key is 2 and value is 100
+Count = 5 451
+error prob = 0.902
+78
+avg error per element= 0.15219094488189
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+79
+avg error per element= 0.154159448818897
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 3 300
+error prob = 1
+80
+avg error per element= 0.156127952755905
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+81
+avg error per element= 0.158096456692913
+There was a false negative in error number 81 and position 82
+There was a false negative in error number 85 and position 82
+There was a false negative in error number 86 and position 82
+There was a false negative in error number 95 and position 82
+There was a false negative in error number 96 and position 82
+There was a false negative in error number 98 and position 82
+key is 1 and value is 100
+key is 4 and value is 94
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 594
+error prob = 0.99
+82
+avg error per element= 0.160045275590551
+There was a false negative in error number 41 and position 83
+There was a false negative in error number 49 and position 83
+There was a false negative in error number 55 and position 83
+There was a false negative in error number 63 and position 83
+There was a false negative in error number 66 and position 83
+There was a false negative in error number 71 and position 83
+There was a false negative in error number 75 and position 83
+There was a false negative in error number 76 and position 83
+There was a false negative in error number 83 and position 83
+There was a false negative in error number 84 and position 83
+There was a false negative in error number 85 and position 83
+There was a false negative in error number 89 and position 83
+There was a false negative in error number 93 and position 83
+There was a false negative in error number 97 and position 83
+There was a false negative in error number 99 and position 83
+key is 3 and value is 93
+key is 2 and value is 85
+Count = 2 178
+error prob = 0.89
+83
+avg error per element= 0.161797244094488
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.163765748031496
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+85
+avg error per element= 0.165734251968504
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 3 300
+error prob = 1
+86
+avg error per element= 0.167702755905512
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 5 500
+error prob = 1
+87
+avg error per element= 0.169671259842519
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.171639763779527
+There was a false negative in error number 45 and position 89
+There was a false negative in error number 54 and position 89
+There was a false negative in error number 58 and position 89
+There was a false negative in error number 61 and position 89
+There was a false negative in error number 62 and position 89
+There was a false negative in error number 64 and position 89
+There was a false negative in error number 65 and position 89
+There was a false negative in error number 70 and position 89
+There was a false negative in error number 72 and position 89
+There was a false negative in error number 74 and position 89
+There was a false negative in error number 77 and position 89
+There was a false negative in error number 80 and position 89
+There was a false negative in error number 86 and position 89
+There was a false negative in error number 88 and position 89
+There was a false negative in error number 91 and position 89
+There was a false negative in error number 97 and position 89
+There was a false negative in error number 98 and position 89
+There was a false negative in error number 99 and position 89
+key is 3 and value is 94
+key is 2 and value is 82
+Count = 2 176
+error prob = 0.88
+89
+avg error per element= 0.173372047244094
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.175340551181102
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+91
+avg error per element= 0.17730905511811
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 3 300
+error prob = 1
+92
+avg error per element= 0.179277559055118
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.181246062992126
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.183214566929134
+There was a false negative in error number 49 and position 95
+There was a false negative in error number 52 and position 95
+There was a false negative in error number 63 and position 95
+There was a false negative in error number 66 and position 95
+There was a false negative in error number 70 and position 95
+There was a false negative in error number 72 and position 95
+There was a false negative in error number 74 and position 95
+There was a false negative in error number 80 and position 95
+There was a false negative in error number 81 and position 95
+There was a false negative in error number 84 and position 95
+There was a false negative in error number 87 and position 95
+There was a false negative in error number 88 and position 95
+There was a false negative in error number 92 and position 95
+There was a false negative in error number 93 and position 95
+There was a false negative in error number 95 and position 95
+There was a false negative in error number 96 and position 95
+There was a false negative in error number 98 and position 95
+key is 3 and value is 92
+key is 2 and value is 83
+Count = 2 175
+error prob = 0.875
+95
+avg error per element= 0.184937007874016
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.186905511811023
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.188874015748031
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 3 300
+error prob = 1
+98
+avg error per element= 0.190842519685039
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.192811023622047
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.194779527559055
+There was a false negative in error number 62 and position 101
+There was a false negative in error number 68 and position 101
+There was a false negative in error number 69 and position 101
+There was a false negative in error number 80 and position 101
+There was a false negative in error number 81 and position 101
+There was a false negative in error number 84 and position 101
+There was a false negative in error number 90 and position 101
+There was a false negative in error number 91 and position 101
+There was a false negative in error number 93 and position 101
+There was a false negative in error number 94 and position 101
+There was a false negative in error number 96 and position 101
+There was a false negative in error number 98 and position 101
+There was a false negative in error number 99 and position 101
+key is 3 and value is 90
+key is 2 and value is 87
+Count = 2 177
+error prob = 0.885
+101
+avg error per element= 0.196521653543307
+There was a false negative in error number 96 and position 102
+key is 6 and value is 99
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 399
+error prob = 0.9975
+102
+avg error per element= 0.198485236220472
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+103
+avg error per element= 0.20045374015748
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 3 300
+error prob = 1
+104
+avg error per element= 0.202422244094488
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.204390748031496
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.206359251968504
+There was a false negative in error number 48 and position 107
+There was a false negative in error number 51 and position 107
+There was a false negative in error number 55 and position 107
+There was a false negative in error number 62 and position 107
+There was a false negative in error number 63 and position 107
+There was a false negative in error number 67 and position 107
+There was a false negative in error number 68 and position 107
+There was a false negative in error number 75 and position 107
+There was a false negative in error number 77 and position 107
+There was a false negative in error number 81 and position 107
+There was a false negative in error number 85 and position 107
+There was a false negative in error number 88 and position 107
+There was a false negative in error number 89 and position 107
+There was a false negative in error number 90 and position 107
+There was a false negative in error number 96 and position 107
+There was a false negative in error number 99 and position 107
+key is 3 and value is 92
+key is 7 and value is 92
+key is 2 and value is 84
+Count = 3 268
+error prob = 0.893333333333333
+107
+avg error per element= 0.208117782152231
+There was a false negative in error number 94 and position 108
+There was a false negative in error number 95 and position 108
+There was a false negative in error number 98 and position 108
+There was a false negative in error number 99 and position 108
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 96
+key is 2 and value is 100
+Count = 4 396
+error prob = 0.99
+108
+avg error per element= 0.210066601049868
+There was a false negative in error number 81 and position 109
+There was a false negative in error number 84 and position 109
+There was a false negative in error number 89 and position 109
+There was a false negative in error number 92 and position 109
+There was a false negative in error number 97 and position 109
+There was a false negative in error number 98 and position 109
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 94
+key is 2 and value is 100
+Count = 4 394
+error prob = 0.985
+109
+avg error per element= 0.212005577427821
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+110
+avg error per element= 0.213974081364829
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.215942585301837
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.217911089238845
+There was a false negative in error number 38 and position 113
+There was a false negative in error number 45 and position 113
+There was a false negative in error number 52 and position 113
+There was a false negative in error number 54 and position 113
+There was a false negative in error number 59 and position 113
+There was a false negative in error number 66 and position 113
+There was a false negative in error number 75 and position 113
+There was a false negative in error number 84 and position 113
+There was a false negative in error number 87 and position 113
+There was a false negative in error number 90 and position 113
+There was a false negative in error number 92 and position 113
+There was a false negative in error number 97 and position 113
+key is 3 and value is 95
+key is 2 and value is 88
+Count = 2 183
+error prob = 0.915
+113
+avg error per element= 0.219712270341207
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.221680774278215
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+115
+avg error per element= 0.223649278215223
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+116
+avg error per element= 0.225617782152231
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.227586286089239
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.229554790026246
+There was a false negative in error number 37 and position 119
+There was a false negative in error number 40 and position 119
+There was a false negative in error number 46 and position 119
+There was a false negative in error number 47 and position 119
+There was a false negative in error number 49 and position 119
+There was a false negative in error number 64 and position 119
+There was a false negative in error number 66 and position 119
+There was a false negative in error number 68 and position 119
+There was a false negative in error number 70 and position 119
+There was a false negative in error number 71 and position 119
+There was a false negative in error number 78 and position 119
+There was a false negative in error number 79 and position 119
+There was a false negative in error number 83 and position 119
+There was a false negative in error number 85 and position 119
+There was a false negative in error number 92 and position 119
+There was a false negative in error number 94 and position 119
+There was a false negative in error number 96 and position 119
+There was a false negative in error number 99 and position 119
+key is 3 and value is 94
+key is 2 and value is 82
+Count = 2 176
+error prob = 0.88
+119
+avg error per element= 0.231287073490813
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.233255577427821
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+121
+avg error per element= 0.235224081364829
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+122
+avg error per element= 0.237192585301837
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.239161089238845
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.241129593175853
+There was a false negative in error number 44 and position 125
+There was a false negative in error number 46 and position 125
+There was a false negative in error number 53 and position 125
+There was a false negative in error number 57 and position 125
+There was a false negative in error number 59 and position 125
+There was a false negative in error number 66 and position 125
+There was a false negative in error number 71 and position 125
+There was a false negative in error number 73 and position 125
+There was a false negative in error number 75 and position 125
+There was a false negative in error number 78 and position 125
+There was a false negative in error number 80 and position 125
+There was a false negative in error number 82 and position 125
+There was a false negative in error number 83 and position 125
+There was a false negative in error number 86 and position 125
+There was a false negative in error number 91 and position 125
+There was a false negative in error number 92 and position 125
+There was a false negative in error number 96 and position 125
+There was a false negative in error number 97 and position 125
+key is 3 and value is 94
+key is 2 and value is 82
+Count = 2 176
+error prob = 0.88
+125
+avg error per element= 0.24286187664042
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.244830380577428
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.246798884514435
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+128
+avg error per element= 0.248767388451443
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.250735892388451
+key is 1 and value is 100
+key is 4 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 5 500
+error prob = 1
+130
+avg error per element= 0.252704396325459
+There was a false negative in error number 39 and position 131
+There was a false negative in error number 50 and position 131
+There was a false negative in error number 57 and position 131
+There was a false negative in error number 58 and position 131
+There was a false negative in error number 60 and position 131
+There was a false negative in error number 63 and position 131
+There was a false negative in error number 67 and position 131
+There was a false negative in error number 69 and position 131
+There was a false negative in error number 70 and position 131
+There was a false negative in error number 86 and position 131
+There was a false negative in error number 87 and position 131
+There was a false negative in error number 89 and position 131
+There was a false negative in error number 91 and position 131
+There was a false negative in error number 97 and position 131
+There was a false negative in error number 99 and position 131
+key is 3 and value is 95
+key is 2 and value is 85
+Count = 2 180
+error prob = 0.9
+131
+avg error per element= 0.254476049868766
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+132
+avg error per element= 0.256444553805774
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+133
+avg error per element= 0.258413057742782
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+134
+avg error per element= 0.26038156167979
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.262350065616798
+key is 4 and value is 100
+key is 5 and value is 100
+Count = 2 200
+error prob = 1
+136
+avg error per element= 0.264318569553806
+There was a false negative in error number 35 and position 137
+There was a false negative in error number 38 and position 137
+There was a false negative in error number 47 and position 137
+There was a false negative in error number 48 and position 137
+There was a false negative in error number 50 and position 137
+There was a false negative in error number 51 and position 137
+There was a false negative in error number 56 and position 137
+There was a false negative in error number 61 and position 137
+There was a false negative in error number 65 and position 137
+There was a false negative in error number 68 and position 137
+There was a false negative in error number 69 and position 137
+There was a false negative in error number 70 and position 137
+There was a false negative in error number 72 and position 137
+There was a false negative in error number 81 and position 137
+There was a false negative in error number 84 and position 137
+There was a false negative in error number 86 and position 137
+There was a false negative in error number 88 and position 137
+There was a false negative in error number 89 and position 137
+There was a false negative in error number 90 and position 137
+There was a false negative in error number 95 and position 137
+There was a false negative in error number 96 and position 137
+There was a false negative in error number 97 and position 137
+There was a false negative in error number 99 and position 137
+key is 3 and value is 88
+key is 7 and value is 93
+key is 2 and value is 77
+key is 5 and value is 96
+Count = 4 354
+error prob = 0.885
+137
+avg error per element= 0.266060695538057
+There was a false negative in error number 85 and position 138
+There was a false negative in error number 90 and position 138
+There was a false negative in error number 98 and position 138
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 97
+Count = 5 497
+error prob = 0.994
+138
+avg error per element= 0.268017388451443
+There was a false negative in error number 69 and position 139
+There was a false negative in error number 79 and position 139
+There was a false negative in error number 82 and position 139
+There was a false negative in error number 87 and position 139
+There was a false negative in error number 94 and position 139
+There was a false negative in error number 95 and position 139
+There was a false negative in error number 99 and position 139
+key is 1 and value is 100
+key is 4 and value is 93
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 5 493
+error prob = 0.986
+139
+avg error per element= 0.269958333333333
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.271926837270341
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.273895341207349
+key is 4 and value is 100
+key is 5 and value is 100
+Count = 2 200
+error prob = 1
+142
+avg error per element= 0.275863845144357
+There was a false negative in error number 76 and position 143
+There was a false negative in error number 82 and position 143
+There was a false negative in error number 87 and position 143
+There was a false negative in error number 89 and position 143
+There was a false negative in error number 93 and position 143
+key is 5 and value is 95
+Count = 1 95
+error prob = 0.95
+143
+avg error per element= 0.277733923884514
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.279702427821522
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+145
+avg error per element= 0.28167093175853
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.283639435695538
+key is 1 and value is 100
+key is 4 and value is 100
+key is 7 and value is 100
+key is 5 and value is 100
+Count = 4 400
+error prob = 1
+147
+avg error per element= 0.285607939632546
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.287576443569554
+There was a false negative in error number 52 and position 149
+There was a false negative in error number 62 and position 149
+There was a false negative in error number 63 and position 149
+There was a false negative in error number 70 and position 149
+There was a false negative in error number 76 and position 149
+There was a false negative in error number 81 and position 149
+There was a false negative in error number 86 and position 149
+There was a false negative in error number 87 and position 149
+There was a false negative in error number 89 and position 149
+There was a false negative in error number 99 and position 149
+key is 3 and value is 99
+key is 2 and value is 90
+Count = 2 189
+error prob = 0.945
+149
+avg error per element= 0.289436679790026
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.291405183727034
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+151
+avg error per element= 0.293373687664042
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.29534219160105
+key is 1 and value is 100
+key is 4 and value is 100
+key is 7 and value is 100
+key is 5 and value is 100
+Count = 4 400
+error prob = 1
+153
+avg error per element= 0.297310695538057
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.299279199475065
+There was a false negative in error number 50 and position 155
+There was a false negative in error number 51 and position 155
+There was a false negative in error number 58 and position 155
+There was a false negative in error number 60 and position 155
+There was a false negative in error number 66 and position 155
+There was a false negative in error number 70 and position 155
+There was a false negative in error number 73 and position 155
+There was a false negative in error number 75 and position 155
+There was a false negative in error number 77 and position 155
+There was a false negative in error number 79 and position 155
+There was a false negative in error number 81 and position 155
+There was a false negative in error number 82 and position 155
+There was a false negative in error number 87 and position 155
+There was a false negative in error number 90 and position 155
+There was a false negative in error number 92 and position 155
+key is 3 and value is 98
+key is 2 and value is 85
+Count = 2 183
+error prob = 0.915
+155
+avg error per element= 0.301080380577428
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.303048884514435
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+157
+avg error per element= 0.305017388451443
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.306985892388451
+key is 1 and value is 100
+key is 4 and value is 100
+key is 7 and value is 100
+key is 5 and value is 100
+Count = 4 400
+error prob = 1
+159
+avg error per element= 0.308954396325459
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.310922900262467
+There was a false negative in error number 54 and position 161
+There was a false negative in error number 55 and position 161
+There was a false negative in error number 66 and position 161
+There was a false negative in error number 68 and position 161
+There was a false negative in error number 69 and position 161
+There was a false negative in error number 73 and position 161
+There was a false negative in error number 79 and position 161
+There was a false negative in error number 81 and position 161
+There was a false negative in error number 82 and position 161
+There was a false negative in error number 84 and position 161
+There was a false negative in error number 87 and position 161
+There was a false negative in error number 91 and position 161
+There was a false negative in error number 92 and position 161
+There was a false negative in error number 93 and position 161
+There was a false negative in error number 94 and position 161
+There was a false negative in error number 97 and position 161
+There was a false negative in error number 99 and position 161
+key is 3 and value is 96
+key is 2 and value is 83
+Count = 2 179
+error prob = 0.895
+161
+avg error per element= 0.312684711286089
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 3 300
+error prob = 1
+162
+avg error per element= 0.314653215223097
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+163
+avg error per element= 0.316621719160105
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.318590223097113
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.32055872703412
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.322527230971128
+There was a false negative in error number 44 and position 167
+There was a false negative in error number 51 and position 167
+There was a false negative in error number 52 and position 167
+There was a false negative in error number 57 and position 167
+There was a false negative in error number 62 and position 167
+There was a false negative in error number 80 and position 167
+There was a false negative in error number 84 and position 167
+There was a false negative in error number 85 and position 167
+There was a false negative in error number 86 and position 167
+There was a false negative in error number 88 and position 167
+There was a false negative in error number 91 and position 167
+There was a false negative in error number 93 and position 167
+There was a false negative in error number 94 and position 167
+There was a false negative in error number 98 and position 167
+key is 3 and value is 96
+key is 7 and value is 93
+key is 2 and value is 87
+Count = 3 276
+error prob = 0.92
+167
+avg error per element= 0.324338254593176
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 3 300
+error prob = 1
+168
+avg error per element= 0.326306758530183
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+169
+avg error per element= 0.328275262467191
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+170
+avg error per element= 0.330243766404199
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.332212270341207
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.334180774278215
+There was a false negative in error number 42 and position 173
+There was a false negative in error number 45 and position 173
+There was a false negative in error number 54 and position 173
+There was a false negative in error number 59 and position 173
+There was a false negative in error number 65 and position 173
+There was a false negative in error number 70 and position 173
+There was a false negative in error number 75 and position 173
+There was a false negative in error number 77 and position 173
+There was a false negative in error number 81 and position 173
+There was a false negative in error number 87 and position 173
+There was a false negative in error number 90 and position 173
+There was a false negative in error number 91 and position 173
+There was a false negative in error number 94 and position 173
+There was a false negative in error number 95 and position 173
+key is 3 and value is 98
+key is 2 and value is 86
+Count = 2 184
+error prob = 0.92
+173
+avg error per element= 0.335991797900262
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 3 300
+error prob = 1
+174
+avg error per element= 0.33796030183727
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 3 300
+error prob = 1
+175
+avg error per element= 0.339928805774278
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+176
+avg error per element= 0.341897309711286
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.343865813648294
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.345834317585302
+There was a false negative in error number 45 and position 179
+There was a false negative in error number 47 and position 179
+There was a false negative in error number 50 and position 179
+There was a false negative in error number 54 and position 179
+There was a false negative in error number 55 and position 179
+There was a false negative in error number 57 and position 179
+There was a false negative in error number 59 and position 179
+There was a false negative in error number 60 and position 179
+There was a false negative in error number 65 and position 179
+There was a false negative in error number 67 and position 179
+There was a false negative in error number 69 and position 179
+There was a false negative in error number 70 and position 179
+There was a false negative in error number 72 and position 179
+There was a false negative in error number 74 and position 179
+There was a false negative in error number 75 and position 179
+There was a false negative in error number 76 and position 179
+There was a false negative in error number 78 and position 179
+There was a false negative in error number 80 and position 179
+There was a false negative in error number 83 and position 179
+There was a false negative in error number 90 and position 179
+There was a false negative in error number 94 and position 179
+There was a false negative in error number 96 and position 179
+There was a false negative in error number 97 and position 179
+key is 3 and value is 98
+key is 2 and value is 77
+Count = 2 175
+error prob = 0.875
+179
+avg error per element= 0.347556758530183
+There was a false negative in error number 96 and position 180
+There was a false negative in error number 99 and position 180
+key is 6 and value is 98
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 398
+error prob = 0.995
+180
+avg error per element= 0.349515419947506
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 3 300
+error prob = 1
+181
+avg error per element= 0.351483923884514
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+182
+avg error per element= 0.353452427821522
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.35542093175853
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.357389435695538
+There was a false negative in error number 45 and position 185
+There was a false negative in error number 56 and position 185
+There was a false negative in error number 57 and position 185
+There was a false negative in error number 58 and position 185
+There was a false negative in error number 59 and position 185
+There was a false negative in error number 60 and position 185
+There was a false negative in error number 71 and position 185
+There was a false negative in error number 72 and position 185
+There was a false negative in error number 73 and position 185
+There was a false negative in error number 75 and position 185
+There was a false negative in error number 77 and position 185
+There was a false negative in error number 82 and position 185
+There was a false negative in error number 85 and position 185
+There was a false negative in error number 89 and position 185
+There was a false negative in error number 93 and position 185
+There was a false negative in error number 95 and position 185
+There was a false negative in error number 98 and position 185
+There was a false negative in error number 99 and position 185
+key is 3 and value is 95
+key is 2 and value is 82
+Count = 2 177
+error prob = 0.885
+185
+avg error per element= 0.35913156167979
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.361100065616798
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+187
+avg error per element= 0.363068569553805
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+188
+avg error per element= 0.365037073490813
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.367005577427821
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.368974081364829
+There was a false negative in error number 47 and position 191
+There was a false negative in error number 50 and position 191
+There was a false negative in error number 51 and position 191
+There was a false negative in error number 60 and position 191
+There was a false negative in error number 66 and position 191
+There was a false negative in error number 69 and position 191
+There was a false negative in error number 76 and position 191
+There was a false negative in error number 79 and position 191
+There was a false negative in error number 81 and position 191
+There was a false negative in error number 82 and position 191
+There was a false negative in error number 91 and position 191
+There was a false negative in error number 95 and position 191
+There was a false negative in error number 97 and position 191
+There was a false negative in error number 98 and position 191
+key is 3 and value is 98
+key is 2 and value is 86
+Count = 2 184
+error prob = 0.92
+191
+avg error per element= 0.370785104986876
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.372753608923884
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+193
+avg error per element= 0.374722112860892
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+194
+avg error per element= 0.3766906167979
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.378659120734908
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.380627624671916
+There was a false negative in error number 61 and position 197
+There was a false negative in error number 62 and position 197
+There was a false negative in error number 66 and position 197
+There was a false negative in error number 72 and position 197
+There was a false negative in error number 78 and position 197
+There was a false negative in error number 80 and position 197
+There was a false negative in error number 81 and position 197
+There was a false negative in error number 84 and position 197
+There was a false negative in error number 85 and position 197
+There was a false negative in error number 87 and position 197
+There was a false negative in error number 88 and position 197
+There was a false negative in error number 91 and position 197
+There was a false negative in error number 96 and position 197
+There was a false negative in error number 98 and position 197
+key is 3 and value is 98
+key is 2 and value is 86
+Count = 2 184
+error prob = 0.92
+197
+avg error per element= 0.382438648293963
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.384407152230971
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+199
+avg error per element= 0.386375656167979
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 3 300
+error prob = 1
+200
+avg error per element= 0.388344160104987
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.390312664041994
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.392281167979002
+There was a false negative in error number 57 and position 203
+There was a false negative in error number 60 and position 203
+There was a false negative in error number 61 and position 203
+There was a false negative in error number 62 and position 203
+There was a false negative in error number 66 and position 203
+There was a false negative in error number 74 and position 203
+There was a false negative in error number 75 and position 203
+There was a false negative in error number 80 and position 203
+There was a false negative in error number 81 and position 203
+There was a false negative in error number 84 and position 203
+There was a false negative in error number 85 and position 203
+There was a false negative in error number 86 and position 203
+There was a false negative in error number 89 and position 203
+There was a false negative in error number 90 and position 203
+There was a false negative in error number 91 and position 203
+There was a false negative in error number 94 and position 203
+There was a false negative in error number 96 and position 203
+There was a false negative in error number 99 and position 203
+key is 3 and value is 96
+key is 2 and value is 82
+Count = 2 178
+error prob = 0.89
+203
+avg error per element= 0.394033136482939
+There was a false negative in error number 1 and position 204
+There was a false negative in error number 2 and position 204
+There was a false negative in error number 4 and position 204
+There was a false negative in error number 5 and position 204
+There was a false negative in error number 6 and position 204
+There was a false negative in error number 7 and position 204
+There was a false negative in error number 9 and position 204
+There was a false negative in error number 10 and position 204
+There was a false negative in error number 11 and position 204
+There was a false negative in error number 13 and position 204
+There was a false negative in error number 14 and position 204
+There was a false negative in error number 16 and position 204
+There was a false negative in error number 18 and position 204
+There was a false negative in error number 20 and position 204
+There was a false negative in error number 22 and position 204
+There was a false negative in error number 23 and position 204
+There was a false negative in error number 27 and position 204
+There was a false negative in error number 29 and position 204
+There was a false negative in error number 30 and position 204
+There was a false negative in error number 31 and position 204
+There was a false negative in error number 33 and position 204
+There was a false negative in error number 34 and position 204
+There was a false negative in error number 39 and position 204
+There was a false negative in error number 45 and position 204
+There was a false negative in error number 47 and position 204
+There was a false negative in error number 48 and position 204
+There was a false negative in error number 49 and position 204
+There was a false negative in error number 51 and position 204
+There was a false negative in error number 54 and position 204
+There was a false negative in error number 55 and position 204
+There was a false negative in error number 56 and position 204
+There was a false negative in error number 57 and position 204
+There was a false negative in error number 63 and position 204
+There was a false negative in error number 66 and position 204
+There was a false negative in error number 69 and position 204
+There was a false negative in error number 71 and position 204
+There was a false negative in error number 72 and position 204
+There was a false negative in error number 73 and position 204
+There was a false negative in error number 74 and position 204
+There was a false negative in error number 76 and position 204
+There was a false negative in error number 77 and position 204
+There was a false negative in error number 78 and position 204
+There was a false negative in error number 81 and position 204
+There was a false negative in error number 85 and position 204
+There was a false negative in error number 90 and position 204
+There was a false negative in error number 91 and position 204
+There was a false negative in error number 92 and position 204
+There was a false negative in error number 93 and position 204
+There was a false negative in error number 95 and position 204
+There was a false negative in error number 97 and position 204
+There was a false negative in error number 99 and position 204
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 49
+key is 2 and value is 100
+Count = 5 449
+error prob = 0.898
+204
+avg error per element= 0.395800853018372
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+205
+avg error per element= 0.39776935695538
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 3 300
+error prob = 1
+206
+avg error per element= 0.399737860892388
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.401706364829396
+There was a false negative in error number 94 and position 208
+There was a false negative in error number 99 and position 208
+key is 1 and value is 100
+key is 4 and value is 98
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 598
+error prob = 0.996666666666667
+208
+avg error per element= 0.403668307086614
+There was a false negative in error number 45 and position 209
+There was a false negative in error number 53 and position 209
+There was a false negative in error number 54 and position 209
+There was a false negative in error number 55 and position 209
+There was a false negative in error number 57 and position 209
+There was a false negative in error number 63 and position 209
+There was a false negative in error number 67 and position 209
+There was a false negative in error number 70 and position 209
+There was a false negative in error number 72 and position 209
+There was a false negative in error number 80 and position 209
+There was a false negative in error number 84 and position 209
+There was a false negative in error number 86 and position 209
+There was a false negative in error number 87 and position 209
+There was a false negative in error number 91 and position 209
+There was a false negative in error number 92 and position 209
+There was a false negative in error number 94 and position 209
+There was a false negative in error number 95 and position 209
+There was a false negative in error number 96 and position 209
+There was a false negative in error number 98 and position 209
+key is 3 and value is 96
+key is 2 and value is 81
+Count = 2 177
+error prob = 0.885
+209
+avg error per element= 0.405410433070866
+There was a false negative in error number 42 and position 210
+There was a false negative in error number 52 and position 210
+There was a false negative in error number 55 and position 210
+There was a false negative in error number 63 and position 210
+There was a false negative in error number 66 and position 210
+There was a false negative in error number 68 and position 210
+There was a false negative in error number 70 and position 210
+There was a false negative in error number 75 and position 210
+There was a false negative in error number 77 and position 210
+There was a false negative in error number 81 and position 210
+There was a false negative in error number 82 and position 210
+There was a false negative in error number 84 and position 210
+There was a false negative in error number 87 and position 210
+There was a false negative in error number 94 and position 210
+There was a false negative in error number 98 and position 210
+key is 6 and value is 100
+key is 1 and value is 100
+key is 4 and value is 85
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 7 685
+error prob = 0.978571428571429
+210
+avg error per element= 0.407336754780652
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+211
+avg error per element= 0.40930525871766
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 3 300
+error prob = 1
+212
+avg error per element= 0.411273762654668
+There was a false negative in error number 93 and position 213
+key is 1 and value is 100
+key is 4 and value is 99
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 5 499
+error prob = 0.998
+213
+avg error per element= 0.413238329583802
+There was a false negative in error number 5 and position 214
+There was a false negative in error number 9 and position 214
+There was a false negative in error number 10 and position 214
+There was a false negative in error number 12 and position 214
+There was a false negative in error number 14 and position 214
+There was a false negative in error number 17 and position 214
+There was a false negative in error number 18 and position 214
+There was a false negative in error number 22 and position 214
+There was a false negative in error number 24 and position 214
+There was a false negative in error number 26 and position 214
+There was a false negative in error number 33 and position 214
+There was a false negative in error number 34 and position 214
+There was a false negative in error number 36 and position 214
+There was a false negative in error number 38 and position 214
+There was a false negative in error number 40 and position 214
+There was a false negative in error number 41 and position 214
+There was a false negative in error number 44 and position 214
+There was a false negative in error number 50 and position 214
+There was a false negative in error number 53 and position 214
+There was a false negative in error number 55 and position 214
+There was a false negative in error number 57 and position 214
+There was a false negative in error number 58 and position 214
+There was a false negative in error number 60 and position 214
+There was a false negative in error number 62 and position 214
+There was a false negative in error number 63 and position 214
+There was a false negative in error number 64 and position 214
+There was a false negative in error number 65 and position 214
+There was a false negative in error number 66 and position 214
+There was a false negative in error number 67 and position 214
+There was a false negative in error number 73 and position 214
+There was a false negative in error number 74 and position 214
+There was a false negative in error number 76 and position 214
+There was a false negative in error number 78 and position 214
+There was a false negative in error number 83 and position 214
+There was a false negative in error number 84 and position 214
+There was a false negative in error number 87 and position 214
+There was a false negative in error number 89 and position 214
+There was a false negative in error number 91 and position 214
+There was a false negative in error number 96 and position 214
+There was a false negative in error number 99 and position 214
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 60
+Count = 5 460
+error prob = 0.92
+214
+avg error per element= 0.415049353205849
+There was a false negative in error number 42 and position 215
+There was a false negative in error number 47 and position 215
+There was a false negative in error number 48 and position 215
+There was a false negative in error number 49 and position 215
+There was a false negative in error number 58 and position 215
+There was a false negative in error number 59 and position 215
+There was a false negative in error number 70 and position 215
+There was a false negative in error number 71 and position 215
+There was a false negative in error number 73 and position 215
+There was a false negative in error number 78 and position 215
+There was a false negative in error number 80 and position 215
+There was a false negative in error number 81 and position 215
+There was a false negative in error number 83 and position 215
+There was a false negative in error number 88 and position 215
+There was a false negative in error number 92 and position 215
+There was a false negative in error number 93 and position 215
+There was a false negative in error number 94 and position 215
+There was a false negative in error number 95 and position 215
+key is 3 and value is 97
+key is 2 and value is 82
+Count = 2 179
+error prob = 0.895
+215
+avg error per element= 0.416811164229471
+key is 6 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.418779668166479
+key is 6 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 6 600
+error prob = 1
+217
+avg error per element= 0.420748172103487
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 3 300
+error prob = 1
+218
+avg error per element= 0.422716676040495
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+219
+avg error per element= 0.424685179977502
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+220
+avg error per element= 0.42665368391451
+There was a false negative in error number 50 and position 221
+There was a false negative in error number 54 and position 221
+There was a false negative in error number 58 and position 221
+There was a false negative in error number 65 and position 221
+There was a false negative in error number 68 and position 221
+There was a false negative in error number 72 and position 221
+There was a false negative in error number 74 and position 221
+There was a false negative in error number 75 and position 221
+There was a false negative in error number 76 and position 221
+There was a false negative in error number 80 and position 221
+There was a false negative in error number 81 and position 221
+There was a false negative in error number 84 and position 221
+There was a false negative in error number 85 and position 221
+There was a false negative in error number 87 and position 221
+There was a false negative in error number 88 and position 221
+There was a false negative in error number 91 and position 221
+There was a false negative in error number 92 and position 221
+There was a false negative in error number 93 and position 221
+There was a false negative in error number 95 and position 221
+There was a false negative in error number 96 and position 221
+There was a false negative in error number 99 and position 221
+key is 3 and value is 93
+key is 2 and value is 79
+Count = 2 172
+error prob = 0.86
+221
+avg error per element= 0.428346597300337
+key is 6 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.430315101237345
+key is 6 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 6 600
+error prob = 1
+223
+avg error per element= 0.432283605174353
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 3 300
+error prob = 1
+224
+avg error per element= 0.434252109111361
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+225
+avg error per element= 0.436220613048369
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.438189116985376
+There was a false negative in error number 43 and position 227
+There was a false negative in error number 49 and position 227
+There was a false negative in error number 53 and position 227
+There was a false negative in error number 55 and position 227
+There was a false negative in error number 58 and position 227
+There was a false negative in error number 65 and position 227
+There was a false negative in error number 69 and position 227
+There was a false negative in error number 73 and position 227
+There was a false negative in error number 76 and position 227
+There was a false negative in error number 81 and position 227
+There was a false negative in error number 82 and position 227
+There was a false negative in error number 84 and position 227
+There was a false negative in error number 87 and position 227
+There was a false negative in error number 88 and position 227
+There was a false negative in error number 89 and position 227
+There was a false negative in error number 92 and position 227
+There was a false negative in error number 95 and position 227
+key is 3 and value is 98
+key is 2 and value is 83
+Count = 2 181
+error prob = 0.905
+227
+avg error per element= 0.439970613048369
+key is 6 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.441939116985376
+key is 6 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.443907620922384
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 3 300
+error prob = 1
+230
+avg error per element= 0.445876124859392
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.4478446287964
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.449813132733408
+There was a false negative in error number 41 and position 233
+There was a false negative in error number 47 and position 233
+There was a false negative in error number 59 and position 233
+There was a false negative in error number 60 and position 233
+There was a false negative in error number 72 and position 233
+There was a false negative in error number 73 and position 233
+There was a false negative in error number 85 and position 233
+There was a false negative in error number 86 and position 233
+There was a false negative in error number 88 and position 233
+There was a false negative in error number 92 and position 233
+There was a false negative in error number 94 and position 233
+There was a false negative in error number 95 and position 233
+There was a false negative in error number 98 and position 233
+key is 3 and value is 96
+key is 2 and value is 87
+Count = 2 183
+error prob = 0.915
+233
+avg error per element= 0.45161431383577
+There was a false negative in error number 99 and position 234
+key is 6 and value is 99
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 7 699
+error prob = 0.998571428571429
+234
+avg error per element= 0.453580005624297
+key is 6 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.455548509561304
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 3 300
+error prob = 1
+236
+avg error per element= 0.457517013498312
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+237
+avg error per element= 0.45948551743532
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+238
+avg error per element= 0.461454021372328
+There was a false negative in error number 50 and position 239
+There was a false negative in error number 59 and position 239
+There was a false negative in error number 60 and position 239
+There was a false negative in error number 65 and position 239
+There was a false negative in error number 66 and position 239
+There was a false negative in error number 73 and position 239
+There was a false negative in error number 75 and position 239
+There was a false negative in error number 76 and position 239
+There was a false negative in error number 83 and position 239
+There was a false negative in error number 84 and position 239
+There was a false negative in error number 90 and position 239
+There was a false negative in error number 93 and position 239
+There was a false negative in error number 94 and position 239
+There was a false negative in error number 95 and position 239
+There was a false negative in error number 97 and position 239
+There was a false negative in error number 98 and position 239
+key is 6 and value is 91
+key is 3 and value is 95
+key is 2 and value is 84
+Count = 3 270
+error prob = 0.9
+239
+avg error per element= 0.463225674915635
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+240
+avg error per element= 0.465194178852643
+key is 6 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.467162682789651
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+242
+avg error per element= 0.469131186726659
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+243
+avg error per element= 0.471099690663667
+There was a false negative in error number 13 and position 244
+There was a false negative in error number 14 and position 244
+There was a false negative in error number 23 and position 244
+There was a false negative in error number 28 and position 244
+There was a false negative in error number 31 and position 244
+There was a false negative in error number 32 and position 244
+There was a false negative in error number 34 and position 244
+There was a false negative in error number 35 and position 244
+There was a false negative in error number 37 and position 244
+There was a false negative in error number 38 and position 244
+There was a false negative in error number 39 and position 244
+There was a false negative in error number 42 and position 244
+There was a false negative in error number 43 and position 244
+There was a false negative in error number 45 and position 244
+There was a false negative in error number 48 and position 244
+There was a false negative in error number 52 and position 244
+There was a false negative in error number 53 and position 244
+There was a false negative in error number 59 and position 244
+There was a false negative in error number 62 and position 244
+There was a false negative in error number 63 and position 244
+There was a false negative in error number 67 and position 244
+There was a false negative in error number 70 and position 244
+There was a false negative in error number 71 and position 244
+There was a false negative in error number 72 and position 244
+There was a false negative in error number 73 and position 244
+There was a false negative in error number 74 and position 244
+There was a false negative in error number 76 and position 244
+There was a false negative in error number 78 and position 244
+There was a false negative in error number 80 and position 244
+There was a false negative in error number 82 and position 244
+There was a false negative in error number 85 and position 244
+There was a false negative in error number 86 and position 244
+There was a false negative in error number 91 and position 244
+There was a false negative in error number 92 and position 244
+There was a false negative in error number 94 and position 244
+There was a false negative in error number 95 and position 244
+There was a false negative in error number 96 and position 244
+There was a false negative in error number 97 and position 244
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 62
+key is 2 and value is 100
+Count = 4 362
+error prob = 0.905
+244
+avg error per element= 0.472881186726659
+There was a false negative in error number 50 and position 245
+There was a false negative in error number 54 and position 245
+There was a false negative in error number 57 and position 245
+There was a false negative in error number 58 and position 245
+There was a false negative in error number 67 and position 245
+There was a false negative in error number 73 and position 245
+There was a false negative in error number 78 and position 245
+There was a false negative in error number 80 and position 245
+There was a false negative in error number 84 and position 245
+There was a false negative in error number 85 and position 245
+There was a false negative in error number 92 and position 245
+There was a false negative in error number 96 and position 245
+There was a false negative in error number 97 and position 245
+There was a false negative in error number 99 and position 245
+key is 3 and value is 98
+key is 2 and value is 86
+Count = 2 184
+error prob = 0.92
+245
+avg error per element= 0.474692210348706
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+246
+avg error per element= 0.476660714285714
+key is 6 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.478629218222722
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+248
+avg error per element= 0.48059772215973
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+249
+avg error per element= 0.482566226096737
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.484534730033745
+There was a false negative in error number 67 and position 251
+There was a false negative in error number 78 and position 251
+There was a false negative in error number 79 and position 251
+There was a false negative in error number 81 and position 251
+There was a false negative in error number 85 and position 251
+There was a false negative in error number 89 and position 251
+There was a false negative in error number 92 and position 251
+There was a false negative in error number 93 and position 251
+There was a false negative in error number 94 and position 251
+There was a false negative in error number 97 and position 251
+There was a false negative in error number 98 and position 251
+key is 3 and value is 97
+key is 2 and value is 89
+Count = 2 186
+error prob = 0.93
+251
+avg error per element= 0.486365438695163
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.488333942632171
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+253
+avg error per element= 0.490302446569178
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+254
+avg error per element= 0.492270950506186
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+255
+avg error per element= 0.494239454443194
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.496207958380202
+There was a false negative in error number 52 and position 257
+There was a false negative in error number 65 and position 257
+There was a false negative in error number 69 and position 257
+There was a false negative in error number 71 and position 257
+There was a false negative in error number 74 and position 257
+There was a false negative in error number 79 and position 257
+There was a false negative in error number 81 and position 257
+There was a false negative in error number 84 and position 257
+There was a false negative in error number 88 and position 257
+There was a false negative in error number 92 and position 257
+There was a false negative in error number 94 and position 257
+There was a false negative in error number 97 and position 257
+There was a false negative in error number 99 and position 257
+key is 3 and value is 96
+key is 2 and value is 87
+Count = 2 183
+error prob = 0.915
+257
+avg error per element= 0.498009139482564
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.499977643419572
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+259
+avg error per element= 0.50194614735658
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+260
+avg error per element= 0.503914651293588
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.505883155230596
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.507851659167604
+There was a false negative in error number 54 and position 263
+There was a false negative in error number 57 and position 263
+There was a false negative in error number 66 and position 263
+There was a false negative in error number 68 and position 263
+There was a false negative in error number 76 and position 263
+There was a false negative in error number 81 and position 263
+There was a false negative in error number 83 and position 263
+There was a false negative in error number 85 and position 263
+There was a false negative in error number 86 and position 263
+There was a false negative in error number 87 and position 263
+There was a false negative in error number 88 and position 263
+There was a false negative in error number 89 and position 263
+There was a false negative in error number 90 and position 263
+There was a false negative in error number 92 and position 263
+There was a false negative in error number 94 and position 263
+There was a false negative in error number 95 and position 263
+key is 3 and value is 97
+key is 2 and value is 84
+Count = 2 181
+error prob = 0.905
+263
+avg error per element= 0.509633155230596
+key is 4 and value is 100
+key is 5 and value is 100
+Count = 2 200
+error prob = 1
+264
+avg error per element= 0.511601659167604
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+265
+avg error per element= 0.513570163104612
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+266
+avg error per element= 0.515538667041619
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+267
+avg error per element= 0.517507170978627
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+268
+avg error per element= 0.519475674915635
+There was a false negative in error number 49 and position 269
+There was a false negative in error number 69 and position 269
+There was a false negative in error number 75 and position 269
+There was a false negative in error number 77 and position 269
+There was a false negative in error number 83 and position 269
+There was a false negative in error number 84 and position 269
+There was a false negative in error number 88 and position 269
+There was a false negative in error number 90 and position 269
+There was a false negative in error number 92 and position 269
+There was a false negative in error number 95 and position 269
+There was a false negative in error number 98 and position 269
+key is 3 and value is 100
+key is 7 and value is 96
+key is 2 and value is 92
+key is 5 and value is 93
+Count = 4 381
+error prob = 0.9525
+269
+avg error per element= 0.521350674915635
+key is 4 and value is 100
+key is 5 and value is 100
+Count = 2 200
+error prob = 1
+270
+avg error per element= 0.523319178852643
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+271
+avg error per element= 0.525287682789651
+key is 6 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.527256186726659
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 4 400
+error prob = 1
+273
+avg error per element= 0.529224690663667
+There was a false negative in error number 81 and position 274
+There was a false negative in error number 85 and position 274
+There was a false negative in error number 87 and position 274
+There was a false negative in error number 92 and position 274
+There was a false negative in error number 96 and position 274
+There was a false negative in error number 98 and position 274
+key is 6 and value is 100
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 94
+key is 2 and value is 100
+Count = 5 494
+error prob = 0.988
+274
+avg error per element= 0.53116957255343
+There was a false negative in error number 89 and position 275
+There was a false negative in error number 91 and position 275
+key is 5 and value is 98
+Count = 1 98
+error prob = 0.98
+275
+avg error per element= 0.533098706411698
+key is 4 and value is 100
+key is 5 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.535067210348706
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 5 500
+error prob = 1
+277
+avg error per element= 0.537035714285714
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+278
+avg error per element= 0.539004218222722
+key is 6 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 6 600
+error prob = 1
+279
+avg error per element= 0.54097272215973
+key is 6 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.542941226096738
+There was a false negative in error number 92 and position 281
+There was a false negative in error number 96 and position 281
+key is 5 and value is 98
+Count = 1 98
+error prob = 0.98
+281
+avg error per element= 0.544870359955005
+key is 4 and value is 100
+key is 5 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.546838863892013
+key is 4 and value is 100
+key is 5 and value is 100
+Count = 2 200
+error prob = 1
+283
+avg error per element= 0.548807367829021
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+284
+avg error per element= 0.550775871766029
+key is 6 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 6 600
+error prob = 1
+285
+avg error per element= 0.552744375703037
+key is 6 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.554712879640045
+There was a false negative in error number 80 and position 287
+There was a false negative in error number 86 and position 287
+There was a false negative in error number 87 and position 287
+There was a false negative in error number 88 and position 287
+There was a false negative in error number 94 and position 287
+There was a false negative in error number 96 and position 287
+There was a false negative in error number 97 and position 287
+There was a false negative in error number 98 and position 287
+key is 5 and value is 92
+Count = 1 92
+error prob = 0.92
+287
+avg error per element= 0.556523903262092
+key is 11 and value is 100
+Count = 1 100
+error prob = 1
+288
+avg error per element= 0.5584924071991
+key is 11 and value is 100
+Count = 1 100
+error prob = 1
+289
+avg error per element= 0.560460911136108
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+290
+avg error per element= 0.562429415073116
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 4 400
+error prob = 1
+291
+avg error per element= 0.564397919010123
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.566366422947131
+key is 8 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 5 500
+error prob = 1
+293
+avg error per element= 0.568334926884139
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.570303430821147
+key is 11 and value is 100
+Count = 1 100
+error prob = 1
+295
+avg error per element= 0.572271934758155
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+296
+avg error per element= 0.574240438695163
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+avg error per element= 0.576208942632171
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+298
+avg error per element= 0.578177446569178
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 4 400
+error prob = 1
+299
+avg error per element= 0.580145950506186
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.582114454443194
+key is 8 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 5 500
+error prob = 1
+301
+avg error per element= 0.584082958380202
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.58605146231721
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.588019966254218
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+304
+avg error per element= 0.589988470191226
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+avg error per element= 0.591956974128234
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+306
+avg error per element= 0.593925478065241
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 4 400
+error prob = 1
+307
+avg error per element= 0.595893982002249
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.597862485939257
+key is 8 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 12 and value is 100
+Count = 4 400
+error prob = 1
+309
+avg error per element= 0.599830989876265
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.601799493813273
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.603767997750281
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+312
+avg error per element= 0.605736501687289
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+avg error per element= 0.607705005624297
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+avg error per element= 0.609673509561304
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 4 400
+error prob = 1
+315
+avg error per element= 0.611642013498312
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.61361051743532
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.615579021372328
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.617547525309336
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.619516029246344
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+320
+avg error per element= 0.621484533183352
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+avg error per element= 0.623453037120359
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+avg error per element= 0.625421541057367
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.627390044994375
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 4 400
+error prob = 1
+324
+avg error per element= 0.629358548931383
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.631327052868391
+key is 8 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 5 500
+error prob = 1
+326
+avg error per element= 0.633295556805399
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.635264060742407
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+328
+avg error per element= 0.637232564679415
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+avg error per element= 0.639201068616422
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+avg error per element= 0.64116957255343
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+331
+avg error per element= 0.643138076490438
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 4 400
+error prob = 1
+332
+avg error per element= 0.645106580427446
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.647075084364454
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.649043588301462
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.65101209223847
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+336
+avg error per element= 0.652980596175478
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+avg error per element= 0.654949100112485
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+avg error per element= 0.656917604049493
+key is 11 and value is 100
+Count = 1 100
+error prob = 1
+339
+avg error per element= 0.658886107986501
+key is 11 and value is 100
+Count = 1 100
+error prob = 1
+340
+avg error per element= 0.660854611923509
+key is 11 and value is 100
+Count = 1 100
+error prob = 1
+341
+avg error per element= 0.662823115860517
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.664791619797525
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+avg error per element= 0.666760123734533
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+345
+avg error per element= 0.668732510322304
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+346
+avg error per element= 0.670704896910075
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+347
+avg error per element= 0.672677283497846
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+348
+avg error per element= 0.674649670085617
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+349
+avg error per element= 0.676622056673389
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+350
+avg error per element= 0.67859444326116
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+351
+avg error per element= 0.680566829848931
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+352
+avg error per element= 0.682539216436702
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+353
+avg error per element= 0.684511603024474
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+354
+avg error per element= 0.686483989612245
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+355
+avg error per element= 0.688456376200016
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+356
+avg error per element= 0.690428762787787
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+357
+avg error per element= 0.692401149375558
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+358
+avg error per element= 0.69437353596333
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+359
+avg error per element= 0.696345922551101
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+360
+avg error per element= 0.698318309138872
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+361
+avg error per element= 0.700290695726643
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+362
+avg error per element= 0.702263082314414
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+363
+avg error per element= 0.704235468902186
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+364
+avg error per element= 0.706207855489957
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+365
+avg error per element= 0.708180242077728
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+366
+avg error per element= 0.710152628665499
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+367
+avg error per element= 0.712125015253271
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+368
+avg error per element= 0.714097401841042
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+369
+avg error per element= 0.716069788428813
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+370
+avg error per element= 0.718042175016584
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+371
+avg error per element= 0.720014561604355
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+372
+avg error per element= 0.721986948192127
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+373
+avg error per element= 0.723959334779898
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+374
+avg error per element= 0.725931721367669
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+375
+avg error per element= 0.72790410795544
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+376
+avg error per element= 0.729876494543211
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+377
+avg error per element= 0.731848881130983
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+378
+avg error per element= 0.733821267718754
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+379
+avg error per element= 0.735793654306525
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+380
+avg error per element= 0.737766040894296
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+381
+avg error per element= 0.739738427482068
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+382
+avg error per element= 0.741710814069839
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+383
+avg error per element= 0.74368320065761
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+384
+avg error per element= 0.745655587245381
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+385
+avg error per element= 0.747627973833152
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+386
+avg error per element= 0.749600360420924
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+387
+avg error per element= 0.751572747008695
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+388
+avg error per element= 0.753545133596466
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+389
+avg error per element= 0.755517520184237
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+390
+avg error per element= 0.757489906772008
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+391
+avg error per element= 0.75946229335978
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+392
+avg error per element= 0.761434679947551
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+393
+avg error per element= 0.763407066535322
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+394
+avg error per element= 0.765379453123093
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+395
+avg error per element= 0.767351839710865
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+397
+avg error per element= 0.769328124295845
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+avg error per element= 0.771304408880825
+key is 11 and value is 100
+Count = 1 100
+error prob = 1
+399
+avg error per element= 0.773280693465805
+key is 11 and value is 100
+Count = 1 100
+error prob = 1
+400
+avg error per element= 0.775256978050785
+key is 11 and value is 100
+Count = 1 100
+error prob = 1
+401
+avg error per element= 0.777233262635766
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.779209547220746
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.781185831805726
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+404
+avg error per element= 0.783162116390706
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+avg error per element= 0.785138400975687
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+avg error per element= 0.787114685560667
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+407
+avg error per element= 0.789090970145647
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 4 400
+error prob = 1
+408
+avg error per element= 0.791067254730627
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.793043539315607
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.795019823900588
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.796996108485568
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+412
+avg error per element= 0.798972393070548
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+avg error per element= 0.800948677655528
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+414
+avg error per element= 0.802924962240509
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.804901246825489
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 4 400
+error prob = 1
+416
+avg error per element= 0.806877531410469
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 12 and value is 100
+Count = 5 500
+error prob = 1
+417
+avg error per element= 0.808853815995449
+key is 8 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 12 and value is 100
+Count = 4 400
+error prob = 1
+418
+avg error per element= 0.810830100580429
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.81280638516541
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+420
+avg error per element= 0.81478266975039
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+avg error per element= 0.81675895433537
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+422
+avg error per element= 0.81873523892035
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 4 400
+error prob = 1
+423
+avg error per element= 0.820711523505331
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.822687808090311
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 12 and value is 100
+Count = 5 500
+error prob = 1
+425
+avg error per element= 0.824664092675291
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.826640377260271
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.828616661845252
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+428
+avg error per element= 0.830592946430232
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+avg error per element= 0.832569231015212
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+avg error per element= 0.834545515600192
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 4 400
+error prob = 1
+431
+avg error per element= 0.836521800185172
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.838498084770153
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.840474369355133
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.842450653940113
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.844426938525093
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+436
+avg error per element= 0.846403223110074
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+avg error per element= 0.848379507695054
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+438
+avg error per element= 0.850355792280034
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 4 400
+error prob = 1
+439
+avg error per element= 0.852332076865014
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.854308361449994
+key is 8 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 12 and value is 100
+Count = 4 400
+error prob = 1
+441
+avg error per element= 0.856284646034975
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 12 and value is 100
+Count = 5 500
+error prob = 1
+442
+avg error per element= 0.858260930619955
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 5 500
+error prob = 1
+443
+avg error per element= 0.860237215204935
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+444
+avg error per element= 0.862213499789915
+key is 11 and value is 100
+Count = 1 100
+error prob = 1
+445
+avg error per element= 0.864189784374896
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 3 300
+error prob = 1
+446
+avg error per element= 0.866166068959876
+key is 8 and value is 100
+key is 11 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 4 400
+error prob = 1
+447
+avg error per element= 0.868142353544856
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.870118638129836
+key is 8 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 12 and value is 100
+Count = 4 400
+error prob = 1
+449
+avg error per element= 0.872094922714816
+key is 8 and value is 100
+key is 11 and value is 100
+key is 13 and value is 100
+key is 9 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.874071207299797
+key is 11 and value is 100
+Count = 1 100
+error prob = 1
+451
+avg error per element= 0.876047491884777
+key is 11 and value is 100
+Count = 1 100
+error prob = 1
+452
+avg error per element= 0.878023776469757
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+453
+avg error per element= 0.880000061054737
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+454
+avg error per element= 0.881976345639718
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+455
+avg error per element= 0.883952630224698
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+457
+avg error per element= 0.8859328282445
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+458
+avg error per element= 0.887913026264302
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+459
+avg error per element= 0.889893224284104
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+460
+avg error per element= 0.891873422303906
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+461
+avg error per element= 0.893853620323708
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+462
+avg error per element= 0.89583381834351
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+463
+avg error per element= 0.897814016363312
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+464
+avg error per element= 0.899794214383114
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+465
+avg error per element= 0.901774412402916
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+466
+avg error per element= 0.903754610422718
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+467
+avg error per element= 0.90573480844252
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+468
+avg error per element= 0.907715006462322
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+469
+avg error per element= 0.909695204482124
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+470
+avg error per element= 0.911675402501926
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+471
+avg error per element= 0.913655600521728
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+472
+avg error per element= 0.91563579854153
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+473
+avg error per element= 0.917615996561332
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+474
+avg error per element= 0.919596194581134
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+475
+avg error per element= 0.921576392600935
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+476
+avg error per element= 0.923556590620737
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+477
+avg error per element= 0.925536788640539
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+478
+avg error per element= 0.927516986660341
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+479
+avg error per element= 0.929497184680143
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+480
+avg error per element= 0.931477382699945
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+481
+avg error per element= 0.933457580719747
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+482
+avg error per element= 0.935437778739549
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+483
+avg error per element= 0.937417976759351
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+484
+avg error per element= 0.939398174779153
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+485
+avg error per element= 0.941378372798955
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+486
+avg error per element= 0.943358570818757
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+487
+avg error per element= 0.945338768838559
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+488
+avg error per element= 0.947318966858361
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+489
+avg error per element= 0.949299164878163
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+490
+avg error per element= 0.951279362897965
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+491
+avg error per element= 0.953259560917767
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+492
+avg error per element= 0.955239758937569
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+493
+avg error per element= 0.957219956957371
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+494
+avg error per element= 0.959200154977173
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+495
+avg error per element= 0.961180352996975
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+496
+avg error per element= 0.963160551016777
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+497
+avg error per element= 0.965140749036579
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+498
+avg error per element= 0.967120947056381
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+499
+avg error per element= 0.969101145076183
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+501
+avg error per element= 0.97108527206031
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+502
+avg error per element= 0.973069399044437
+key is 8 and value is 100
+key is 9 and value is 100
+Count = 2 200
+error prob = 1
+503
+avg error per element= 0.975053526028564
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+504
+avg error per element= 0.977037653012691
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+505
+avg error per element= 0.979021779996818
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+506
+avg error per element= 0.981005906980945
+key is 8 and value is 100
+Count = 1 100
+error prob = 1
+507
+avg error per element= 0.982990033965072
+Average error is = 0.0201771653543307
+Average error per element = 0.0170099660349281

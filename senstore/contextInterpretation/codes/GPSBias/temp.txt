@@ -1,0 +1,134 @@
+899
+[Check]Random number is 0 and limit is 99
+[Check]Random number is 40 and limit is 99
+Before 99After 98[Check]Random number is 84 and limit is 98
+Before 98After 97[Check]Random number is 11 and limit is 97
+Before 97After 96[Check]Random number is 26 and limit is 96
+Before 96After 95Cluster mean before pushing is 0.986616627007489 and size is 9596
+[Check]Random number is 0 and limit is 96
+[Check]Random number is 67 and limit is 96
+Before 96After 95[Check]Random number is 40 and limit is 95
+Before 95After 94[Check]Random number is 32 and limit is 94
+Before 94After 93[Check]Random number is 5 and limit is 93
+Before 93After 92Cluster mean before pushing is 0.970278356387269 and size is 9293
+[Check]Random number is 0 and limit is 93
+[Check]Random number is 33 and limit is 93
+Before 93After 92[Check]Random number is 57 and limit is 92
+Before 92After 91[Check]Random number is 59 and limit is 91
+Before 91After 90[Check]Random number is 41 and limit is 90
+Before 90After 89Cluster mean before pushing is 0.962333364935347 and size is 8990
+[Check]Random number is 0 and limit is 90
+[Check]Random number is 7 and limit is 90
+Before 90After 89[Check]Random number is 32 and limit is 89
+Before 89After 88[Check]Random number is 19 and limit is 88
+Before 88After 87[Check]Random number is 76 and limit is 87
+Before 87After 86Cluster mean before pushing is 0.980648506038879 and size is 8687
+[Check]Random number is 0 and limit is 87
+[Check]Random number is 46 and limit is 87
+Before 87After 86[Check]Random number is 50 and limit is 86
+Before 86After 85[Check]Random number is 84 and limit is 85
+Before 85After 84[Check]Random number is 57 and limit is 84
+Before 84After 83Cluster mean before pushing is 0.979732680565902 and size is 8384
+[Check]Random number is 0 and limit is 84
+[Check]Random number is 65 and limit is 84
+Before 84After 83[Check]Random number is 0 and limit is 83
+[Check]Random number is 1 and limit is 83
+Before 83After 82[Check]Random number is 25 and limit is 82
+Before 82After 81Cluster mean before pushing is 0.728106956696835 and size is 8182
+[Check]Random number is 0 and limit is 82
+[Check]Random number is 21 and limit is 82
+Before 82After 81[Check]Random number is 46 and limit is 81
+Before 81After 80[Check]Random number is 53 and limit is 80
+Before 80After 79[Check]Random number is 50 and limit is 79
+Before 79After 78Cluster mean before pushing is 0.989813152121905 and size is 7879
+[Check]Random number is 0 and limit is 79
+[Check]Random number is 10 and limit is 79
+Before 79After 78[Check]Random number is 49 and limit is 78
+Before 78After 77[Check]Random number is 37 and limit is 77
+Before 77After 76[Check]Random number is 60 and limit is 76
+Before 76After 75Cluster mean before pushing is 1.00207268989551 and size is 7576
+[Check]Random number is 0 and limit is 76
+[Check]Random number is 25 and limit is 76
+Before 76After 75[Check]Random number is 28 and limit is 75
+Before 75After 74[Check]Random number is 5 and limit is 74
+Before 74After 73[Check]Random number is 45 and limit is 73
+Before 73After 72Cluster mean before pushing is 1.00295888782843 and size is 7273
+[Check]Random number is 0 and limit is 73
+Before 73After 72[Check]Random number is 5 and limit is 72
+Before 72After 71[Check]Random number is 34 and limit is 71
+Before 71After 70[Check]Random number is 30 and limit is 70
+Before 70After 69[Check]Random number is 26 and limit is 69
+Before 69After 68Cluster mean before pushing is 0.989791897405912 and size is 6869
+[Check]Random number is 0 and limit is 69
+Before 69After 68[Check]Random number is 7 and limit is 68
+Before 68After 67[Check]Random number is 5 and limit is 67
+[Check]Random number is 63 and limit is 67
+Before 67After 66[Check]Random number is 11 and limit is 66
+Before 66After 65Cluster mean before pushing is 1.21117695490145 and size is 65Key is 1.06791989606853
+Key is 0.990931958624571
+Key is 1.02986622092754
+Key is 0.928923297161534
+Key is 0.901836637260917
+Key is 0.883969176696155
+Key is 0.973440534116442
+Key is 1.01370722621038
+Key is 1.09163773982118
+Key is 0.950451054552366
+Key is 0.999357621552959
+Key is 0.957821679531621
+Key is 0.881606061436402
+Key is 1.03590111411914
+Key is 1.02119733941131
+Key is 0.952693632871194
+Key is 1.01404116772413
+Key is 0.922552597572275
+Key is 1.0165811550388
+Key is 0.926437409870296
+Key is 1.00789595303255
+Key is 1.03913854222602
+Key is 0.973459636363935
+Key is 1.03700016915511
+Key is 0.979565619438144
+Key is 1.00465385339979
+Key is 0.98065362445922
+Key is 1.01154013079795
+Key is 0.945990107871282
+Key is 1.05558418179185
+Key is 0.935929878388361
+Key is 1.03375575662768
+Key is 1.03186874588365
+Key is 0.914413809247674
+Key is 0.983775337691133
+Key is 1.03804972621939
+Key is 1.008818952029
+Key is 1.00194248513219
+Key is 1.09565540045379
+Key is 0.993615638658907
+Key is 0.987115428570286
+Key is 0.955042809633002
+Key is 0.904625359853716
+Key is 0.991914246582848
+Key is 0.964159147541383
+Key is 0.945752141145954
+Key is 0.994144513024361
+Key is 1.04662503730338
+Key is 1.02224124510953
+Key is 0.956187857612034
+Key is 0.996593669723237
+Key is 1.00348856150897
+Key is 1.05505149320509
+Key is 1.01349061285503
+Key is 0.977569565514929
+Key is 0.966157147160149
+Key is 1.00903558585124
+Key is 0.988460660870336
+Key is 0.986616627007489
+Key is 0.970278356387269
+Key is 0.980648506038879
+Key is 0.979732680565902
+Key is 0.989813152121905
+Key is 1.00207268989551
+Key is 1.00295888782843
+Key is 0.989791897405912
+Key is 1.21117695490145
+Size of final array  is 66

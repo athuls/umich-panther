@@ -1,0 +1,2715 @@
+I am in position context
+position  0
+I am in static of ComputeBoundingBox and doing IO
+I am above deck
+Element found is 17
+Element found is 19
+Element found is 23
+Element found is 12
+I am in position context
+position  1
+I am above deck
+Element found is 17
+Element found is 19
+Element found is 21
+I am in position context
+position  2
+I am above deck
+Element found is 17
+Element found is 21
+Element found is 3
+Element found is 23
+Element found is 15
+Element found is 9
+I am in position context
+position  3
+I am above deck
+Element found is 17
+Element found is 21
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 14
+Element found is 15
+Element found is 6
+Element found is 8
+Element found is 9
+I am in position context
+position  4
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 11
+Element found is 12
+Element found is 14
+Element found is 5
+Element found is 6
+Element found is 8
+I am in position context
+position  5
+I am above deck
+Element found is 12
+I am in position context
+position  6
+I am above deck
+Element found is 17
+Element found is 19
+Element found is 3
+Element found is 23
+Element found is 12
+Element found is 6
+I am in position context
+position  7
+I am above deck
+Element found is 17
+Element found is 19
+Element found is 21
+Element found is 3
+Element found is 23
+Element found is 6
+I am in position context
+position  8
+I am above deck
+Element found is 17
+Element found is 21
+Element found is 3
+Element found is 23
+Element found is 15
+Element found is 9
+I am in position context
+position  9
+I am above deck
+Element found is 17
+Element found is 21
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 14
+Element found is 15
+Element found is 6
+Element found is 8
+Element found is 9
+I am in position context
+position  10
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 11
+Element found is 12
+Element found is 14
+Element found is 5
+Element found is 6
+Element found is 8
+I am in position context
+position  11
+I am above deck
+Element found is 12
+I am in position context
+position  12
+I am above deck
+Element found is 17
+Element found is 19
+Element found is 3
+Element found is 23
+Element found is 12
+Element found is 6
+I am in position context
+position  13
+I am above deck
+Element found is 17
+Element found is 21
+Element found is 3
+Element found is 23
+Element found is 6
+I am in position context
+position  14
+I am above deck
+Element found is 17
+Element found is 21
+Element found is 3
+Element found is 23
+Element found is 15
+Element found is 9
+I am in position context
+position  15
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 14
+Element found is 15
+Element found is 6
+Element found is 8
+Element found is 9
+I am in position context
+position  16
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 11
+Element found is 12
+Element found is 14
+Element found is 5
+Element found is 6
+Element found is 8
+I am in position context
+position  17
+I am above deck
+Element found is 12
+I am in position context
+position  18
+I am above deck
+Element found is 17
+Element found is 19
+Element found is 3
+Element found is 23
+Element found is 12
+Element found is 6
+I am in position context
+position  19
+I am above deck
+Element found is 17
+Element found is 21
+Element found is 3
+Element found is 23
+Element found is 6
+I am in position context
+position  20
+I am above deck
+Element found is 17
+Element found is 21
+Element found is 3
+Element found is 23
+Element found is 15
+Element found is 9
+I am in position context
+position  21
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 14
+Element found is 15
+Element found is 6
+Element found is 8
+Element found is 9
+I am in position context
+position  22
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 11
+Element found is 12
+Element found is 14
+Element found is 5
+Element found is 6
+Element found is 8
+I am in position context
+position  23
+I am above deck
+Element found is 12
+I am in position context
+position  24
+I am above deck
+Element found is 17
+Element found is 19
+Element found is 3
+Element found is 23
+Element found is 12
+Element found is 6
+I am in position context
+position  25
+I am above deck
+Element found is 17
+Element found is 21
+Element found is 3
+Element found is 23
+Element found is 6
+Element found is 9
+I am in position context
+position  26
+I am above deck
+Element found is 17
+Element found is 21
+Element found is 3
+Element found is 23
+Element found is 15
+Element found is 9
+I am in position context
+position  27
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 14
+Element found is 15
+Element found is 5
+Element found is 8
+Element found is 9
+I am in position context
+position  28
+I am above deck
+Element found is 2
+Element found is 11
+Element found is 14
+Element found is 5
+Element found is 8
+I am in position context
+position  29
+I am above deck
+Element found is 22
+Element found is 12
+I am in position context
+position  30
+I am above deck
+Element found is 17
+Element found is 19
+Element found is 21
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 11
+Element found is 12
+Element found is 6
+I am in position context
+position  31
+I am above deck
+Element found is 17
+Element found is 21
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 15
+Element found is 6
+Element found is 9
+I am in position context
+position  32
+I am above deck
+Element found is 21
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 14
+Element found is 15
+Element found is 8
+Element found is 9
+I am in position context
+position  33
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 14
+Element found is 15
+Element found is 5
+Element found is 8
+Element found is 9
+I am in position context
+position  34
+I am above deck
+Element found is 2
+Element found is 11
+Element found is 14
+Element found is 5
+Element found is 8
+I am in position context
+position  35
+I am above deck
+Element found is 11
+I am in position context
+position  36
+I am above deck
+Element found is 17
+Element found is 19
+Element found is 21
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 11
+Element found is 12
+Element found is 5
+Element found is 6
+I am in position context
+position  37
+I am above deck
+Element found is 17
+Element found is 21
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 15
+Element found is 9
+I am in position context
+position  38
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 14
+Element found is 15
+Element found is 8
+Element found is 9
+I am in position context
+position  39
+I am above deck
+Element found is 2
+Element found is 22
+Element found is 14
+Element found is 15
+Element found is 8
+I am in position context
+position  40
+I am above deck
+Element found is 2
+Element found is 11
+Element found is 14
+Element found is 5
+Element found is 8
+I am in position context
+position  41
+I am above deck
+Element found is 11
+I am in position context
+position  42
+I am above deck
+Element found is 17
+Element found is 19
+Element found is 21
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 11
+Element found is 12
+Element found is 5
+Element found is 6
+I am in position context
+position  43
+I am above deck
+Element found is 17
+Element found is 21
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 15
+Element found is 5
+Element found is 9
+I am in position context
+position  44
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 14
+Element found is 15
+Element found is 8
+Element found is 9
+I am in position context
+position  45
+I am above deck
+Element found is 2
+Element found is 14
+Element found is 5
+Element found is 8
+I am in position context
+position  46
+I am above deck
+Element found is 2
+Element found is 24
+Element found is 10
+Element found is 11
+Element found is 14
+Element found is 5
+Element found is 8
+I am in position context
+position  47
+I am above deck
+Element found is 11
+I am in position context
+position  48
+I am above deck
+Element found is 17
+Element found is 19
+Element found is 21
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 11
+Element found is 12
+Element found is 5
+Element found is 6
+I am in position context
+position  49
+I am above deck
+Element found is 17
+Element found is 21
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 15
+Element found is 9
+I am in position context
+position  50
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 14
+Element found is 15
+Element found is 8
+Element found is 9
+I am in position context
+position  51
+I am above deck
+Element found is 2
+Element found is 24
+Element found is 14
+Element found is 8
+I am in position context
+position  52
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 10
+Element found is 11
+Element found is 14
+Element found is 4
+Element found is 5
+Element found is 8
+I am in position context
+position  53
+I am above deck
+Element found is 11
+I am in position context
+position  54
+I am above deck
+Element found is 17
+Element found is 19
+Element found is 21
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 11
+Element found is 12
+Element found is 5
+Element found is 6
+I am in position context
+position  55
+I am above deck
+Element found is 17
+Element found is 21
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 14
+Element found is 15
+Element found is 8
+Element found is 9
+I am in position context
+position  56
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 14
+Element found is 15
+Element found is 8
+Element found is 9
+I am in position context
+position  57
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 14
+Element found is 8
+I am in position context
+position  58
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 10
+Element found is 11
+Element found is 14
+Element found is 4
+Element found is 5
+Element found is 8
+I am in position context
+position  59
+I am above deck
+Element found is 11
+I am in position context
+position  60
+I am above deck
+Element found is 17
+Element found is 21
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 11
+Element found is 12
+Element found is 5
+Element found is 6
+I am in position context
+position  61
+I am above deck
+Element found is 17
+Element found is 21
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 14
+Element found is 15
+Element found is 8
+Element found is 9
+I am in position context
+position  62
+I am above deck
+Element found is 2
+Element found is 22
+Element found is 14
+Element found is 15
+Element found is 8
+I am in position context
+position  63
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 14
+Element found is 8
+I am in position context
+position  64
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 10
+Element found is 11
+Element found is 14
+Element found is 4
+Element found is 5
+Element found is 7
+Element found is 8
+I am in position context
+position  65
+I am above deck
+Element found is 11
+I am in position context
+position  66
+I am above deck
+Element found is 17
+Element found is 21
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 11
+Element found is 12
+Element found is 5
+Element found is 6
+Element found is 9
+I am in position context
+position  67
+I am above deck
+Element found is 17
+Element found is 21
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 14
+Element found is 15
+Element found is 8
+Element found is 9
+I am in position context
+position  68
+I am above deck
+Element found is 2
+Element found is 14
+Element found is 8
+I am in position context
+position  69
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 14
+Element found is 7
+Element found is 8
+I am in position context
+position  70
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 10
+Element found is 11
+Element found is 13
+Element found is 14
+Element found is 4
+Element found is 5
+Element found is 7
+Element found is 8
+I am in position context
+position  71
+I am above deck
+Element found is 11
+I am in position context
+position  72
+I am above deck
+Element found is 17
+Element found is 21
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 11
+Element found is 12
+Element found is 15
+Element found is 5
+Element found is 6
+Element found is 9
+I am in position context
+position  73
+I am above deck
+Element found is 17
+Element found is 21
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 14
+Element found is 15
+Element found is 8
+Element found is 9
+I am in position context
+position  74
+I am above deck
+Element found is 2
+Element found is 14
+Element found is 8
+I am in position context
+position  75
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 13
+Element found is 14
+Element found is 7
+Element found is 8
+I am in position context
+position  76
+I am above deck
+Element found is 18
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 25
+Element found is 10
+Element found is 11
+Element found is 13
+Element found is 4
+Element found is 5
+Element found is 7
+Element found is 8
+I am in position context
+position  77
+I am above deck
+Element found is 11
+I am in position context
+position  78
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 11
+Element found is 12
+Element found is 15
+Element found is 5
+Element found is 6
+Element found is 9
+I am in position context
+position  79
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 14
+Element found is 15
+Element found is 8
+Element found is 9
+I am in position context
+position  80
+I am above deck
+Element found is 2
+Element found is 14
+Element found is 8
+I am in position context
+position  81
+I am above deck
+Element found is 16
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 25
+Element found is 13
+Element found is 14
+Element found is 7
+Element found is 8
+I am in position context
+position  82
+I am above deck
+Element found is 16
+Element found is 18
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 25
+Element found is 10
+Element found is 11
+Element found is 13
+Element found is 4
+Element found is 5
+Element found is 7
+I am in position context
+position  83
+I am above deck
+Element found is 11
+I am in position context
+position  84
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 11
+Element found is 12
+Element found is 15
+Element found is 5
+Element found is 6
+Element found is 9
+I am in position context
+position  85
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 14
+Element found is 15
+Element found is 8
+Element found is 9
+I am in position context
+position  86
+I am above deck
+Element found is 2
+Element found is 14
+Element found is 8
+I am in position context
+position  87
+I am above deck
+Element found is 16
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 25
+Element found is 13
+Element found is 14
+Element found is 7
+Element found is 8
+I am in position context
+position  88
+I am above deck
+Element found is 16
+Element found is 18
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 25
+Element found is 10
+Element found is 11
+Element found is 13
+Element found is 4
+Element found is 5
+Element found is 7
+I am in position context
+position  89
+I am above deck
+Element found is 11
+I am in position context
+position  90
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 11
+Element found is 15
+Element found is 5
+Element found is 8
+Element found is 9
+I am in position context
+position  91
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 14
+Element found is 15
+Element found is 8
+Element found is 9
+I am in position context
+position  92
+I am above deck
+Element found is 2
+Element found is 14
+Element found is 8
+I am in position context
+position  93
+I am above deck
+Element found is 16
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 25
+Element found is 13
+Element found is 14
+Element found is 7
+Element found is 8
+I am in position context
+position  94
+I am above deck
+Element found is 16
+Element found is 18
+Element found is 20
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 25
+Element found is 10
+Element found is 11
+Element found is 13
+Element found is 4
+Element found is 5
+Element found is 7
+I am in position context
+position  95
+I am above deck
+Element found is 11
+I am in position context
+position  96
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 11
+Element found is 15
+Element found is 5
+Element found is 8
+Element found is 9
+I am in position context
+position  97
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 14
+Element found is 15
+Element found is 8
+Element found is 9
+I am in position context
+position  98
+I am above deck
+Element found is 2
+Element found is 14
+Element found is 8
+I am in position context
+position  99
+I am above deck
+Element found is 16
+Element found is 20
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 25
+Element found is 13
+Element found is 14
+Element found is 7
+Element found is 8
+I am in position context
+position  100
+I am above deck
+Element found is 16
+Element found is 18
+Element found is 20
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 25
+Element found is 10
+Element found is 11
+Element found is 13
+Element found is 4
+Element found is 5
+Element found is 7
+I am in position context
+position  101
+I am above deck
+Element found is 11
+I am in position context
+position  102
+I am above deck
+Element found is 2
+Element found is 22
+Element found is 11
+Element found is 14
+Element found is 15
+Element found is 5
+Element found is 8
+Element found is 9
+I am in position context
+position  103
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 14
+Element found is 8
+I am in position context
+position  104
+I am above deck
+Element found is 2
+Element found is 14
+Element found is 8
+I am in position context
+position  105
+I am above deck
+Element found is 16
+Element found is 20
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 25
+Element found is 13
+Element found is 14
+Element found is 7
+Element found is 8
+I am in position context
+position  106
+I am above deck
+Element found is 16
+Element found is 18
+Element found is 20
+Element found is 1
+Element found is 25
+Element found is 10
+Element found is 4
+Element found is 7
+I am in position context
+position  107
+I am above deck
+Element found is 24
+Element found is 10
+Element found is 11
+I am in position context
+position  108
+I am above deck
+Element found is 2
+Element found is 24
+Element found is 10
+Element found is 11
+Element found is 14
+Element found is 4
+Element found is 5
+Element found is 8
+I am in position context
+position  109
+I am above deck
+Element found is 2
+Element found is 24
+Element found is 14
+Element found is 8
+I am in position context
+position  110
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 13
+Element found is 14
+Element found is 7
+Element found is 8
+I am in position context
+position  111
+I am above deck
+Element found is 16
+Element found is 20
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 25
+Element found is 13
+Element found is 14
+Element found is 7
+Element found is 8
+I am in position context
+position  112
+I am above deck
+Element found is 16
+Element found is 18
+Element found is 20
+Element found is 1
+Element found is 25
+Element found is 10
+Element found is 4
+I am in position context
+position  113
+I am above deck
+Element found is 10
+I am in position context
+position  114
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 10
+Element found is 11
+Element found is 14
+Element found is 4
+Element found is 5
+Element found is 8
+I am in position context
+position  115
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 14
+Element found is 8
+I am in position context
+position  116
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 13
+Element found is 14
+Element found is 7
+Element found is 8
+I am in position context
+position  117
+I am above deck
+Element found is 16
+Element found is 20
+Element found is 1
+Element found is 24
+Element found is 25
+Element found is 13
+Element found is 7
+I am in position context
+position  118
+I am above deck
+Element found is 16
+Element found is 18
+Element found is 20
+Element found is 1
+Element found is 25
+Element found is 10
+Element found is 4
+I am in position context
+position  119
+I am above deck
+Element found is 10
+I am in position context
+position  120
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 10
+Element found is 11
+Element found is 14
+Element found is 4
+Element found is 5
+Element found is 8
+I am in position context
+position  121
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 14
+Element found is 8
+I am in position context
+position  122
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 13
+Element found is 14
+Element found is 7
+Element found is 8
+I am in position context
+position  123
+I am above deck
+Element found is 16
+Element found is 20
+Element found is 1
+Element found is 25
+Element found is 13
+Element found is 7
+I am in position context
+position  124
+I am above deck
+Element found is 16
+Element found is 18
+Element found is 20
+Element found is 1
+Element found is 25
+Element found is 10
+Element found is 4
+I am in position context
+position  125
+I am above deck
+Element found is 10
+I am in position context
+position  126
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 10
+Element found is 11
+Element found is 14
+Element found is 4
+Element found is 5
+Element found is 8
+I am in position context
+position  127
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 14
+Element found is 8
+I am in position context
+position  128
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 13
+Element found is 14
+Element found is 7
+Element found is 8
+I am in position context
+position  129
+I am above deck
+Element found is 16
+Element found is 20
+Element found is 1
+Element found is 25
+Element found is 13
+Element found is 7
+I am in position context
+position  130
+I am above deck
+Element found is 16
+Element found is 18
+Element found is 20
+Element found is 1
+Element found is 25
+Element found is 10
+Element found is 4
+I am in position context
+position  131
+I am above deck
+Element found is 10
+Element found is 4
+I am in position context
+position  132
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 10
+Element found is 11
+Element found is 14
+Element found is 4
+Element found is 5
+Element found is 8
+I am in position context
+position  133
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 13
+Element found is 14
+Element found is 7
+Element found is 8
+I am in position context
+position  134
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 13
+Element found is 14
+Element found is 7
+Element found is 8
+I am in position context
+position  135
+I am above deck
+Element found is 16
+Element found is 20
+Element found is 1
+Element found is 25
+Element found is 13
+Element found is 7
+I am in position context
+position  136
+I am above deck
+Element found is 16
+Element found is 18
+Element found is 20
+I am in position context
+position  137
+I am above deck
+Element found is 18
+Element found is 25
+Element found is 10
+Element found is 4
+I am in position context
+position  138
+I am above deck
+Element found is 18
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 25
+Element found is 10
+Element found is 11
+Element found is 14
+Element found is 4
+Element found is 5
+Element found is 8
+I am in position context
+position  139
+I am above deck
+Element found is 16
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 25
+Element found is 13
+Element found is 14
+Element found is 7
+Element found is 8
+I am in position context
+position  140
+I am above deck
+Element found is 16
+Element found is 20
+Element found is 1
+Element found is 24
+Element found is 25
+Element found is 13
+Element found is 14
+Element found is 7
+I am in position context
+position  141
+I am above deck
+Element found is 16
+Element found is 20
+Element found is 1
+Element found is 25
+Element found is 13
+Element found is 7
+I am in position context
+position  142
+I am above deck
+Element found is 16
+Element found is 18
+I am in position context
+position  143
+I am above deck
+Element found is 18
+I am in position context
+position  144
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 11
+Element found is 13
+Element found is 14
+Element found is 5
+Element found is 7
+Element found is 8
+I am in position context
+position  145
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 10
+Element found is 11
+Element found is 4
+Element found is 5
+I am in position context
+position  146
+I am above deck
+Element found is 16
+Element found is 18
+Element found is 1
+Element found is 25
+Element found is 10
+Element found is 4
+I am in position context
+position  147
+I am above deck
+Element found is 16
+Element found is 18
+Element found is 1
+Element found is 25
+I am in position context
+position  148
+I am above deck
+Element found is 16
+Element found is 20
+Element found is 1
+Element found is 25
+Element found is 13
+Element found is 7
+I am in position context
+position  149
+I am above deck
+Element found is 13
+Element found is 7
+I am in position context
+position  150
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 11
+Element found is 13
+Element found is 14
+Element found is 5
+Element found is 7
+Element found is 8
+I am in position context
+position  151
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 10
+Element found is 11
+Element found is 4
+Element found is 5
+I am in position context
+position  152
+I am above deck
+Element found is 16
+Element found is 18
+Element found is 1
+Element found is 25
+Element found is 10
+Element found is 4
+I am in position context
+position  153
+I am above deck
+Element found is 16
+Element found is 18
+Element found is 1
+Element found is 25
+I am in position context
+position  154
+I am above deck
+Element found is 16
+Element found is 20
+Element found is 1
+Element found is 25
+Element found is 13
+Element found is 7
+I am in position context
+position  155
+I am above deck
+Element found is 13
+Element found is 7
+I am in position context
+position  156
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 11
+Element found is 14
+Element found is 5
+Element found is 7
+Element found is 8
+I am in position context
+position  157
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 10
+Element found is 11
+Element found is 4
+Element found is 5
+I am in position context
+position  158
+I am above deck
+Element found is 16
+Element found is 18
+Element found is 1
+Element found is 25
+Element found is 10
+Element found is 4
+I am in position context
+position  159
+I am above deck
+Element found is 16
+Element found is 18
+Element found is 1
+Element found is 25
+Element found is 4
+I am in position context
+position  160
+I am above deck
+Element found is 16
+Element found is 20
+Element found is 1
+Element found is 25
+Element found is 13
+Element found is 7
+I am in position context
+position  161
+I am above deck
+Element found is 13
+Element found is 7
+I am in position context
+position  162
+I am above deck
+Element found is 2
+Element found is 11
+Element found is 14
+Element found is 5
+Element found is 8
+I am in position context
+position  163
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 10
+Element found is 11
+Element found is 4
+Element found is 5
+I am in position context
+position  164
+I am above deck
+Element found is 18
+Element found is 1
+Element found is 24
+Element found is 25
+Element found is 10
+Element found is 4
+I am in position context
+position  165
+I am above deck
+Element found is 16
+Element found is 18
+Element found is 1
+Element found is 25
+Element found is 10
+Element found is 4
+I am in position context
+position  166
+I am above deck
+Element found is 16
+Element found is 18
+Element found is 20
+Element found is 1
+Element found is 25
+Element found is 13
+Element found is 7
+I am in position context
+position  167
+I am above deck
+Element found is 24
+Element found is 14
+Element found is 8
+I am in position context
+position  168
+I am above deck
+Element found is 2
+Element found is 11
+Element found is 14
+Element found is 5
+Element found is 8
+I am in position context
+position  169
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 10
+Element found is 11
+Element found is 4
+Element found is 5
+I am in position context
+position  170
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 25
+Element found is 10
+Element found is 11
+Element found is 4
+Element found is 5
+I am in position context
+position  171
+I am above deck
+Element found is 16
+Element found is 18
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 25
+Element found is 10
+Element found is 4
+I am in position context
+position  172
+I am above deck
+Element found is 16
+Element found is 18
+Element found is 20
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 25
+Element found is 13
+Element found is 14
+Element found is 7
+Element found is 8
+I am in position context
+position  173
+I am above deck
+Element found is 14
+Element found is 8
+I am in position context
+position  174
+I am above deck
+Element found is 2
+Element found is 11
+Element found is 14
+Element found is 5
+Element found is 8
+I am in position context
+position  175
+I am above deck
+Element found is 2
+Element found is 11
+Element found is 5
+I am in position context
+position  176
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 10
+Element found is 11
+Element found is 4
+Element found is 5
+I am in position context
+position  177
+I am above deck
+Element found is 16
+Element found is 18
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 25
+Element found is 10
+Element found is 4
+I am in position context
+position  178
+I am above deck
+Element found is 16
+Element found is 18
+Element found is 20
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 25
+Element found is 13
+Element found is 14
+Element found is 7
+Element found is 8
+I am in position context
+position  179
+I am above deck
+Element found is 14
+Element found is 8
+I am in position context
+position  180
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 11
+Element found is 14
+Element found is 15
+Element found is 5
+Element found is 8
+Element found is 9
+I am in position context
+position  181
+I am above deck
+Element found is 2
+Element found is 11
+Element found is 5
+I am in position context
+position  182
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 10
+Element found is 11
+Element found is 4
+Element found is 5
+I am in position context
+position  183
+I am above deck
+Element found is 16
+Element found is 18
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 25
+Element found is 10
+Element found is 4
+I am in position context
+position  184
+I am above deck
+Element found is 16
+Element found is 18
+Element found is 20
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 25
+Element found is 13
+Element found is 14
+Element found is 7
+Element found is 8
+I am in position context
+position  185
+I am above deck
+Element found is 14
+Element found is 8
+I am in position context
+position  186
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 11
+Element found is 14
+Element found is 15
+Element found is 5
+Element found is 8
+Element found is 9
+I am in position context
+position  187
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 11
+Element found is 5
+I am in position context
+position  188
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 10
+Element found is 11
+Element found is 4
+Element found is 5
+I am in position context
+position  189
+I am above deck
+Element found is 16
+Element found is 18
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 25
+Element found is 10
+Element found is 4
+Element found is 5
+I am in position context
+position  190
+I am above deck
+Element found is 16
+Element found is 18
+Element found is 20
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 25
+Element found is 13
+Element found is 14
+Element found is 7
+Element found is 8
+I am in position context
+position  191
+I am above deck
+Element found is 14
+Element found is 8
+I am in position context
+position  192
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 11
+Element found is 14
+Element found is 15
+Element found is 5
+Element found is 8
+Element found is 9
+I am in position context
+position  193
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 11
+Element found is 5
+I am in position context
+position  194
+I am above deck
+Element found is 2
+Element found is 24
+Element found is 10
+Element found is 11
+Element found is 4
+Element found is 5
+I am in position context
+position  195
+I am above deck
+Element found is 16
+Element found is 18
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 25
+Element found is 10
+Element found is 11
+Element found is 4
+Element found is 5
+I am in position context
+position  196
+I am above deck
+Element found is 16
+Element found is 18
+Element found is 20
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 25
+Element found is 13
+Element found is 14
+Element found is 7
+Element found is 8
+I am in position context
+position  197
+I am above deck
+Element found is 14
+Element found is 8
+I am in position context
+position  198
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 11
+Element found is 12
+Element found is 14
+Element found is 15
+Element found is 5
+Element found is 6
+Element found is 8
+Element found is 9
+I am in position context
+position  199
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 11
+Element found is 5
+Element found is 6
+I am in position context
+position  200
+I am above deck
+Element found is 2
+Element found is 11
+Element found is 5
+I am in position context
+position  201
+I am above deck
+Element found is 16
+Element found is 18
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 25
+Element found is 10
+Element found is 11
+Element found is 4
+Element found is 5
+I am in position context
+position  202
+I am above deck
+Element found is 16
+Element found is 18
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 25
+Element found is 13
+Element found is 14
+Element found is 4
+Element found is 7
+Element found is 8
+I am in position context
+position  203
+I am above deck
+Element found is 14
+Element found is 8
+I am in position context
+position  204
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 11
+Element found is 12
+Element found is 14
+Element found is 15
+Element found is 5
+Element found is 6
+Element found is 8
+Element found is 9
+I am in position context
+position  205
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 11
+Element found is 12
+Element found is 5
+Element found is 6
+I am in position context
+position  206
+I am above deck
+Element found is 2
+Element found is 11
+Element found is 5
+I am in position context
+position  207
+I am above deck
+Element found is 16
+Element found is 18
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 25
+Element found is 10
+Element found is 11
+Element found is 4
+Element found is 5
+I am in position context
+position  208
+I am above deck
+Element found is 16
+Element found is 18
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 25
+Element found is 10
+Element found is 13
+Element found is 14
+Element found is 4
+Element found is 7
+Element found is 8
+I am in position context
+position  209
+I am above deck
+Element found is 14
+Element found is 8
+I am in position context
+position  210
+I am above deck
+Element found is 17
+Element found is 21
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 12
+Element found is 14
+Element found is 15
+Element found is 6
+Element found is 8
+Element found is 9
+I am in position context
+position  211
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 11
+Element found is 12
+Element found is 5
+Element found is 6
+I am in position context
+position  212
+I am above deck
+Element found is 2
+Element found is 11
+Element found is 5
+I am in position context
+position  213
+I am above deck
+Element found is 16
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 25
+Element found is 10
+Element found is 11
+Element found is 4
+Element found is 5
+I am in position context
+position  214
+I am above deck
+Element found is 18
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 25
+Element found is 10
+Element found is 13
+Element found is 14
+Element found is 4
+Element found is 7
+Element found is 8
+I am in position context
+position  215
+I am above deck
+Element found is 14
+Element found is 8
+I am in position context
+position  216
+I am above deck
+Element found is 17
+Element found is 21
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 12
+Element found is 14
+Element found is 15
+Element found is 6
+Element found is 8
+Element found is 9
+I am in position context
+position  217
+I am above deck
+Element found is 17
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 11
+Element found is 12
+Element found is 5
+Element found is 6
+I am in position context
+position  218
+I am above deck
+Element found is 2
+Element found is 11
+Element found is 5
+I am in position context
+position  219
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 10
+Element found is 11
+Element found is 4
+Element found is 5
+I am in position context
+position  220
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 10
+Element found is 13
+Element found is 14
+Element found is 4
+Element found is 7
+Element found is 8
+I am in position context
+position  221
+I am above deck
+Element found is 14
+Element found is 8
+I am in position context
+position  222
+I am above deck
+Element found is 17
+Element found is 21
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 12
+Element found is 14
+Element found is 15
+Element found is 6
+Element found is 8
+Element found is 9
+I am in position context
+position  223
+I am above deck
+Element found is 17
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 11
+Element found is 12
+Element found is 5
+Element found is 6
+I am in position context
+position  224
+I am above deck
+Element found is 2
+Element found is 11
+Element found is 5
+I am in position context
+position  225
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 10
+Element found is 11
+Element found is 4
+Element found is 5
+I am in position context
+position  226
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 10
+Element found is 14
+Element found is 4
+Element found is 5
+Element found is 8
+I am in position context
+position  227
+I am above deck
+Element found is 14
+Element found is 8
+I am in position context
+position  228
+I am above deck
+Element found is 17
+Element found is 19
+Element found is 21
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 12
+Element found is 14
+Element found is 15
+Element found is 6
+Element found is 8
+Element found is 9
+I am in position context
+position  229
+I am above deck
+Element found is 17
+Element found is 19
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 11
+Element found is 12
+Element found is 5
+Element found is 6
+I am in position context
+position  230
+I am above deck
+Element found is 2
+Element found is 11
+Element found is 5
+I am in position context
+position  231
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 10
+Element found is 11
+Element found is 4
+Element found is 5
+I am in position context
+position  232
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 10
+Element found is 14
+Element found is 4
+Element found is 5
+Element found is 8
+I am in position context
+position  233
+I am above deck
+Element found is 14
+Element found is 8
+I am in position context
+position  234
+I am above deck
+Element found is 17
+Element found is 19
+Element found is 21
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 12
+Element found is 15
+Element found is 6
+Element found is 8
+Element found is 9
+I am in position context
+position  235
+I am above deck
+Element found is 17
+Element found is 19
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 11
+Element found is 12
+Element found is 5
+Element found is 6
+I am in position context
+position  236
+I am above deck
+Element found is 2
+Element found is 11
+Element found is 5
+I am in position context
+position  237
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 10
+Element found is 11
+Element found is 4
+Element found is 5
+I am in position context
+position  238
+I am above deck
+Element found is 1
+Element found is 2
+Element found is 24
+Element found is 10
+Element found is 11
+Element found is 14
+Element found is 4
+Element found is 5
+Element found is 8
+I am in position context
+position  239
+I am above deck
+Element found is 22
+Element found is 14
+Element found is 8
+I am in position context
+position  240
+I am above deck
+Element found is 17
+Element found is 19
+Element found is 21
+Element found is 3
+Element found is 23
+Element found is 15
+Element found is 9
+I am in position context
+position  241
+I am above deck
+Element found is 17
+Element found is 19
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 11
+Element found is 12
+Element found is 5
+Element found is 6
+I am in position context
+position  242
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 11
+Element found is 5
+I am in position context
+position  243
+I am above deck
+Element found is 2
+Element found is 24
+Element found is 11
+Element found is 5
+I am in position context
+position  244
+I am above deck
+Element found is 2
+Element found is 24
+Element found is 11
+Element found is 14
+Element found is 5
+Element found is 8
+I am in position context
+position  245
+I am above deck
+Element found is 15
+Element found is 9
+I am in position context
+position  246
+I am above deck
+Element found is 17
+Element found is 19
+Element found is 21
+Element found is 3
+Element found is 23
+Element found is 15
+Element found is 9
+I am in position context
+position  247
+I am above deck
+Element found is 17
+Element found is 19
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 11
+Element found is 12
+Element found is 5
+Element found is 6
+I am in position context
+position  248
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 11
+Element found is 12
+Element found is 5
+Element found is 6
+I am in position context
+position  249
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 11
+Element found is 5
+I am in position context
+position  250
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 11
+Element found is 14
+Element found is 15
+Element found is 5
+Element found is 8
+Element found is 9
+I am in position context
+position  251
+I am above deck
+Element found is 15
+Element found is 9
+I am in position context
+position  252
+I am above deck
+Element found is 17
+Element found is 19
+Element found is 21
+Element found is 3
+Element found is 23
+Element found is 15
+Element found is 9
+I am in position context
+position  253
+I am above deck
+Element found is 17
+Element found is 19
+Element found is 3
+Element found is 23
+Element found is 12
+Element found is 6
+I am in position context
+position  254
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 11
+Element found is 12
+Element found is 5
+Element found is 6
+I am in position context
+position  255
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 11
+Element found is 5
+I am in position context
+position  256
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 11
+Element found is 14
+Element found is 15
+Element found is 5
+Element found is 8
+Element found is 9
+I am in position context
+position  257
+I am above deck
+Element found is 15
+Element found is 9
+I am in position context
+position  258
+I am above deck
+Element found is 17
+Element found is 19
+Element found is 21
+Element found is 3
+Element found is 23
+Element found is 15
+Element found is 9
+I am in position context
+position  259
+I am above deck
+Element found is 17
+Element found is 19
+Element found is 3
+Element found is 23
+Element found is 12
+Element found is 6
+I am in position context
+position  260
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 11
+Element found is 12
+Element found is 5
+Element found is 6
+I am in position context
+position  261
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 11
+Element found is 5
+I am in position context
+position  262
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 11
+Element found is 14
+Element found is 15
+Element found is 5
+Element found is 8
+Element found is 9
+I am in position context
+position  263
+I am above deck
+Element found is 15
+Element found is 9
+I am in position context
+position  264
+I am above deck
+Element found is 17
+Element found is 19
+Element found is 21
+I am in position context
+position  265
+I am above deck
+Element found is 17
+Element found is 19
+Element found is 3
+Element found is 23
+Element found is 12
+Element found is 6
+I am in position context
+position  266
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 11
+Element found is 12
+Element found is 5
+Element found is 6
+I am in position context
+position  267
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 11
+Element found is 5
+Element found is 6
+I am in position context
+position  268
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 11
+Element found is 14
+Element found is 15
+Element found is 5
+Element found is 8
+Element found is 9
+I am in position context
+position  269
+I am above deck
+Element found is 21
+Element found is 23
+Element found is 15
+Element found is 9
+I am in position context
+position  270
+I am above deck
+Element found is 17
+Element found is 19
+Element found is 21
+I am in position context
+position  271
+I am above deck
+Element found is 17
+Element found is 19
+Element found is 3
+Element found is 23
+Element found is 12
+Element found is 6
+I am in position context
+position  272
+I am above deck
+Element found is 17
+Element found is 19
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 11
+Element found is 12
+Element found is 5
+Element found is 6
+I am in position context
+position  273
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 11
+Element found is 12
+Element found is 5
+Element found is 6
+I am in position context
+position  274
+I am above deck
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 11
+Element found is 14
+Element found is 15
+Element found is 5
+Element found is 8
+Element found is 9
+I am in position context
+position  275
+I am above deck
+Element found is 21
+I am in position context
+position  276
+I am above deck
+Element found is 17
+Element found is 21
+I am in position context
+position  277
+I am above deck
+Element found is 17
+Element found is 19
+Element found is 23
+Element found is 12
+Element found is 6
+I am in position context
+position  278
+I am above deck
+Element found is 17
+Element found is 19
+Element found is 3
+Element found is 23
+Element found is 12
+Element found is 6
+I am in position context
+position  279
+I am above deck
+Element found is 17
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 11
+Element found is 12
+Element found is 5
+Element found is 6
+I am in position context
+position  280
+I am above deck
+Element found is 17
+Element found is 21
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 11
+Element found is 14
+Element found is 15
+Element found is 5
+Element found is 8
+Element found is 9
+I am in position context
+position  281
+I am above deck
+Element found is 21
+I am in position context
+position  282
+I am above deck
+Element found is 17
+Element found is 21
+I am in position context
+position  283
+I am above deck
+Element found is 17
+Element found is 19
+I am in position context
+position  284
+I am above deck
+Element found is 17
+Element found is 19
+Element found is 3
+Element found is 23
+Element found is 12
+Element found is 6
+I am in position context
+position  285
+I am above deck
+Element found is 17
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 11
+Element found is 12
+Element found is 5
+Element found is 6
+I am in position context
+position  286
+I am above deck
+Element found is 17
+Element found is 21
+Element found is 2
+Element found is 3
+Element found is 22
+Element found is 23
+Element found is 11
+Element found is 14
+Element found is 15
+Element found is 5
+Element found is 8
+Element found is 9
+I am in position context
+position  287
+I am above deck
+Element found is 21
+I am in thread launcher
+system time is 1347703909570

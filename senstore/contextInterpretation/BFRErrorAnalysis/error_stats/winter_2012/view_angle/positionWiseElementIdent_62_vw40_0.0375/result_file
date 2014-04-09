@@ -1,0 +1,5017 @@
+key is 19 and value is 100
+key is 17 and value is 100
+Count = 2 200
+error prob = 1
+0
+avg error per element= 0.00196850393700787
+key is 21 and value is 100
+key is 17 and value is 100
+Count = 2 200
+error prob = 1
+1
+avg error per element= 0.00393700787401575
+key is 21 and value is 100
+key is 3 and value is 100
+key is 23 and value is 100
+key is 17 and value is 100
+Count = 4 400
+error prob = 1
+2
+avg error per element= 0.00590551181102362
+key is 21 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 17 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 22 and value is 100
+key is 8 and value is 100
+key is 23 and value is 100
+Count = 10 1000
+error prob = 1
+3
+avg error per element= 0.0078740157480315
+key is 6 and value is 100
+key is 11 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+key is 12 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 22 and value is 100
+key is 5 and value is 100
+Count = 9 900
+error prob = 1
+4
+avg error per element= 0.00984251968503937
+key is 6 and value is 100
+key is 12 and value is 100
+Count = 2 200
+error prob = 1
+5
+avg error per element= 0.0118110236220472
+key is 6 and value is 100
+key is 3 and value is 100
+key is 12 and value is 100
+key is 17 and value is 100
+key is 23 and value is 100
+key is 19 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.0137795275590551
+key is 21 and value is 100
+key is 3 and value is 100
+key is 17 and value is 100
+key is 23 and value is 100
+Count = 4 400
+error prob = 1
+7
+avg error per element= 0.015748031496063
+key is 21 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 17 and value is 100
+key is 15 and value is 100
+key is 23 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.0177165354330709
+key is 21 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 17 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 8 and value is 100
+key is 22 and value is 100
+key is 23 and value is 100
+Count = 10 1000
+error prob = 1
+9
+avg error per element= 0.0196850393700787
+key is 6 and value is 100
+key is 11 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+key is 12 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 22 and value is 100
+key is 5 and value is 100
+Count = 9 900
+error prob = 1
+10
+avg error per element= 0.0216535433070866
+key is 6 and value is 100
+key is 12 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.0236220472440945
+key is 6 and value is 100
+key is 3 and value is 100
+key is 12 and value is 100
+key is 17 and value is 100
+key is 23 and value is 100
+key is 19 and value is 100
+Count = 6 600
+error prob = 1
+12
+avg error per element= 0.0255905511811024
+key is 21 and value is 100
+key is 3 and value is 100
+key is 17 and value is 100
+key is 23 and value is 100
+Count = 4 400
+error prob = 1
+13
+avg error per element= 0.0275590551181102
+key is 21 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 17 and value is 100
+key is 15 and value is 100
+key is 23 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.0295275590551181
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 22 and value is 100
+key is 8 and value is 100
+Count = 7 700
+error prob = 1
+15
+avg error per element= 0.031496062992126
+key is 6 and value is 100
+key is 11 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+key is 12 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 22 and value is 100
+key is 5 and value is 100
+Count = 9 900
+error prob = 1
+16
+avg error per element= 0.0334645669291339
+key is 6 and value is 100
+key is 12 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.0354330708661417
+key is 6 and value is 100
+key is 3 and value is 100
+key is 12 and value is 100
+key is 17 and value is 100
+key is 23 and value is 100
+key is 19 and value is 100
+Count = 6 600
+error prob = 1
+18
+avg error per element= 0.0374015748031496
+key is 21 and value is 100
+key is 3 and value is 100
+key is 17 and value is 100
+key is 23 and value is 100
+Count = 4 400
+error prob = 1
+19
+avg error per element= 0.0393700787401575
+key is 21 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 17 and value is 100
+key is 15 and value is 100
+key is 23 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.0413385826771653
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 22 and value is 100
+key is 8 and value is 100
+Count = 7 700
+error prob = 1
+21
+avg error per element= 0.0433070866141732
+key is 6 and value is 100
+key is 11 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+key is 12 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 22 and value is 100
+key is 5 and value is 100
+Count = 9 900
+error prob = 1
+avg error per element= 0.0452755905511811
+key is 6 and value is 100
+key is 12 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.0472440944881889
+key is 6 and value is 100
+key is 3 and value is 100
+key is 12 and value is 100
+key is 17 and value is 100
+key is 23 and value is 100
+key is 19 and value is 100
+Count = 6 600
+error prob = 1
+24
+avg error per element= 0.0492125984251968
+key is 21 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 17 and value is 100
+key is 23 and value is 100
+Count = 5 500
+error prob = 1
+25
+avg error per element= 0.0511811023622047
+key is 21 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 17 and value is 100
+key is 15 and value is 100
+key is 23 and value is 100
+Count = 6 600
+error prob = 1
+26
+avg error per element= 0.0531496062992126
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 22 and value is 100
+key is 8 and value is 100
+Count = 7 700
+error prob = 1
+27
+avg error per element= 0.0551181102362204
+key is 11 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 5 and value is 100
+Count = 5 500
+error prob = 1
+28
+avg error per element= 0.0570866141732283
+key is 6 and value is 100
+key is 11 and value is 100
+key is 12 and value is 100
+key is 22 and value is 100
+Count = 4 400
+error prob = 1
+29
+avg error per element= 0.0590551181102362
+key is 6 and value is 100
+key is 21 and value is 100
+key is 3 and value is 100
+key is 12 and value is 100
+key is 17 and value is 100
+key is 22 and value is 100
+key is 23 and value is 100
+key is 19 and value is 100
+Count = 8 800
+error prob = 1
+30
+avg error per element= 0.061023622047244
+key is 21 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 17 and value is 100
+key is 15 and value is 100
+key is 23 and value is 100
+Count = 6 600
+error prob = 1
+31
+avg error per element= 0.0629921259842519
+key is 21 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 8 and value is 100
+key is 22 and value is 100
+key is 23 and value is 100
+Count = 9 900
+error prob = 1
+32
+avg error per element= 0.0649606299212598
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 22 and value is 100
+key is 8 and value is 100
+Count = 7 700
+error prob = 1
+33
+avg error per element= 0.0669291338582677
+key is 11 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 5 and value is 100
+Count = 5 500
+error prob = 1
+avg error per element= 0.0688976377952755
+key is 11 and value is 100
+key is 5 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.0708661417322834
+key is 6 and value is 100
+key is 11 and value is 100
+key is 21 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+key is 12 and value is 100
+key is 17 and value is 100
+key is 22 and value is 100
+key is 23 and value is 100
+key is 19 and value is 100
+key is 5 and value is 100
+Count = 11 1100
+error prob = 1
+avg error per element= 0.0728346456692913
+key is 21 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 17 and value is 100
+key is 15 and value is 100
+key is 22 and value is 100
+key is 23 and value is 100
+Count = 8 800
+error prob = 1
+37
+avg error per element= 0.0748031496062991
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 22 and value is 100
+key is 8 and value is 100
+Count = 7 700
+error prob = 1
+38
+avg error per element= 0.076771653543307
+key is 9 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 22 and value is 100
+key is 8 and value is 100
+Count = 6 600
+error prob = 1
+39
+avg error per element= 0.0787401574803149
+key is 11 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 5 and value is 100
+Count = 5 500
+error prob = 1
+avg error per element= 0.0807086614173227
+key is 11 and value is 100
+key is 5 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.0826771653543306
+key is 6 and value is 100
+key is 11 and value is 100
+key is 21 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+key is 12 and value is 100
+key is 17 and value is 100
+key is 22 and value is 100
+key is 23 and value is 100
+key is 19 and value is 100
+key is 5 and value is 100
+Count = 11 1100
+error prob = 1
+avg error per element= 0.0846456692913385
+key is 21 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 17 and value is 100
+key is 15 and value is 100
+key is 22 and value is 100
+key is 23 and value is 100
+Count = 8 800
+error prob = 1
+43
+avg error per element= 0.0866141732283464
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 22 and value is 100
+key is 8 and value is 100
+Count = 7 700
+error prob = 1
+44
+avg error per element= 0.0885826771653542
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+Count = 3 300
+error prob = 1
+45
+avg error per element= 0.0905511811023621
+key is 11 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 24 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.09251968503937
+key is 11 and value is 100
+key is 5 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.0944881889763778
+key is 6 and value is 100
+key is 11 and value is 100
+key is 21 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+key is 12 and value is 100
+key is 17 and value is 100
+key is 22 and value is 100
+key is 23 and value is 100
+key is 19 and value is 100
+key is 5 and value is 100
+Count = 11 1100
+error prob = 1
+48
+avg error per element= 0.0964566929133857
+key is 21 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 17 and value is 100
+key is 15 and value is 100
+key is 22 and value is 100
+key is 23 and value is 100
+Count = 8 800
+error prob = 1
+49
+avg error per element= 0.0984251968503936
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 22 and value is 100
+key is 8 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.100393700787401
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+Count = 3 300
+error prob = 1
+51
+avg error per element= 0.102362204724409
+key is 11 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 5 and value is 100
+Count = 9 900
+error prob = 1
+avg error per element= 0.104330708661417
+key is 11 and value is 100
+key is 5 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.106299212598425
+key is 6 and value is 100
+key is 11 and value is 100
+key is 21 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+key is 12 and value is 100
+key is 17 and value is 100
+key is 22 and value is 100
+key is 23 and value is 100
+key is 19 and value is 100
+key is 5 and value is 100
+Count = 11 1100
+error prob = 1
+54
+avg error per element= 0.108267716535433
+key is 21 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 17 and value is 100
+key is 15 and value is 100
+key is 8 and value is 100
+key is 22 and value is 100
+key is 23 and value is 100
+Count = 9 900
+error prob = 1
+55
+avg error per element= 0.110236220472441
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 22 and value is 100
+key is 8 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.112204724409449
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 24 and value is 100
+Count = 5 500
+error prob = 1
+57
+avg error per element= 0.114173228346457
+key is 11 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 5 and value is 100
+Count = 9 900
+error prob = 1
+avg error per element= 0.116141732283464
+key is 11 and value is 100
+key is 5 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.118110236220472
+key is 6 and value is 100
+key is 11 and value is 100
+key is 21 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+key is 12 and value is 100
+key is 17 and value is 100
+key is 22 and value is 100
+key is 23 and value is 100
+key is 5 and value is 100
+Count = 10 1000
+error prob = 1
+60
+avg error per element= 0.12007874015748
+key is 21 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 17 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 8 and value is 100
+key is 22 and value is 100
+key is 23 and value is 100
+Count = 10 1000
+error prob = 1
+61
+avg error per element= 0.122047244094488
+key is 2 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 22 and value is 100
+key is 8 and value is 100
+Count = 5 500
+error prob = 1
+62
+avg error per element= 0.124015748031496
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 24 and value is 100
+Count = 5 500
+error prob = 1
+63
+avg error per element= 0.125984251968504
+key is 11 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 5 and value is 100
+Count = 9 900
+error prob = 1
+avg error per element= 0.127952755905512
+key is 11 and value is 100
+key is 5 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.12992125984252
+key is 6 and value is 100
+key is 11 and value is 100
+key is 21 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 12 and value is 100
+key is 17 and value is 100
+key is 22 and value is 100
+key is 23 and value is 100
+key is 5 and value is 100
+Count = 11 1100
+error prob = 1
+66
+avg error per element= 0.131889763779527
+key is 21 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 17 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 8 and value is 100
+key is 22 and value is 100
+key is 23 and value is 100
+Count = 10 1000
+error prob = 1
+67
+avg error per element= 0.133858267716535
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+Count = 3 300
+error prob = 1
+68
+avg error per element= 0.135826771653543
+key is 7 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 24 and value is 100
+Count = 6 600
+error prob = 1
+69
+avg error per element= 0.137795275590551
+key is 11 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 13 and value is 100
+key is 5 and value is 100
+Count = 11 1100
+error prob = 1
+avg error per element= 0.139763779527559
+key is 11 and value is 100
+key is 5 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.141732283464567
+key is 6 and value is 100
+key is 11 and value is 100
+key is 21 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 12 and value is 100
+key is 17 and value is 100
+key is 15 and value is 100
+key is 22 and value is 100
+key is 23 and value is 100
+key is 5 and value is 100
+Count = 12 1200
+error prob = 1
+avg error per element= 0.143700787401575
+key is 21 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 17 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 8 and value is 100
+key is 22 and value is 100
+key is 23 and value is 100
+Count = 10 1000
+error prob = 1
+73
+avg error per element= 0.145669291338582
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+Count = 3 300
+error prob = 1
+avg error per element= 0.14763779527559
+key is 7 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 24 and value is 100
+key is 13 and value is 100
+Count = 7 700
+error prob = 1
+75
+avg error per element= 0.149606299212598
+key is 25 and value is 100
+key is 11 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 18 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 13 and value is 100
+key is 5 and value is 100
+Count = 12 1200
+error prob = 1
+76
+avg error per element= 0.151574803149606
+key is 11 and value is 100
+key is 5 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.153543307086614
+There was a false negative in error number 1 and position 78
+There was a false negative in error number 9 and position 78
+There was a false negative in error number 11 and position 78
+There was a false negative in error number 12 and position 78
+There was a false negative in error number 13 and position 78
+There was a false negative in error number 20 and position 78
+There was a false negative in error number 22 and position 78
+There was a false negative in error number 23 and position 78
+There was a false negative in error number 26 and position 78
+There was a false negative in error number 31 and position 78
+There was a false negative in error number 33 and position 78
+There was a false negative in error number 34 and position 78
+There was a false negative in error number 35 and position 78
+There was a false negative in error number 40 and position 78
+There was a false negative in error number 42 and position 78
+There was a false negative in error number 46 and position 78
+There was a false negative in error number 47 and position 78
+There was a false negative in error number 50 and position 78
+There was a false negative in error number 51 and position 78
+There was a false negative in error number 52 and position 78
+There was a false negative in error number 53 and position 78
+There was a false negative in error number 54 and position 78
+There was a false negative in error number 60 and position 78
+There was a false negative in error number 61 and position 78
+There was a false negative in error number 62 and position 78
+There was a false negative in error number 64 and position 78
+There was a false negative in error number 70 and position 78
+There was a false negative in error number 73 and position 78
+There was a false negative in error number 74 and position 78
+There was a false negative in error number 80 and position 78
+There was a false negative in error number 81 and position 78
+There was a false negative in error number 82 and position 78
+There was a false negative in error number 84 and position 78
+There was a false negative in error number 85 and position 78
+There was a false negative in error number 87 and position 78
+There was a false negative in error number 88 and position 78
+There was a false negative in error number 91 and position 78
+There was a false negative in error number 94 and position 78
+There was a false negative in error number 95 and position 78
+There was a false negative in error number 98 and position 78
+key is 6 and value is 100
+key is 11 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 12 and value is 100
+key is 15 and value is 100
+key is 22 and value is 100
+key is 23 and value is 60
+key is 5 and value is 100
+Count = 10 960
+error prob = 0.96
+78
+avg error per element= 0.155433070866142
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 22 and value is 100
+key is 8 and value is 100
+Count = 7 700
+error prob = 1
+79
+avg error per element= 0.157401574803149
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+Count = 3 300
+error prob = 1
+avg error per element= 0.159370078740157
+key is 25 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 24 and value is 100
+key is 13 and value is 100
+Count = 8 800
+error prob = 1
+81
+avg error per element= 0.161338582677165
+key is 25 and value is 100
+key is 11 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 18 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 13 and value is 100
+key is 16 and value is 100
+key is 5 and value is 100
+Count = 12 1200
+error prob = 1
+82
+avg error per element= 0.163307086614173
+key is 11 and value is 100
+key is 5 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.165275590551181
+key is 6 and value is 100
+key is 11 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 12 and value is 100
+key is 15 and value is 100
+key is 22 and value is 100
+key is 5 and value is 100
+Count = 9 900
+error prob = 1
+84
+avg error per element= 0.167244094488189
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 22 and value is 100
+key is 8 and value is 100
+Count = 7 700
+error prob = 1
+85
+avg error per element= 0.169212598425197
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+Count = 3 300
+error prob = 1
+avg error per element= 0.171181102362204
+key is 25 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 24 and value is 100
+key is 13 and value is 100
+key is 16 and value is 100
+Count = 9 900
+error prob = 1
+87
+avg error per element= 0.173149606299212
+key is 25 and value is 100
+key is 11 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 18 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 13 and value is 100
+key is 16 and value is 100
+key is 5 and value is 100
+Count = 12 1200
+error prob = 1
+88
+avg error per element= 0.17511811023622
+key is 11 and value is 100
+key is 5 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.177086614173228
+key is 11 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 15 and value is 100
+key is 22 and value is 100
+key is 8 and value is 100
+key is 5 and value is 100
+Count = 8 800
+error prob = 1
+90
+avg error per element= 0.179055118110236
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 22 and value is 100
+key is 8 and value is 100
+Count = 7 700
+error prob = 1
+91
+avg error per element= 0.181023622047244
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+Count = 3 300
+error prob = 1
+avg error per element= 0.182992125984252
+There was a false negative in error number 1 and position 93
+There was a false negative in error number 9 and position 93
+There was a false negative in error number 12 and position 93
+There was a false negative in error number 13 and position 93
+There was a false negative in error number 20 and position 93
+There was a false negative in error number 22 and position 93
+There was a false negative in error number 23 and position 93
+There was a false negative in error number 26 and position 93
+There was a false negative in error number 30 and position 93
+There was a false negative in error number 31 and position 93
+There was a false negative in error number 34 and position 93
+There was a false negative in error number 35 and position 93
+There was a false negative in error number 40 and position 93
+There was a false negative in error number 42 and position 93
+There was a false negative in error number 43 and position 93
+There was a false negative in error number 46 and position 93
+There was a false negative in error number 47 and position 93
+There was a false negative in error number 50 and position 93
+There was a false negative in error number 51 and position 93
+There was a false negative in error number 52 and position 93
+There was a false negative in error number 58 and position 93
+There was a false negative in error number 60 and position 93
+There was a false negative in error number 61 and position 93
+There was a false negative in error number 64 and position 93
+There was a false negative in error number 66 and position 93
+There was a false negative in error number 70 and position 93
+There was a false negative in error number 73 and position 93
+There was a false negative in error number 74 and position 93
+There was a false negative in error number 80 and position 93
+There was a false negative in error number 81 and position 93
+There was a false negative in error number 82 and position 93
+There was a false negative in error number 88 and position 93
+There was a false negative in error number 91 and position 93
+There was a false negative in error number 94 and position 93
+There was a false negative in error number 95 and position 93
+There was a false negative in error number 97 and position 93
+There was a false negative in error number 98 and position 93
+key is 25 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 20 and value is 63
+key is 8 and value is 100
+key is 1 and value is 100
+key is 24 and value is 100
+key is 13 and value is 100
+key is 16 and value is 100
+Count = 10 963
+error prob = 0.963
+93
+avg error per element= 0.18488779527559
+key is 25 and value is 100
+key is 11 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 20 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 18 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 13 and value is 100
+key is 16 and value is 100
+key is 5 and value is 100
+Count = 13 1300
+error prob = 1
+avg error per element= 0.186856299212598
+key is 11 and value is 100
+key is 5 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.188824803149606
+key is 11 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 15 and value is 100
+key is 22 and value is 100
+key is 8 and value is 100
+key is 5 and value is 100
+Count = 8 800
+error prob = 1
+96
+avg error per element= 0.190793307086614
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 22 and value is 100
+key is 8 and value is 100
+Count = 7 700
+error prob = 1
+97
+avg error per element= 0.192761811023622
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+Count = 3 300
+error prob = 1
+avg error per element= 0.19473031496063
+key is 25 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 20 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 24 and value is 100
+key is 13 and value is 100
+key is 16 and value is 100
+Count = 10 1000
+error prob = 1
+99
+avg error per element= 0.196698818897638
+key is 25 and value is 100
+key is 11 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 20 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 18 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 13 and value is 100
+key is 16 and value is 100
+key is 5 and value is 100
+Count = 13 1300
+error prob = 1
+avg error per element= 0.198667322834645
+key is 11 and value is 100
+key is 5 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.200635826771653
+key is 11 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 8 and value is 100
+key is 22 and value is 100
+key is 5 and value is 100
+Count = 9 900
+error prob = 1
+avg error per element= 0.202604330708661
+There was a false negative in error number 2 and position 103
+There was a false negative in error number 3 and position 103
+There was a false negative in error number 5 and position 103
+There was a false negative in error number 14 and position 103
+There was a false negative in error number 16 and position 103
+There was a false negative in error number 17 and position 103
+There was a false negative in error number 18 and position 103
+There was a false negative in error number 21 and position 103
+There was a false negative in error number 24 and position 103
+There was a false negative in error number 25 and position 103
+There was a false negative in error number 27 and position 103
+There was a false negative in error number 32 and position 103
+There was a false negative in error number 36 and position 103
+There was a false negative in error number 39 and position 103
+There was a false negative in error number 41 and position 103
+There was a false negative in error number 45 and position 103
+There was a false negative in error number 48 and position 103
+There was a false negative in error number 55 and position 103
+There was a false negative in error number 56 and position 103
+There was a false negative in error number 59 and position 103
+There was a false negative in error number 62 and position 103
+There was a false negative in error number 63 and position 103
+There was a false negative in error number 65 and position 103
+There was a false negative in error number 67 and position 103
+There was a false negative in error number 68 and position 103
+There was a false negative in error number 69 and position 103
+There was a false negative in error number 75 and position 103
+There was a false negative in error number 78 and position 103
+There was a false negative in error number 83 and position 103
+There was a false negative in error number 85 and position 103
+There was a false negative in error number 89 and position 103
+There was a false negative in error number 93 and position 103
+There was a false negative in error number 96 and position 103
+There was a false negative in error number 99 and position 103
+key is 3 and value is 100
+key is 9 and value is 66
+key is 2 and value is 100
+key is 14 and value is 100
+key is 22 and value is 100
+key is 8 and value is 100
+Count = 6 566
+error prob = 0.943333333333333
+103
+avg error per element= 0.204461286089239
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+Count = 3 300
+error prob = 1
+104
+avg error per element= 0.206429790026246
+key is 25 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 20 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 24 and value is 100
+key is 13 and value is 100
+key is 16 and value is 100
+Count = 10 1000
+error prob = 1
+105
+avg error per element= 0.208398293963254
+key is 25 and value is 100
+key is 7 and value is 100
+key is 20 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 18 and value is 100
+key is 16 and value is 100
+key is 10 and value is 100
+Count = 8 800
+error prob = 1
+106
+avg error per element= 0.210366797900262
+key is 11 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 5 and value is 100
+Count = 4 400
+error prob = 1
+107
+avg error per element= 0.21233530183727
+key is 11 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 4 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 5 and value is 100
+Count = 8 800
+error prob = 1
+avg error per element= 0.214303805774278
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 24 and value is 100
+Count = 4 400
+error prob = 1
+109
+avg error per element= 0.216272309711286
+key is 7 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 24 and value is 100
+key is 13 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.218240813648294
+key is 25 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 20 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 24 and value is 100
+key is 13 and value is 100
+key is 16 and value is 100
+Count = 10 1000
+error prob = 1
+111
+avg error per element= 0.220209317585302
+key is 25 and value is 100
+key is 20 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 18 and value is 100
+key is 16 and value is 100
+key is 10 and value is 100
+Count = 7 700
+error prob = 1
+112
+avg error per element= 0.222177821522309
+key is 4 and value is 100
+key is 10 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.224146325459317
+key is 11 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 5 and value is 100
+Count = 9 900
+error prob = 1
+avg error per element= 0.226114829396325
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 24 and value is 100
+Count = 5 500
+error prob = 1
+115
+avg error per element= 0.228083333333333
+key is 7 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 24 and value is 100
+key is 13 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.230051837270341
+key is 25 and value is 100
+key is 7 and value is 100
+key is 20 and value is 100
+key is 1 and value is 100
+key is 24 and value is 100
+key is 13 and value is 100
+key is 16 and value is 100
+Count = 7 700
+error prob = 1
+117
+avg error per element= 0.232020341207349
+key is 25 and value is 100
+key is 20 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 18 and value is 100
+key is 16 and value is 100
+key is 10 and value is 100
+Count = 7 700
+error prob = 1
+118
+avg error per element= 0.233988845144357
+key is 4 and value is 100
+key is 10 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.235957349081364
+key is 11 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 5 and value is 100
+Count = 9 900
+error prob = 1
+avg error per element= 0.237925853018372
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 24 and value is 100
+Count = 5 500
+error prob = 1
+121
+avg error per element= 0.23989435695538
+key is 7 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 24 and value is 100
+key is 13 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.241862860892388
+key is 25 and value is 100
+key is 7 and value is 100
+key is 20 and value is 100
+key is 1 and value is 100
+key is 13 and value is 100
+key is 16 and value is 100
+Count = 6 600
+error prob = 1
+123
+avg error per element= 0.243831364829396
+key is 25 and value is 100
+key is 20 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 18 and value is 100
+key is 16 and value is 100
+key is 10 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.245799868766404
+key is 4 and value is 100
+key is 10 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.247768372703412
+key is 11 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 5 and value is 100
+Count = 9 900
+error prob = 1
+avg error per element= 0.24973687664042
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 24 and value is 100
+Count = 5 500
+error prob = 1
+127
+avg error per element= 0.251705380577427
+key is 7 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 24 and value is 100
+key is 13 and value is 100
+Count = 7 700
+error prob = 1
+128
+avg error per element= 0.253673884514435
+key is 25 and value is 100
+key is 7 and value is 100
+key is 20 and value is 100
+key is 1 and value is 100
+key is 13 and value is 100
+key is 16 and value is 100
+Count = 6 600
+error prob = 1
+129
+avg error per element= 0.255642388451443
+key is 25 and value is 100
+key is 20 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 18 and value is 100
+key is 16 and value is 100
+Count = 6 600
+error prob = 1
+130
+avg error per element= 0.257610892388451
+key is 4 and value is 100
+key is 10 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.259579396325459
+key is 11 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 5 and value is 100
+Count = 9 900
+error prob = 1
+avg error per element= 0.261547900262467
+key is 7 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 24 and value is 100
+key is 13 and value is 100
+Count = 7 700
+error prob = 1
+133
+avg error per element= 0.263516404199475
+key is 7 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 24 and value is 100
+key is 13 and value is 100
+Count = 7 700
+error prob = 1
+134
+avg error per element= 0.265484908136483
+key is 25 and value is 100
+key is 7 and value is 100
+key is 20 and value is 100
+key is 1 and value is 100
+key is 13 and value is 100
+key is 16 and value is 100
+Count = 6 600
+error prob = 1
+135
+avg error per element= 0.26745341207349
+key is 20 and value is 100
+key is 18 and value is 100
+key is 16 and value is 100
+Count = 3 300
+error prob = 1
+avg error per element= 0.269421916010498
+key is 25 and value is 100
+key is 4 and value is 100
+key is 18 and value is 100
+key is 10 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.271390419947506
+key is 25 and value is 100
+key is 11 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 18 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 5 and value is 100
+Count = 11 1100
+error prob = 1
+138
+avg error per element= 0.273358923884514
+key is 25 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 24 and value is 100
+key is 13 and value is 100
+key is 16 and value is 100
+Count = 9 900
+error prob = 1
+139
+avg error per element= 0.275327427821522
+key is 25 and value is 100
+key is 7 and value is 100
+key is 14 and value is 100
+key is 20 and value is 100
+key is 1 and value is 100
+key is 24 and value is 100
+key is 13 and value is 100
+key is 16 and value is 100
+Count = 8 800
+error prob = 1
+140
+avg error per element= 0.27729593175853
+key is 25 and value is 100
+key is 7 and value is 100
+key is 20 and value is 100
+key is 1 and value is 100
+key is 13 and value is 100
+key is 16 and value is 100
+Count = 6 600
+error prob = 1
+141
+avg error per element= 0.279264435695538
+key is 18 and value is 100
+key is 16 and value is 100
+Count = 2 200
+error prob = 1
+142
+avg error per element= 0.281232939632546
+key is 18 and value is 100
+Count = 1 100
+error prob = 1
+avg error per element= 0.283201443569553
+key is 11 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 24 and value is 100
+key is 13 and value is 100
+key is 5 and value is 100
+Count = 9 900
+error prob = 1
+144
+avg error per element= 0.285169947506561
+key is 11 and value is 100
+key is 2 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+145
+avg error per element= 0.287138451443569
+key is 25 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 18 and value is 100
+key is 16 and value is 100
+key is 10 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.289106955380577
+key is 25 and value is 100
+key is 1 and value is 100
+key is 18 and value is 100
+key is 16 and value is 100
+Count = 4 400
+error prob = 1
+147
+avg error per element= 0.291075459317585
+key is 25 and value is 100
+key is 7 and value is 100
+key is 20 and value is 100
+key is 1 and value is 100
+key is 13 and value is 100
+key is 16 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.293043963254593
+key is 7 and value is 100
+key is 13 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.295012467191601
+key is 11 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 24 and value is 100
+key is 13 and value is 100
+key is 5 and value is 100
+Count = 9 900
+error prob = 1
+avg error per element= 0.296980971128608
+key is 11 and value is 100
+key is 2 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+151
+avg error per element= 0.298949475065616
+key is 25 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 18 and value is 100
+key is 16 and value is 100
+key is 10 and value is 100
+Count = 6 600
+error prob = 1
+avg error per element= 0.300917979002624
+key is 25 and value is 100
+key is 1 and value is 100
+key is 18 and value is 100
+key is 16 and value is 100
+Count = 4 400
+error prob = 1
+153
+avg error per element= 0.302886482939632
+key is 25 and value is 100
+key is 7 and value is 100
+key is 20 and value is 100
+key is 1 and value is 100
+key is 13 and value is 100
+key is 16 and value is 100
+Count = 6 600
+error prob = 1
+154
+avg error per element= 0.30485498687664
+key is 7 and value is 100
+key is 13 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.306823490813648
+key is 11 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 24 and value is 100
+key is 5 and value is 100
+Count = 8 800
+error prob = 1
+avg error per element= 0.308791994750656
+key is 11 and value is 100
+key is 2 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+157
+avg error per element= 0.310760498687664
+key is 25 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 18 and value is 100
+key is 16 and value is 100
+key is 10 and value is 100
+Count = 6 600
+error prob = 1
+158
+avg error per element= 0.312729002624671
+key is 25 and value is 100
+key is 1 and value is 100
+key is 18 and value is 100
+key is 16 and value is 100
+Count = 4 400
+error prob = 1
+159
+avg error per element= 0.314697506561679
+key is 25 and value is 100
+key is 7 and value is 100
+key is 20 and value is 100
+key is 1 and value is 100
+key is 13 and value is 100
+key is 16 and value is 100
+Count = 6 600
+error prob = 1
+160
+avg error per element= 0.316666010498687
+key is 7 and value is 100
+key is 13 and value is 100
+Count = 2 200
+error prob = 1
+161
+avg error per element= 0.318634514435695
+key is 11 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 5 and value is 100
+Count = 5 500
+error prob = 1
+avg error per element= 0.320603018372703
+key is 11 and value is 100
+key is 2 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+163
+avg error per element= 0.322571522309711
+key is 25 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 18 and value is 100
+key is 24 and value is 100
+key is 16 and value is 100
+key is 10 and value is 100
+Count = 7 700
+error prob = 1
+164
+avg error per element= 0.324540026246719
+key is 25 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 18 and value is 100
+key is 16 and value is 100
+key is 10 and value is 100
+Count = 6 600
+error prob = 1
+165
+avg error per element= 0.326508530183727
+key is 25 and value is 100
+key is 7 and value is 100
+key is 20 and value is 100
+key is 1 and value is 100
+key is 18 and value is 100
+key is 13 and value is 100
+key is 16 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.328477034120734
+key is 14 and value is 100
+key is 8 and value is 100
+key is 24 and value is 100
+Count = 3 300
+error prob = 1
+167
+avg error per element= 0.330445538057742
+key is 11 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 5 and value is 100
+Count = 5 500
+error prob = 1
+avg error per element= 0.33241404199475
+key is 11 and value is 100
+key is 2 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+169
+avg error per element= 0.334382545931758
+key is 25 and value is 100
+key is 11 and value is 100
+key is 2 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 5 and value is 100
+Count = 8 800
+error prob = 1
+170
+avg error per element= 0.336351049868766
+key is 25 and value is 100
+key is 2 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 18 and value is 100
+key is 24 and value is 100
+key is 16 and value is 100
+key is 10 and value is 100
+Count = 8 800
+error prob = 1
+171
+avg error per element= 0.338319553805774
+key is 25 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 20 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 18 and value is 100
+key is 24 and value is 100
+key is 13 and value is 100
+key is 16 and value is 100
+Count = 11 1100
+error prob = 1
+avg error per element= 0.340288057742782
+key is 14 and value is 100
+key is 8 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.34225656167979
+key is 11 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 5 and value is 100
+Count = 5 500
+error prob = 1
+avg error per element= 0.344225065616797
+key is 11 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 3 300
+error prob = 1
+175
+avg error per element= 0.346193569553805
+key is 11 and value is 100
+key is 2 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+176
+avg error per element= 0.348162073490813
+key is 25 and value is 100
+key is 2 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 18 and value is 100
+key is 24 and value is 100
+key is 16 and value is 100
+key is 10 and value is 100
+Count = 8 800
+error prob = 1
+177
+avg error per element= 0.350130577427821
+key is 25 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 20 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 18 and value is 100
+key is 24 and value is 100
+key is 13 and value is 100
+key is 16 and value is 100
+Count = 11 1100
+error prob = 1
+avg error per element= 0.352099081364829
+key is 14 and value is 100
+key is 8 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.354067585301837
+key is 11 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 8 and value is 100
+key is 22 and value is 100
+key is 5 and value is 100
+Count = 9 900
+error prob = 1
+avg error per element= 0.356036089238845
+key is 11 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 3 300
+error prob = 1
+181
+avg error per element= 0.358004593175852
+key is 11 and value is 100
+key is 2 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.35997309711286
+key is 25 and value is 100
+key is 2 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 18 and value is 100
+key is 24 and value is 100
+key is 16 and value is 100
+key is 10 and value is 100
+Count = 8 800
+error prob = 1
+183
+avg error per element= 0.361941601049868
+key is 25 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 20 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 18 and value is 100
+key is 24 and value is 100
+key is 13 and value is 100
+key is 16 and value is 100
+Count = 11 1100
+error prob = 1
+184
+avg error per element= 0.363910104986876
+key is 14 and value is 100
+key is 8 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.365878608923884
+key is 11 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 8 and value is 100
+key is 22 and value is 100
+key is 5 and value is 100
+Count = 9 900
+error prob = 1
+avg error per element= 0.367847112860892
+key is 11 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+key is 22 and value is 100
+key is 5 and value is 100
+Count = 5 500
+error prob = 1
+187
+avg error per element= 0.3698156167979
+key is 11 and value is 100
+key is 2 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.371784120734908
+key is 25 and value is 100
+key is 2 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 18 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 16 and value is 100
+key is 5 and value is 100
+Count = 9 900
+error prob = 1
+189
+avg error per element= 0.373752624671915
+key is 25 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 20 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 18 and value is 100
+key is 24 and value is 100
+key is 13 and value is 100
+key is 16 and value is 100
+Count = 11 1100
+error prob = 1
+190
+avg error per element= 0.375721128608923
+key is 14 and value is 100
+key is 8 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.377689632545931
+key is 11 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 8 and value is 100
+key is 22 and value is 100
+key is 5 and value is 100
+Count = 9 900
+error prob = 1
+avg error per element= 0.379658136482939
+key is 11 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+key is 22 and value is 100
+key is 5 and value is 100
+Count = 5 500
+error prob = 1
+193
+avg error per element= 0.381626640419947
+key is 11 and value is 100
+key is 2 and value is 100
+key is 4 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+194
+avg error per element= 0.383595144356955
+key is 25 and value is 100
+key is 11 and value is 100
+key is 2 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 18 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 16 and value is 100
+key is 5 and value is 100
+Count = 10 1000
+error prob = 1
+195
+avg error per element= 0.385563648293963
+key is 25 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 20 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 18 and value is 100
+key is 24 and value is 100
+key is 13 and value is 100
+key is 16 and value is 100
+Count = 11 1100
+error prob = 1
+196
+avg error per element= 0.387532152230971
+key is 14 and value is 100
+key is 8 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.389500656167978
+key is 6 and value is 100
+key is 11 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 12 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 8 and value is 100
+key is 22 and value is 100
+key is 5 and value is 100
+Count = 11 1100
+error prob = 1
+avg error per element= 0.391469160104986
+key is 6 and value is 100
+key is 11 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+key is 22 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+199
+avg error per element= 0.393437664041994
+key is 11 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 3 300
+error prob = 1
+200
+avg error per element= 0.395406167979002
+key is 25 and value is 100
+key is 11 and value is 100
+key is 2 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 18 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 16 and value is 100
+key is 5 and value is 100
+Count = 10 1000
+error prob = 1
+201
+avg error per element= 0.39737467191601
+key is 25 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 18 and value is 100
+key is 24 and value is 100
+key is 13 and value is 100
+key is 16 and value is 100
+Count = 11 1100
+error prob = 1
+202
+avg error per element= 0.399343175853018
+key is 14 and value is 100
+key is 8 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.401311679790026
+There was a false negative in error number 17 and position 204
+There was a false negative in error number 20 and position 204
+There was a false negative in error number 27 and position 204
+There was a false negative in error number 31 and position 204
+There was a false negative in error number 35 and position 204
+There was a false negative in error number 39 and position 204
+There was a false negative in error number 46 and position 204
+There was a false negative in error number 47 and position 204
+There was a false negative in error number 50 and position 204
+There was a false negative in error number 51 and position 204
+There was a false negative in error number 53 and position 204
+There was a false negative in error number 54 and position 204
+There was a false negative in error number 60 and position 204
+There was a false negative in error number 62 and position 204
+There was a false negative in error number 66 and position 204
+There was a false negative in error number 71 and position 204
+There was a false negative in error number 74 and position 204
+There was a false negative in error number 79 and position 204
+There was a false negative in error number 81 and position 204
+There was a false negative in error number 84 and position 204
+There was a false negative in error number 88 and position 204
+There was a false negative in error number 90 and position 204
+There was a false negative in error number 91 and position 204
+There was a false negative in error number 93 and position 204
+There was a false negative in error number 94 and position 204
+There was a false negative in error number 95 and position 204
+There was a false negative in error number 96 and position 204
+There was a false negative in error number 97 and position 204
+There was a false negative in error number 99 and position 204
+key is 6 and value is 100
+key is 11 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 12 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 8 and value is 100
+key is 22 and value is 100
+key is 23 and value is 71
+key is 5 and value is 100
+Count = 12 1171
+error prob = 0.975833333333333
+204
+avg error per element= 0.403232611548556
+key is 6 and value is 100
+key is 11 and value is 100
+key is 3 and value is 100
+key is 12 and value is 100
+key is 2 and value is 100
+key is 22 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+205
+avg error per element= 0.405201115485564
+key is 11 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 3 300
+error prob = 1
+206
+avg error per element= 0.407169619422572
+key is 25 and value is 100
+key is 11 and value is 100
+key is 2 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 18 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 16 and value is 100
+key is 5 and value is 100
+Count = 10 1000
+error prob = 1
+207
+avg error per element= 0.409138123359579
+key is 25 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 18 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 13 and value is 100
+key is 16 and value is 100
+Count = 12 1200
+error prob = 1
+avg error per element= 0.411106627296587
+key is 14 and value is 100
+key is 8 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.413075131233595
+key is 6 and value is 100
+key is 21 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 12 and value is 100
+key is 17 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 8 and value is 100
+key is 22 and value is 100
+key is 23 and value is 100
+Count = 12 1200
+error prob = 1
+210
+avg error per element= 0.415043635170603
+key is 6 and value is 100
+key is 11 and value is 100
+key is 3 and value is 100
+key is 12 and value is 100
+key is 2 and value is 100
+key is 22 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+211
+avg error per element= 0.417012139107611
+key is 11 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 3 300
+error prob = 1
+avg error per element= 0.418980643044619
+key is 25 and value is 100
+key is 11 and value is 100
+key is 2 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 16 and value is 100
+key is 5 and value is 100
+Count = 9 900
+error prob = 1
+213
+avg error per element= 0.420949146981627
+key is 25 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 18 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 13 and value is 100
+Count = 11 1100
+error prob = 1
+214
+avg error per element= 0.422917650918635
+key is 14 and value is 100
+key is 8 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.424886154855642
+key is 6 and value is 100
+key is 21 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 12 and value is 100
+key is 17 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 8 and value is 100
+key is 22 and value is 100
+key is 23 and value is 100
+Count = 12 1200
+error prob = 1
+216
+avg error per element= 0.42685465879265
+key is 6 and value is 100
+key is 11 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+key is 12 and value is 100
+key is 17 and value is 100
+key is 22 and value is 100
+key is 23 and value is 100
+key is 5 and value is 100
+Count = 9 900
+error prob = 1
+217
+avg error per element= 0.428823162729658
+key is 11 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 3 300
+error prob = 1
+avg error per element= 0.430791666666666
+key is 11 and value is 100
+key is 2 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+219
+avg error per element= 0.432760170603674
+key is 7 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 13 and value is 100
+Count = 9 900
+error prob = 1
+220
+avg error per element= 0.434728674540682
+key is 14 and value is 100
+key is 8 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.43669717847769
+key is 6 and value is 100
+key is 21 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 12 and value is 100
+key is 17 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 8 and value is 100
+key is 22 and value is 100
+key is 23 and value is 100
+Count = 12 1200
+error prob = 1
+222
+avg error per element= 0.438665682414697
+key is 6 and value is 100
+key is 11 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+key is 12 and value is 100
+key is 17 and value is 100
+key is 22 and value is 100
+key is 23 and value is 100
+key is 5 and value is 100
+Count = 9 900
+error prob = 1
+223
+avg error per element= 0.440634186351705
+key is 11 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 3 300
+error prob = 1
+avg error per element= 0.442602690288713
+key is 11 and value is 100
+key is 2 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+225
+avg error per element= 0.444571194225721
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+Count = 7 700
+error prob = 1
+226
+avg error per element= 0.446539698162729
+key is 14 and value is 100
+key is 8 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.448508202099737
+key is 6 and value is 100
+key is 21 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 12 and value is 100
+key is 17 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 8 and value is 100
+key is 22 and value is 100
+key is 23 and value is 100
+key is 19 and value is 100
+Count = 13 1300
+error prob = 1
+avg error per element= 0.450476706036745
+key is 6 and value is 100
+key is 11 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+key is 12 and value is 100
+key is 17 and value is 100
+key is 22 and value is 100
+key is 23 and value is 100
+key is 19 and value is 100
+key is 5 and value is 100
+Count = 10 1000
+error prob = 1
+229
+avg error per element= 0.452445209973753
+key is 11 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 3 300
+error prob = 1
+avg error per element= 0.45441371391076
+key is 11 and value is 100
+key is 2 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+231
+avg error per element= 0.456382217847768
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 5 and value is 100
+Count = 8 800
+error prob = 1
+232
+avg error per element= 0.458350721784776
+key is 14 and value is 100
+key is 8 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.460319225721784
+key is 6 and value is 100
+key is 21 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 17 and value is 100
+key is 15 and value is 100
+key is 8 and value is 100
+key is 22 and value is 100
+key is 23 and value is 100
+key is 19 and value is 100
+Count = 11 1100
+error prob = 1
+234
+avg error per element= 0.462287729658792
+key is 6 and value is 100
+key is 11 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+key is 12 and value is 100
+key is 17 and value is 100
+key is 22 and value is 100
+key is 23 and value is 100
+key is 19 and value is 100
+key is 5 and value is 100
+Count = 10 1000
+error prob = 1
+235
+avg error per element= 0.4642562335958
+key is 11 and value is 100
+key is 2 and value is 100
+key is 5 and value is 100
+Count = 3 300
+error prob = 1
+236
+avg error per element= 0.466224737532808
+key is 11 and value is 100
+key is 2 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+237
+avg error per element= 0.468193241469816
+key is 11 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 1 and value is 100
+key is 4 and value is 100
+key is 24 and value is 100
+key is 10 and value is 100
+key is 5 and value is 100
+Count = 9 900
+error prob = 1
+avg error per element= 0.470161745406823
+key is 14 and value is 100
+key is 22 and value is 100
+key is 8 and value is 100
+Count = 3 300
+error prob = 1
+239
+avg error per element= 0.472130249343831
+key is 21 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 17 and value is 100
+key is 15 and value is 100
+key is 23 and value is 100
+key is 19 and value is 100
+Count = 7 700
+error prob = 1
+240
+avg error per element= 0.474098753280839
+key is 6 and value is 100
+key is 11 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+key is 12 and value is 100
+key is 17 and value is 100
+key is 22 and value is 100
+key is 23 and value is 100
+key is 19 and value is 100
+key is 5 and value is 100
+Count = 10 1000
+error prob = 1
+241
+avg error per element= 0.476067257217847
+key is 11 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+key is 22 and value is 100
+key is 5 and value is 100
+Count = 5 500
+error prob = 1
+242
+avg error per element= 0.478035761154855
+key is 11 and value is 100
+key is 2 and value is 100
+key is 24 and value is 100
+key is 5 and value is 100
+Count = 4 400
+error prob = 1
+243
+avg error per element= 0.480004265091863
+key is 11 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 8 and value is 100
+key is 24 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+244
+avg error per element= 0.481972769028871
+key is 9 and value is 100
+key is 15 and value is 100
+Count = 2 200
+error prob = 1
+245
+avg error per element= 0.483941272965879
+key is 21 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 17 and value is 100
+key is 15 and value is 100
+key is 23 and value is 100
+key is 19 and value is 100
+Count = 7 700
+error prob = 1
+246
+avg error per element= 0.485909776902886
+key is 6 and value is 100
+key is 11 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+key is 12 and value is 100
+key is 17 and value is 100
+key is 22 and value is 100
+key is 23 and value is 100
+key is 19 and value is 100
+key is 5 and value is 100
+Count = 10 1000
+error prob = 1
+247
+avg error per element= 0.487878280839894
+key is 6 and value is 100
+key is 11 and value is 100
+key is 3 and value is 100
+key is 12 and value is 100
+key is 2 and value is 100
+key is 22 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.489846784776902
+key is 11 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+key is 22 and value is 100
+key is 5 and value is 100
+Count = 5 500
+error prob = 1
+249
+avg error per element= 0.49181528871391
+key is 11 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 8 and value is 100
+key is 22 and value is 100
+key is 5 and value is 100
+Count = 9 900
+error prob = 1
+avg error per element= 0.493783792650918
+key is 9 and value is 100
+key is 15 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.495752296587926
+key is 21 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 17 and value is 100
+key is 15 and value is 100
+key is 23 and value is 100
+key is 19 and value is 100
+Count = 7 700
+error prob = 1
+252
+avg error per element= 0.497720800524934
+key is 6 and value is 100
+key is 3 and value is 100
+key is 12 and value is 100
+key is 17 and value is 100
+key is 23 and value is 100
+key is 19 and value is 100
+Count = 6 600
+error prob = 1
+253
+avg error per element= 0.499689304461941
+key is 6 and value is 100
+key is 11 and value is 100
+key is 3 and value is 100
+key is 12 and value is 100
+key is 2 and value is 100
+key is 22 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.501657808398949
+key is 11 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+key is 22 and value is 100
+key is 5 and value is 100
+Count = 5 500
+error prob = 1
+255
+avg error per element= 0.503626312335957
+key is 11 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 8 and value is 100
+key is 22 and value is 100
+key is 5 and value is 100
+Count = 9 900
+error prob = 1
+avg error per element= 0.505594816272965
+key is 9 and value is 100
+key is 15 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.507563320209973
+key is 21 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 17 and value is 100
+key is 15 and value is 100
+key is 23 and value is 100
+key is 19 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.509531824146981
+key is 6 and value is 100
+key is 3 and value is 100
+key is 12 and value is 100
+key is 17 and value is 100
+key is 23 and value is 100
+key is 19 and value is 100
+Count = 6 600
+error prob = 1
+259
+avg error per element= 0.511500328083989
+key is 6 and value is 100
+key is 11 and value is 100
+key is 3 and value is 100
+key is 12 and value is 100
+key is 2 and value is 100
+key is 22 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+avg error per element= 0.513468832020997
+key is 11 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+key is 22 and value is 100
+key is 5 and value is 100
+Count = 5 500
+error prob = 1
+261
+avg error per element= 0.515437335958004
+key is 11 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 8 and value is 100
+key is 22 and value is 100
+key is 5 and value is 100
+Count = 9 900
+error prob = 1
+avg error per element= 0.517405839895012
+key is 9 and value is 100
+key is 15 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.51937434383202
+key is 21 and value is 100
+key is 17 and value is 100
+key is 19 and value is 100
+Count = 3 300
+error prob = 1
+264
+avg error per element= 0.521342847769028
+key is 6 and value is 100
+key is 3 and value is 100
+key is 12 and value is 100
+key is 17 and value is 100
+key is 23 and value is 100
+key is 19 and value is 100
+Count = 6 600
+error prob = 1
+265
+avg error per element= 0.523311351706036
+key is 6 and value is 100
+key is 11 and value is 100
+key is 3 and value is 100
+key is 12 and value is 100
+key is 2 and value is 100
+key is 22 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+266
+avg error per element= 0.525279855643044
+key is 6 and value is 100
+key is 11 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+key is 22 and value is 100
+key is 5 and value is 100
+Count = 6 600
+error prob = 1
+267
+avg error per element= 0.527248359580052
+key is 11 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 8 and value is 100
+key is 22 and value is 100
+key is 5 and value is 100
+Count = 9 900
+error prob = 1
+avg error per element= 0.52921686351706
+key is 21 and value is 100
+key is 9 and value is 100
+key is 15 and value is 100
+key is 23 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.531185367454067
+key is 21 and value is 100
+key is 17 and value is 100
+key is 19 and value is 100
+Count = 3 300
+error prob = 1
+avg error per element= 0.533153871391075
+key is 6 and value is 100
+key is 3 and value is 100
+key is 12 and value is 100
+key is 17 and value is 100
+key is 23 and value is 100
+key is 19 and value is 100
+Count = 6 600
+error prob = 1
+271
+avg error per element= 0.535122375328083
+key is 6 and value is 100
+key is 11 and value is 100
+key is 3 and value is 100
+key is 12 and value is 100
+key is 17 and value is 100
+key is 22 and value is 100
+key is 23 and value is 100
+key is 19 and value is 100
+key is 5 and value is 100
+Count = 9 900
+error prob = 1
+272
+avg error per element= 0.537090879265091
+key is 6 and value is 100
+key is 11 and value is 100
+key is 3 and value is 100
+key is 12 and value is 100
+key is 2 and value is 100
+key is 22 and value is 100
+key is 5 and value is 100
+Count = 7 700
+error prob = 1
+273
+avg error per element= 0.539059383202099
+key is 11 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 8 and value is 100
+key is 22 and value is 100
+key is 23 and value is 100
+key is 5 and value is 100
+Count = 10 1000
+error prob = 1
+274
+avg error per element= 0.541027887139107
+key is 21 and value is 100
+Count = 1 100
+error prob = 1
+avg error per element= 0.542996391076115
+key is 21 and value is 100
+key is 17 and value is 100
+Count = 2 200
+error prob = 1
+276
+avg error per element= 0.544964895013123
+key is 6 and value is 100
+key is 12 and value is 100
+key is 17 and value is 100
+key is 23 and value is 100
+key is 19 and value is 100
+Count = 5 500
+error prob = 1
+277
+avg error per element= 0.54693339895013
+key is 6 and value is 100
+key is 3 and value is 100
+key is 12 and value is 100
+key is 17 and value is 100
+key is 23 and value is 100
+key is 19 and value is 100
+Count = 6 600
+error prob = 1
+278
+avg error per element= 0.548901902887138
+key is 6 and value is 100
+key is 11 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+key is 12 and value is 100
+key is 17 and value is 100
+key is 22 and value is 100
+key is 23 and value is 100
+key is 5 and value is 100
+Count = 9 900
+error prob = 1
+279
+avg error per element= 0.550870406824146
+key is 11 and value is 100
+key is 21 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 17 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 8 and value is 100
+key is 22 and value is 100
+key is 23 and value is 100
+key is 5 and value is 100
+Count = 12 1200
+error prob = 1
+avg error per element= 0.552838910761154
+key is 21 and value is 100
+Count = 1 100
+error prob = 1
+avg error per element= 0.554807414698162
+key is 21 and value is 100
+key is 17 and value is 100
+Count = 2 200
+error prob = 1
+282
+avg error per element= 0.55677591863517
+key is 17 and value is 100
+key is 19 and value is 100
+Count = 2 200
+error prob = 1
+283
+avg error per element= 0.558744422572178
+key is 6 and value is 100
+key is 3 and value is 100
+key is 12 and value is 100
+key is 17 and value is 100
+key is 23 and value is 100
+key is 19 and value is 100
+Count = 6 600
+error prob = 1
+284
+avg error per element= 0.560712926509185
+key is 6 and value is 100
+key is 11 and value is 100
+key is 3 and value is 100
+key is 2 and value is 100
+key is 12 and value is 100
+key is 17 and value is 100
+key is 22 and value is 100
+key is 23 and value is 100
+key is 5 and value is 100
+Count = 9 900
+error prob = 1
+285
+avg error per element= 0.562681430446193
+key is 11 and value is 100
+key is 21 and value is 100
+key is 3 and value is 100
+key is 9 and value is 100
+key is 2 and value is 100
+key is 17 and value is 100
+key is 14 and value is 100
+key is 15 and value is 100
+key is 8 and value is 100
+key is 22 and value is 100
+key is 23 and value is 100
+key is 5 and value is 100
+Count = 12 1200
+error prob = 1
+avg error per element= 0.564649934383201
+key is 21 and value is 100
+Count = 1 100
+error prob = 1
+avg error per element= 0.566618438320209
+key is 50 and value is 100
+Count = 1 100
+error prob = 1
+avg error per element= 0.568586942257217
+key is 50 and value is 100
+Count = 1 100
+error prob = 1
+289
+avg error per element= 0.570555446194225
+key is 50 and value is 100
+key is 32 and value is 100
+key is 47 and value is 100
+key is 31 and value is 100
+Count = 4 400
+error prob = 1
+290
+avg error per element= 0.572523950131233
+key is 27 and value is 100
+key is 32 and value is 100
+key is 28 and value is 100
+key is 53 and value is 100
+key is 26 and value is 100
+key is 47 and value is 100
+key is 49 and value is 100
+key is 30 and value is 100
+key is 29 and value is 100
+key is 31 and value is 100
+Count = 10 1000
+error prob = 1
+291
+avg error per element= 0.574492454068241
+key is 27 and value is 100
+key is 35 and value is 100
+key is 33 and value is 100
+key is 28 and value is 100
+key is 53 and value is 100
+key is 36 and value is 100
+key is 26 and value is 100
+key is 47 and value is 100
+key is 34 and value is 100
+key is 49 and value is 100
+key is 56 and value is 100
+key is 30 and value is 100
+key is 29 and value is 100
+key is 31 and value is 100
+key is 55 and value is 100
+Count = 15 1500
+error prob = 1
+292
+avg error per element= 0.576460958005248
+key is 27 and value is 100
+key is 32 and value is 100
+key is 28 and value is 100
+key is 53 and value is 100
+key is 57 and value is 100
+key is 36 and value is 100
+key is 26 and value is 100
+key is 47 and value is 100
+key is 38 and value is 100
+key is 30 and value is 100
+key is 37 and value is 100
+key is 29 and value is 100
+key is 31 and value is 100
+Count = 13 1300
+error prob = 1
+293
+avg error per element= 0.578429461942256
+key is 27 and value is 100
+key is 50 and value is 100
+key is 32 and value is 100
+key is 28 and value is 100
+key is 53 and value is 100
+key is 39 and value is 100
+key is 58 and value is 100
+key is 47 and value is 100
+key is 38 and value is 100
+key is 30 and value is 100
+key is 29 and value is 100
+key is 31 and value is 100
+Count = 12 1200
+error prob = 1
+294
+avg error per element= 0.580397965879264
+key is 50 and value is 100
+Count = 1 100
+error prob = 1
+295
+avg error per element= 0.582366469816272
+key is 50 and value is 100
+key is 32 and value is 100
+key is 47 and value is 100
+Count = 3 300
+error prob = 1
+avg error per element= 0.58433497375328
+key is 50 and value is 100
+key is 32 and value is 100
+key is 47 and value is 100
+Count = 3 300
+error prob = 1
+297
+avg error per element= 0.586303477690288
+key is 50 and value is 100
+key is 47 and value is 100
+key is 30 and value is 100
+key is 31 and value is 100
+Count = 4 400
+error prob = 1
+298
+avg error per element= 0.588271981627296
+There was a false negative in error number 2 and position 299
+There was a false negative in error number 3 and position 299
+There was a false negative in error number 7 and position 299
+There was a false negative in error number 21 and position 299
+There was a false negative in error number 24 and position 299
+There was a false negative in error number 28 and position 299
+There was a false negative in error number 39 and position 299
+There was a false negative in error number 40 and position 299
+There was a false negative in error number 41 and position 299
+There was a false negative in error number 48 and position 299
+There was a false negative in error number 55 and position 299
+There was a false negative in error number 62 and position 299
+There was a false negative in error number 65 and position 299
+There was a false negative in error number 66 and position 299
+There was a false negative in error number 69 and position 299
+There was a false negative in error number 71 and position 299
+There was a false negative in error number 73 and position 299
+There was a false negative in error number 77 and position 299
+There was a false negative in error number 88 and position 299
+There was a false negative in error number 89 and position 299
+There was a false negative in error number 97 and position 299
+There was a false negative in error number 98 and position 299
+key is 27 and value is 100
+key is 28 and value is 100
+key is 53 and value is 100
+key is 26 and value is 100
+key is 47 and value is 100
+key is 49 and value is 100
+key is 30 and value is 100
+key is 29 and value is 100
+key is 31 and value is 78
+Count = 9 878
+error prob = 0.975555555555556
+299
+avg error per element= 0.590192366579177
+key is 27 and value is 100
+key is 35 and value is 100
+key is 33 and value is 100
+key is 28 and value is 100
+key is 53 and value is 100
+key is 26 and value is 100
+key is 47 and value is 100
+key is 34 and value is 100
+key is 49 and value is 100
+key is 56 and value is 100
+key is 30 and value is 100
+key is 29 and value is 100
+key is 55 and value is 100
+Count = 13 1300
+error prob = 1
+300
+avg error per element= 0.592160870516184
+There was a false negative in error number 2 and position 301
+There was a false negative in error number 3 and position 301
+There was a false negative in error number 5 and position 301
+There was a false negative in error number 9 and position 301
+There was a false negative in error number 10 and position 301
+There was a false negative in error number 13 and position 301
+There was a false negative in error number 17 and position 301
+There was a false negative in error number 19 and position 301
+There was a false negative in error number 20 and position 301
+There was a false negative in error number 21 and position 301
+There was a false negative in error number 22 and position 301
+There was a false negative in error number 24 and position 301
+There was a false negative in error number 28 and position 301
+There was a false negative in error number 32 and position 301
+There was a false negative in error number 40 and position 301
+There was a false negative in error number 42 and position 301
+There was a false negative in error number 44 and position 301
+There was a false negative in error number 45 and position 301
+There was a false negative in error number 46 and position 301
+There was a false negative in error number 52 and position 301
+There was a false negative in error number 54 and position 301
+There was a false negative in error number 55 and position 301
+There was a false negative in error number 57 and position 301
+There was a false negative in error number 58 and position 301
+There was a false negative in error number 61 and position 301
+There was a false negative in error number 62 and position 301
+There was a false negative in error number 64 and position 301
+There was a false negative in error number 71 and position 301
+There was a false negative in error number 76 and position 301
+There was a false negative in error number 78 and position 301
+There was a false negative in error number 80 and position 301
+There was a false negative in error number 85 and position 301
+There was a false negative in error number 87 and position 301
+There was a false negative in error number 88 and position 301
+There was a false negative in error number 89 and position 301
+There was a false negative in error number 91 and position 301
+There was a false negative in error number 95 and position 301
+key is 27 and value is 100
+key is 35 and value is 100
+key is 28 and value is 100
+key is 53 and value is 100
+key is 57 and value is 100
+key is 36 and value is 100
+key is 26 and value is 100
+key is 47 and value is 83
+key is 56 and value is 100
+key is 30 and value is 100
+key is 37 and value is 100
+key is 29 and value is 100
+key is 31 and value is 76
+Count = 13 1259
+error prob = 0.968461538461538
+301
+avg error per element= 0.594067290867487
+key is 27 and value is 100
+key is 50 and value is 100
+key is 32 and value is 100
+key is 28 and value is 100
+key is 53 and value is 100
+key is 39 and value is 100
+key is 57 and value is 100
+key is 26 and value is 100
+key is 58 and value is 100
+key is 47 and value is 100
+key is 38 and value is 100
+key is 30 and value is 100
+key is 37 and value is 100
+key is 29 and value is 100
+key is 31 and value is 100
+Count = 15 1500
+error prob = 1
+avg error per element= 0.596035794804495
+key is 50 and value is 100
+key is 32 and value is 100
+key is 39 and value is 100
+key is 53 and value is 100
+key is 58 and value is 100
+key is 47 and value is 100
+key is 31 and value is 100
+Count = 7 700
+error prob = 1
+303
+avg error per element= 0.598004298741503
+key is 50 and value is 100
+key is 32 and value is 100
+key is 47 and value is 100
+key is 31 and value is 100
+Count = 4 400
+error prob = 1
+304
+avg error per element= 0.59997280267851
+key is 50 and value is 100
+key is 32 and value is 100
+key is 47 and value is 100
+key is 31 and value is 100
+Count = 4 400
+error prob = 1
+305
+avg error per element= 0.601941306615518
+key is 50 and value is 100
+key is 47 and value is 100
+key is 49 and value is 100
+key is 30 and value is 100
+key is 29 and value is 100
+Count = 5 500
+error prob = 1
+306
+avg error per element= 0.603909810552526
+key is 27 and value is 100
+key is 28 and value is 100
+key is 53 and value is 100
+key is 26 and value is 100
+key is 47 and value is 100
+key is 49 and value is 100
+key is 29 and value is 100
+Count = 7 700
+error prob = 1
+307
+avg error per element= 0.605878314489534
+key is 27 and value is 100
+key is 33 and value is 100
+key is 28 and value is 100
+key is 53 and value is 100
+key is 26 and value is 100
+key is 47 and value is 100
+key is 34 and value is 100
+key is 49 and value is 100
+key is 29 and value is 100
+key is 55 and value is 100
+Count = 10 1000
+error prob = 1
+308
+avg error per element= 0.607846818426542
+key is 27 and value is 100
+key is 35 and value is 100
+key is 28 and value is 100
+key is 53 and value is 100
+key is 36 and value is 100
+key is 26 and value is 100
+key is 34 and value is 100
+key is 56 and value is 100
+key is 29 and value is 100
+Count = 9 900
+error prob = 1
+309
+avg error per element= 0.60981532236355
+key is 27 and value is 100
+key is 50 and value is 100
+key is 32 and value is 100
+key is 28 and value is 100
+key is 53 and value is 100
+key is 39 and value is 100
+key is 57 and value is 100
+key is 36 and value is 100
+key is 26 and value is 100
+key is 58 and value is 100
+key is 47 and value is 100
+key is 38 and value is 100
+key is 30 and value is 100
+key is 37 and value is 100
+key is 29 and value is 100
+key is 31 and value is 100
+Count = 16 1600
+error prob = 1
+310
+avg error per element= 0.611783826300558
+key is 50 and value is 100
+key is 32 and value is 100
+key is 53 and value is 100
+key is 39 and value is 100
+key is 57 and value is 100
+key is 58 and value is 100
+key is 47 and value is 100
+key is 38 and value is 100
+key is 30 and value is 100
+key is 31 and value is 100
+Count = 10 1000
+error prob = 1
+311
+avg error per element= 0.613752330237565
+key is 50 and value is 100
+key is 32 and value is 100
+key is 47 and value is 100
+key is 30 and value is 100
+key is 31 and value is 100
+Count = 5 500
+error prob = 1
+312
+avg error per element= 0.615720834174573
+key is 50 and value is 100
+key is 47 and value is 100
+key is 30 and value is 100
+Count = 3 300
+error prob = 1
+313
+avg error per element= 0.617689338111581
+key is 28 and value is 100
+key is 47 and value is 100
+key is 49 and value is 100
+key is 29 and value is 100
+Count = 4 400
+error prob = 1
+314
+avg error per element= 0.619657842048589
+key is 27 and value is 100
+key is 28 and value is 100
+key is 53 and value is 100
+key is 26 and value is 100
+key is 47 and value is 100
+key is 49 and value is 100
+Count = 6 600
+error prob = 1
+315
+avg error per element= 0.621626345985597
+key is 27 and value is 100
+key is 33 and value is 100
+key is 28 and value is 100
+key is 53 and value is 100
+key is 26 and value is 100
+key is 47 and value is 100
+key is 49 and value is 100
+key is 55 and value is 100
+Count = 8 800
+error prob = 1
+316
+avg error per element= 0.623594849922605
+key is 27 and value is 100
+key is 35 and value is 100
+key is 33 and value is 100
+key is 28 and value is 100
+key is 53 and value is 100
+key is 26 and value is 100
+key is 47 and value is 100
+key is 34 and value is 100
+key is 49 and value is 100
+key is 56 and value is 100
+key is 55 and value is 100
+Count = 11 1100
+error prob = 1
+317
+avg error per element= 0.625563353859613
+key is 27 and value is 100
+key is 35 and value is 100
+key is 50 and value is 100
+key is 32 and value is 100
+key is 28 and value is 100
+key is 53 and value is 100
+key is 57 and value is 100
+key is 36 and value is 100
+key is 26 and value is 100
+key is 58 and value is 100
+key is 47 and value is 100
+key is 38 and value is 100
+key is 56 and value is 100
+key is 30 and value is 100
+key is 37 and value is 100
+key is 29 and value is 100
+key is 31 and value is 100
+Count = 17 1700
+error prob = 1
+318
+avg error per element= 0.627531857796621
+key is 50 and value is 100
+key is 32 and value is 100
+key is 53 and value is 100
+key is 39 and value is 100
+key is 57 and value is 100
+key is 58 and value is 100
+key is 47 and value is 100
+key is 38 and value is 100
+key is 30 and value is 100
+key is 37 and value is 100
+key is 29 and value is 100
+key is 31 and value is 100
+Count = 12 1200
+error prob = 1
+319
+avg error per element= 0.629500361733628
+key is 50 and value is 100
+key is 32 and value is 100
+key is 47 and value is 100
+key is 30 and value is 100
+key is 29 and value is 100
+key is 31 and value is 100
+Count = 6 600
+error prob = 1
+320
+avg error per element= 0.631468865670636
+key is 50 and value is 100
+key is 47 and value is 100
+key is 29 and value is 100
+Count = 3 300
+error prob = 1
+321
+avg error per element= 0.633437369607644
+key is 27 and value is 100
+key is 28 and value is 100
+key is 47 and value is 100
+key is 49 and value is 100
+Count = 4 400
+error prob = 1
+322
+avg error per element= 0.635405873544652
+key is 27 and value is 100
+key is 53 and value is 100
+key is 26 and value is 100
+key is 47 and value is 100
+key is 49 and value is 100
+Count = 5 500
+error prob = 1
+323
+avg error per element= 0.63737437748166
+key is 27 and value is 100
+key is 53 and value is 100
+key is 26 and value is 100
+key is 47 and value is 100
+key is 49 and value is 100
+Count = 5 500
+error prob = 1
+324
+avg error per element= 0.639342881418668
+key is 27 and value is 100
+key is 33 and value is 100
+key is 53 and value is 100
+key is 26 and value is 100
+key is 47 and value is 100
+key is 34 and value is 100
+key is 49 and value is 100
+key is 55 and value is 100
+Count = 8 800
+error prob = 1
+325
+avg error per element= 0.641311385355676
+key is 27 and value is 100
+key is 35 and value is 100
+key is 32 and value is 100
+key is 28 and value is 100
+key is 53 and value is 100
+key is 57 and value is 100
+key is 36 and value is 100
+key is 26 and value is 100
+key is 47 and value is 100
+key is 34 and value is 100
+key is 56 and value is 100
+key is 30 and value is 100
+key is 37 and value is 100
+key is 29 and value is 100
+key is 31 and value is 100
+Count = 15 1500
+error prob = 1
+326
+avg error per element= 0.643279889292684
+key is 35 and value is 100
+key is 50 and value is 100
+key is 32 and value is 100
+key is 28 and value is 100
+key is 53 and value is 100
+key is 39 and value is 100
+key is 57 and value is 100
+key is 36 and value is 100
+key is 58 and value is 100
+key is 47 and value is 100
+key is 38 and value is 100
+key is 56 and value is 100
+key is 30 and value is 100
+key is 37 and value is 100
+key is 29 and value is 100
+key is 31 and value is 100
+Count = 16 1600
+error prob = 1
+327
+avg error per element= 0.645248393229691
+key is 50 and value is 100
+key is 32 and value is 100
+key is 28 and value is 100
+key is 47 and value is 100
+key is 30 and value is 100
+key is 29 and value is 100
+key is 31 and value is 100
+Count = 7 700
+error prob = 1
+328
+avg error per element= 0.647216897166699
+key is 50 and value is 100
+key is 28 and value is 100
+key is 47 and value is 100
+Count = 3 300
+error prob = 1
+329
+avg error per element= 0.649185401103707
+key is 27 and value is 100
+key is 26 and value is 100
+key is 47 and value is 100
+key is 49 and value is 100
+Count = 4 400
+error prob = 1
+330
+avg error per element= 0.651153905040715
+key is 26 and value is 100
+key is 47 and value is 100
+key is 49 and value is 100
+Count = 3 300
+error prob = 1
+331
+avg error per element= 0.653122408977723
+key is 53 and value is 100
+key is 26 and value is 100
+key is 47 and value is 100
+key is 49 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.655090912914731
+key is 33 and value is 100
+key is 53 and value is 100
+key is 26 and value is 100
+key is 47 and value is 100
+key is 49 and value is 100
+key is 55 and value is 100
+Count = 6 600
+error prob = 1
+333
+avg error per element= 0.657059416851739
+key is 35 and value is 100
+key is 32 and value is 100
+key is 33 and value is 100
+key is 53 and value is 100
+key is 26 and value is 100
+key is 30 and value is 100
+key is 29 and value is 100
+key is 55 and value is 100
+key is 27 and value is 100
+key is 28 and value is 100
+key is 36 and value is 100
+key is 57 and value is 100
+key is 47 and value is 100
+key is 34 and value is 100
+key is 56 and value is 100
+key is 49 and value is 100
+key is 31 and value is 100
+Count = 17 1700
+error prob = 1
+334
+avg error per element= 0.659027920788747
+key is 35 and value is 100
+key is 32 and value is 100
+key is 53 and value is 100
+key is 26 and value is 100
+key is 30 and value is 100
+key is 29 and value is 100
+key is 27 and value is 100
+key is 50 and value is 100
+key is 28 and value is 100
+key is 39 and value is 100
+key is 57 and value is 100
+key is 36 and value is 100
+key is 58 and value is 100
+key is 47 and value is 100
+key is 38 and value is 100
+key is 34 and value is 100
+key is 56 and value is 100
+key is 37 and value is 100
+key is 31 and value is 100
+Count = 19 1900
+error prob = 1
+335
+avg error per element= 0.660996424725754
+key is 32 and value is 100
+key is 30 and value is 100
+key is 29 and value is 100
+key is 27 and value is 100
+key is 50 and value is 100
+key is 28 and value is 100
+key is 47 and value is 100
+key is 31 and value is 100
+Count = 8 800
+error prob = 1
+336
+avg error per element= 0.662964928662762
+key is 26 and value is 100
+key is 27 and value is 100
+key is 50 and value is 100
+key is 47 and value is 100
+Count = 4 400
+error prob = 1
+337
+avg error per element= 0.66493343259977
+key is 26 and value is 100
+key is 47 and value is 100
+key is 49 and value is 100
+Count = 3 300
+error prob = 1
+avg error per element= 0.666901936536778
+key is 49 and value is 100
+Count = 1 100
+error prob = 1
+339
+avg error per element= 0.668870440473786
+key is 49 and value is 100
+Count = 1 100
+error prob = 1
+avg error per element= 0.670838944410794
+key is 49 and value is 100
+Count = 1 100
+error prob = 1
+341
+avg error per element= 0.672807448347802
+key is 35 and value is 100
+key is 33 and value is 100
+key is 53 and value is 100
+key is 26 and value is 100
+key is 30 and value is 100
+key is 29 and value is 100
+key is 55 and value is 100
+key is 27 and value is 100
+key is 28 and value is 100
+key is 47 and value is 100
+key is 34 and value is 100
+key is 49 and value is 100
+key is 56 and value is 100
+key is 31 and value is 100
+Count = 14 1400
+error prob = 1
+342
+avg error per element= 0.674775952284809
+key is 32 and value is 100
+Count = 1 100
+error prob = 1
+avg error per element= 0.676744456221817
+key is 32 and value is 100
+Count = 1 100
+error prob = 1
+345
+avg error per element= 0.678716842809589
+key is 32 and value is 100
+key is 39 and value is 100
+Count = 2 200
+error prob = 1
+346
+avg error per element= 0.68068922939736
+key is 32 and value is 100
+key is 39 and value is 100
+key is 31 and value is 100
+Count = 3 300
+error prob = 1
+347
+avg error per element= 0.682661615985131
+key is 32 and value is 100
+key is 31 and value is 100
+Count = 2 200
+error prob = 1
+348
+avg error per element= 0.684634002572902
+key is 32 and value is 100
+key is 31 and value is 100
+Count = 2 200
+error prob = 1
+349
+avg error per element= 0.686606389160673
+key is 32 and value is 100
+Count = 1 100
+error prob = 1
+350
+avg error per element= 0.688578775748445
+key is 32 and value is 100
+key is 31 and value is 100
+Count = 2 200
+error prob = 1
+351
+avg error per element= 0.690551162336216
+key is 32 and value is 100
+key is 39 and value is 100
+Count = 2 200
+error prob = 1
+352
+avg error per element= 0.692523548923987
+key is 32 and value is 100
+key is 39 and value is 100
+key is 31 and value is 100
+Count = 3 300
+error prob = 1
+353
+avg error per element= 0.694495935511758
+key is 38 and value is 100
+key is 31 and value is 100
+Count = 2 200
+error prob = 1
+354
+avg error per element= 0.696468322099529
+key is 30 and value is 100
+key is 38 and value is 100
+key is 31 and value is 100
+Count = 3 300
+error prob = 1
+355
+avg error per element= 0.698440708687301
+key is 30 and value is 100
+key is 31 and value is 100
+Count = 2 200
+error prob = 1
+356
+avg error per element= 0.700413095275072
+key is 30 and value is 100
+key is 31 and value is 100
+Count = 2 200
+error prob = 1
+357
+avg error per element= 0.702385481862843
+key is 30 and value is 100
+Count = 1 100
+error prob = 1
+358
+avg error per element= 0.704357868450614
+key is 30 and value is 100
+key is 31 and value is 100
+Count = 2 200
+error prob = 1
+359
+avg error per element= 0.706330255038386
+key is 38 and value is 100
+key is 31 and value is 100
+Count = 2 200
+error prob = 1
+360
+avg error per element= 0.708302641626157
+key is 30 and value is 100
+key is 38 and value is 100
+key is 37 and value is 100
+key is 31 and value is 100
+Count = 4 400
+error prob = 1
+361
+avg error per element= 0.710275028213928
+key is 30 and value is 100
+key is 37 and value is 100
+Count = 2 200
+error prob = 1
+362
+avg error per element= 0.712247414801699
+key is 30 and value is 100
+key is 29 and value is 100
+key is 37 and value is 100
+Count = 3 300
+error prob = 1
+363
+avg error per element= 0.71421980138947
+key is 30 and value is 100
+key is 29 and value is 100
+Count = 2 200
+error prob = 1
+364
+avg error per element= 0.716192187977242
+key is 30 and value is 100
+key is 29 and value is 100
+Count = 2 200
+error prob = 1
+365
+avg error per element= 0.718164574565013
+key is 29 and value is 100
+Count = 1 100
+error prob = 1
+366
+avg error per element= 0.720136961152784
+key is 30 and value is 100
+key is 29 and value is 100
+Count = 2 200
+error prob = 1
+367
+avg error per element= 0.722109347740555
+key is 30 and value is 100
+key is 37 and value is 100
+Count = 2 200
+error prob = 1
+368
+avg error per element= 0.724081734328326
+key is 30 and value is 100
+key is 29 and value is 100
+key is 36 and value is 100
+key is 37 and value is 100
+Count = 4 400
+error prob = 1
+369
+avg error per element= 0.726054120916098
+key is 29 and value is 100
+key is 36 and value is 100
+Count = 2 200
+error prob = 1
+370
+avg error per element= 0.728026507503869
+key is 29 and value is 100
+key is 28 and value is 100
+key is 36 and value is 100
+Count = 3 300
+error prob = 1
+371
+avg error per element= 0.72999889409164
+key is 29 and value is 100
+key is 28 and value is 100
+Count = 2 200
+error prob = 1
+372
+avg error per element= 0.731971280679411
+key is 29 and value is 100
+key is 28 and value is 100
+Count = 2 200
+error prob = 1
+373
+avg error per element= 0.733943667267183
+key is 28 and value is 100
+Count = 1 100
+error prob = 1
+374
+avg error per element= 0.735916053854954
+key is 29 and value is 100
+key is 28 and value is 100
+Count = 2 200
+error prob = 1
+375
+avg error per element= 0.737888440442725
+key is 29 and value is 100
+key is 28 and value is 100
+key is 36 and value is 100
+Count = 3 300
+error prob = 1
+376
+avg error per element= 0.739860827030496
+key is 35 and value is 100
+key is 29 and value is 100
+key is 28 and value is 100
+key is 36 and value is 100
+Count = 4 400
+error prob = 1
+377
+avg error per element= 0.741833213618267
+key is 35 and value is 100
+key is 28 and value is 100
+Count = 2 200
+error prob = 1
+378
+avg error per element= 0.743805600206039
+key is 35 and value is 100
+key is 27 and value is 100
+key is 28 and value is 100
+Count = 3 300
+error prob = 1
+379
+avg error per element= 0.74577798679381
+key is 27 and value is 100
+key is 28 and value is 100
+Count = 2 200
+error prob = 1
+380
+avg error per element= 0.747750373381581
+key is 27 and value is 100
+key is 28 and value is 100
+Count = 2 200
+error prob = 1
+381
+avg error per element= 0.749722759969352
+key is 27 and value is 100
+Count = 1 100
+error prob = 1
+382
+avg error per element= 0.751695146557123
+key is 27 and value is 100
+key is 28 and value is 100
+Count = 2 200
+error prob = 1
+383
+avg error per element= 0.753667533144895
+key is 35 and value is 100
+key is 27 and value is 100
+key is 28 and value is 100
+Count = 3 300
+error prob = 1
+384
+avg error per element= 0.755639919732666
+key is 35 and value is 100
+key is 27 and value is 100
+key is 28 and value is 100
+key is 34 and value is 100
+Count = 4 400
+error prob = 1
+385
+avg error per element= 0.757612306320437
+key is 27 and value is 100
+key is 34 and value is 100
+Count = 2 200
+error prob = 1
+386
+avg error per element= 0.759584692908208
+key is 33 and value is 100
+key is 26 and value is 100
+key is 27 and value is 100
+key is 34 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.76155707949598
+key is 26 and value is 100
+Count = 1 100
+error prob = 1
+388
+avg error per element= 0.763529466083751
+key is 26 and value is 100
+key is 27 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.765501852671522
+key is 26 and value is 100
+Count = 1 100
+error prob = 1
+390
+avg error per element= 0.767474239259293
+key is 26 and value is 100
+key is 27 and value is 100
+Count = 2 200
+error prob = 1
+391
+avg error per element= 0.769446625847064
+key is 26 and value is 100
+key is 27 and value is 100
+key is 34 and value is 100
+Count = 3 300
+error prob = 1
+392
+avg error per element= 0.771419012434836
+key is 33 and value is 100
+key is 26 and value is 100
+key is 27 and value is 100
+key is 34 and value is 100
+Count = 4 400
+error prob = 1
+393
+avg error per element= 0.773391399022607
+key is 33 and value is 100
+key is 26 and value is 100
+Count = 2 200
+error prob = 1
+394
+avg error per element= 0.775363785610378
+key is 26 and value is 100
+Count = 1 100
+error prob = 1
+395
+avg error per element= 0.777336172198149
+key is 26 and value is 100
+Count = 1 100
+error prob = 1
+avg error per element= 0.779312456783129
+key is 32 and value is 100
+key is 48 and value is 100
+key is 52 and value is 100
+Count = 3 300
+error prob = 1
+398
+avg error per element= 0.78128874136811
+key is 52 and value is 100
+Count = 1 100
+error prob = 1
+399
+avg error per element= 0.78326502595309
+key is 52 and value is 100
+Count = 1 100
+error prob = 1
+avg error per element= 0.78524131053807
+key is 52 and value is 100
+Count = 1 100
+error prob = 1
+401
+avg error per element= 0.78721759512305
+key is 32 and value is 100
+key is 48 and value is 100
+key is 46 and value is 100
+key is 30 and value is 100
+key is 29 and value is 100
+key is 44 and value is 100
+key is 27 and value is 100
+key is 28 and value is 100
+key is 61 and value is 100
+key is 52 and value is 100
+key is 45 and value is 100
+key is 31 and value is 100
+key is 62 and value is 100
+key is 54 and value is 100
+Count = 14 1400
+error prob = 1
+402
+avg error per element= 0.789193879708031
+key is 32 and value is 100
+key is 26 and value is 100
+key is 48 and value is 100
+key is 42 and value is 100
+key is 30 and value is 100
+key is 29 and value is 100
+key is 44 and value is 100
+key is 27 and value is 100
+key is 28 and value is 100
+key is 40 and value is 100
+key is 61 and value is 100
+key is 51 and value is 100
+key is 41 and value is 100
+key is 59 and value is 100
+key is 60 and value is 100
+key is 45 and value is 100
+key is 43 and value is 100
+key is 31 and value is 100
+key is 54 and value is 100
+Count = 19 1900
+error prob = 1
+403
+avg error per element= 0.791170164293011
+key is 26 and value is 100
+key is 48 and value is 100
+key is 30 and value is 100
+key is 29 and value is 100
+key is 27 and value is 100
+key is 28 and value is 100
+key is 51 and value is 100
+key is 31 and value is 100
+Count = 8 800
+error prob = 1
+404
+avg error per element= 0.793146448877991
+key is 32 and value is 100
+key is 48 and value is 100
+key is 51 and value is 100
+key is 31 and value is 100
+Count = 4 400
+error prob = 1
+405
+avg error per element= 0.795122733462971
+key is 32 and value is 100
+key is 48 and value is 100
+key is 52 and value is 100
+key is 31 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.797099018047951
+key is 32 and value is 100
+key is 48 and value is 100
+key is 52 and value is 100
+Count = 3 300
+error prob = 1
+407
+avg error per element= 0.799075302632932
+key is 32 and value is 100
+key is 48 and value is 100
+key is 52 and value is 100
+key is 54 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.801051587217912
+key is 32 and value is 100
+key is 48 and value is 100
+key is 46 and value is 100
+key is 52 and value is 100
+key is 62 and value is 100
+key is 54 and value is 100
+Count = 6 600
+error prob = 1
+409
+avg error per element= 0.803027871802892
+key is 32 and value is 100
+key is 26 and value is 100
+key is 48 and value is 100
+key is 46 and value is 100
+key is 30 and value is 100
+key is 29 and value is 100
+key is 44 and value is 100
+key is 27 and value is 100
+key is 28 and value is 100
+key is 61 and value is 100
+key is 52 and value is 100
+key is 60 and value is 100
+key is 45 and value is 100
+key is 43 and value is 100
+key is 31 and value is 100
+key is 62 and value is 100
+key is 54 and value is 100
+Count = 17 1700
+error prob = 1
+410
+avg error per element= 0.805004156387872
+There was a false negative in error number 6 and position 411
+There was a false negative in error number 14 and position 411
+There was a false negative in error number 18 and position 411
+There was a false negative in error number 22 and position 411
+There was a false negative in error number 35 and position 411
+There was a false negative in error number 37 and position 411
+There was a false negative in error number 49 and position 411
+There was a false negative in error number 59 and position 411
+There was a false negative in error number 62 and position 411
+There was a false negative in error number 64 and position 411
+There was a false negative in error number 69 and position 411
+There was a false negative in error number 74 and position 411
+There was a false negative in error number 75 and position 411
+There was a false negative in error number 76 and position 411
+There was a false negative in error number 79 and position 411
+There was a false negative in error number 82 and position 411
+There was a false negative in error number 84 and position 411
+There was a false negative in error number 90 and position 411
+There was a false negative in error number 96 and position 411
+There was a false negative in error number 97 and position 411
+key is 26 and value is 100
+key is 48 and value is 100
+key is 42 and value is 100
+key is 30 and value is 100
+key is 29 and value is 100
+key is 27 and value is 100
+key is 28 and value is 100
+key is 40 and value is 100
+key is 61 and value is 100
+key is 51 and value is 100
+key is 41 and value is 100
+key is 59 and value is 100
+key is 60 and value is 100
+key is 43 and value is 100
+key is 31 and value is 80
+key is 54 and value is 100
+Count = 16 1580
+error prob = 0.9875
+411
+avg error per element= 0.80695573741554
+key is 26 and value is 100
+key is 48 and value is 100
+key is 30 and value is 100
+key is 29 and value is 100
+key is 27 and value is 100
+key is 28 and value is 100
+key is 51 and value is 100
+Count = 7 700
+error prob = 1
+412
+avg error per element= 0.808932022000521
+key is 48 and value is 100
+key is 29 and value is 100
+key is 28 and value is 100
+key is 51 and value is 100
+Count = 4 400
+error prob = 1
+413
+avg error per element= 0.810908306585501
+key is 48 and value is 100
+key is 30 and value is 100
+key is 52 and value is 100
+key is 31 and value is 100
+Count = 4 400
+error prob = 1
+414
+avg error per element= 0.812884591170481
+key is 32 and value is 100
+key is 48 and value is 100
+key is 52 and value is 100
+key is 31 and value is 100
+key is 54 and value is 100
+Count = 5 500
+error prob = 1
+415
+avg error per element= 0.814860875755461
+key is 32 and value is 100
+key is 48 and value is 100
+key is 52 and value is 100
+key is 31 and value is 100
+key is 54 and value is 100
+Count = 5 500
+error prob = 1
+416
+avg error per element= 0.816837160340442
+key is 32 and value is 100
+key is 46 and value is 100
+key is 52 and value is 100
+key is 45 and value is 100
+key is 62 and value is 100
+key is 31 and value is 100
+key is 54 and value is 100
+Count = 7 700
+error prob = 1
+417
+avg error per element= 0.818813444925422
+key is 32 and value is 100
+key is 26 and value is 100
+key is 42 and value is 100
+key is 30 and value is 100
+key is 29 and value is 100
+key is 44 and value is 100
+key is 27 and value is 100
+key is 28 and value is 100
+key is 61 and value is 100
+key is 60 and value is 100
+key is 45 and value is 100
+key is 43 and value is 100
+key is 31 and value is 100
+key is 54 and value is 100
+Count = 14 1400
+error prob = 1
+418
+avg error per element= 0.820789729510402
+key is 26 and value is 100
+key is 48 and value is 100
+key is 42 and value is 100
+key is 29 and value is 100
+key is 27 and value is 100
+key is 28 and value is 100
+key is 40 and value is 100
+key is 51 and value is 100
+key is 41 and value is 100
+key is 59 and value is 100
+key is 60 and value is 100
+key is 43 and value is 100
+key is 54 and value is 100
+Count = 13 1300
+error prob = 1
+419
+avg error per element= 0.822766014095382
+key is 26 and value is 100
+key is 48 and value is 100
+key is 29 and value is 100
+key is 27 and value is 100
+key is 28 and value is 100
+key is 51 and value is 100
+Count = 6 600
+error prob = 1
+420
+avg error per element= 0.824742298680362
+key is 48 and value is 100
+key is 28 and value is 100
+key is 51 and value is 100
+Count = 3 300
+error prob = 1
+421
+avg error per element= 0.826718583265343
+key is 48 and value is 100
+key is 30 and value is 100
+key is 29 and value is 100
+key is 52 and value is 100
+Count = 4 400
+error prob = 1
+422
+avg error per element= 0.828694867850323
+key is 32 and value is 100
+key is 48 and value is 100
+key is 30 and value is 100
+key is 52 and value is 100
+key is 31 and value is 100
+key is 54 and value is 100
+Count = 6 600
+error prob = 1
+423
+avg error per element= 0.830671152435303
+key is 32 and value is 100
+key is 48 and value is 100
+key is 46 and value is 100
+key is 30 and value is 100
+key is 52 and value is 100
+key is 62 and value is 100
+key is 31 and value is 100
+key is 54 and value is 100
+Count = 8 800
+error prob = 1
+424
+avg error per element= 0.832647437020283
+key is 32 and value is 100
+key is 46 and value is 100
+key is 30 and value is 100
+key is 44 and value is 100
+key is 61 and value is 100
+key is 52 and value is 100
+key is 45 and value is 100
+key is 31 and value is 100
+key is 62 and value is 100
+key is 54 and value is 100
+Count = 10 1000
+error prob = 1
+425
+avg error per element= 0.834623721605264
+key is 32 and value is 100
+key is 26 and value is 100
+key is 48 and value is 100
+key is 42 and value is 100
+key is 30 and value is 100
+key is 29 and value is 100
+key is 44 and value is 100
+key is 27 and value is 100
+key is 28 and value is 100
+key is 61 and value is 100
+key is 51 and value is 100
+key is 41 and value is 100
+key is 59 and value is 100
+key is 60 and value is 100
+key is 43 and value is 100
+key is 31 and value is 100
+key is 54 and value is 100
+Count = 17 1700
+error prob = 1
+426
+avg error per element= 0.836600006190244
+key is 26 and value is 100
+key is 48 and value is 100
+key is 42 and value is 100
+key is 27 and value is 100
+key is 28 and value is 100
+key is 40 and value is 100
+key is 51 and value is 100
+key is 41 and value is 100
+key is 59 and value is 100
+key is 60 and value is 100
+key is 54 and value is 100
+Count = 11 1100
+error prob = 1
+427
+avg error per element= 0.838576290775224
+key is 26 and value is 100
+key is 48 and value is 100
+key is 27 and value is 100
+key is 28 and value is 100
+key is 51 and value is 100
+Count = 5 500
+error prob = 1
+428
+avg error per element= 0.840552575360204
+key is 48 and value is 100
+key is 27 and value is 100
+key is 51 and value is 100
+Count = 3 300
+error prob = 1
+429
+avg error per element= 0.842528859945184
+key is 48 and value is 100
+key is 29 and value is 100
+key is 28 and value is 100
+key is 51 and value is 100
+key is 52 and value is 100
+Count = 5 500
+error prob = 1
+430
+avg error per element= 0.844505144530165
+key is 32 and value is 100
+key is 48 and value is 100
+key is 30 and value is 100
+key is 29 and value is 100
+key is 52 and value is 100
+key is 31 and value is 100
+key is 54 and value is 100
+Count = 7 700
+error prob = 1
+431
+avg error per element= 0.846481429115145
+key is 32 and value is 100
+key is 48 and value is 100
+key is 46 and value is 100
+key is 30 and value is 100
+key is 29 and value is 100
+key is 52 and value is 100
+key is 45 and value is 100
+key is 31 and value is 100
+key is 62 and value is 100
+key is 54 and value is 100
+Count = 10 1000
+error prob = 1
+432
+avg error per element= 0.848457713700125
+key is 32 and value is 100
+key is 48 and value is 100
+key is 30 and value is 100
+key is 29 and value is 100
+key is 44 and value is 100
+key is 61 and value is 100
+key is 52 and value is 100
+key is 45 and value is 100
+key is 43 and value is 100
+key is 31 and value is 100
+key is 62 and value is 100
+key is 54 and value is 100
+Count = 12 1200
+error prob = 1
+433
+avg error per element= 0.850433998285105
+key is 32 and value is 100
+key is 26 and value is 100
+key is 48 and value is 100
+key is 42 and value is 100
+key is 30 and value is 100
+key is 29 and value is 100
+key is 27 and value is 100
+key is 28 and value is 100
+key is 40 and value is 100
+key is 51 and value is 100
+key is 41 and value is 100
+key is 59 and value is 100
+key is 60 and value is 100
+key is 43 and value is 100
+key is 31 and value is 100
+key is 54 and value is 100
+Count = 16 1600
+error prob = 1
+434
+avg error per element= 0.852410282870086
+key is 26 and value is 100
+key is 48 and value is 100
+key is 27 and value is 100
+key is 40 and value is 100
+key is 51 and value is 100
+key is 59 and value is 100
+key is 54 and value is 100
+Count = 7 700
+error prob = 1
+435
+avg error per element= 0.854386567455066
+key is 26 and value is 100
+key is 48 and value is 100
+key is 27 and value is 100
+key is 51 and value is 100
+Count = 4 400
+error prob = 1
+436
+avg error per element= 0.856362852040046
+key is 26 and value is 100
+key is 48 and value is 100
+key is 51 and value is 100
+Count = 3 300
+error prob = 1
+437
+avg error per element= 0.858339136625026
+key is 26 and value is 100
+key is 48 and value is 100
+key is 27 and value is 100
+key is 28 and value is 100
+key is 51 and value is 100
+Count = 5 500
+error prob = 1
+438
+avg error per element= 0.860315421210006
+key is 32 and value is 100
+key is 48 and value is 100
+key is 30 and value is 100
+key is 29 and value is 100
+key is 28 and value is 100
+key is 52 and value is 100
+key is 31 and value is 100
+key is 54 and value is 100
+Count = 8 800
+error prob = 1
+439
+avg error per element= 0.862291705794987
+key is 32 and value is 100
+key is 48 and value is 100
+key is 46 and value is 100
+key is 30 and value is 100
+key is 29 and value is 100
+key is 44 and value is 100
+key is 28 and value is 100
+key is 61 and value is 100
+key is 52 and value is 100
+key is 45 and value is 100
+key is 31 and value is 100
+key is 62 and value is 100
+key is 54 and value is 100
+Count = 13 1300
+error prob = 1
+440
+avg error per element= 0.864267990379967
+key is 32 and value is 100
+key is 42 and value is 100
+key is 30 and value is 100
+key is 29 and value is 100
+key is 44 and value is 100
+key is 28 and value is 100
+key is 61 and value is 100
+key is 60 and value is 100
+key is 43 and value is 100
+key is 31 and value is 100
+key is 54 and value is 100
+Count = 11 1100
+error prob = 1
+441
+avg error per element= 0.866244274964947
+key is 32 and value is 100
+key is 26 and value is 100
+key is 42 and value is 100
+key is 30 and value is 100
+key is 29 and value is 100
+key is 27 and value is 100
+key is 28 and value is 100
+key is 40 and value is 100
+key is 51 and value is 100
+key is 41 and value is 100
+key is 59 and value is 100
+key is 60 and value is 100
+key is 31 and value is 100
+key is 54 and value is 100
+Count = 14 1400
+error prob = 1
+442
+avg error per element= 0.868220559549927
+key is 26 and value is 100
+key is 48 and value is 100
+key is 51 and value is 100
+key is 59 and value is 100
+key is 54 and value is 100
+Count = 5 500
+error prob = 1
+443
+avg error per element= 0.870196844134908
+key is 26 and value is 100
+key is 48 and value is 100
+key is 51 and value is 100
+Count = 3 300
+error prob = 1
+444
+avg error per element= 0.872173128719888
+key is 51 and value is 100
+Count = 1 100
+error prob = 1
+445
+avg error per element= 0.874149413304868
+key is 26 and value is 100
+key is 48 and value is 100
+key is 27 and value is 100
+key is 51 and value is 100
+Count = 4 400
+error prob = 1
+446
+avg error per element= 0.876125697889848
+key is 32 and value is 100
+key is 26 and value is 100
+key is 48 and value is 100
+key is 30 and value is 100
+key is 29 and value is 100
+key is 27 and value is 100
+key is 28 and value is 100
+key is 52 and value is 100
+key is 31 and value is 100
+key is 54 and value is 100
+Count = 10 1000
+error prob = 1
+447
+avg error per element= 0.878101982474829
+key is 32 and value is 100
+key is 48 and value is 100
+key is 46 and value is 100
+key is 30 and value is 100
+key is 29 and value is 100
+key is 44 and value is 100
+key is 27 and value is 100
+key is 28 and value is 100
+key is 61 and value is 100
+key is 52 and value is 100
+key is 45 and value is 100
+key is 43 and value is 100
+key is 31 and value is 100
+key is 62 and value is 100
+key is 54 and value is 100
+Count = 15 1500
+error prob = 1
+448
+avg error per element= 0.880078267059809
+key is 32 and value is 100
+key is 26 and value is 100
+key is 42 and value is 100
+key is 30 and value is 100
+key is 29 and value is 100
+key is 27 and value is 100
+key is 28 and value is 100
+key is 41 and value is 100
+key is 60 and value is 100
+key is 43 and value is 100
+key is 31 and value is 100
+key is 54 and value is 100
+Count = 12 1200
+error prob = 1
+449
+avg error per element= 0.882054551644789
+There was a false negative in error number 22 and position 450
+There was a false negative in error number 26 and position 450
+There was a false negative in error number 34 and position 450
+There was a false negative in error number 36 and position 450
+There was a false negative in error number 39 and position 450
+There was a false negative in error number 42 and position 450
+There was a false negative in error number 43 and position 450
+There was a false negative in error number 68 and position 450
+key is 26 and value is 100
+key is 48 and value is 92
+key is 30 and value is 100
+key is 29 and value is 100
+key is 27 and value is 100
+key is 28 and value is 100
+key is 40 and value is 100
+key is 51 and value is 100
+key is 41 and value is 100
+key is 59 and value is 100
+key is 31 and value is 100
+key is 54 and value is 100
+Count = 12 1192
+error prob = 0.993333333333333
+450
+avg error per element= 0.884017660999203
+key is 51 and value is 100
+Count = 1 100
+error prob = 1
+451
+avg error per element= 0.885993945584183
+key is 51 and value is 100
+Count = 1 100
+error prob = 1
+avg error per element= 0.887970230169163
+key is 32 and value is 100
+key is 46 and value is 100
+key is 31 and value is 100
+Count = 3 300
+error prob = 1
+453
+avg error per element= 0.889946514754143
+key is 32 and value is 100
+key is 46 and value is 100
+Count = 2 200
+error prob = 1
+454
+avg error per element= 0.891922799339124
+key is 32 and value is 100
+key is 46 and value is 100
+Count = 2 200
+error prob = 1
+455
+avg error per element= 0.893899083924104
+key is 32 and value is 100
+Count = 1 100
+error prob = 1
+avg error per element= 0.895879281943906
+key is 32 and value is 100
+Count = 1 100
+error prob = 1
+458
+avg error per element= 0.897859479963708
+key is 32 and value is 100
+key is 31 and value is 100
+Count = 2 200
+error prob = 1
+459
+avg error per element= 0.89983967798351
+key is 32 and value is 100
+key is 45 and value is 100
+key is 31 and value is 100
+Count = 3 300
+error prob = 1
+460
+avg error per element= 0.901819876003312
+key is 30 and value is 100
+key is 45 and value is 100
+key is 31 and value is 100
+Count = 3 300
+error prob = 1
+461
+avg error per element= 0.903800074023114
+key is 45 and value is 100
+key is 31 and value is 100
+Count = 2 200
+error prob = 1
+462
+avg error per element= 0.905780272042916
+key is 32 and value is 100
+key is 46 and value is 100
+key is 45 and value is 100
+key is 31 and value is 100
+Count = 4 400
+error prob = 1
+avg error per element= 0.907760470062718
+key is 32 and value is 100
+Count = 1 100
+error prob = 1
+464
+avg error per element= 0.90974066808252
+key is 32 and value is 100
+key is 31 and value is 100
+Count = 2 200
+error prob = 1
+avg error per element= 0.911720866102322
+key is 31 and value is 100
+Count = 1 100
+error prob = 1
+466
+avg error per element= 0.913701064122124
+key is 30 and value is 100
+key is 44 and value is 100
+key is 31 and value is 100
+Count = 3 300
+error prob = 1
+467
+avg error per element= 0.915681262141926
+key is 30 and value is 100
+key is 29 and value is 100
+key is 43 and value is 100
+Count = 3 300
+error prob = 1
+468
+avg error per element= 0.917661460161728
+key is 30 and value is 100
+key is 44 and value is 100
+key is 29 and value is 100
+key is 43 and value is 100
+Count = 4 400
+error prob = 1
+469
+avg error per element= 0.91964165818153
+key is 30 and value is 100
+key is 44 and value is 100
+Count = 2 200
+error prob = 1
+470
+avg error per element= 0.921621856201332
+key is 30 and value is 100
+key is 44 and value is 100
+key is 31 and value is 100
+Count = 3 300
+error prob = 1
+471
+avg error per element= 0.923602054221134
+key is 31 and value is 100
+Count = 1 100
+error prob = 1
+472
+avg error per element= 0.925582252240935
+key is 30 and value is 100
+key is 31 and value is 100
+Count = 2 200
+error prob = 1
+473
+avg error per element= 0.927562450260737
+key is 30 and value is 100
+Count = 1 100
+error prob = 1
+474
+avg error per element= 0.929542648280539
+key is 30 and value is 100
+key is 29 and value is 100
+Count = 2 200
+error prob = 1
+475
+avg error per element= 0.931522846300341
+key is 42 and value is 100
+key is 29 and value is 100
+key is 28 and value is 100
+Count = 3 300
+error prob = 1
+476
+avg error per element= 0.933503044320143
+key is 42 and value is 100
+key is 29 and value is 100
+key is 28 and value is 100
+key is 43 and value is 100
+Count = 4 400
+error prob = 1
+477
+avg error per element= 0.935483242339945
+key is 29 and value is 100
+key is 43 and value is 100
+Count = 2 200
+error prob = 1
+478
+avg error per element= 0.937463440359747
+key is 30 and value is 100
+key is 44 and value is 100
+key is 29 and value is 100
+key is 43 and value is 100
+Count = 4 400
+error prob = 1
+479
+avg error per element= 0.939443638379549
+key is 30 and value is 100
+Count = 1 100
+error prob = 1
+480
+avg error per element= 0.941423836399351
+key is 30 and value is 100
+key is 29 and value is 100
+Count = 2 200
+error prob = 1
+481
+avg error per element= 0.943404034419153
+key is 29 and value is 100
+Count = 1 100
+error prob = 1
+482
+avg error per element= 0.945384232438955
+key is 29 and value is 100
+key is 28 and value is 100
+Count = 2 200
+error prob = 1
+483
+avg error per element= 0.947364430458757
+key is 27 and value is 100
+key is 28 and value is 100
+key is 41 and value is 100
+Count = 3 300
+error prob = 1
+484
+avg error per element= 0.949344628478559
+key is 42 and value is 100
+key is 27 and value is 100
+key is 28 and value is 100
+key is 41 and value is 100
+Count = 4 400
+error prob = 1
+485
+avg error per element= 0.951324826498361
+key is 42 and value is 100
+key is 28 and value is 100
+Count = 2 200
+error prob = 1
+486
+avg error per element= 0.953305024518163
+key is 42 and value is 100
+key is 29 and value is 100
+key is 28 and value is 100
+Count = 3 300
+error prob = 1
+487
+avg error per element= 0.955285222537965
+key is 29 and value is 100
+key is 28 and value is 100
+Count = 2 200
+error prob = 1
+488
+avg error per element= 0.957265420557767
+key is 29 and value is 100
+key is 28 and value is 100
+Count = 2 200
+error prob = 1
+489
+avg error per element= 0.959245618577569
+key is 28 and value is 100
+Count = 1 100
+error prob = 1
+490
+avg error per element= 0.961225816597371
+key is 27 and value is 100
+key is 28 and value is 100
+Count = 2 200
+error prob = 1
+491
+avg error per element= 0.963206014617173
+key is 26 and value is 100
+key is 40 and value is 100
+Count = 2 200
+error prob = 1
+492
+avg error per element= 0.965186212636975
+key is 26 and value is 100
+key is 27 and value is 100
+key is 40 and value is 100
+Count = 3 300
+error prob = 1
+493
+avg error per element= 0.967166410656777
+key is 27 and value is 100
+key is 41 and value is 100
+Count = 2 200
+error prob = 1
+494
+avg error per element= 0.969146608676579
+key is 27 and value is 100
+key is 28 and value is 100
+key is 41 and value is 100
+Count = 3 300
+error prob = 1
+495
+avg error per element= 0.971126806696381
+key is 27 and value is 100
+key is 28 and value is 100
+Count = 2 200
+error prob = 1
+496
+avg error per element= 0.973107004716183
+key is 27 and value is 100
+key is 28 and value is 100
+Count = 2 200
+error prob = 1
+497
+avg error per element= 0.975087202735985
+key is 27 and value is 100
+Count = 1 100
+error prob = 1
+498
+avg error per element= 0.977067400755787
+key is 26 and value is 100
+key is 27 and value is 100
+Count = 2 200
+error prob = 1
+499
+avg error per element= 0.979047598775589
+key is 26 and value is 100
+Count = 1 100
+error prob = 1
+501
+avg error per element= 0.981031725759716
+key is 26 and value is 100
+key is 40 and value is 100
+Count = 2 200
+error prob = 1
+502
+avg error per element= 0.983015852743843
+key is 26 and value is 100
+key is 27 and value is 100
+key is 40 and value is 100
+Count = 3 300
+error prob = 1
+503
+avg error per element= 0.98499997972797
+key is 26 and value is 100
+key is 27 and value is 100
+Count = 2 200
+error prob = 1
+504
+avg error per element= 0.986984106712097
+key is 26 and value is 100
+key is 27 and value is 100
+Count = 2 200
+error prob = 1
+505
+avg error per element= 0.988968233696224
+key is 26 and value is 100
+Count = 1 100
+error prob = 1
+506
+avg error per element= 0.990952360680351
+key is 26 and value is 100
+Count = 1 100
+error prob = 1
+avg error per element= 0.992936487664478
+Average error is = 0.00447068251844014
+Average error per element = 0.00706351233552216

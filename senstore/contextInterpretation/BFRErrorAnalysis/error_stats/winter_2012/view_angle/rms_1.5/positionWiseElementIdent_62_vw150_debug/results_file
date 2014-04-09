@@ -1,0 +1,60 @@
+There was a false negative in error number 0 and position 84
+There was a false negative in error number 1 and position 84
+There was a false negative in error number 2 and position 84
+There was a false negative in error number 3 and position 84
+There was a false negative in error number 4 and position 84
+There was a false negative in error number 5 and position 84
+There was a false negative in error number 6 and position 84
+There was a false negative in error number 11 and position 84
+There was a false negative in error number 13 and position 84
+There was a false negative in error number 15 and position 84
+There was a false negative in error number 16 and position 84
+There was a false negative in error number 17 and position 84
+There was a false negative in error number 18 and position 84
+There was a false negative in error number 21 and position 84
+There was a false negative in error number 23 and position 84
+There was a false negative in error number 26 and position 84
+There was a false negative in error number 27 and position 84
+There was a false negative in error number 29 and position 84
+There was a false negative in error number 33 and position 84
+There was a false negative in error number 34 and position 84
+There was a false negative in error number 39 and position 84
+There was a false negative in error number 40 and position 84
+There was a false negative in error number 41 and position 84
+There was a false negative in error number 43 and position 84
+There was a false negative in error number 44 and position 84
+There was a false negative in error number 47 and position 84
+There was a false negative in error number 48 and position 84
+There was a false negative in error number 53 and position 84
+There was a false negative in error number 54 and position 84
+There was a false negative in error number 56 and position 84
+There was a false negative in error number 57 and position 84
+There was a false negative in error number 58 and position 84
+There was a false negative in error number 62 and position 84
+There was a false negative in error number 64 and position 84
+There was a false negative in error number 65 and position 84
+There was a false negative in error number 66 and position 84
+There was a false negative in error number 68 and position 84
+There was a false negative in error number 69 and position 84
+There was a false negative in error number 70 and position 84
+There was a false negative in error number 73 and position 84
+There was a false negative in error number 74 and position 84
+There was a false negative in error number 76 and position 84
+There was a false negative in error number 77 and position 84
+There was a false negative in error number 79 and position 84
+There was a false negative in error number 81 and position 84
+There was a false negative in error number 84 and position 84
+There was a false negative in error number 85 and position 84
+There was a false negative in error number 88 and position 84
+There was a false negative in error number 93 and position 84
+There was a false negative in error number 97 and position 84
+key is 8 and value is 97
+key is 11 and value is 97
+key is 24 and value is 100
+key is 2 and value is 100
+key is 14 and value is 50
+key is 5 and value is 93
+Count = 6 537
+84
+Average error is = 0.000984251968503937
+Average error per element = 0.105

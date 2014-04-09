@@ -1,0 +1,17 @@
+Elements identified in the base and error files: 
+11->100
+2->100
+22->100
+23->63
+6->100
+3->100
+9->100
+12->100
+14->100
+15->100
+8->100
+5->100
+False Positives: 
+21->43
+17->8
+False Negatives: 

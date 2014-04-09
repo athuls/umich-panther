@@ -1,0 +1,2108 @@
+key is 3 and value is 100
+key is 7 and value is 100
+Count = 0 200
+error prob = 0.181818181818182
+0
+avg error per element= 0.000357909806728704
+key is 7 and value is 53
+Count = 0 53
+error prob = 0.0481818181818182
+1
+avg error per element= 0.000452755905511811
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 0 200
+error prob = 0.222222222222222
+2
+avg error per element= 0.000890201224846894
+Count = 0 0
+error prob = 0
+avg error per element= 0.000890201224846894
+Count = 0 0
+error prob = 0
+avg error per element= 0.000890201224846894
+key is 7 and value is 100
+key is 5 and value is 100
+Count = 0 200
+error prob = 0.181818181818182
+5
+avg error per element= 0.0012481110315756
+Count = 0 0
+error prob = 0
+avg error per element= 0.0012481110315756
+key is 2 and value is 100
+Count = 0 100
+error prob = 0.111111111111111
+7
+avg error per element= 0.00146683369124314
+Count = 0 0
+error prob = 0
+avg error per element= 0.00146683369124314
+Count = 0 0
+error prob = 0
+avg error per element= 0.00146683369124314
+Count = 0 0
+error prob = 0
+avg error per element= 0.00146683369124314
+Count = 0 0
+error prob = 0
+avg error per element= 0.00146683369124314
+Count = 0 0
+error prob = 0
+avg error per element= 0.00146683369124314
+key is 2 and value is 100
+Count = 0 100
+error prob = 0.111111111111111
+13
+avg error per element= 0.00168555635091068
+key is 6 and value is 100
+Count = 0 100
+error prob = 0.142857142857143
+14
+avg error per element= 0.00196677119905466
+key is 4 and value is 100
+key is 7 and value is 100
+key is 5 and value is 100
+Count = 0 300
+error prob = 0.333333333333333
+15
+avg error per element= 0.00262293917805729
+Count = 0 0
+error prob = 0
+avg error per element= 0.00262293917805729
+Count = 0 0
+error prob = 0
+avg error per element= 0.00262293917805729
+Count = 0 0
+error prob = 0
+avg error per element= 0.00262293917805729
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 0 200
+error prob = 0.222222222222222
+19
+avg error per element= 0.00306038449739237
+key is 6 and value is 100
+Count = 0 100
+error prob = 0.142857142857143
+20
+avg error per element= 0.00334159934553635
+key is 7 and value is 100
+key is 5 and value is 100
+Count = 0 200
+error prob = 0.222222222222222
+21
+avg error per element= 0.00377904466487144
+Count = 0 0
+error prob = 0
+avg error per element= 0.00377904466487144
+Count = 0 0
+error prob = 0
+avg error per element= 0.00377904466487144
+Count = 0 0
+error prob = 0
+avg error per element= 0.00377904466487144
+key is 3 and value is 100
+Count = 0 100
+error prob = 0.125
+25
+avg error per element= 0.00402510765699742
+key is 6 and value is 100
+Count = 0 100
+error prob = 0.142857142857143
+26
+avg error per element= 0.0043063225051414
+key is 7 and value is 100
+Count = 0 100
+error prob = 0.111111111111111
+27
+avg error per element= 0.00452504516480894
+key is 6 and value is 100
+Count = 0 100
+error prob = 0.1
+28
+avg error per element= 0.00472189555850973
+Count = 0 0
+error prob = 0
+avg error per element= 0.00472189555850973
+Count = 0 0
+error prob = 0
+avg error per element= 0.00472189555850973
+key is 6 and value is 100
+Count = 0 100
+error prob = 0.142857142857143
+31
+avg error per element= 0.00500311040665371
+key is 4 and value is 100
+Count = 0 100
+error prob = 0.142857142857143
+32
+avg error per element= 0.0052843252547977
+key is 7 and value is 100
+Count = 0 100
+error prob = 0.111111111111111
+33
+avg error per element= 0.00550304791446524
+Count = 0 0
+error prob = 0
+avg error per element= 0.00550304791446524
+key is 6 and value is 100
+Count = 0 100
+error prob = 0.0909090909090909
+35
+avg error per element= 0.00568200281782959
+Count = 0 0
+error prob = 0
+avg error per element= 0.00568200281782959
+Count = 0 0
+error prob = 0
+avg error per element= 0.00568200281782959
+key is 4 and value is 100
+key is 7 and value is 100
+key is 5 and value is 100
+Count = 0 300
+error prob = 0.333333333333333
+38
+avg error per element= 0.00633817079683221
+key is 7 and value is 100
+Count = 0 100
+error prob = 0.111111111111111
+39
+avg error per element= 0.00655689345649975
+Count = 0 0
+error prob = 0
+avg error per element= 0.00655689345649975
+Count = 0 0
+error prob = 0
+avg error per element= 0.00655689345649975
+Count = 0 0
+error prob = 0
+avg error per element= 0.00655689345649975
+Count = 0 0
+error prob = 0
+avg error per element= 0.00655689345649975
+key is 4 and value is 100
+key is 7 and value is 100
+key is 5 and value is 100
+Count = 0 300
+error prob = 0.333333333333333
+44
+avg error per element= 0.00721306143550238
+key is 6 and value is 100
+key is 7 and value is 100
+Count = 0 200
+error prob = 0.2
+45
+avg error per element= 0.00760676222290395
+Count = 0 0
+error prob = 0
+avg error per element= 0.00760676222290395
+Count = 0 0
+error prob = 0
+avg error per element= 0.00760676222290395
+Count = 0 0
+error prob = 0
+avg error per element= 0.00760676222290395
+Count = 0 0
+error prob = 0
+avg error per element= 0.00760676222290395
+key is 7 and value is 100
+key is 5 and value is 100
+Count = 0 200
+error prob = 0.222222222222222
+50
+avg error per element= 0.00804420754223904
+key is 6 and value is 100
+key is 7 and value is 100
+key is 5 and value is 100
+Count = 0 300
+error prob = 0.3
+51
+avg error per element= 0.0086347587233414
+Count = 0 0
+error prob = 0
+avg error per element= 0.0086347587233414
+Count = 0 0
+error prob = 0
+avg error per element= 0.0086347587233414
+Count = 0 0
+error prob = 0
+avg error per element= 0.0086347587233414
+Count = 0 0
+error prob = 0
+avg error per element= 0.0086347587233414
+Count = 0 0
+error prob = 0
+avg error per element= 0.0086347587233414
+key is 4 and value is 100
+key is 5 and value is 100
+Count = 0 200
+error prob = 0.222222222222222
+57
+avg error per element= 0.00907220404267648
+Count = 0 0
+error prob = 0
+avg error per element= 0.00907220404267648
+Count = 0 0
+error prob = 0
+avg error per element= 0.00907220404267648
+Count = 0 0
+error prob = 0
+avg error per element= 0.00907220404267648
+Count = 0 0
+error prob = 0
+avg error per element= 0.00907220404267648
+Count = 0 0
+error prob = 0
+avg error per element= 0.00907220404267648
+key is 4 and value is 100
+key is 5 and value is 100
+Count = 0 200
+error prob = 0.222222222222222
+63
+avg error per element= 0.00950964936201157
+Count = 0 0
+error prob = 0
+avg error per element= 0.00950964936201157
+Count = 0 0
+error prob = 0
+avg error per element= 0.00950964936201157
+Count = 0 0
+error prob = 0
+avg error per element= 0.00950964936201157
+Count = 0 0
+error prob = 0
+avg error per element= 0.00950964936201157
+key is 6 and value is 100
+Count = 0 100
+error prob = 0.1
+68
+avg error per element= 0.00970649975571235
+key is 4 and value is 100
+key is 5 and value is 100
+Count = 0 200
+error prob = 0.222222222222222
+69
+avg error per element= 0.0101439450750474
+Count = 0 0
+error prob = 0
+avg error per element= 0.0101439450750474
+Count = 0 0
+error prob = 0
+avg error per element= 0.0101439450750474
+Count = 0 0
+error prob = 0
+avg error per element= 0.0101439450750474
+Count = 0 0
+error prob = 0
+avg error per element= 0.0101439450750474
+key is 6 and value is 100
+Count = 0 100
+error prob = 0.1
+74
+avg error per element= 0.0103407954687482
+key is 4 and value is 100
+key is 5 and value is 100
+Count = 0 200
+error prob = 0.222222222222222
+75
+avg error per element= 0.0107782407880833
+Count = 0 0
+error prob = 0
+avg error per element= 0.0107782407880833
+Count = 0 0
+error prob = 0
+avg error per element= 0.0107782407880833
+Count = 0 0
+error prob = 0
+avg error per element= 0.0107782407880833
+key is 4 and value is 100
+key is 7 and value is 100
+key is 5 and value is 100
+Count = 0 300
+error prob = 0.333333333333333
+79
+avg error per element= 0.0114344087670859
+key is 6 and value is 100
+Count = 0 100
+error prob = 0.1
+80
+avg error per element= 0.0116312591607867
+key is 4 and value is 100
+key is 5 and value is 100
+Count = 0 200
+error prob = 0.222222222222222
+81
+avg error per element= 0.0120687044801218
+Count = 0 0
+error prob = 0
+avg error per element= 0.0120687044801218
+Count = 0 0
+error prob = 0
+avg error per element= 0.0120687044801218
+Count = 0 0
+error prob = 0
+avg error per element= 0.0120687044801218
+key is 7 and value is 100
+key is 5 and value is 38
+Count = 0 138
+error prob = 0.153333333333333
+85
+avg error per element= 0.012370541750463
+Count = 0 0
+error prob = 0
+avg error per element= 0.012370541750463
+key is 5 and value is 100
+Count = 0 100
+error prob = 0.125
+87
+avg error per element= 0.012616604742589
+Count = 0 0
+error prob = 0
+avg error per element= 0.012616604742589
+Count = 0 0
+error prob = 0
+avg error per element= 0.012616604742589
+Count = 0 0
+error prob = 0
+avg error per element= 0.012616604742589
+Count = 0 0
+error prob = 0
+avg error per element= 0.012616604742589
+key is 7 and value is 100
+Count = 0 100
+error prob = 0.1
+92
+avg error per element= 0.0128134551362898
+Count = 0 0
+error prob = 0
+avg error per element= 0.0128134551362898
+Count = 0 0
+error prob = 0
+avg error per element= 0.0128134551362898
+Count = 0 0
+error prob = 0
+avg error per element= 0.0128134551362898
+Count = 0 0
+error prob = 0
+avg error per element= 0.0128134551362898
+Count = 0 0
+error prob = 0
+avg error per element= 0.0128134551362898
+key is 7 and value is 100
+Count = 0 100
+error prob = 0.1
+98
+avg error per element= 0.0130103055299906
+Count = 0 0
+error prob = 0
+avg error per element= 0.0130103055299906
+Count = 0 0
+error prob = 0
+avg error per element= 0.0130103055299906
+Count = 0 0
+error prob = 0
+avg error per element= 0.0130103055299906
+Count = 0 0
+error prob = 0
+avg error per element= 0.0130103055299906
+Count = 0 0
+error prob = 0
+avg error per element= 0.0130103055299906
+key is 7 and value is 100
+Count = 0 100
+error prob = 0.1
+104
+avg error per element= 0.0132071559236914
+Count = 0 0
+error prob = 0
+avg error per element= 0.0132071559236914
+Count = 0 0
+error prob = 0
+avg error per element= 0.0132071559236914
+Count = 0 0
+error prob = 0
+avg error per element= 0.0132071559236914
+Count = 0 0
+error prob = 0
+avg error per element= 0.0132071559236914
+key is 6 and value is 100
+Count = 0 100
+error prob = 0.111111111111111
+109
+avg error per element= 0.0134258785833589
+Count = 0 0
+error prob = 0
+avg error per element= 0.0134258785833589
+Count = 0 0
+error prob = 0
+avg error per element= 0.0134258785833589
+Count = 0 0
+error prob = 0
+avg error per element= 0.0134258785833589
+Count = 0 0
+error prob = 0
+avg error per element= 0.0134258785833589
+Count = 0 0
+error prob = 0
+avg error per element= 0.0134258785833589
+key is 6 and value is 2
+Count = 0 2
+error prob = 0.00222222222222222
+115
+avg error per element= 0.0134302530365522
+Count = 0 0
+error prob = 0
+avg error per element= 0.0134302530365522
+Count = 0 0
+error prob = 0
+avg error per element= 0.0134302530365522
+Count = 0 0
+error prob = 0
+avg error per element= 0.0134302530365522
+Count = 0 0
+error prob = 0
+avg error per element= 0.0134302530365522
+Count = 0 0
+error prob = 0
+avg error per element= 0.0134302530365522
+Count = 0 0
+error prob = 0
+avg error per element= 0.0134302530365522
+key is 4 and value is 100
+key is 5 and value is 100
+Count = 0 200
+error prob = 0.222222222222222
+122
+avg error per element= 0.0138676983558873
+Count = 0 0
+error prob = 0
+avg error per element= 0.0138676983558873
+Count = 0 0
+error prob = 0
+avg error per element= 0.0138676983558873
+Count = 0 0
+error prob = 0
+avg error per element= 0.0138676983558873
+Count = 0 0
+error prob = 0
+avg error per element= 0.0138676983558873
+Count = 0 0
+error prob = 0
+avg error per element= 0.0138676983558873
+key is 4 and value is 100
+key is 5 and value is 100
+Count = 0 200
+error prob = 0.222222222222222
+128
+avg error per element= 0.0143051436752224
+Count = 0 0
+error prob = 0
+avg error per element= 0.0143051436752224
+key is 3 and value is 100
+Count = 0 100
+error prob = 0.125
+130
+avg error per element= 0.0145512066673484
+key is 7 and value is 100
+Count = 0 100
+error prob = 0.0909090909090909
+131
+avg error per element= 0.0147301615707127
+Count = 0 0
+error prob = 0
+avg error per element= 0.0147301615707127
+Count = 0 0
+error prob = 0
+avg error per element= 0.0147301615707127
+key is 4 and value is 100
+key is 5 and value is 100
+Count = 0 200
+error prob = 0.222222222222222
+134
+avg error per element= 0.0151676068900478
+Count = 0 0
+error prob = 0
+avg error per element= 0.0151676068900478
+key is 7 and value is 100
+Count = 0 100
+error prob = 0.0909090909090909
+136
+avg error per element= 0.0153465617934122
+Count = 0 0
+error prob = 0
+avg error per element= 0.0153465617934122
+key is 4 and value is 100
+Count = 0 100
+error prob = 0.125
+138
+avg error per element= 0.0155926247855382
+key is 5 and value is 100
+Count = 0 100
+error prob = 0.125
+139
+avg error per element= 0.0158386877776641
+Count = 0 0
+error prob = 0
+avg error per element= 0.0158386877776641
+Count = 0 0
+error prob = 0
+avg error per element= 0.0158386877776641
+Count = 0 0
+error prob = 0
+avg error per element= 0.0158386877776641
+Count = 0 0
+error prob = 0
+avg error per element= 0.0158386877776641
+Count = 0 0
+error prob = 0
+avg error per element= 0.0158386877776641
+key is 4 and value is 100
+key is 5 and value is 100
+Count = 0 200
+error prob = 0.222222222222222
+145
+avg error per element= 0.0162761330969992
+Count = 0 0
+error prob = 0
+avg error per element= 0.0162761330969992
+key is 2 and value is 100
+Count = 0 100
+error prob = 0.111111111111111
+147
+avg error per element= 0.0164948557566668
+Count = 0 0
+error prob = 0
+avg error per element= 0.0164948557566668
+Count = 0 0
+error prob = 0
+avg error per element= 0.0164948557566668
+Count = 0 0
+error prob = 0
+avg error per element= 0.0164948557566668
+key is 6 and value is 100
+key is 4 and value is 65
+key is 5 and value is 100
+Count = 0 265
+error prob = 0.294444444444444
+151
+avg error per element= 0.0170744708047858
+Count = 0 0
+error prob = 0
+avg error per element= 0.0170744708047858
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 0 200
+error prob = 0.222222222222222
+153
+avg error per element= 0.0175119161241208
+Count = 0 0
+error prob = 0
+avg error per element= 0.0175119161241208
+Count = 0 0
+error prob = 0
+avg error per element= 0.0175119161241208
+Count = 0 0
+error prob = 0
+avg error per element= 0.0175119161241208
+key is 6 and value is 100
+Count = 0 100
+error prob = 0.111111111111111
+157
+avg error per element= 0.0177306387837884
+Count = 0 0
+error prob = 0
+avg error per element= 0.0177306387837884
+key is 3 and value is 100
+key is 2 and value is 100
+Count = 0 200
+error prob = 0.222222222222222
+159
+avg error per element= 0.0181680841031235
+Count = 0 0
+error prob = 0
+avg error per element= 0.0181680841031235
+key is 7 and value is 100
+Count = 0 100
+error prob = 0.0909090909090909
+161
+avg error per element= 0.0183470390064878
+Count = 0 0
+error prob = 0
+avg error per element= 0.0183470390064878
+key is 6 and value is 100
+Count = 0 100
+error prob = 0.111111111111111
+163
+avg error per element= 0.0185657616661554
+Count = 0 0
+error prob = 0
+avg error per element= 0.0185657616661554
+Count = 0 0
+error prob = 0
+avg error per element= 0.0185657616661554
+Count = 0 0
+error prob = 0
+avg error per element= 0.0185657616661554
+Count = 0 0
+error prob = 0
+avg error per element= 0.0185657616661554
+Count = 0 0
+error prob = 0
+avg error per element= 0.0185657616661554
+key is 6 and value is 100
+Count = 0 100
+error prob = 0.111111111111111
+169
+avg error per element= 0.0187844843258229
+key is 4 and value is 100
+key is 5 and value is 100
+Count = 0 200
+error prob = 0.222222222222222
+170
+avg error per element= 0.019221929645158
+Count = 0 0
+error prob = 0
+avg error per element= 0.019221929645158
+Count = 0 0
+error prob = 0
+avg error per element= 0.019221929645158
+Count = 0 0
+error prob = 0
+avg error per element= 0.019221929645158
+Count = 0 0
+error prob = 0
+avg error per element= 0.019221929645158
+key is 6 and value is 100
+key is 7 and value is 100
+Count = 0 200
+error prob = 0.2
+175
+avg error per element= 0.0196156304325596
+key is 4 and value is 100
+key is 5 and value is 100
+Count = 0 200
+error prob = 0.222222222222222
+176
+avg error per element= 0.0200530757518946
+Count = 0 0
+error prob = 0
+avg error per element= 0.0200530757518946
+Count = 0 0
+error prob = 0
+avg error per element= 0.0200530757518946
+Count = 0 0
+error prob = 0
+avg error per element= 0.0200530757518946
+Count = 0 0
+error prob = 0
+avg error per element= 0.0200530757518946
+key is 6 and value is 100
+key is 7 and value is 100
+key is 5 and value is 100
+Count = 0 300
+error prob = 0.3
+181
+avg error per element= 0.020643626932997
+key is 5 and value is 100
+Count = 0 100
+error prob = 0.111111111111111
+182
+avg error per element= 0.0208623495926645
+Count = 0 0
+error prob = 0
+avg error per element= 0.0208623495926645
+Count = 0 0
+error prob = 0
+avg error per element= 0.0208623495926645
+Count = 0 0
+error prob = 0
+avg error per element= 0.0208623495926645
+Count = 0 0
+error prob = 0
+avg error per element= 0.0208623495926645
+key is 4 and value is 100
+key is 7 and value is 100
+key is 5 and value is 100
+Count = 0 300
+error prob = 0.333333333333333
+187
+avg error per element= 0.0215185175716672
+Count = 0 0
+error prob = 0
+avg error per element= 0.0215185175716672
+Count = 0 0
+error prob = 0
+avg error per element= 0.0215185175716672
+Count = 0 0
+error prob = 0
+avg error per element= 0.0215185175716672
+Count = 0 0
+error prob = 0
+avg error per element= 0.0215185175716672
+Count = 0 0
+error prob = 0
+avg error per element= 0.0215185175716672
+key is 4 and value is 100
+key is 7 and value is 100
+key is 5 and value is 100
+Count = 0 300
+error prob = 0.333333333333333
+193
+avg error per element= 0.0221746855506698
+Count = 0 0
+error prob = 0
+avg error per element= 0.0221746855506698
+Count = 0 0
+error prob = 0
+avg error per element= 0.0221746855506698
+Count = 0 0
+error prob = 0
+avg error per element= 0.0221746855506698
+Count = 0 0
+error prob = 0
+avg error per element= 0.0221746855506698
+Count = 0 0
+error prob = 0
+avg error per element= 0.0221746855506698
+key is 4 and value is 100
+key is 7 and value is 100
+key is 5 and value is 100
+Count = 0 300
+error prob = 0.333333333333333
+199
+avg error per element= 0.0228308535296724
+key is 7 and value is 100
+Count = 0 100
+error prob = 0.1
+200
+avg error per element= 0.0230277039233732
+Count = 0 0
+error prob = 0
+avg error per element= 0.0230277039233732
+Count = 0 0
+error prob = 0
+avg error per element= 0.0230277039233732
+Count = 0 0
+error prob = 0
+avg error per element= 0.0230277039233732
+Count = 0 0
+error prob = 0
+avg error per element= 0.0230277039233732
+key is 4 and value is 100
+key is 7 and value is 100
+key is 5 and value is 100
+Count = 0 300
+error prob = 0.333333333333333
+205
+avg error per element= 0.0236838719023758
+key is 7 and value is 100
+Count = 0 100
+error prob = 0.1
+206
+avg error per element= 0.0238807222960766
+Count = 0 0
+error prob = 0
+avg error per element= 0.0238807222960766
+Count = 0 0
+error prob = 0
+avg error per element= 0.0238807222960766
+Count = 0 0
+error prob = 0
+avg error per element= 0.0238807222960766
+Count = 0 0
+error prob = 0
+avg error per element= 0.0238807222960766
+key is 4 and value is 100
+key is 7 and value is 100
+key is 5 and value is 100
+Count = 0 300
+error prob = 0.333333333333333
+211
+avg error per element= 0.0245368902750792
+key is 7 and value is 100
+Count = 0 100
+error prob = 0.1
+212
+avg error per element= 0.02473374066878
+key is 5 and value is 100
+Count = 0 100
+error prob = 0.125
+213
+avg error per element= 0.024979803660906
+Count = 0 0
+error prob = 0
+avg error per element= 0.024979803660906
+Count = 0 0
+error prob = 0
+avg error per element= 0.024979803660906
+Count = 0 0
+error prob = 0
+avg error per element= 0.024979803660906
+key is 5 and value is 100
+Count = 0 100
+error prob = 0.142857142857143
+217
+avg error per element= 0.02526101850905
+Count = 0 0
+error prob = 0
+avg error per element= 0.02526101850905
+key is 4 and value is 80
+key is 5 and value is 100
+Count = 0 180
+error prob = 0.2
+219
+avg error per element= 0.0256547192964516
+Count = 0 0
+error prob = 0
+avg error per element= 0.0256547192964516
+Count = 0 0
+error prob = 0
+avg error per element= 0.0256547192964516
+Count = 0 0
+error prob = 0
+avg error per element= 0.0256547192964516
+key is 5 and value is 100
+Count = 0 100
+error prob = 0.142857142857143
+223
+avg error per element= 0.0259359341445956
+key is 6 and value is 51
+Count = 0 51
+error prob = 0.051
+224
+avg error per element= 0.026036327845383
+Count = 0 0
+error prob = 0
+avg error per element= 0.026036327845383
+Count = 0 0
+error prob = 0
+avg error per element= 0.026036327845383
+Count = 0 0
+error prob = 0
+avg error per element= 0.026036327845383
+Count = 0 0
+error prob = 0
+avg error per element= 0.026036327845383
+Count = 0 0
+error prob = 0
+avg error per element= 0.026036327845383
+key is 6 and value is 100
+Count = 0 100
+error prob = 0.1
+230
+avg error per element= 0.0262331782390837
+Count = 0 0
+error prob = 0
+avg error per element= 0.0262331782390837
+Count = 0 0
+error prob = 0
+avg error per element= 0.0262331782390837
+Count = 0 0
+error prob = 0
+avg error per element= 0.0262331782390837
+Count = 0 0
+error prob = 0
+avg error per element= 0.0262331782390837
+Count = 0 0
+error prob = 0
+avg error per element= 0.0262331782390837
+key is 6 and value is 100
+Count = 0 100
+error prob = 0.1
+236
+avg error per element= 0.0264300286327845
+Count = 0 0
+error prob = 0
+avg error per element= 0.0264300286327845
+Count = 0 0
+error prob = 0
+avg error per element= 0.0264300286327845
+Count = 0 0
+error prob = 0
+avg error per element= 0.0264300286327845
+Count = 0 0
+error prob = 0
+avg error per element= 0.0264300286327845
+Count = 0 0
+error prob = 0
+avg error per element= 0.0264300286327845
+Count = 0 0
+error prob = 0
+avg error per element= 0.0264300286327845
+key is 6 and value is 57
+Count = 0 57
+error prob = 0.0633333333333333
+243
+avg error per element= 0.026554700548795
+key is 6 and value is 100
+Count = 0 100
+error prob = 0.111111111111111
+244
+avg error per element= 0.0267734232084626
+key is 6 and value is 100
+Count = 0 100
+error prob = 0.0909090909090909
+245
+avg error per element= 0.0269523781118269
+Count = 0 0
+error prob = 0
+avg error per element= 0.0269523781118269
+Count = 0 0
+error prob = 0
+avg error per element= 0.0269523781118269
+Count = 0 0
+error prob = 0
+avg error per element= 0.0269523781118269
+key is 7 and value is 100
+Count = 0 100
+error prob = 0.111111111111111
+249
+avg error per element= 0.0271711007714945
+Count = 0 0
+error prob = 0
+avg error per element= 0.0271711007714945
+Count = 0 0
+error prob = 0
+avg error per element= 0.0271711007714945
+Count = 0 0
+error prob = 0
+avg error per element= 0.0271711007714945
+key is 6 and value is 100
+Count = 0 100
+error prob = 0.142857142857143
+253
+avg error per element= 0.0274523156196384
+key is 7 and value is 100
+key is 5 and value is 97
+Count = 0 197
+error prob = 0.218888888888889
+254
+avg error per element= 0.0278831992591835
+Count = 0 0
+error prob = 0
+avg error per element= 0.0278831992591835
+Count = 0 0
+error prob = 0
+avg error per element= 0.0278831992591835
+Count = 0 0
+error prob = 0
+avg error per element= 0.0278831992591835
+Count = 0 0
+error prob = 0
+avg error per element= 0.0278831992591835
+key is 6 and value is 100
+Count = 0 100
+error prob = 0.142857142857143
+259
+avg error per element= 0.0281644141073275
+key is 4 and value is 100
+key is 7 and value is 100
+key is 5 and value is 100
+Count = 0 300
+error prob = 0.333333333333333
+260
+avg error per element= 0.0288205820863301
+Count = 0 0
+error prob = 0
+avg error per element= 0.0288205820863301
+Count = 0 0
+error prob = 0
+avg error per element= 0.0288205820863301
+Count = 0 0
+error prob = 0
+avg error per element= 0.0288205820863301
+key is 1 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 0 300
+error prob = 0.272727272727273
+264
+avg error per element= 0.0293574467964232
+Count = 0 0
+error prob = 0
+avg error per element= 0.0293574467964232
+key is 4 and value is 100
+key is 7 and value is 100
+key is 5 and value is 100
+Count = 0 300
+error prob = 0.333333333333333
+266
+avg error per element= 0.0300136147754258
+Count = 0 0
+error prob = 0
+avg error per element= 0.0300136147754258
+Count = 0 0
+error prob = 0
+avg error per element= 0.0300136147754258
+Count = 0 0
+error prob = 0
+avg error per element= 0.0300136147754258
+Count = 0 0
+error prob = 0
+avg error per element= 0.0300136147754258
+Count = 0 0
+error prob = 0
+avg error per element= 0.0300136147754258
+Count = 0 0
+error prob = 0
+avg error per element= 0.0300136147754258
+key is 4 and value is 100
+key is 7 and value is 100
+key is 5 and value is 98
+Count = 0 298
+error prob = 0.331111111111111
+273
+avg error per element= 0.0306654083012351
+key is 5 and value is 100
+Count = 0 100
+error prob = 0.125
+274
+avg error per element= 0.030911471293361
+key is 7 and value is 100
+Count = 0 100
+error prob = 0.0833333333333333
+275
+avg error per element= 0.0310755132881117
+Count = 0 0
+error prob = 0
+avg error per element= 0.0310755132881117
+key is 1 and value is 100
+Count = 0 100
+error prob = 0.125
+277
+avg error per element= 0.0313215762802377
+key is 6 and value is 100
+Count = 0 100
+error prob = 0.142857142857143
+278
+avg error per element= 0.0316027911283817
+key is 5 and value is 100
+Count = 0 100
+error prob = 0.142857142857143
+279
+avg error per element= 0.0318840059765256
+Count = 0 0
+error prob = 0
+avg error per element= 0.0318840059765256
+Count = 0 0
+error prob = 0
+avg error per element= 0.0318840059765256
+Count = 0 0
+error prob = 0
+avg error per element= 0.0318840059765256
+key is 1 and value is 100
+key is 3 and value is 100
+key is 7 and value is 100
+key is 2 and value is 100
+Count = 0 400
+error prob = 0.363636363636364
+283
+avg error per element= 0.0325998255899831
+key is 6 and value is 100
+Count = 0 100
+error prob = 0.142857142857143
+284
+avg error per element= 0.032881040438127
+key is 5 and value is 100
+Count = 0 100
+error prob = 0.142857142857143
+285
+avg error per element= 0.033162255286271
+Count = 0 0
+error prob = 0
+avg error per element= 0.033162255286271
+Count = 0 0
+error prob = 0
+avg error per element= 0.033162255286271
+Count = 0 0
+error prob = 0
+avg error per element= 0.033162255286271
+key is 8 and value is 59
+key is 10 and value is 62
+Count = 0 121
+error prob = 0.100833333333333
+289
+avg error per element= 0.0333607460999193
+Count = 0 0
+error prob = 0
+avg error per element= 0.0333607460999193
+key is 13 and value is 100
+key is 9 and value is 100
+Count = 0 200
+error prob = 0.222222222222222
+291
+avg error per element= 0.0337981914192544
+Count = 0 0
+error prob = 0
+avg error per element= 0.0337981914192544
+key is 11 and value is 100
+Count = 0 100
+error prob = 0.125
+293
+avg error per element= 0.0340442544113804
+Count = 0 0
+error prob = 0
+avg error per element= 0.0340442544113804
+key is 8 and value is 100
+key is 10 and value is 62
+key is 13 and value is 100
+key is 9 and value is 89
+key is 12 and value is 100
+Count = 0 451
+error prob = 0.375833333333333
+295
+avg error per element= 0.0347840838077058
+key is 12 and value is 41
+Count = 0 41
+error prob = 0.041
+296
+avg error per element= 0.0348647924691232
+Count = 0 0
+error prob = 0
+avg error per element= 0.0348647924691232
+Count = 0 0
+error prob = 0
+avg error per element= 0.0348647924691232
+key is 13 and value is 100
+key is 9 and value is 100
+Count = 0 200
+error prob = 0.222222222222222
+299
+avg error per element= 0.0353022377884582
+Count = 0 0
+error prob = 0
+avg error per element= 0.0353022377884582
+key is 11 and value is 100
+Count = 0 100
+error prob = 0.125
+301
+avg error per element= 0.0355483007805842
+Count = 0 0
+error prob = 0
+avg error per element= 0.0355483007805842
+Count = 0 0
+error prob = 0
+avg error per element= 0.0355483007805842
+key is 12 and value is 100
+Count = 0 100
+error prob = 0.1
+304
+avg error per element= 0.035745151174285
+Count = 0 0
+error prob = 0
+avg error per element= 0.035745151174285
+Count = 0 0
+error prob = 0
+avg error per element= 0.035745151174285
+key is 13 and value is 100
+key is 9 and value is 49
+Count = 0 149
+error prob = 0.165555555555556
+307
+avg error per element= 0.0360710479371896
+Count = 0 0
+error prob = 0
+avg error per element= 0.0360710479371896
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 0 200
+error prob = 0.222222222222222
+309
+avg error per element= 0.0365084932565247
+Count = 0 0
+error prob = 0
+avg error per element= 0.0365084932565247
+Count = 0 0
+error prob = 0
+avg error per element= 0.0365084932565247
+key is 12 and value is 100
+Count = 0 100
+error prob = 0.1
+312
+avg error per element= 0.0367053436502255
+Count = 0 0
+error prob = 0
+avg error per element= 0.0367053436502255
+Count = 0 0
+error prob = 0
+avg error per element= 0.0367053436502255
+Count = 0 0
+error prob = 0
+avg error per element= 0.0367053436502255
+Count = 0 0
+error prob = 0
+avg error per element= 0.0367053436502255
+Count = 0 0
+error prob = 0
+avg error per element= 0.0367053436502255
+Count = 0 0
+error prob = 0
+avg error per element= 0.0367053436502255
+Count = 0 0
+error prob = 0
+avg error per element= 0.0367053436502255
+key is 13 and value is 2
+key is 12 and value is 100
+Count = 0 102
+error prob = 0.102
+320
+avg error per element= 0.0369061310518003
+Count = 0 0
+error prob = 0
+avg error per element= 0.0369061310518003
+Count = 0 0
+error prob = 0
+avg error per element= 0.0369061310518003
+Count = 0 0
+error prob = 0
+avg error per element= 0.0369061310518003
+key is 13 and value is 100
+key is 9 and value is 100
+Count = 0 200
+error prob = 0.222222222222222
+324
+avg error per element= 0.0373435763711354
+Count = 0 0
+error prob = 0
+avg error per element= 0.0373435763711354
+key is 11 and value is 100
+Count = 0 100
+error prob = 0.125
+326
+avg error per element= 0.0375896393632614
+Count = 0 0
+error prob = 0
+avg error per element= 0.0375896393632614
+key is 13 and value is 69
+key is 12 and value is 100
+Count = 0 169
+error prob = 0.169
+328
+avg error per element= 0.0379223165286157
+Count = 0 0
+error prob = 0
+avg error per element= 0.0379223165286157
+Count = 0 0
+error prob = 0
+avg error per element= 0.0379223165286157
+key is 12 and value is 58
+Count = 0 58
+error prob = 0.058
+331
+avg error per element= 0.0380364897569622
+Count = 0 0
+error prob = 0
+avg error per element= 0.0380364897569622
+Count = 0 0
+error prob = 0
+avg error per element= 0.0380364897569622
+Count = 0 0
+error prob = 0
+avg error per element= 0.0380364897569622
+Count = 0 0
+error prob = 0
+avg error per element= 0.0380364897569622
+key is 9 and value is 29
+key is 13 and value is 100
+key is 12 and value is 100
+Count = 0 229
+error prob = 0.229
+336
+avg error per element= 0.038487277158537
+Count = 0 0
+error prob = 0
+avg error per element= 0.038487277158537
+Count = 0 0
+error prob = 0
+avg error per element= 0.038487277158537
+key is 8 and value is 62
+key is 10 and value is 74
+Count = 0 136
+error prob = 0.113333333333333
+339
+avg error per element= 0.0387103742713979
+Count = 0 0
+error prob = 0
+avg error per element= 0.0387103742713979
+key is 8 and value is 100
+key is 13 and value is 100
+key is 9 and value is 95
+key is 10 and value is 68
+key is 12 and value is 100
+Count = 0 463
+error prob = 0.385833333333333
+341
+avg error per element= 0.0394698887070934
+Count = 0 0
+error prob = 0
+avg error per element= 0.0394698887070934
+Count = 0 0
+error prob = 0
+avg error per element= 0.0394698887070934
+key is 9 and value is 100
+Count = 0 100
+error prob = 0.0833333333333333
+345
+avg error per element= 0.0396342542560743
+key is 13 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 0 300
+error prob = 0.272727272727273
+346
+avg error per element= 0.040172177870921
+key is 13 and value is 37
+Count = 0 37
+error prob = 0.0336363636363636
+347
+avg error per element= 0.0402385217834188
+key is 9 and value is 62
+Count = 0 62
+error prob = 0.0516666666666667
+348
+avg error per element= 0.040340428423787
+Count = 0 0
+error prob = 0
+avg error per element= 0.040340428423787
+Count = 0 0
+error prob = 0
+avg error per element= 0.040340428423787
+key is 9 and value is 78
+Count = 0 78
+error prob = 0.065
+351
+avg error per element= 0.0404686335519921
+key is 13 and value is 51
+Count = 0 51
+error prob = 0.0463636363636364
+352
+avg error per element= 0.040560080566516
+key is 13 and value is 100
+key is 10 and value is 44
+key is 12 and value is 35
+Count = 0 179
+error prob = 0.162727272727273
+353
+avg error per element= 0.0408810416567079
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 0 200
+error prob = 0.181818181818182
+354
+avg error per element= 0.041239657399939
+Count = 0 0
+error prob = 0
+avg error per element= 0.041239657399939
+key is 9 and value is 35
+Count = 0 35
+error prob = 0.0291666666666667
+356
+avg error per element= 0.0412971853420823
+Count = 0 0
+error prob = 0
+avg error per element= 0.0412971853420823
+key is 9 and value is 31
+Count = 0 31
+error prob = 0.0258333333333333
+358
+avg error per element= 0.0413481386622664
+key is 9 and value is 100
+Count = 0 100
+error prob = 0.0833333333333333
+359
+avg error per element= 0.0415125042112474
+Count = 0 0
+error prob = 0
+avg error per element= 0.0415125042112474
+key is 13 and value is 45
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 0 245
+error prob = 0.222727272727273
+361
+avg error per element= 0.0419518084967055
+key is 13 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 0 300
+error prob = 0.272727272727273
+362
+avg error per element= 0.0424897321115522
+key is 13 and value is 50
+Count = 0 50
+error prob = 0.0454545454545455
+363
+avg error per element= 0.04257938604736
+key is 9 and value is 100
+Count = 0 100
+error prob = 0.0833333333333333
+364
+avg error per element= 0.0427437515963409
+Count = 0 0
+error prob = 0
+avg error per element= 0.0427437515963409
+key is 9 and value is 2
+Count = 0 2
+error prob = 0.00166666666666667
+366
+avg error per element= 0.0427470389073205
+key is 9 and value is 100
+Count = 0 100
+error prob = 0.0833333333333333
+367
+avg error per element= 0.0429114044563015
+key is 10 and value is 15
+key is 13 and value is 100
+key is 12 and value is 5
+Count = 0 120
+error prob = 0.109090909090909
+368
+avg error per element= 0.0431265739022401
+key is 13 and value is 68
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 0 268
+error prob = 0.243636363636364
+369
+avg error per element= 0.0436071189981699
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 0 200
+error prob = 0.181818181818182
+370
+avg error per element= 0.043965734741401
+Count = 0 0
+error prob = 0
+avg error per element= 0.043965734741401
+key is 9 and value is 70
+Count = 0 70
+error prob = 0.0583333333333333
+372
+avg error per element= 0.0440807906256876
+Count = 0 0
+error prob = 0
+avg error per element= 0.0440807906256876
+Count = 0 0
+error prob = 0
+avg error per element= 0.0440807906256876
+key is 9 and value is 100
+Count = 0 100
+error prob = 0.0833333333333333
+375
+avg error per element= 0.0442451561746686
+key is 10 and value is 20
+key is 12 and value is 3
+Count = 0 23
+error prob = 0.0209090909090909
+376
+avg error per element= 0.0442863969851401
+key is 13 and value is 1
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 0 201
+error prob = 0.182727272727273
+377
+avg error per element= 0.0446468058070874
+key is 13 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 0 300
+error prob = 0.272727272727273
+378
+avg error per element= 0.0451847294219341
+key is 13 and value is 1
+Count = 0 1
+error prob = 0.000909090909090909
+379
+avg error per element= 0.0451865225006503
+key is 9 and value is 45
+Count = 0 45
+error prob = 0.0375
+380
+avg error per element= 0.0452604869976917
+Count = 0 0
+error prob = 0
+avg error per element= 0.0452604869976917
+key is 9 and value is 31
+Count = 0 31
+error prob = 0.0258333333333333
+382
+avg error per element= 0.0453114403178758
+key is 9 and value is 100
+Count = 0 100
+error prob = 0.0833333333333333
+383
+avg error per element= 0.0454758058668567
+key is 13 and value is 100
+key is 10 and value is 71
+key is 12 and value is 47
+Count = 0 218
+error prob = 0.198181818181818
+384
+avg error per element= 0.0458666970269786
+key is 13 and value is 23
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 0 223
+error prob = 0.202727272727273
+385
+avg error per element= 0.0462665535806814
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 0 200
+error prob = 0.181818181818182
+386
+avg error per element= 0.0466251693239125
+key is 13 and value is 4
+Count = 0 4
+error prob = 0.00363636363636364
+387
+avg error per element= 0.0466323416387771
+key is 9 and value is 100
+Count = 0 100
+error prob = 0.0833333333333333
+388
+avg error per element= 0.046796707187758
+key is 9 and value is 1
+Count = 0 1
+error prob = 0.000833333333333333
+389
+avg error per element= 0.0467983508432478
+Count = 0 0
+error prob = 0
+avg error per element= 0.0467983508432478
+key is 9 and value is 100
+Count = 0 100
+error prob = 0.0833333333333333
+391
+avg error per element= 0.0469627163922288
+key is 10 and value is 33
+key is 12 and value is 12
+Count = 0 45
+error prob = 0.0409090909090909
+392
+avg error per element= 0.0470434049344558
+key is 13 and value is 69
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 0 269
+error prob = 0.244545454545455
+393
+avg error per element= 0.0475257431091017
+key is 13 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 0 300
+error prob = 0.272727272727273
+394
+avg error per element= 0.0480636667239483
+key is 13 and value is 13
+key is 9 and value is 100
+Count = 0 113
+error prob = 0.0941666666666667
+395
+avg error per element= 0.0482493997942968
+Count = 0 0
+error prob = 0
+avg error per element= 0.0482493997942968
+Count = 0 0
+error prob = 0
+avg error per element= 0.0482493997942968
+key is 8 and value is 63
+key is 10 and value is 68
+Count = 0 131
+error prob = 0.109166666666667
+399
+avg error per element= 0.0484651441948238
+Count = 0 0
+error prob = 0
+avg error per element= 0.0484651441948238
+key is 8 and value is 100
+key is 10 and value is 54
+key is 13 and value is 100
+key is 9 and value is 93
+key is 12 and value is 100
+Count = 0 447
+error prob = 0.3725
+401
+avg error per element= 0.0492013102027289
+Count = 0 0
+error prob = 0
+avg error per element= 0.0492013102027289
+Count = 0 0
+error prob = 0
+avg error per element= 0.0492013102027289
+key is 9 and value is 28
+key is 13 and value is 100
+key is 12 and value is 100
+Count = 0 228
+error prob = 0.228
+404
+avg error per element= 0.0496519030881044
+Count = 0 0
+error prob = 0
+avg error per element= 0.0496519030881044
+Count = 0 0
+error prob = 0
+avg error per element= 0.0496519030881044
+key is 12 and value is 49
+Count = 0 49
+error prob = 0.049
+407
+avg error per element= 0.0497487410327685
+Count = 0 0
+error prob = 0
+avg error per element= 0.0497487410327685
+Count = 0 0
+error prob = 0
+avg error per element= 0.0497487410327685
+Count = 0 0
+error prob = 0
+avg error per element= 0.0497487410327685
+Count = 0 0
+error prob = 0
+avg error per element= 0.0497487410327685
+key is 13 and value is 58
+key is 12 and value is 100
+Count = 0 158
+error prob = 0.158
+412
+avg error per element= 0.0500609939971954
+Count = 0 0
+error prob = 0
+avg error per element= 0.0500609939971954
+Count = 0 0
+error prob = 0
+avg error per element= 0.0500609939971954
+Count = 0 0
+error prob = 0
+avg error per element= 0.0500609939971954
+key is 13 and value is 100
+key is 9 and value is 100
+Count = 0 200
+error prob = 0.222222222222222
+416
+avg error per element= 0.0505001683494132
+key is 10 and value is 72
+Count = 0 72
+error prob = 0.09
+417
+avg error per element= 0.0506780339620614
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 0 200
+error prob = 0.222222222222222
+418
+avg error per element= 0.0511172083142792
+Count = 0 0
+error prob = 0
+avg error per element= 0.0511172083142792
+key is 13 and value is 39
+key is 12 and value is 100
+Count = 0 139
+error prob = 0.139
+420
+avg error per element= 0.0513919118715915
+Count = 0 0
+error prob = 0
+avg error per element= 0.0513919118715915
+Count = 0 0
+error prob = 0
+avg error per element= 0.0513919118715915
+Count = 0 0
+error prob = 0
+avg error per element= 0.0513919118715915
+Count = 0 0
+error prob = 0
+avg error per element= 0.0513919118715915
+key is 10 and value is 100
+Count = 0 100
+error prob = 0.125
+425
+avg error per element= 0.051638947444714
+Count = 0 0
+error prob = 0
+avg error per element= 0.051638947444714
+Count = 0 0
+error prob = 0
+avg error per element= 0.051638947444714
+key is 12 and value is 100
+Count = 0 100
+error prob = 0.1
+428
+avg error per element= 0.051836575903212
+Count = 0 0
+error prob = 0
+avg error per element= 0.051836575903212
+Count = 0 0
+error prob = 0
+avg error per element= 0.051836575903212
+key is 13 and value is 54
+Count = 0 54
+error prob = 0.06
+431
+avg error per element= 0.0519551529783109
+Count = 0 0
+error prob = 0
+avg error per element= 0.0519551529783109
+Count = 0 0
+error prob = 0
+avg error per element= 0.0519551529783109
+Count = 0 0
+error prob = 0
+avg error per element= 0.0519551529783109
+Count = 0 0
+error prob = 0
+avg error per element= 0.0519551529783109
+key is 12 and value is 100
+Count = 0 100
+error prob = 0.1
+436
+avg error per element= 0.0521527814368089
+Count = 0 0
+error prob = 0
+avg error per element= 0.0521527814368089
+Count = 0 0
+error prob = 0
+avg error per element= 0.0521527814368089
+key is 13 and value is 100
+key is 9 and value is 100
+Count = 0 200
+error prob = 0.222222222222222
+439
+avg error per element= 0.0525919557890267
+Count = 0 0
+error prob = 0
+avg error per element= 0.0525919557890267
+key is 11 and value is 100
+key is 10 and value is 72
+Count = 0 172
+error prob = 0.191111111111111
+441
+avg error per element= 0.052969645731934
+key is 10 and value is 100
+Count = 0 100
+error prob = 0.125
+442
+avg error per element= 0.0532166813050566
+key is 9 and value is 100
+Count = 0 100
+error prob = 0.125
+443
+avg error per element= 0.0534637168781791
+key is 12 and value is 91
+Count = 0 91
+error prob = 0.091
+444
+avg error per element= 0.0536435587754123
+key is 8 and value is 64
+key is 10 and value is 70
+Count = 0 134
+error prob = 0.111666666666667
+445
+avg error per element= 0.0538642438874018
+Count = 0 0
+error prob = 0
+avg error per element= 0.0538642438874018
+key is 13 and value is 100
+key is 9 and value is 100
+Count = 0 200
+error prob = 0.222222222222222
+447
+avg error per element= 0.0543034182396196
+Count = 0 0
+error prob = 0
+avg error per element= 0.0543034182396196
+key is 11 and value is 100
+key is 10 and value is 100
+Count = 0 200
+error prob = 0.222222222222222
+449
+avg error per element= 0.0547425925918374
+Count = 0 0
+error prob = 0
+avg error per element= 0.0547425925918374
+key is 8 and value is 100
+key is 13 and value is 100
+key is 9 and value is 94
+key is 10 and value is 58
+key is 12 and value is 100
+Count = 0 452
+error prob = 0.376666666666667
+451
+avg error per element= 0.0554869931188466
+Count = 0 0
+error prob = 0
+avg error per element= 0.0554869931188466
+key is 13 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 0 300
+error prob = 0.272727272727273
+453
+avg error per element= 0.0560259798238413
+key is 13 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 0 300
+error prob = 0.272727272727273
+454
+avg error per element= 0.0565649665288359
+key is 13 and value is 46
+Count = 0 46
+error prob = 0.0418181818181818
+455
+avg error per element= 0.056647611156935
+key is 9 and value is 23
+Count = 0 23
+error prob = 0.0191666666666667
+457
+avg error per element= 0.0566855649523146
+key is 9 and value is 25
+Count = 0 25
+error prob = 0.0208333333333333
+458
+avg error per element= 0.0567268190777271
+key is 9 and value is 100
+Count = 0 100
+error prob = 0.0833333333333333
+459
+avg error per element= 0.0568918355793773
+key is 13 and value is 16
+key is 10 and value is 54
+key is 12 and value is 27
+Count = 0 97
+error prob = 0.0881818181818182
+460
+avg error per element= 0.0570664530411235
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 0 200
+error prob = 0.181818181818182
+461
+avg error per element= 0.0574264890447238
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 0 200
+error prob = 0.181818181818182
+462
+avg error per element= 0.0577865250483242
+key is 13 and value is 49
+Count = 0 49
+error prob = 0.0445454545454545
+463
+avg error per element= 0.0578747338692063
+key is 9 and value is 100
+Count = 0 100
+error prob = 0.0833333333333333
+464
+avg error per element= 0.0580397503708564
+key is 9 and value is 31
+Count = 0 31
+error prob = 0.0258333333333333
+465
+avg error per element= 0.058090905486368
+key is 9 and value is 41
+Count = 0 41
+error prob = 0.0341666666666667
+466
+avg error per element= 0.0581585622520445
+key is 13 and value is 20
+Count = 0 20
+error prob = 0.0181818181818182
+467
+avg error per element= 0.0581945658524046
+key is 10 and value is 19
+key is 12 and value is 5
+Count = 0 24
+error prob = 0.0218181818181818
+468
+avg error per element= 0.0582377701728366
+key is 13 and value is 58
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 0 258
+error prob = 0.234545454545455
+469
+avg error per element= 0.0587022166174811
+key is 13 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 0 300
+error prob = 0.272727272727273
+470
+avg error per element= 0.0592422706228816
+key is 13 and value is 32
+Count = 0 32
+error prob = 0.0290909090909091
+471
+avg error per element= 0.0592998763834577
+key is 9 and value is 58
+Count = 0 58
+error prob = 0.0483333333333333
+472
+avg error per element= 0.0593955859544148
+Count = 0 0
+error prob = 0
+avg error per element= 0.0593955859544148
+Count = 0 0
+error prob = 0
+avg error per element= 0.0593955859544148
+key is 9 and value is 100
+Count = 0 100
+error prob = 0.0833333333333333
+475
+avg error per element= 0.0595606024560649
+key is 13 and value is 100
+key is 10 and value is 37
+key is 12 and value is 13
+Count = 0 150
+error prob = 0.136363636363636
+476
+avg error per element= 0.0598306294587652
+key is 13 and value is 40
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 0 240
+error prob = 0.218181818181818
+477
+avg error per element= 0.0602626726630856
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 0 200
+error prob = 0.181818181818182
+478
+avg error per element= 0.060622708666686
+Count = 0 0
+error prob = 0
+avg error per element= 0.060622708666686
+key is 9 and value is 100
+Count = 0 100
+error prob = 0.0833333333333333
+480
+avg error per element= 0.0607877251683362
+Count = 0 0
+error prob = 0
+avg error per element= 0.0607877251683362
+key is 9 and value is 30
+Count = 0 30
+error prob = 0.025
+482
+avg error per element= 0.0608372301188312
+key is 9 and value is 100
+Count = 0 100
+error prob = 0.0833333333333333
+483
+avg error per element= 0.0610022466204814
+Count = 0 0
+error prob = 0
+avg error per element= 0.0610022466204814
+key is 13 and value is 47
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 0 247
+error prob = 0.224545454545455
+485
+avg error per element= 0.0614468910849278
+key is 13 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 0 300
+error prob = 0.272727272727273
+486
+avg error per element= 0.0619869450903284
+key is 13 and value is 9
+Count = 0 9
+error prob = 0.00818181818181818
+487
+avg error per element= 0.0620031467104904
+key is 9 and value is 34
+Count = 0 34
+error prob = 0.0283333333333333
+488
+avg error per element= 0.0620592523210514
+Count = 0 0
+error prob = 0
+avg error per element= 0.0620592523210514
+Count = 0 0
+error prob = 0
+avg error per element= 0.0620592523210514
+key is 9 and value is 100
+Count = 0 100
+error prob = 0.0833333333333333
+491
+avg error per element= 0.0622242688227016
+key is 13 and value is 85
+Count = 0 85
+error prob = 0.0772727272727273
+492
+avg error per element= 0.0623772841242318
+key is 13 and value is 100
+key is 10 and value is 64
+key is 12 and value is 49
+Count = 0 213
+error prob = 0.193636363636364
+493
+avg error per element= 0.0627607224680661
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 0 200
+error prob = 0.181818181818182
+494
+avg error per element= 0.0631207584716665
+Count = 0 0
+error prob = 0
+avg error per element= 0.0631207584716665
+key is 9 and value is 72
+Count = 0 72
+error prob = 0.06
+496
+avg error per element= 0.0632395703528546
+Count = 0 0
+error prob = 0
+avg error per element= 0.0632395703528546
+key is 9 and value is 4
+Count = 0 4
+error prob = 0.00333333333333333
+498
+avg error per element= 0.0632461710129206
+key is 9 and value is 100
+Count = 0 100
+error prob = 0.0833333333333333
+499
+avg error per element= 0.0634111875145708
+key is 13 and value is 17
+key is 9 and value is 100
+Count = 0 117
+error prob = 0.0975
+501
+avg error per element= 0.0636046398955232
+key is 13 and value is 100
+key is 10 and value is 100
+key is 12 and value is 100
+Count = 0 300
+error prob = 0.272727272727273
+502
+avg error per element= 0.0641457654366487
+key is 13 and value is 53
+Count = 0 53
+error prob = 0.0481818181818182
+503
+avg error per element= 0.0642413642822476
+key is 9 and value is 100
+Count = 0 100
+error prob = 0.0833333333333333
+504
+avg error per element= 0.0644067081975915
+Count = 0 0
+error prob = 0
+avg error per element= 0.0644067081975915
+Count = 0 0
+error prob = 0
+avg error per element= 0.0644067081975915
+Count = 0 0
+error prob = 0
+avg error per element= 0.0644067081975915
+Average error is = 0.377375897219967
+Average error per element = 0.0644067081975915

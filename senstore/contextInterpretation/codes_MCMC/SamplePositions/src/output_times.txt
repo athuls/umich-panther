@@ -1,0 +1,1772 @@
+Position 0
+Position 1
+Position 2
+Position 3
+Position 4
+Position 5
+Near and far plane time - 30547.0
+Near and far plane time - 723536.0
+Near and far plane time - 1202326.0
+Position 7
+Near and far plane time - 6651.0
+Near and far plane time - 2688525.0
+Near and far plane time - 3247665.0
+Near and far plane time - 3386783.0
+I am in static of ComputeBoundingBox and doing IO
+Position 6
+Near and far plane time - 7747.0
+Position 8
+Near and far plane time - 7115.0
+Position 9
+Near and far plane time - 12153.0
+Position 10
+Near and far plane time - 8682.0
+Position 11
+Near and far plane time - 10366.0
+Position 12
+Near and far plane time - 8391.0
+Position 13
+Near and far plane time - 7416.0
+Position 14
+Near and far plane time - 6188.0
+Position 15
+Near and far plane time - 6419.0
+Position 16
+Near and far plane time - 6947.0
+Position 17
+Near and far plane time - 8346.0
+Position 18
+Near and far plane time - 12998.0
+Position 19
+Near and far plane time - 6928.0
+Position 20
+Near and far plane time - 6436.0
+Position 21
+Near and far plane time - 7389.0
+Position 23
+Near and far plane time - 10168.0
+Position 24
+Near and far plane time - 8729.0
+Position 22
+Near and far plane time - 7066.0
+system time is 1337305942202
+ComputeBoundingBox time - 1.0074965762E10
+Near and far plane time - 8487.0
+ComputeBoundingBox time - 1.1427978171E10
+Near and far plane time - 7751.0
+ComputeBoundingBox time - 1.1369720547E10
+Near and far plane time - 7451.0
+ComputeBoundingBox time - 1.156439063E10
+Near and far plane time - 7676.0
+ComputeBoundingBox time - 1.1557321134E10
+Near and far plane time - 8176.0
+ComputeBoundingBox time - 1.1535086533E10
+Near and far plane time - 7230.0
+ComputeBoundingBox time - 1.1792346126E10
+Near and far plane time - 8203.0
+ComputeBoundingBox time - 1.1942164113E10
+Near and far plane time - 8438.0
+ComputeBoundingBox time - 1.1885684206E10
+Near and far plane time - 8150.0
+ComputeBoundingBox time - 1.1978268904E10
+Near and far plane time - 9166.0
+ComputeBoundingBox time - 1.2279625192E10
+Near and far plane time - 8007.0
+ComputeBoundingBox time - 1.2377155673E10
+Near and far plane time - 8451.0
+ComputeBoundingBox time - 1.2360974717E10
+Near and far plane time - 9754.0
+ComputeBoundingBox time - 1.3482207323E10
+Near and far plane time - 8516.0
+ComputeBoundingBox time - 1.3578131379E10
+Near and far plane time - 7403.0
+ComputeBoundingBox time - 3.803614939E9
+Near and far plane time - 8319.0
+ComputeBoundingBox time - 2.873688471E9
+Near and far plane time - 7361.0
+ComputeBoundingBox time - 1.43472861E10
+Near and far plane time - 7935.0
+ComputeBoundingBox time - 3.021174017E9
+Near and far plane time - 8263.0
+ComputeBoundingBox time - 1.4403176083E10
+Near and far plane time - 7296.0
+ComputeBoundingBox time - 2.976045316E9
+Near and far plane time - 8268.0
+ComputeBoundingBox time - 3.056191263E9
+Near and far plane time - 9250.0
+ComputeBoundingBox time - 1.4709784166E10
+Near and far plane time - 7518.0
+ComputeBoundingBox time - 3.14026846E9
+Near and far plane time - 8037.0
+ComputeBoundingBox time - 1.4894233797E10
+Near and far plane time - 7426.0
+ComputeBoundingBox time - 3.23965448E9
+Near and far plane time - 7576.0
+ComputeBoundingBox time - 3.147683549E9
+Near and far plane time - 7797.0
+ComputeBoundingBox time - 3.218668165E9
+Near and far plane time - 7962.0
+ComputeBoundingBox time - 1.5215817458E10
+Near and far plane time - 7549.0
+ComputeBoundingBox time - 1.5399169237E10
+Near and far plane time - 7371.0
+ComputeBoundingBox time - 1.5650325095E10
+Near and far plane time - 7308.0
+ComputeBoundingBox time - 1.577981478E10
+Near and far plane time - 7987.0
+ComputeBoundingBox time - 3.85470727E9
+Near and far plane time - 8349.0
+ComputeBoundingBox time - 3.650256663E9
+Near and far plane time - 7885.0
+ComputeBoundingBox time - 3.740687063E9
+Near and far plane time - 7453.0
+ComputeBoundingBox time - 3.844480266E9
+Near and far plane time - 9250.0
+ComputeBoundingBox time - 1.6357633306E10
+Near and far plane time - 8416.0
+ComputeBoundingBox time - 2.048119614E9
+Near and far plane time - 7777.0
+ComputeBoundingBox time - 2.957801958E9
+Near and far plane time - 7700.0
+ComputeBoundingBox time - 1.7047577321E10
+Near and far plane time - 7704.0
+ComputeBoundingBox time - 2.675315721E9
+Near and far plane time - 7627.0
+ComputeBoundingBox time - 3.166999561E9
+Near and far plane time - 7755.0
+ComputeBoundingBox time - 3.032806109E9
+Near and far plane time - 7990.0
+ComputeBoundingBox time - 3.262577859E9
+Near and far plane time - 7792.0
+ComputeBoundingBox time - 3.343496111E9
+Near and far plane time - 6767.0
+ComputeBoundingBox time - 3.417704156E9
+Near and far plane time - 7740.0
+ComputeBoundingBox time - 3.541884465E9
+Near and far plane time - 8058.0
+ComputeBoundingBox time - 2.244379281E9
+Near and far plane time - 8008.0
+ComputeBoundingBox time - 3.620084947E9
+Near and far plane time - 9087.0
+ComputeBoundingBox time - 3.660265558E9
+Near and far plane time - 7670.0
+ComputeBoundingBox time - 3.719133736E9
+Near and far plane time - 9158.0
+ComputeBoundingBox time - 3.207083988E9
+Near and far plane time - 7972.0
+ComputeBoundingBox time - 2.550547363E9
+Near and far plane time - 8045.0
+ComputeBoundingBox time - 2.919728151E9
+Near and far plane time - 8037.0
+ComputeBoundingBox time - 3.304109878E9
+Near and far plane time - 8140.0
+ComputeBoundingBox time - 4.411727902E9
+Near and far plane time - 8983.0
+ComputeBoundingBox time - 3.050090382E9
+Near and far plane time - 8406.0
+ComputeBoundingBox time - 7.428456528E9
+Near and far plane time - 7484.0
+ComputeBoundingBox time - 7.70279105E9
+Near and far plane time - 7541.0
+ComputeBoundingBox time - 6.899851633E9
+Near and far plane time - 8100.0
+ComputeBoundingBox time - 7.147754405E9
+Near and far plane time - 7684.0
+ComputeBoundingBox time - 3.178146193E9
+Near and far plane time - 7449.0
+ComputeBoundingBox time - 2.996289509E9
+Near and far plane time - 7215.0
+ComputeBoundingBox time - 3.274666338E9
+Near and far plane time - 7935.0
+ComputeBoundingBox time - 6.317601974E9
+Near and far plane time - 7572.0
+ComputeBoundingBox time - 7.431272782E9
+Near and far plane time - 8562.0
+ComputeBoundingBox time - 6.693741682E9
+Near and far plane time - 7176.0
+ComputeBoundingBox time - 3.574710277E9
+Near and far plane time - 7887.0
+ComputeBoundingBox time - 7.758315878E9
+Near and far plane time - 7641.0
+ComputeBoundingBox time - 2.460958452E9
+Near and far plane time - 8527.0
+ComputeBoundingBox time - 3.463763115E9
+Near and far plane time - 9328.0
+ComputeBoundingBox time - 7.743870107E9
+Near and far plane time - 6361.0
+ComputeBoundingBox time - 2.6271467E9
+Near and far plane time - 8284.0
+ComputeBoundingBox time - 2.930089241E9
+Near and far plane time - 7872.0
+ComputeBoundingBox time - 2.869304788E9
+Near and far plane time - 10432.0
+ComputeBoundingBox time - 3.695873137E9
+Near and far plane time - 8195.0
+ComputeBoundingBox time - 7.583994022E9
+Near and far plane time - 8088.0
+ComputeBoundingBox time - 2.785917604E9
+Near and far plane time - 7309.0
+ComputeBoundingBox time - 3.870614483E9
+Near and far plane time - 9008.0
+ComputeBoundingBox time - 3.938162732E9
+Near and far plane time - 7963.0
+ComputeBoundingBox time - 8.226398535E9
+Near and far plane time - 8221.0
+ComputeBoundingBox time - 3.177142599E9
+Near and far plane time - 7087.0
+ComputeBoundingBox time - 3.491023127E9
+Near and far plane time - 7925.0
+ComputeBoundingBox time - 3.630315963E9
+Near and far plane time - 8183.0
+ComputeBoundingBox time - 2.300026438E9
+Near and far plane time - 8369.0
+ComputeBoundingBox time - 2.55984817E9
+Near and far plane time - 8298.0
+ComputeBoundingBox time - 3.098797628E9
+Near and far plane time - 7507.0
+ComputeBoundingBox time - 2.944297843E9
+Near and far plane time - 7752.0
+ComputeBoundingBox time - 3.415285606E9
+Near and far plane time - 8005.0
+ComputeBoundingBox time - 3.693740774E9
+Near and far plane time - 9298.0
+ComputeBoundingBox time - 3.292945295E9
+Near and far plane time - 8411.0
+ComputeBoundingBox time - 3.637762115E9
+Near and far plane time - 9453.0
+ComputeBoundingBox time - 1.0103464781E10
+Near and far plane time - 8160.0
+ComputeBoundingBox time - 4.075777152E9
+Near and far plane time - 8877.0
+ComputeBoundingBox time - 3.189884359E9
+Near and far plane time - 8053.0
+ComputeBoundingBox time - 2.734513623E9
+Near and far plane time - 7669.0
+ComputeBoundingBox time - 2.86177528E9
+Near and far plane time - 7840.0
+ComputeBoundingBox time - 6.718960818E9
+Near and far plane time - 8050.0
+ComputeBoundingBox time - 3.065174686E9
+Near and far plane time - 7925.0
+ComputeBoundingBox time - 3.818917627E9
+ComputeBoundingBox time - 3.1590482E9
+Near and far plane time - 8369.0
+Near and far plane time - 4.0752835E7
+ComputeBoundingBox time - 7.533488611E9
+Near and far plane time - 6922.0
+ComputeBoundingBox time - 7.06182011E9
+Near and far plane time - 6970.0
+ComputeBoundingBox time - 7.577867242E9
+Near and far plane time - 7965.0
+ComputeBoundingBox time - 6.674687045E9
+Near and far plane time - 7143.0
+ComputeBoundingBox time - 3.308390607E9
+Near and far plane time - 7271.0
+ComputeBoundingBox time - 2.989553159E9
+Near and far plane time - 7609.0
+ComputeBoundingBox time - 7.132284231E9
+Near and far plane time - 7855.0
+ComputeBoundingBox time - 2.937327504E9
+Near and far plane time - 7597.0
+ComputeBoundingBox time - 8.125563146E9
+Near and far plane time - 7992.0
+ComputeBoundingBox time - 6.667841142E9
+Near and far plane time - 7158.0
+ComputeBoundingBox time - 2.809758117E9
+Near and far plane time - 8285.0
+ComputeBoundingBox time - 1.660781136E9
+Near and far plane time - 7923.0
+ComputeBoundingBox time - 7.285704843E9
+Near and far plane time - 7156.0
+ComputeBoundingBox time - 3.542087651E9
+Near and far plane time - 9103.0
+ComputeBoundingBox time - 3.530703517E9
+Near and far plane time - 7922.0
+ComputeBoundingBox time - 2.648933087E9
+Near and far plane time - 7790.0
+ComputeBoundingBox time - 2.724421367E9
+Near and far plane time - 8266.0
+ComputeBoundingBox time - 3.216518237E9
+Near and far plane time - 8038.0
+ComputeBoundingBox time - 3.233848367E9
+Near and far plane time - 7750.0
+ComputeBoundingBox time - 8.364676462E9
+Near and far plane time - 8264.0
+ComputeBoundingBox time - 3.989421798E9
+Near and far plane time - 9163.0
+ComputeBoundingBox time - 3.584317485E9
+Near and far plane time - 8140.0
+ComputeBoundingBox time - 3.048229433E9
+Near and far plane time - 8316.0
+ComputeBoundingBox time - 3.167144658E9
+Near and far plane time - 7466.0
+ComputeBoundingBox time - 3.047916317E9
+Near and far plane time - 8218.0
+ComputeBoundingBox time - 7.716641831E9
+Near and far plane time - 8115.0
+ComputeBoundingBox time - 2.950962281E9
+Near and far plane time - 7922.0
+ComputeBoundingBox time - 3.074344786E9
+Near and far plane time - 7910.0
+ComputeBoundingBox time - 2.639133936E9
+Near and far plane time - 8183.0
+ComputeBoundingBox time - 1.512855897E9
+Near and far plane time - 8141.0
+ComputeBoundingBox time - 2.919206793E9
+Near and far plane time - 7503.0
+ComputeBoundingBox time - 2.165854456E9
+Near and far plane time - 7894.0
+ComputeBoundingBox time - 3.993280881E9
+Near and far plane time - 8860.0
+ComputeBoundingBox time - 3.881033684E9
+Near and far plane time - 8198.0
+ComputeBoundingBox time - 2.860100845E9
+Near and far plane time - 8213.0
+ComputeBoundingBox time - 6.628757483E9
+Near and far plane time - 7785.0
+ComputeBoundingBox time - 2.298668001E9
+Near and far plane time - 8015.0
+ComputeBoundingBox time - 3.298632844E9
+Near and far plane time - 7311.0
+ComputeBoundingBox time - 3.167416457E9
+Near and far plane time - 8263.0
+ComputeBoundingBox time - 3.581959607E9
+Near and far plane time - 8875.0
+ComputeBoundingBox time - 3.776929521E9
+Near and far plane time - 9022.0
+ComputeBoundingBox time - 9.095594828E9
+Near and far plane time - 8240.0
+ComputeBoundingBox time - 7.409850442E9
+Near and far plane time - 6725.0
+ComputeBoundingBox time - 3.437615913E9
+Near and far plane time - 7554.0
+ComputeBoundingBox time - 7.672910191E9
+Near and far plane time - 7042.0
+ComputeBoundingBox time - 7.545741645E9
+Near and far plane time - 7097.0
+ComputeBoundingBox time - 2.938778402E9
+Near and far plane time - 7880.0
+ComputeBoundingBox time - 2.838351422E9
+Near and far plane time - 7784.0
+ComputeBoundingBox time - 3.075288348E9
+Near and far plane time - 7938.0
+ComputeBoundingBox time - 7.483668449E9
+Near and far plane time - 8421.0
+ComputeBoundingBox time - 7.989656773E9
+Near and far plane time - 7729.0
+ComputeBoundingBox time - 7.376455087E9
+Near and far plane time - 8063.0
+ComputeBoundingBox time - 3.046799632E9
+Near and far plane time - 7864.0
+ComputeBoundingBox time - 7.395077972E9
+Near and far plane time - 6757.0
+ComputeBoundingBox time - 2.058635316E9
+Near and far plane time - 8020.0
+ComputeBoundingBox time - 7.433689902E9
+Near and far plane time - 7032.0
+ComputeBoundingBox time - 3.298286009E9
+Near and far plane time - 8183.0
+ComputeBoundingBox time - 2.462090403E9
+Near and far plane time - 7997.0
+ComputeBoundingBox time - 3.743233143E9
+Near and far plane time - 8334.0
+ComputeBoundingBox time - 3.961624859E9
+Near and far plane time - 10757.0
+ComputeBoundingBox time - 3.188752126E9
+Near and far plane time - 7832.0
+ComputeBoundingBox time - 2.615135395E9
+Near and far plane time - 7779.0
+ComputeBoundingBox time - 3.610155398E9
+Near and far plane time - 9175.0
+ComputeBoundingBox time - 3.143535481E9
+Near and far plane time - 7446.0
+ComputeBoundingBox time - 1.366913E9
+Near and far plane time - 7695.0
+ComputeBoundingBox time - 2.91625184E9
+Near and far plane time - 8171.0
+ComputeBoundingBox time - 2.877945381E9
+Near and far plane time - 8313.0
+ComputeBoundingBox time - 3.968737301E9
+Near and far plane time - 7822.0
+ComputeBoundingBox time - 3.129943422E9
+Near and far plane time - 7933.0
+ComputeBoundingBox time - 3.065254876E9
+Near and far plane time - 8183.0
+ComputeBoundingBox time - 8.540846836E9
+Near and far plane time - 8088.0
+ComputeBoundingBox time - 9.007616317E9
+Near and far plane time - 7331.0
+ComputeBoundingBox time - 3.724766612E9
+Near and far plane time - 7919.0
+ComputeBoundingBox time - 3.569683765E9
+Near and far plane time - 8356.0
+ComputeBoundingBox time - 3.427295203E9
+Near and far plane time - 8992.0
+ComputeBoundingBox time - 3.097065224E9
+Near and far plane time - 7363.0
+ComputeBoundingBox time - 7.020604832E9
+Near and far plane time - 8018.0
+ComputeBoundingBox time - 2.856846552E9
+Near and far plane time - 7828.0
+ComputeBoundingBox time - 2.896585097E9
+Near and far plane time - 8093.0
+ComputeBoundingBox time - 3.004886083E9
+Near and far plane time - 8471.0
+ComputeBoundingBox time - 3.175209026E9
+Near and far plane time - 7727.0
+ComputeBoundingBox time - 3.342517695E9
+Near and far plane time - 7358.0
+ComputeBoundingBox time - 2.771381411E9
+Near and far plane time - 8173.0
+ComputeBoundingBox time - 3.809252013E9
+Near and far plane time - 8647.0
+ComputeBoundingBox time - 6.998885492E9
+Near and far plane time - 7293.0
+ComputeBoundingBox time - 7.031325961E9
+Near and far plane time - 7544.0
+ComputeBoundingBox time - 3.247278078E9
+Near and far plane time - 7634.0
+ComputeBoundingBox time - 3.98296854E9
+Near and far plane time - 9047.0
+ComputeBoundingBox time - 7.039961111E9
+Near and far plane time - 8599.0
+ComputeBoundingBox time - 7.256227004E9
+Near and far plane time - 8155.0
+ComputeBoundingBox time - 2.613206157E9
+Near and far plane time - 8293.0
+ComputeBoundingBox time - 7.586068042E9
+Near and far plane time - 6649.0
+ComputeBoundingBox time - 2.50185349E8
+Near and far plane time - 7797.0
+ComputeBoundingBox time - 7.564136276E9
+Near and far plane time - 7143.0
+ComputeBoundingBox time - 7.81919766E9
+Near and far plane time - 8431.0
+ComputeBoundingBox time - 2.809807125E9
+Near and far plane time - 8449.0
+ComputeBoundingBox time - 3.329997611E9
+Near and far plane time - 7909.0
+ComputeBoundingBox time - 7.762710425E9
+Near and far plane time - 6867.0
+ComputeBoundingBox time - 2.591034849E9
+Near and far plane time - 7679.0
+ComputeBoundingBox time - 1.063744913E9
+Near and far plane time - 7875.0
+ComputeBoundingBox time - 9.304595318E9
+Near and far plane time - 8298.0
+ComputeBoundingBox time - 3.906671999E9
+Near and far plane time - 7592.0
+ComputeBoundingBox time - 3.275812217E9
+Near and far plane time - 8131.0
+ComputeBoundingBox time - 3.189784271E9
+Near and far plane time - 7724.0
+ComputeBoundingBox time - 4.07674248E9
+Near and far plane time - 8927.0
+ComputeBoundingBox time - 3.029587076E9
+Near and far plane time - 7990.0
+ComputeBoundingBox time - 3.539713829E9
+Near and far plane time - 8231.0
+ComputeBoundingBox time - 2.950693688E9
+Near and far plane time - 7569.0
+ComputeBoundingBox time - 2.228195008E9
+Near and far plane time - 8045.0
+ComputeBoundingBox time - 1.43045661E9
+Near and far plane time - 8381.0
+ComputeBoundingBox time - 3.916919882E9
+Near and far plane time - 8579.0
+ComputeBoundingBox time - 4.454659616E9
+Near and far plane time - 9083.0
+ComputeBoundingBox time - 2.519621315E9
+Near and far plane time - 7651.0
+ComputeBoundingBox time - 3.267349215E9
+Near and far plane time - 7483.0
+ComputeBoundingBox time - 6.671413186E9
+Near and far plane time - 7995.0
+ComputeBoundingBox time - 2.521115711E9
+Near and far plane time - 7458.0
+ComputeBoundingBox time - 8.445080954E9
+Near and far plane time - 7873.0
+ComputeBoundingBox time - 3.236784438E9
+Near and far plane time - 8281.0
+ComputeBoundingBox time - 3.200470418E9
+Near and far plane time - 7408.0
+ComputeBoundingBox time - 1.782678108E9
+Near and far plane time - 7544.0
+ComputeBoundingBox time - 3.192774901E9
+Near and far plane time - 7694.0
+ComputeBoundingBox time - 3.664768431E9
+Near and far plane time - 7491.0
+ComputeBoundingBox time - 3.325265223E9
+Near and far plane time - 7669.0
+ComputeBoundingBox time - 4.300511457E9
+Near and far plane time - 9035.0
+ComputeBoundingBox time - 6.924172267E9
+Near and far plane time - 7081.0
+ComputeBoundingBox time - 2.838792613E9
+Near and far plane time - 8200.0
+ComputeBoundingBox time - 8.951252286E9
+Near and far plane time - 8256.0
+ComputeBoundingBox time - 3.393437551E9
+Near and far plane time - 9298.0
+ComputeBoundingBox time - 3.168601165E9
+Near and far plane time - 7792.0
+ComputeBoundingBox time - 2.411597733E9
+Near and far plane time - 7667.0
+ComputeBoundingBox time - 6.019178303E9
+Near and far plane time - 7444.0
+ComputeBoundingBox time - 7.956011118E9
+Near and far plane time - 6802.0
+ComputeBoundingBox time - 4.130349084E9
+Near and far plane time - 9333.0
+ComputeBoundingBox time - 3.026511922E9
+Near and far plane time - 8200.0
+ComputeBoundingBox time - 7.807479667E9
+Near and far plane time - 7095.0
+ComputeBoundingBox time - 3.523663089E9
+Near and far plane time - 7992.0
+ComputeBoundingBox time - 8.129138576E9
+Near and far plane time - 7704.0
+ComputeBoundingBox time - 8.11741934E9
+Near and far plane time - 7573.0
+ComputeBoundingBox time - 3.310938324E9
+Near and far plane time - 7900.0
+ComputeBoundingBox time - 3.497801728E9
+Near and far plane time - 7913.0
+ComputeBoundingBox time - 7.930002463E9
+Near and far plane time - 8666.0
+ComputeBoundingBox time - 3.628544097E9
+Near and far plane time - 7802.0
+ComputeBoundingBox time - 8.124991857E9
+Near and far plane time - 6511.0
+ComputeBoundingBox time - 3.871048898E9
+Near and far plane time - 7391.0
+ComputeBoundingBox time - 3.107902909E9
+Near and far plane time - 8694.0
+ComputeBoundingBox time - 3.730798125E9
+Near and far plane time - 8130.0
+ComputeBoundingBox time - 2.336878056E9
+Near and far plane time - 8097.0
+ComputeBoundingBox time - 3.110615581E9
+Near and far plane time - 8116.0
+ComputeBoundingBox time - 4.096055677E9
+Near and far plane time - 8273.0
+ComputeBoundingBox time - 4.455007446E9
+Near and far plane time - 8626.0
+ComputeBoundingBox time - 2.702049258E9
+Near and far plane time - 7797.0
+ComputeBoundingBox time - 3.773632564E9
+Near and far plane time - 8894.0
+ComputeBoundingBox time - 2.701334516E9
+Near and far plane time - 7659.0
+ComputeBoundingBox time - 3.229137326E9
+Near and far plane time - 7953.0
+ComputeBoundingBox time - 2.913638649E9
+Near and far plane time - 8125.0
+ComputeBoundingBox time - 3.630345815E9
+Near and far plane time - 8554.0
+ComputeBoundingBox time - 9.916443858E9
+Near and far plane time - 8985.0
+ComputeBoundingBox time - 7.286901078E9
+Near and far plane time - 7922.0
+ComputeBoundingBox time - 3.275418094E9
+Near and far plane time - 7579.0
+ComputeBoundingBox time - 2.756933472E9
+ComputeBoundingBox time - 3.363894691E9
+Near and far plane time - 9163.0
+Near and far plane time - 12333.0
+ComputeBoundingBox time - 2.902310249E9
+Near and far plane time - 7942.0
+ComputeBoundingBox time - 6.139224829E9
+Near and far plane time - 7281.0
+ComputeBoundingBox time - 3.2718281E9
+Near and far plane time - 8462.0
+ComputeBoundingBox time - 2.905099957E9
+Near and far plane time - 7925.0
+ComputeBoundingBox time - 8.589485116E9
+Near and far plane time - 7998.0
+ComputeBoundingBox time - 2.914678904E9
+Near and far plane time - 8018.0
+ComputeBoundingBox time - 3.328434042E9
+Near and far plane time - 9669.0
+ComputeBoundingBox time - 2.939216241E9
+Near and far plane time - 8075.0
+ComputeBoundingBox time - 6.758814487E9
+Near and far plane time - 7113.0
+ComputeBoundingBox time - 6.996227792E9
+Near and far plane time - 7782.0
+ComputeBoundingBox time - 3.076791689E9
+Near and far plane time - 7371.0
+ComputeBoundingBox time - 3.110131822E9
+Near and far plane time - 8293.0
+ComputeBoundingBox time - 3.15564656E9
+Near and far plane time - 8694.0
+ComputeBoundingBox time - 4.100656453E9
+Near and far plane time - 9311.0
+ComputeBoundingBox time - 2.99612362E9
+Near and far plane time - 8133.0
+ComputeBoundingBox time - 7.011804304E9
+Near and far plane time - 7882.0
+ComputeBoundingBox time - 7.155575496E9
+Near and far plane time - 6797.0
+ComputeBoundingBox time - 2.967307539E9
+Near and far plane time - 8035.0
+ComputeBoundingBox time - 3.315692782E9
+Near and far plane time - 7336.0
+ComputeBoundingBox time - 7.492821794E9
+Near and far plane time - 8316.0
+ComputeBoundingBox time - 2.09999711E9
+Near and far plane time - 7576.0
+ComputeBoundingBox time - 3.223385845E9
+Near and far plane time - 8007.0
+ComputeBoundingBox time - 7.130328812E9
+Near and far plane time - 7303.0
+ComputeBoundingBox time - 3.954381234E9
+Near and far plane time - 8888.0
+ComputeBoundingBox time - 7.466240347E9
+Near and far plane time - 8667.0
+ComputeBoundingBox time - 3.313448908E9
+Near and far plane time - 8305.0
+ComputeBoundingBox time - 3.089048866E9
+Near and far plane time - 7819.0
+ComputeBoundingBox time - 3.263983662E9
+Near and far plane time - 8200.0
+ComputeBoundingBox time - 2.326770679E9
+Near and far plane time - 8155.0
+ComputeBoundingBox time - 5.585295875E9
+Near and far plane time - 7158.0
+ComputeBoundingBox time - 3.189260998E9
+Near and far plane time - 7742.0
+ComputeBoundingBox time - 3.395591703E9
+Near and far plane time - 8376.0
+ComputeBoundingBox time - 3.167947104E9
+Near and far plane time - 8180.0
+ComputeBoundingBox time - 4.170715704E9
+Near and far plane time - 9419.0
+ComputeBoundingBox time - 2.66287052E9
+Near and far plane time - 8130.0
+ComputeBoundingBox time - 3.078489501E9
+Near and far plane time - 7477.0
+ComputeBoundingBox time - 1.767748226E9
+Near and far plane time - 7469.0
+ComputeBoundingBox time - 3.117391465E9
+Near and far plane time - 7288.0
+ComputeBoundingBox time - 3.436216645E9
+Near and far plane time - 6769.0
+ComputeBoundingBox time - 1.940588028E9
+Near and far plane time - 7975.0
+ComputeBoundingBox time - 8.890313231E9
+Near and far plane time - 8153.0
+ComputeBoundingBox time - 4.61051984E9
+Near and far plane time - 8118.0
+ComputeBoundingBox time - 3.322172656E9
+Near and far plane time - 8687.0
+ComputeBoundingBox time - 7.832086117E9
+Near and far plane time - 7446.0
+ComputeBoundingBox time - 3.040012823E9
+Near and far plane time - 8147.0
+ComputeBoundingBox time - 7.363135294E9
+Near and far plane time - 8551.0
+ComputeBoundingBox time - 3.203586903E9
+Near and far plane time - 7434.0
+ComputeBoundingBox time - 9.495344293E9
+Near and far plane time - 8316.0
+ComputeBoundingBox time - 2.992188027E9
+Near and far plane time - 7983.0
+ComputeBoundingBox time - 4.31534654E9
+Near and far plane time - 9463.0
+ComputeBoundingBox time - 2.545419316E9
+Near and far plane time - 7002.0
+ComputeBoundingBox time - 2.845160424E9
+Near and far plane time - 7634.0
+ComputeBoundingBox time - 2.941368721E9
+Near and far plane time - 7785.0
+ComputeBoundingBox time - 7.826618633E9
+Near and far plane time - 7609.0
+ComputeBoundingBox time - 6.877154892E9
+Near and far plane time - 7499.0
+ComputeBoundingBox time - 7.848763717E9
+Near and far plane time - 6915.0
+ComputeBoundingBox time - 3.077556955E9
+Near and far plane time - 7379.0
+ComputeBoundingBox time - 3.312449072E9
+Near and far plane time - 7687.0
+ComputeBoundingBox time - 1.292888376E9
+Near and far plane time - 7729.0
+ComputeBoundingBox time - 2.973328547E9
+Near and far plane time - 7865.0
+ComputeBoundingBox time - 3.373811961E9
+Near and far plane time - 9661.0
+ComputeBoundingBox time - 4.226922411E9
+Near and far plane time - 8770.0
+ComputeBoundingBox time - 7.776878921E9
+Near and far plane time - 6659.0
+ComputeBoundingBox time - 4.275829132E9
+Near and far plane time - 8208.0
+ComputeBoundingBox time - 7.431480614E9
+Near and far plane time - 7752.0
+ComputeBoundingBox time - 5.855689114E9
+Near and far plane time - 8061.0
+ComputeBoundingBox time - 7.639699716E9
+Near and far plane time - 7399.0
+ComputeBoundingBox time - 3.090248419E9
+Near and far plane time - 8316.0
+ComputeBoundingBox time - 7.920638926E9
+Near and far plane time - 8413.0
+ComputeBoundingBox time - 3.156344148E9
+Near and far plane time - 7857.0
+ComputeBoundingBox time - 2.925309992E9
+Near and far plane time - 7639.0
+ComputeBoundingBox time - 3.00433628E9
+Near and far plane time - 7398.0
+ComputeBoundingBox time - 3.324674557E9
+Near and far plane time - 8138.0
+ComputeBoundingBox time - 3.115616046E9
+Near and far plane time - 7910.0
+ComputeBoundingBox time - 2.841780728E9
+Near and far plane time - 8281.0
+ComputeBoundingBox time - 4.032311818E9
+Near and far plane time - 8832.0
+ComputeBoundingBox time - 3.125664578E9
+Near and far plane time - 7503.0
+ComputeBoundingBox time - 3.095077297E9
+Near and far plane time - 7940.0
+ComputeBoundingBox time - 3.348692524E9
+Near and far plane time - 9360.0
+ComputeBoundingBox time - 3.80725621E9
+Near and far plane time - 8251.0
+ComputeBoundingBox time - 3.123434267E9
+Near and far plane time - 7910.0
+ComputeBoundingBox time - 4.042976335E9
+Near and far plane time - 9078.0
+ComputeBoundingBox time - 2.680492557E9
+Near and far plane time - 7730.0
+ComputeBoundingBox time - 3.29111388E9
+Near and far plane time - 7641.0
+ComputeBoundingBox time - 7.27542725E9
+Near and far plane time - 7236.0
+ComputeBoundingBox time - 2.910153661E9
+Near and far plane time - 7762.0
+ComputeBoundingBox time - 8.494954662E9
+Near and far plane time - 7659.0
+ComputeBoundingBox time - 3.274015931E9
+Near and far plane time - 7810.0
+ComputeBoundingBox time - 2.831720805E9
+Near and far plane time - 7829.0
+ComputeBoundingBox time - 3.089662714E9
+Near and far plane time - 7228.0
+ComputeBoundingBox time - 2.87546582E9
+Near and far plane time - 7894.0
+ComputeBoundingBox time - 6.741408251E9
+Near and far plane time - 7017.0
+ComputeBoundingBox time - 3.170876973E9
+Near and far plane time - 9271.0
+ComputeBoundingBox time - 2.984247599E9
+Near and far plane time - 7945.0
+ComputeBoundingBox time - 8.111989427E9
+Near and far plane time - 8117.0
+ComputeBoundingBox time - 7.80696287E9
+Near and far plane time - 8391.0
+ComputeBoundingBox time - 7.110652122E9
+Near and far plane time - 7895.0
+ComputeBoundingBox time - 6.967005109E9
+Near and far plane time - 6915.0
+ComputeBoundingBox time - 3.269131648E9
+Near and far plane time - 8113.0
+ComputeBoundingBox time - 2.856424709E9
+Near and far plane time - 8063.0
+ComputeBoundingBox time - 2.652204968E9
+Near and far plane time - 8135.0
+ComputeBoundingBox time - 6.693539089E9
+Near and far plane time - 8178.0
+ComputeBoundingBox time - 7.269000234E9
+Near and far plane time - 6769.0
+ComputeBoundingBox time - 2.675949393E9
+Near and far plane time - 8113.0
+ComputeBoundingBox time - 7.2733129E9
+Near and far plane time - 8133.0
+ComputeBoundingBox time - 3.346425451E9
+Near and far plane time - 7827.0
+ComputeBoundingBox time - 4.011429624E9
+Near and far plane time - 8203.0
+ComputeBoundingBox time - 4.135743851E9
+Near and far plane time - 7584.0
+ComputeBoundingBox time - 7.492772547E9
+Near and far plane time - 7077.0
+ComputeBoundingBox time - 2.740621663E9
+Near and far plane time - 7962.0
+ComputeBoundingBox time - 7.068395129E9
+Near and far plane time - 7958.0
+ComputeBoundingBox time - 2.972004894E9
+Near and far plane time - 7496.0
+ComputeBoundingBox time - 3.244495393E9
+Near and far plane time - 8095.0
+ComputeBoundingBox time - 1.643151156E9
+Near and far plane time - 5531.0
+ComputeBoundingBox time - 3.213160261E9
+Near and far plane time - 8304.0
+ComputeBoundingBox time - 3.104923354E9
+Near and far plane time - 7853.0
+ComputeBoundingBox time - 3.4796297E9
+Near and far plane time - 9073.0
+ComputeBoundingBox time - 3.076886487E9
+Near and far plane time - 7980.0
+ComputeBoundingBox time - 2.706811555E9
+Near and far plane time - 7968.0
+ComputeBoundingBox time - 3.515997092E9
+Near and far plane time - 8421.0
+ComputeBoundingBox time - 3.325300033E9
+Near and far plane time - 7318.0
+ComputeBoundingBox time - 3.088323783E9
+Near and far plane time - 8386.0
+ComputeBoundingBox time - 2.971620754E9
+Near and far plane time - 8155.0
+ComputeBoundingBox time - 2.739735607E9
+Near and far plane time - 7611.0
+ComputeBoundingBox time - 3.566929453E9
+Near and far plane time - 8724.0
+ComputeBoundingBox time - 3.254155959E9
+Near and far plane time - 8286.0
+ComputeBoundingBox time - 3.739574893E9
+Near and far plane time - 8110.0
+ComputeBoundingBox time - 7.306879348E9
+Near and far plane time - 6829.0
+ComputeBoundingBox time - 3.002453266E9
+Near and far plane time - 8136.0
+ComputeBoundingBox time - 2.990565038E9
+Near and far plane time - 7990.0
+ComputeBoundingBox time - 6.538825742E9
+Near and far plane time - 7316.0
+ComputeBoundingBox time - 2.648014375E9
+Near and far plane time - 7945.0
+ComputeBoundingBox time - 2.879788378E9
+Near and far plane time - 7822.0
+ComputeBoundingBox time - 6.974105949E9
+Near and far plane time - 8160.0
+ComputeBoundingBox time - 8.195834119E9
+Near and far plane time - 7820.0
+ComputeBoundingBox time - 7.209244557E9
+Near and far plane time - 6950.0
+ComputeBoundingBox time - 4.21054147E9
+Near and far plane time - 8862.0
+ComputeBoundingBox time - 6.397647894E9
+Near and far plane time - 7624.0
+ComputeBoundingBox time - 8.081932768E9
+Near and far plane time - 7656.0
+ComputeBoundingBox time - 2.959887824E9
+Near and far plane time - 8045.0
+ComputeBoundingBox time - 2.936194527E9
+Near and far plane time - 10281.0
+ComputeBoundingBox time - 4.196393302E9
+Near and far plane time - 8777.0
+ComputeBoundingBox time - 3.050717878E9
+Near and far plane time - 7376.0
+ComputeBoundingBox time - 7.273496049E9
+Near and far plane time - 6870.0
+ComputeBoundingBox time - 7.104260879E9
+Near and far plane time - 6947.0
+ComputeBoundingBox time - 3.223289227E9
+Near and far plane time - 7373.0
+ComputeBoundingBox time - 2.679128065E9
+Near and far plane time - 8218.0
+ComputeBoundingBox time - 6.678916608E9
+Near and far plane time - 6767.0
+ComputeBoundingBox time - 3.268998171E9
+Near and far plane time - 7734.0
+ComputeBoundingBox time - 3.435873676E9
+Near and far plane time - 9005.0
+ComputeBoundingBox time - 3.175681169E9
+Near and far plane time - 7947.0
+ComputeBoundingBox time - 2.621516847E9
+Near and far plane time - 8491.0
+ComputeBoundingBox time - 3.52254994E9
+Near and far plane time - 7481.0
+ComputeBoundingBox time - 9.221055596E9
+Near and far plane time - 7699.0
+ComputeBoundingBox time - 7.185659411E9
+Near and far plane time - 7672.0
+ComputeBoundingBox time - 3.078219911E9
+Near and far plane time - 8005.0
+ComputeBoundingBox time - 2.698204266E9
+Near and far plane time - 7166.0
+ComputeBoundingBox time - 2.959178715E9
+Near and far plane time - 7934.0
+ComputeBoundingBox time - 2.776545205E9
+Near and far plane time - 7757.0
+ComputeBoundingBox time - 3.820970163E9
+Near and far plane time - 17394.0
+ComputeBoundingBox time - 3.221699506E9
+Near and far plane time - 8947.0
+ComputeBoundingBox time - 3.028199868E9
+Near and far plane time - 7857.0
+ComputeBoundingBox time - 3.039648197E9
+Near and far plane time - 8333.0
+ComputeBoundingBox time - 2.649253495E9
+Near and far plane time - 8138.0
+ComputeBoundingBox time - 3.195046762E9
+Near and far plane time - 8291.0
+ComputeBoundingBox time - 3.370132104E9
+Near and far plane time - 7960.0
+ComputeBoundingBox time - 2.779502762E9
+Near and far plane time - 7704.0
+ComputeBoundingBox time - 7.072972053E9
+Near and far plane time - 7491.0
+ComputeBoundingBox time - 4.003505716E9
+Near and far plane time - 9349.0
+ComputeBoundingBox time - 3.970869144E9
+Near and far plane time - 8592.0
+ComputeBoundingBox time - 5.861554756E9
+Near and far plane time - 8366.0
+ComputeBoundingBox time - 7.308422012E9
+Near and far plane time - 8426.0
+ComputeBoundingBox time - 3.144561078E9
+Near and far plane time - 7419.0
+ComputeBoundingBox time - 2.897913699E9
+Near and far plane time - 7875.0
+ComputeBoundingBox time - 2.059507461E9
+Near and far plane time - 8076.0
+ComputeBoundingBox time - 2.927349971E9
+Near and far plane time - 8895.0
+ComputeBoundingBox time - 2.80443813E9
+Near and far plane time - 9566.0
+ComputeBoundingBox time - 7.086354058E9
+Near and far plane time - 6988.0
+ComputeBoundingBox time - 6.944560029E9
+Near and far plane time - 6524.0
+ComputeBoundingBox time - 2.948227809E9
+Near and far plane time - 7734.0
+ComputeBoundingBox time - 3.262624518E9
+Near and far plane time - 7945.0
+ComputeBoundingBox time - 3.684381535E9
+Near and far plane time - 9504.0
+ComputeBoundingBox time - 8.072731154E9
+Near and far plane time - 8190.0
+ComputeBoundingBox time - 3.269804907E9
+Near and far plane time - 7977.0
+ComputeBoundingBox time - 2.947737671E9
+Near and far plane time - 8213.0
+ComputeBoundingBox time - 3.247962346E9
+Near and far plane time - 7822.0
+ComputeBoundingBox time - 6.946418319E9
+Near and far plane time - 7737.0
+ComputeBoundingBox time - 7.260012294E9
+Near and far plane time - 6792.0
+ComputeBoundingBox time - 7.993984924E9
+Near and far plane time - 8476.0
+ComputeBoundingBox time - 7.587681621E9
+Near and far plane time - 8324.0
+ComputeBoundingBox time - 3.318991071E9
+Near and far plane time - 9110.0
+ComputeBoundingBox time - 3.353376287E9
+Near and far plane time - 8396.0
+ComputeBoundingBox time - 7.583887286E9
+Near and far plane time - 8063.0
+ComputeBoundingBox time - 2.803953015E9
+Near and far plane time - 7151.0
+ComputeBoundingBox time - 3.075514955E9
+Near and far plane time - 8487.0
+ComputeBoundingBox time - 3.154085218E9
+Near and far plane time - 7990.0
+ComputeBoundingBox time - 2.9527027E9
+Near and far plane time - 8689.0
+ComputeBoundingBox time - 2.29920044E9
+Near and far plane time - 9915.0
+ComputeBoundingBox time - 3.001753384E9
+Near and far plane time - 8276.0
+ComputeBoundingBox time - 3.870675831E9
+Near and far plane time - 7845.0
+ComputeBoundingBox time - 8.863791092E9
+Near and far plane time - 8681.0
+ComputeBoundingBox time - 3.316971177E9
+Near and far plane time - 7785.0
+ComputeBoundingBox time - 3.012273081E9
+Near and far plane time - 8368.0
+ComputeBoundingBox time - 2.884546382E9
+Near and far plane time - 9276.0
+ComputeBoundingBox time - 3.109672569E9
+Near and far plane time - 8238.0
+ComputeBoundingBox time - 6.290820266E9
+Near and far plane time - 7421.0
+ComputeBoundingBox time - 2.77183563E9
+Near and far plane time - 8025.0
+ComputeBoundingBox time - 6.412105888E9
+Near and far plane time - 7105.0
+ComputeBoundingBox time - 2.839588261E9
+Near and far plane time - 7892.0
+ComputeBoundingBox time - 2.867305662E9
+Near and far plane time - 8040.0
+ComputeBoundingBox time - 3.02173139E9
+Near and far plane time - 8444.0
+ComputeBoundingBox time - 4.128478605E9
+Near and far plane time - 7842.0
+ComputeBoundingBox time - 6.930442836E9
+Near and far plane time - 8058.0
+ComputeBoundingBox time - 3.848823724E9
+Near and far plane time - 8769.0
+ComputeBoundingBox time - 3.479976951E9
+Near and far plane time - 9579.0
+ComputeBoundingBox time - 3.185916517E9
+Near and far plane time - 8005.0
+ComputeBoundingBox time - 3.05761626E9
+Near and far plane time - 8213.0
+ComputeBoundingBox time - 7.026516185E9
+Near and far plane time - 6116.0
+ComputeBoundingBox time - 2.993455769E9
+Near and far plane time - 7230.0
+ComputeBoundingBox time - 3.049274122E9
+Near and far plane time - 8298.0
+ComputeBoundingBox time - 3.402453259E9
+Near and far plane time - 10276.0
+ComputeBoundingBox time - 7.488672137E9
+Near and far plane time - 8051.0
+ComputeBoundingBox time - 3.389488064E9
+Near and far plane time - 8431.0
+ComputeBoundingBox time - 2.862887106E9
+Near and far plane time - 7867.0
+ComputeBoundingBox time - 2.874084809E9
+Near and far plane time - 9042.0
+ComputeBoundingBox time - 7.022534744E9
+Near and far plane time - 6657.0
+ComputeBoundingBox time - 3.059255821E9
+Near and far plane time - 8354.0
+ComputeBoundingBox time - 2.506933417E9
+Near and far plane time - 7734.0
+ComputeBoundingBox time - 7.042604196E9
+Near and far plane time - 8557.0
+ComputeBoundingBox time - 7.488968092E9
+Near and far plane time - 7015.0
+ComputeBoundingBox time - 3.110531095E9
+Near and far plane time - 7163.0
+ComputeBoundingBox time - 8.30251116E9
+Near and far plane time - 9120.0
+ComputeBoundingBox time - 3.403439554E9
+Near and far plane time - 9027.0
+ComputeBoundingBox time - 3.180554318E9
+Near and far plane time - 7902.0
+ComputeBoundingBox time - 3.212454405E9
+Near and far plane time - 9499.0
+ComputeBoundingBox time - 8.020552084E9
+Near and far plane time - 7709.0
+ComputeBoundingBox time - 2.70259832E9
+Near and far plane time - 8331.0
+ComputeBoundingBox time - 7.352250172E9
+Near and far plane time - 8797.0
+ComputeBoundingBox time - 3.151031946E9
+Near and far plane time - 8564.0
+ComputeBoundingBox time - 4.751909639E9
+Near and far plane time - 7752.0
+ComputeBoundingBox time - 3.199723807E9
+Near and far plane time - 7391.0
+ComputeBoundingBox time - 3.319642705E9
+Near and far plane time - 9717.0
+ComputeBoundingBox time - 2.158310379E9
+Near and far plane time - 8815.0
+ComputeBoundingBox time - 3.153815681E9
+Near and far plane time - 6999.0
+ComputeBoundingBox time - 2.750148511E9
+Near and far plane time - 8128.0
+ComputeBoundingBox time - 2.721032527E9
+Near and far plane time - 7952.0
+ComputeBoundingBox time - 3.221511537E9
+Near and far plane time - 8343.0
+ComputeBoundingBox time - 2.938258322E9
+Near and far plane time - 7213.0
+ComputeBoundingBox time - 7.440589885E9
+Near and far plane time - 7559.0
+ComputeBoundingBox time - 8.796788851E9
+Near and far plane time - 8705.0
+ComputeBoundingBox time - 3.051674807E9
+Near and far plane time - 8765.0
+ComputeBoundingBox time - 2.913586035E9
+Near and far plane time - 8509.0
+ComputeBoundingBox time - 6.90181107E9
+Near and far plane time - 8033.0
+ComputeBoundingBox time - 3.122680567E9
+Near and far plane time - 8644.0
+ComputeBoundingBox time - 3.037073971E9
+Near and far plane time - 7007.0
+ComputeBoundingBox time - 3.839102841E9
+Near and far plane time - 9579.0
+ComputeBoundingBox time - 2.589736932E9
+Near and far plane time - 8479.0
+ComputeBoundingBox time - 4.156511241E9
+Near and far plane time - 9937.0
+ComputeBoundingBox time - 2.687578632E9
+Near and far plane time - 8132.0
+ComputeBoundingBox time - 3.284068911E9
+Near and far plane time - 7877.0
+ComputeBoundingBox time - 3.730125632E9
+Near and far plane time - 9589.0
+ComputeBoundingBox time - 2.667743761E9
+Near and far plane time - 8461.0
+ComputeBoundingBox time - 3.445174543E9
+Near and far plane time - 8641.0
+ComputeBoundingBox time - 7.485206101E9
+Near and far plane time - 7865.0
+ComputeBoundingBox time - 2.819057009E9
+Near and far plane time - 7905.0
+ComputeBoundingBox time - 7.311721308E9
+Near and far plane time - 8368.0
+ComputeBoundingBox time - 6.741677228E9
+Near and far plane time - 7356.0
+ComputeBoundingBox time - 2.88315767E9
+Near and far plane time - 8694.0
+ComputeBoundingBox time - 2.763684524E9
+Near and far plane time - 8343.0
+ComputeBoundingBox time - 7.615245168E9
+Near and far plane time - 7629.0
+ComputeBoundingBox time - 7.295049853E9
+Near and far plane time - 8216.0
+ComputeBoundingBox time - 2.77174202E9
+Near and far plane time - 8970.0
+ComputeBoundingBox time - 3.129104054E9
+Near and far plane time - 7542.0
+ComputeBoundingBox time - 3.14958271E9
+Near and far plane time - 8279.0
+ComputeBoundingBox time - 2.932435471E9
+Near and far plane time - 9982.0
+ComputeBoundingBox time - 3.214093878E9
+Near and far plane time - 9655.0
+ComputeBoundingBox time - 6.54166046E9
+Near and far plane time - 8554.0
+ComputeBoundingBox time - 2.924694595E9
+Near and far plane time - 8604.0
+ComputeBoundingBox time - 2.843408973E9
+Near and far plane time - 8078.0
+ComputeBoundingBox time - 2.951738848E9
+Near and far plane time - 9562.0
+ComputeBoundingBox time - 3.067521042E9
+Near and far plane time - 7753.0
+ComputeBoundingBox time - 7.53751613E9
+Near and far plane time - 8464.0
+ComputeBoundingBox time - 7.873215685E9
+Near and far plane time - 9000.0
+ComputeBoundingBox time - 8.443412971E9
+Near and far plane time - 8596.0
+ComputeBoundingBox time - 3.355684093E9
+Near and far plane time - 8218.0
+ComputeBoundingBox time - 2.530741428E9
+Near and far plane time - 8689.0
+ComputeBoundingBox time - 1.938490882E9
+Near and far plane time - 8369.0
+ComputeBoundingBox time - 4.211093199E9
+Near and far plane time - 8862.0
+ComputeBoundingBox time - 2.928405703E9
+Near and far plane time - 8706.0
+ComputeBoundingBox time - 7.220297656E9
+Near and far plane time - 7281.0
+ComputeBoundingBox time - 3.057484333E9
+Near and far plane time - 7512.0
+ComputeBoundingBox time - 3.257979673E9
+Near and far plane time - 8569.0
+ComputeBoundingBox time - 2.741500154E9
+Near and far plane time - 9859.0
+ComputeBoundingBox time - 7.012286118E9
+Near and far plane time - 7416.0
+ComputeBoundingBox time - 2.892608818E9
+Near and far plane time - 9497.0
+ComputeBoundingBox time - 2.832236374E9
+Near and far plane time - 7012.0
+ComputeBoundingBox time - 2.941576907E9
+Near and far plane time - 8404.0
+ComputeBoundingBox time - 3.762713548E9
+Near and far plane time - 9363.0
+ComputeBoundingBox time - 2.37127911E9
+Near and far plane time - 8970.0
+ComputeBoundingBox time - 4.533166027E9
+Near and far plane time - 8436.0
+ComputeBoundingBox time - 3.199680592E9
+Near and far plane time - 8476.0
+ComputeBoundingBox time - 1.819982537E9
+Near and far plane time - 7787.0
+ComputeBoundingBox time - 3.432810972E9
+Near and far plane time - 8030.0
+ComputeBoundingBox time - 3.149547309E9
+Near and far plane time - 8286.0
+ComputeBoundingBox time - 3.064419515E9
+Near and far plane time - 7978.0
+ComputeBoundingBox time - 6.966596693E9
+Near and far plane time - 8353.0
+ComputeBoundingBox time - 7.216597066E9
+Near and far plane time - 7439.0
+ComputeBoundingBox time - 9.337183287E9
+Near and far plane time - 7993.0
+ComputeBoundingBox time - 1.976162255E9
+Near and far plane time - 9348.0
+ComputeBoundingBox time - 3.481867029E9
+Near and far plane time - 8316.0
+ComputeBoundingBox time - 2.983609928E9
+Near and far plane time - 9193.0
+ComputeBoundingBox time - 3.311443358E9
+Near and far plane time - 7807.0
+ComputeBoundingBox time - 7.756654789E9
+Near and far plane time - 7226.0
+ComputeBoundingBox time - 7.295846999E9
+Near and far plane time - 8173.0
+ComputeBoundingBox time - 3.268025273E9
+Near and far plane time - 8331.0
+ComputeBoundingBox time - 3.099796603E9
+Near and far plane time - 8511.0
+ComputeBoundingBox time - 6.706983912E9
+Near and far plane time - 7884.0
+ComputeBoundingBox time - 3.346797036E9
+Near and far plane time - 7409.0
+ComputeBoundingBox time - 7.543074782E9
+Near and far plane time - 8218.0
+ComputeBoundingBox time - 2.731110183E9
+Near and far plane time - 9135.0
+ComputeBoundingBox time - 2.953358918E9
+Near and far plane time - 8441.0
+ComputeBoundingBox time - 3.14355356E9
+Near and far plane time - 6922.0
+ComputeBoundingBox time - 3.001662897E9
+Near and far plane time - 8281.0
+ComputeBoundingBox time - 3.288906541E9
+Near and far plane time - 8013.0
+ComputeBoundingBox time - 1.369183647E9
+Near and far plane time - 8160.0
+ComputeBoundingBox time - 7.836746899E9
+Near and far plane time - 8033.0
+ComputeBoundingBox time - 4.226060396E9
+Near and far plane time - 10055.0
+ComputeBoundingBox time - 1.428204401E9
+Near and far plane time - 7865.0
+ComputeBoundingBox time - 8.619486027E9
+Near and far plane time - 7759.0
+ComputeBoundingBox time - 3.044293974E9
+Near and far plane time - 8664.0
+ComputeBoundingBox time - 2.854599844E9
+Near and far plane time - 8722.0
+ComputeBoundingBox time - 8.6804272E9
+Near and far plane time - 8289.0
+ComputeBoundingBox time - 6.979174621E9
+Near and far plane time - 7684.0
+ComputeBoundingBox time - 3.428723915E9
+Near and far plane time - 8235.0
+ComputeBoundingBox time - 3.997951607E9
+Near and far plane time - 9434.0
+ComputeBoundingBox time - 2.955387656E9
+Near and far plane time - 8664.0
+ComputeBoundingBox time - 4.203250798E9
+Near and far plane time - 8895.0
+ComputeBoundingBox time - 3.158577746E9
+Near and far plane time - 8519.0
+ComputeBoundingBox time - 3.239658404E9
+Near and far plane time - 7980.0
+ComputeBoundingBox time - 7.683660327E9
+Near and far plane time - 7313.0
+ComputeBoundingBox time - 4.375876379E9
+Near and far plane time - 9467.0
+ComputeBoundingBox time - 3.308670149E9
+Near and far plane time - 7527.0
+ComputeBoundingBox time - 3.372740211E9
+Near and far plane time - 8908.0
+ComputeBoundingBox time - 2.936010806E9
+Near and far plane time - 8757.0
+ComputeBoundingBox time - 2.693374611E9
+Near and far plane time - 7962.0
+ComputeBoundingBox time - 6.975609234E9
+Near and far plane time - 8629.0
+ComputeBoundingBox time - 7.070916387E9
+Near and far plane time - 7666.0
+ComputeBoundingBox time - 2.795861501E9
+Near and far plane time - 8734.0
+ComputeBoundingBox time - 2.802970157E9
+Near and far plane time - 7987.0
+ComputeBoundingBox time - 3.068185547E9
+Near and far plane time - 7950.0
+ComputeBoundingBox time - 6.070961153E9
+Near and far plane time - 7436.0
+ComputeBoundingBox time - 6.495873279E9
+Near and far plane time - 8448.0
+ComputeBoundingBox time - 2.934305146E9
+Near and far plane time - 8329.0
+ComputeBoundingBox time - 6.593864571E9
+Near and far plane time - 7639.0
+ComputeBoundingBox time - 8.631422517E9
+Near and far plane time - 8634.0
+ComputeBoundingBox time - 1.653049819E9
+Near and far plane time - 8326.0
+ComputeBoundingBox time - 3.886207344E9
+Near and far plane time - 8623.0
+ComputeBoundingBox time - 7.46223257E9
+Near and far plane time - 7502.0
+ComputeBoundingBox time - 3.05439303E9
+Near and far plane time - 7669.0
+ComputeBoundingBox time - 3.130621713E9
+Near and far plane time - 8561.0
+ComputeBoundingBox time - 3.262860531E9
+Near and far plane time - 8313.0
+ComputeBoundingBox time - 2.938707604E9
+Near and far plane time - 8809.0
+ComputeBoundingBox time - 2.848015908E9
+Near and far plane time - 8313.0
+ComputeBoundingBox time - 3.821299051E9
+Near and far plane time - 8647.0
+ComputeBoundingBox time - 3.318862958E9
+Near and far plane time - 8065.0
+ComputeBoundingBox time - 3.140955844E9
+Near and far plane time - 8143.0
+ComputeBoundingBox time - 4.668605143E9
+Near and far plane time - 8472.0
+ComputeBoundingBox time - 3.056600938E9
+Near and far plane time - 8193.0
+ComputeBoundingBox time - 3.021536676E9
+Near and far plane time - 8060.0
+ComputeBoundingBox time - 7.694199846E9
+Near and far plane time - 7932.0
+ComputeBoundingBox time - 6.922363989E9
+Near and far plane time - 7859.0
+ComputeBoundingBox time - 2.724354467E9
+Near and far plane time - 7513.0
+ComputeBoundingBox time - 2.783629765E9
+Near and far plane time - 8208.0
+ComputeBoundingBox time - 7.602526908E9
+Near and far plane time - 8261.0
+ComputeBoundingBox time - 2.970767906E9
+Near and far plane time - 8512.0
+ComputeBoundingBox time - 3.267449059E9
+Near and far plane time - 8516.0
+ComputeBoundingBox time - 2.672683154E9
+Near and far plane time - 7008.0
+ComputeBoundingBox time - 3.091136054E9
+Near and far plane time - 8706.0
+ComputeBoundingBox time - 8.273578247E9
+Near and far plane time - 8055.0
+ComputeBoundingBox time - 3.053576444E9
+Near and far plane time - 6712.0
+ComputeBoundingBox time - 2.725635152E9
+Near and far plane time - 8253.0
+ComputeBoundingBox time - 7.278586037E9
+Near and far plane time - 7243.0
+ComputeBoundingBox time - 3.687425964E9
+Near and far plane time - 9165.0
+ComputeBoundingBox time - 3.79030414E9
+Near and far plane time - 9271.0
+ComputeBoundingBox time - 6.728397618E9
+Near and far plane time - 8396.0
+ComputeBoundingBox time - 2.831767961E9
+Near and far plane time - 8295.0
+ComputeBoundingBox time - 1.797689894E9
+Near and far plane time - 8055.0
+ComputeBoundingBox time - 3.330759959E9
+Near and far plane time - 9088.0
+ComputeBoundingBox time - 3.572035617E9
+Near and far plane time - 8095.0
+ComputeBoundingBox time - 7.339510849E9
+Near and far plane time - 8323.0
+ComputeBoundingBox time - 2.788537828E9
+Near and far plane time - 8699.0
+ComputeBoundingBox time - 6.439309776E9
+Near and far plane time - 6955.0
+ComputeBoundingBox time - 2.941389444E9
+Near and far plane time - 8489.0
+ComputeBoundingBox time - 2.807201888E9
+Near and far plane time - 8704.0
+ComputeBoundingBox time - 2.423782652E9
+Near and far plane time - 7755.0
+ComputeBoundingBox time - 4.46046688E8
+Near and far plane time - 8083.0
+ComputeBoundingBox time - 7.592959209E9
+Near and far plane time - 8611.0
+ComputeBoundingBox time - 4.090479089E9
+Near and far plane time - 9153.0
+ComputeBoundingBox time - 7.012969594E9
+Near and far plane time - 7915.0
+ComputeBoundingBox time - 3.455951452E9
+Near and far plane time - 8329.0
+ComputeBoundingBox time - 8.222192041E9
+Near and far plane time - 6818.0
+ComputeBoundingBox time - 3.006968266E9
+Near and far plane time - 8477.0
+ComputeBoundingBox time - 8.041238824E9
+Near and far plane time - 8308.0
+ComputeBoundingBox time - 3.985441946E9
+Near and far plane time - 9077.0
+ComputeBoundingBox time - 3.257874248E9
+Near and far plane time - 6346.0
+ComputeBoundingBox time - 3.347234076E9
+Near and far plane time - 8404.0
+ComputeBoundingBox time - 4.056329747E9
+Near and far plane time - 9261.0
+ComputeBoundingBox time - 1.955496593E9
+Near and far plane time - 7917.0
+ComputeBoundingBox time - 3.311240244E9
+Near and far plane time - 7389.0
+ComputeBoundingBox time - 3.236162074E9
+Near and far plane time - 7963.0
+ComputeBoundingBox time - 2.586339795E9
+Near and far plane time - 7501.0
+ComputeBoundingBox time - 2.535437143E9
+Near and far plane time - 9036.0
+ComputeBoundingBox time - 3.418364115E9
+Near and far plane time - 8330.0
+ComputeBoundingBox time - 4.504178811E9
+Near and far plane time - 9502.0
+ComputeBoundingBox time - 7.399455219E9
+Near and far plane time - 7752.0
+ComputeBoundingBox time - 3.053796148E9
+Near and far plane time - 8349.0
+ComputeBoundingBox time - 3.228929919E9
+Near and far plane time - 8762.0
+ComputeBoundingBox time - 1.979039426E9
+Near and far plane time - 6802.0
+ComputeBoundingBox time - 8.501633702E9
+Near and far plane time - 8193.0
+ComputeBoundingBox time - 7.863132586E9
+Near and far plane time - 7882.0
+ComputeBoundingBox time - 2.221768009E9
+Near and far plane time - 7168.0
+ComputeBoundingBox time - 2.852168676E9
+Near and far plane time - 8679.0
+ComputeBoundingBox time - 3.042272694E9
+Near and far plane time - 8235.0
+ComputeBoundingBox time - 2.179820678E9
+Near and far plane time - 9521.0
+ComputeBoundingBox time - 7.17289671E9
+Near and far plane time - 7303.0
+ComputeBoundingBox time - 2.834256858E9
+Near and far plane time - 8925.0
+ComputeBoundingBox time - 3.562197709E9
+Near and far plane time - 10150.0
+ComputeBoundingBox time - 3.5011112E9
+Near and far plane time - 7938.0
+ComputeBoundingBox time - 7.551287762E9
+Near and far plane time - 8131.0
+ComputeBoundingBox time - 3.907107461E9
+Near and far plane time - 9203.0
+ComputeBoundingBox time - 8.520326772E9
+Near and far plane time - 9028.0
+ComputeBoundingBox time - 2.283889831E9
+Near and far plane time - 8444.0
+ComputeBoundingBox time - 3.239730003E9
+Near and far plane time - 7672.0
+ComputeBoundingBox time - 7.331103419E9
+Near and far plane time - 7088.0
+ComputeBoundingBox time - 3.055630969E9
+Near and far plane time - 8226.0
+ComputeBoundingBox time - 7.574488028E9
+Near and far plane time - 8108.0
+ComputeBoundingBox time - 3.025719572E9
+Near and far plane time - 8045.0
+ComputeBoundingBox time - 3.632200582E9
+Near and far plane time - 7982.0
+ComputeBoundingBox time - 2.644508626E9
+Near and far plane time - 8246.0
+ComputeBoundingBox time - 6.988186644E9
+Near and far plane time - 7253.0
+ComputeBoundingBox time - 2.691238162E9
+Near and far plane time - 8230.0
+ComputeBoundingBox time - 7.448260238E9
+Near and far plane time - 8607.0
+ComputeBoundingBox time - 2.696810207E9
+Near and far plane time - 7942.0
+ComputeBoundingBox time - 3.364734988E9
+Near and far plane time - 7195.0
+ComputeBoundingBox time - 2.941452043E9
+Near and far plane time - 8629.0
+ComputeBoundingBox time - 7.857488902E9
+Near and far plane time - 7434.0
+ComputeBoundingBox time - 3.242686881E9
+Near and far plane time - 8574.0
+ComputeBoundingBox time - 3.891778561E9
+Near and far plane time - 8256.0
+ComputeBoundingBox time - 2.004075694E9
+Near and far plane time - 7785.0
+ComputeBoundingBox time - 2.979812583E9
+Near and far plane time - 9749.0
+ComputeBoundingBox time - 3.14643901E9
+Near and far plane time - 8146.0
+ComputeBoundingBox time - 3.817474383E9
+Near and far plane time - 9211.0
+ComputeBoundingBox time - 3.009325627E9
+Near and far plane time - 7897.0
+ComputeBoundingBox time - 2.646303136E9
+Near and far plane time - 8434.0
+ComputeBoundingBox time - 2.816569853E9
+Near and far plane time - 8569.0
+ComputeBoundingBox time - 2.803422015E9
+Near and far plane time - 7672.0
+ComputeBoundingBox time - 9.258910688E9
+Near and far plane time - 8100.0
+ComputeBoundingBox time - 7.357731458E9
+Near and far plane time - 7406.0
+ComputeBoundingBox time - 4.037310433E9
+Near and far plane time - 8384.0
+ComputeBoundingBox time - 6.126791892E9
+Near and far plane time - 7644.0
+ComputeBoundingBox time - 3.422445101E9
+Near and far plane time - 7243.0
+ComputeBoundingBox time - 3.580505865E9
+Near and far plane time - 9604.0
+ComputeBoundingBox time - 7.726054639E9
+Near and far plane time - 7767.0
+ComputeBoundingBox time - 3.288590085E9
+Near and far plane time - 8775.0
+ComputeBoundingBox time - 3.280019711E9
+Near and far plane time - 7145.0
+ComputeBoundingBox time - 3.309907089E9
+Near and far plane time - 7860.0
+ComputeBoundingBox time - 3.080564154E9
+Near and far plane time - 8601.0
+ComputeBoundingBox time - 8.062599013E9
+Near and far plane time - 7694.0
+ComputeBoundingBox time - 6.951465416E9
+Near and far plane time - 8687.0
+ComputeBoundingBox time - 3.432714476E9
+Near and far plane time - 8023.0
+ComputeBoundingBox time - 2.922758326E9
+Near and far plane time - 8175.0
+ComputeBoundingBox time - 2.59496478E9
+Near and far plane time - 8010.0
+ComputeBoundingBox time - 3.58205349E9
+Near and far plane time - 9516.0
+ComputeBoundingBox time - 3.063355319E9
+Near and far plane time - 8471.0
+ComputeBoundingBox time - 3.058758331E9
+Near and far plane time - 8331.0
+ComputeBoundingBox time - 7.616052012E9
+Near and far plane time - 7629.0
+ComputeBoundingBox time - 7.180915451E9
+Near and far plane time - 9045.0
+ComputeBoundingBox time - 6.787933525E9
+Near and far plane time - 7188.0
+ComputeBoundingBox time - 8.594385146E9
+Near and far plane time - 8634.0
+ComputeBoundingBox time - 3.603365634E9
+Near and far plane time - 9060.0
+ComputeBoundingBox time - 3.417134925E9
+Near and far plane time - 7835.0
+ComputeBoundingBox time - 7.22663962E9
+Near and far plane time - 9361.0
+ComputeBoundingBox time - 3.009429141E9
+Near and far plane time - 7930.0
+ComputeBoundingBox time - 3.203975797E9
+Near and far plane time - 7995.0
+ComputeBoundingBox time - 3.440277293E9
+Near and far plane time - 8609.0
+ComputeBoundingBox time - 7.306387257E9
+Near and far plane time - 7448.0
+ComputeBoundingBox time - 3.128927274E9
+Near and far plane time - 7945.0
+ComputeBoundingBox time - 3.224449685E9
+Near and far plane time - 8409.0
+ComputeBoundingBox time - 3.025556424E9
+Near and far plane time - 8612.0
+ComputeBoundingBox time - 4.041411563E9
+Near and far plane time - 8687.0
+ComputeBoundingBox time - 3.88622781E9
+Near and far plane time - 8559.0
+ComputeBoundingBox time - 2.920077785E9
+Near and far plane time - 8646.0
+ComputeBoundingBox time - 3.059618416E9
+Near and far plane time - 9574.0
+ComputeBoundingBox time - 3.955041772E9
+Near and far plane time - 10070.0
+ComputeBoundingBox time - 2.512614622E9
+Near and far plane time - 8293.0
+ComputeBoundingBox time - 6.807866215E9
+Near and far plane time - 7629.0
+ComputeBoundingBox time - 3.594387534E9
+Near and far plane time - 8042.0
+ComputeBoundingBox time - 7.339295133E9
+Near and far plane time - 7822.0
+ComputeBoundingBox time - 3.560272575E9
+Near and far plane time - 7030.0
+ComputeBoundingBox time - 6.421222487E9
+Near and far plane time - 8538.0
+ComputeBoundingBox time - 3.104083839E9
+Near and far plane time - 8055.0
+ComputeBoundingBox time - 2.762699175E9
+Near and far plane time - 7700.0
+ComputeBoundingBox time - 3.124670359E9
+Near and far plane time - 7599.0
+ComputeBoundingBox time - 2.841178157E9
+Near and far plane time - 8157.0
+ComputeBoundingBox time - 3.035242297E9
+Near and far plane time - 8391.0
+ComputeBoundingBox time - 2.41223219E9
+Near and far plane time - 8456.0
+ComputeBoundingBox time - 2.834975463E9
+Near and far plane time - 7825.0
+ComputeBoundingBox time - 7.106457571E9
+Near and far plane time - 8552.0
+ComputeBoundingBox time - 3.766759206E9
+Near and far plane time - 8790.0
+ComputeBoundingBox time - 3.978413456E9
+Near and far plane time - 8296.0
+ComputeBoundingBox time - 5.663603516E9
+Near and far plane time - 6609.0
+ComputeBoundingBox time - 7.339192218E9
+Near and far plane time - 7899.0
+ComputeBoundingBox time - 9.845400138E9
+Near and far plane time - 8820.0
+ComputeBoundingBox time - 6.645729072E9
+Near and far plane time - 8747.0
+ComputeBoundingBox time - 3.048056245E9
+Near and far plane time - 8436.0
+ComputeBoundingBox time - 4.162630017E9
+Near and far plane time - 9828.0
+ComputeBoundingBox time - 2.967408121E9
+Near and far plane time - 8245.0
+ComputeBoundingBox time - 2.829932125E9
+Near and far plane time - 7975.0
+ComputeBoundingBox time - 3.158524493E9
+Near and far plane time - 7566.0
+ComputeBoundingBox time - 3.433140645E9
+Near and far plane time - 7957.0
+ComputeBoundingBox time - 2.826969871E9
+Near and far plane time - 7657.0
+ComputeBoundingBox time - 2.57931868E9
+Near and far plane time - 8539.0
+ComputeBoundingBox time - 8.001290596E9
+Near and far plane time - 7335.0
+ComputeBoundingBox time - 2.776241005E9
+Near and far plane time - 8055.0
+ComputeBoundingBox time - 3.164859171E9
+Near and far plane time - 8028.0
+ComputeBoundingBox time - 3.086936018E9
+Near and far plane time - 8486.0
+ComputeBoundingBox time - 7.24257718E9
+Near and far plane time - 8165.0
+ComputeBoundingBox time - 8.425064598E9
+Near and far plane time - 8556.0
+ComputeBoundingBox time - 3.757349614E9
+Near and far plane time - 8764.0
+ComputeBoundingBox time - 3.748962208E9
+Near and far plane time - 9606.0
+ComputeBoundingBox time - 8.237704616E9
+Near and far plane time - 7223.0
+ComputeBoundingBox time - 3.304645439E9
+Near and far plane time - 9028.0
+ComputeBoundingBox time - 2.660704311E9
+Near and far plane time - 9248.0
+ComputeBoundingBox time - 2.545659537E9
+Near and far plane time - 8461.0
+ComputeBoundingBox time - 3.197645349E9
+Near and far plane time - 7050.0
+ComputeBoundingBox time - 6.775255531E9
+Near and far plane time - 7702.0
+ComputeBoundingBox time - 3.336301858E9
+Near and far plane time - 8862.0
+ComputeBoundingBox time - 3.206684735E9
+Near and far plane time - 8200.0
+ComputeBoundingBox time - 3.379081122E9
+Near and far plane time - 8802.0
+ComputeBoundingBox time - 2.945288525E9
+Near and far plane time - 8093.0
+ComputeBoundingBox time - 3.197378865E9
+Near and far plane time - 8083.0
+ComputeBoundingBox time - 3.992854553E9
+Near and far plane time - 9890.0
+ComputeBoundingBox time - 7.133171026E9
+Near and far plane time - 7744.0
+ComputeBoundingBox time - 3.922764607E9
+Near and far plane time - 8787.0
+ComputeBoundingBox time - 7.77949373E9
+Near and far plane time - 8471.0
+ComputeBoundingBox time - 3.233288515E9
+Near and far plane time - 8702.0
+ComputeBoundingBox time - 6.846183575E9
+Near and far plane time - 8491.0
+ComputeBoundingBox time - 2.67663486E9
+Near and far plane time - 8115.0
+ComputeBoundingBox time - 3.095275902E9
+Near and far plane time - 8859.0
+ComputeBoundingBox time - 7.239842776E9
+Near and far plane time - 7644.0
+ComputeBoundingBox time - 6.779519718E9
+Near and far plane time - 8849.0
+ComputeBoundingBox time - 3.191427039E9
+Near and far plane time - 8787.0
+ComputeBoundingBox time - 3.891207749E9
+Near and far plane time - 9448.0
+ComputeBoundingBox time - 8.106803777E9
+Near and far plane time - 8248.0
+ComputeBoundingBox time - 2.805614607E9
+Near and far plane time - 8958.0
+ComputeBoundingBox time - 3.060171662E9
+Near and far plane time - 8727.0
+ComputeBoundingBox time - 3.286003325E9
+Near and far plane time - 8672.0
+ComputeBoundingBox time - 3.050818378E9
+Near and far plane time - 8534.0
+ComputeBoundingBox time - 3.313948579E9
+Near and far plane time - 7366.0
+ComputeBoundingBox time - 3.299671772E9
+Near and far plane time - 7959.0
+ComputeBoundingBox time - 7.973950003E9
+Near and far plane time - 9153.0
+ComputeBoundingBox time - 6.776327677E9
+Near and far plane time - 7584.0
+ComputeBoundingBox time - 6.630995624E9
+Near and far plane time - 8314.0
+ComputeBoundingBox time - 3.399026235E9
+Near and far plane time - 7702.0
+ComputeBoundingBox time - 3.73235922E9
+Near and far plane time - 9670.0
+ComputeBoundingBox time - 3.087656216E9
+Near and far plane time - 8602.0
+ComputeBoundingBox time - 3.456750791E9
+Near and far plane time - 7950.0
+ComputeBoundingBox time - 3.144381639E9
+Near and far plane time - 8150.0
+ComputeBoundingBox time - 2.88758858E9
+Near and far plane time - 8950.0
+ComputeBoundingBox time - 2.574052034E9
+Near and far plane time - 8261.0
+ComputeBoundingBox time - 7.86224779E9
+Near and far plane time - 8394.0
+ComputeBoundingBox time - 2.894294246E9
+Near and far plane time - 8571.0
+ComputeBoundingBox time - 3.176139155E9
+Near and far plane time - 7569.0
+ComputeBoundingBox time - 3.6204649E9
+Near and far plane time - 9481.0
+ComputeBoundingBox time - 3.306027015E9
+Near and far plane time - 6840.0
+ComputeBoundingBox time - 7.508684941E9
+Near and far plane time - 8120.0
+ComputeBoundingBox time - 7.080315658E9
+Near and far plane time - 7592.0
+ComputeBoundingBox time - 3.394135893E9
+Near and far plane time - 8810.0
+ComputeBoundingBox time - 6.690804283E9
+Near and far plane time - 7807.0
+ComputeBoundingBox time - 3.803812953E9
+Near and far plane time - 9458.0
+ComputeBoundingBox time - 3.866622881E9
+Near and far plane time - 9298.0
+ComputeBoundingBox time - 2.810863197E9
+Near and far plane time - 8163.0
+ComputeBoundingBox time - 3.912727684E9
+Near and far plane time - 9458.0
+ComputeBoundingBox time - 2.616276299E9
+Near and far plane time - 8855.0
+ComputeBoundingBox time - 5.949050518E9
+Near and far plane time - 7000.0
+ComputeBoundingBox time - 3.017686305E9
+Near and far plane time - 8503.0
+ComputeBoundingBox time - 3.008392989E9
+Near and far plane time - 7767.0
+ComputeBoundingBox time - 3.574856311E9
+Near and far plane time - 8669.0
+ComputeBoundingBox time - 3.353155041E9
+Near and far plane time - 10970.0
+ComputeBoundingBox time - 7.174860443E9
+Near and far plane time - 9120.0
+ComputeBoundingBox time - 7.875079885E9
+Near and far plane time - 8829.0
+ComputeBoundingBox time - 3.404005474E9
+Near and far plane time - 8126.0
+ComputeBoundingBox time - 3.145027643E9
+Near and far plane time - 9060.0
+ComputeBoundingBox time - 7.094321324E9
+Near and far plane time - 7764.0
+ComputeBoundingBox time - 3.598376533E9
+Near and far plane time - 8484.0
+ComputeBoundingBox time - 3.139534808E9
+Near and far plane time - 9040.0
+ComputeBoundingBox time - 6.604590097E9
+Near and far plane time - 8195.0
+ComputeBoundingBox time - 3.12011518E9
+Near and far plane time - 8671.0

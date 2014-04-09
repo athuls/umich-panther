@@ -1,0 +1,2016 @@
+Position 0
+Position 1
+Position 2
+Position 4
+Position 5
+Position 3
+Position 6
+Position 7
+Position 8
+Near and far plane time - 8413.0
+Near and far plane time - 7737.0
+Near and far plane time - 951675.0
+Position 10
+Near and far plane time - 6747.0
+Near and far plane time - 7234.0
+Position 11
+Near and far plane time - 8446.0
+I am in static of ComputeBoundingBox and doing IO
+Near and far plane time - 10245.0
+Near and far plane time - 4492280.0
+Near and far plane time - 4324039.0
+Near and far plane time - 4232186.0
+Near and far plane time - 4187535.0
+Position 9
+Near and far plane time - 7884.0
+Position 12
+Position 13
+Near and far plane time - 7004.0
+Near and far plane time - 7135.0
+Position 14
+Near and far plane time - 6123.0
+Position 15
+Near and far plane time - 7301.0
+Position 16
+Near and far plane time - 8378.0
+Position 17
+Near and far plane time - 8775.0
+Position 18
+Near and far plane time - 8095.0
+Position 19
+Near and far plane time - 13875.0
+Position 20
+Near and far plane time - 7311.0
+Position 21
+Near and far plane time - 7634.0
+Position 22
+Near and far plane time - 8041.0
+Position 23
+Near and far plane time - 8662.0
+Position 24
+Near and far plane time - 6702.0
+system time is 1337307435473
+loop time 8.495215444E9
+element fraction loop time  978752.0
+ComputeBoundingBox time - 1.0503899059E10
+Near and far plane time - 7754.0
+loop time 8.839643631E9
+element fraction loop time  401741.0
+ComputeBoundingBox time - 1.0857302036E10
+Near and far plane time - 8338.0
+loop time 8.93760585E9
+element fraction loop time  414715.0
+ComputeBoundingBox time - 1.0939635215E10
+Near and far plane time - 7724.0
+loop time 8.881701338E9
+loop time 8.95182718E9
+element fraction loop time  154286.0
+element fraction loop time  420130.0
+ComputeBoundingBox time - 1.0978811934E10
+ComputeBoundingBox time - 1.0915499138E10
+Near and far plane time - 8088.0
+Near and far plane time - 7436.0
+loop time 9.068667211E9
+element fraction loop time  312599.0
+ComputeBoundingBox time - 1.1092706828E10
+Near and far plane time - 9519.0
+loop time 9.171606207E9
+element fraction loop time  320802.0
+ComputeBoundingBox time - 1.127442892E10
+Near and far plane time - 8206.0
+loop time 9.162972137E9
+element fraction loop time  196439.0
+ComputeBoundingBox time - 1.1281793682E10
+Near and far plane time - 7799.0
+loop time 9.35129817E9
+element fraction loop time  353912.0
+ComputeBoundingBox time - 1.1469904529E10
+Near and far plane time - 8268.0
+loop time 9.453036764E9
+element fraction loop time  189043.0
+ComputeBoundingBox time - 1.1549001275E10
+Near and far plane time - 8840.0
+loop time 9.706834847E9
+element fraction loop time  195782.0
+ComputeBoundingBox time - 1.1645357346E10
+Near and far plane time - 8642.0
+loop time 9.702980532E9
+element fraction loop time  202319.0
+ComputeBoundingBox time - 1.1721143205E10
+Near and far plane time - 8997.0
+loop time 9.803105552E9
+element fraction loop time  201609.0
+ComputeBoundingBox time - 1.1941590954E10
+Near and far plane time - 9075.0
+loop time 1.1508857342E10
+element fraction loop time  8.0577515E7
+ComputeBoundingBox time - 1.359422885E10
+Near and far plane time - 8429.0
+loop time 1.244188568E10
+element fraction loop time  552477.0
+ComputeBoundingBox time - 1.445652275E10
+Near and far plane time - 8028.0
+loop time 3.712158228E9
+loop time 1.2627348324E10
+element fraction loop time  421679.0
+ComputeBoundingBox time - 1.464754707E10
+Near and far plane time - 7389.0
+loop time 3.692624635E9
+element fraction loop time  283827.0
+ComputeBoundingBox time - 3.693687074E9
+Near and far plane time - 7729.0
+loop time 1.2688163524E10
+element fraction loop time  363672.0
+element fraction loop time  6.167337E7
+ComputeBoundingBox time - 3.824285255E9
+Near and far plane time - 8486.0
+ComputeBoundingBox time - 1.4773831569E10
+Near and far plane time - 6353.0
+loop time 4.169650959E9
+element fraction loop time  308381.0
+ComputeBoundingBox time - 4.234982898E9
+Near and far plane time - 8185.0
+loop time 3.942235564E9
+element fraction loop time  281685.0
+loop time 1.2765996984E10
+element fraction loop time  380464.0
+ComputeBoundingBox time - 1.4761339873E10
+Near and far plane time - 7554.0
+loop time 1.2796596732E10
+element fraction loop time  543900.0
+ComputeBoundingBox time - 1.4842049589E10
+Near and far plane time - 7932.0
+ComputeBoundingBox time - 4.035412075E9
+Near and far plane time - 7772.0
+loop time 3.955022738E9
+element fraction loop time  120290.0
+ComputeBoundingBox time - 3.955899366E9
+Near and far plane time - 8173.0
+loop time 1.2946072523E10
+element fraction loop time  290140.0
+ComputeBoundingBox time - 1.5004461308E10
+Near and far plane time - 7436.0
+loop time 1.3031221573E10
+element fraction loop time  390890.0
+ComputeBoundingBox time - 1.5046191862E10
+Near and far plane time - 7592.0
+loop time 1.301250626E10
+element fraction loop time  559579.0
+ComputeBoundingBox time - 1.5027275776E10
+Near and far plane time - 8822.0
+loop time 1.310962795E10
+element fraction loop time  588361.0
+ComputeBoundingBox time - 1.5130010298E10
+Near and far plane time - 8725.0
+loop time 3.927593013E9
+element fraction loop time  222805.0
+ComputeBoundingBox time - 3.928514524E9
+Near and far plane time - 7561.0
+loop time 3.955181464E9
+element fraction loop time  205739.0
+ComputeBoundingBox time - 3.956147048E9
+Near and far plane time - 7960.0
+loop time 4.179710213E9
+element fraction loop time  120630.0
+ComputeBoundingBox time - 4.180540832E9
+Near and far plane time - 7935.0
+loop time 4.210492861E9
+element fraction loop time  211674.0
+ComputeBoundingBox time - 4.211430299E9
+Near and far plane time - 8216.0
+loop time 4.546186303E9
+element fraction loop time  118720.0
+loop time 1.4013283046E10
+element fraction loop time  562248.0
+ComputeBoundingBox time - 1.6100792411E10
+Near and far plane time - 7587.0
+loop time 4.231512952E9
+element fraction loop time  70917.0
+ComputeBoundingBox time - 4.362415983E9
+Near and far plane time - 8729.0
+ComputeBoundingBox time - 4.575784209E9
+Near and far plane time - 9333.0
+loop time 4.614211661E9
+element fraction loop time  124284.0
+ComputeBoundingBox time - 4.615068519E9
+Near and far plane time - 9344.0
+loop time 4.508166172E9
+element fraction loop time  70837.0
+ComputeBoundingBox time - 4.508956184E9
+Near and far plane time - 8338.0
+loop time 3.4226882E8
+element fraction loop time  419025.0
+ComputeBoundingBox time - 3.43671836E8
+Near and far plane time - 8744.0
+loop time 1.4831237332E10
+element fraction loop time  578487.0
+ComputeBoundingBox time - 1.6869857362E10
+Near and far plane time - 8462.0
+loop time 3.02217716E9
+element fraction loop time  501634.0
+ComputeBoundingBox time - 3.023413797E9
+Near and far plane time - 8844.0
+loop time 3.066953039E9
+element fraction loop time  313724.0
+ComputeBoundingBox time - 3.067934632E9
+Near and far plane time - 8193.0
+loop time 3.240598836E9
+element fraction loop time  300193.0
+ComputeBoundingBox time - 3.241622023E9
+Near and far plane time - 8391.0
+loop time 3.614188652E9
+element fraction loop time  321469.0
+ComputeBoundingBox time - 3.61520427E9
+Near and far plane time - 8063.0
+loop time 3.481240931E9
+element fraction loop time  124238.0
+ComputeBoundingBox time - 3.482061189E9
+Near and far plane time - 8175.0
+loop time 3.347364732E9
+element fraction loop time  226694.0
+ComputeBoundingBox time - 3.348235158E9
+Near and far plane time - 8572.0
+loop time 3.475565173E9
+element fraction loop time  221597.0
+ComputeBoundingBox time - 3.476429048E9
+Near and far plane time - 8281.0
+loop time 5.1057123E9
+element fraction loop time  316627.0
+ComputeBoundingBox time - 5.106880706E9
+Near and far plane time - 7862.0
+loop time 3.751682168E9
+element fraction loop time  221326.0
+ComputeBoundingBox time - 3.752587419E9
+Near and far plane time - 7389.0
+loop time 4.031223587E9
+element fraction loop time  115397.0
+ComputeBoundingBox time - 4.031966655E9
+Near and far plane time - 6606.0
+loop time 3.282414233E9
+element fraction loop time  120085.0
+ComputeBoundingBox time - 3.283228E9
+Near and far plane time - 8621.0
+loop time 4.067236383E9
+element fraction loop time  120897.0
+ComputeBoundingBox time - 4.068049615E9
+Near and far plane time - 9110.0
+loop time 3.950080311E9
+element fraction loop time  71514.0
+ComputeBoundingBox time - 3.950876219E9
+Near and far plane time - 9128.0
+loop time 3.967404505E9
+element fraction loop time  120870.0
+ComputeBoundingBox time - 3.968228561E9
+Near and far plane time - 8864.0
+loop time 3.110045881E9
+element fraction loop time  304835.0
+ComputeBoundingBox time - 3.18120508E9
+Near and far plane time - 8340.0
+loop time 3.272543673E9
+element fraction loop time  698367.0
+ComputeBoundingBox time - 3.273944914E9
+Near and far plane time - 8101.0
+loop time 3.288340244E9
+element fraction loop time  344155.0
+ComputeBoundingBox time - 3.298129588E9
+Near and far plane time - 8393.0
+loop time 3.476072556E9
+element fraction loop time  306328.0
+ComputeBoundingBox time - 3.477055087E9
+Near and far plane time - 7566.0
+loop time 3.120921248E9
+element fraction loop time  229308.0
+ComputeBoundingBox time - 3.241955475E9
+Near and far plane time - 8075.0
+loop time 7.375929801E9
+element fraction loop time  492749.0
+ComputeBoundingBox time - 7.497225105E9
+Near and far plane time - 8544.0
+loop time 3.607636669E9
+element fraction loop time  127884.0
+ComputeBoundingBox time - 3.616962073E9
+Near and far plane time - 7331.0
+loop time 7.436166586E9
+element fraction loop time  330428.0
+ComputeBoundingBox time - 7.437198373E9
+Near and far plane time - 7431.0
+loop time 3.43569234E9
+element fraction loop time  221376.0
+ComputeBoundingBox time - 3.566703508E9
+Near and far plane time - 7474.0
+loop time 7.570458811E9
+element fraction loop time  455180.0
+ComputeBoundingBox time - 7.571596642E9
+Near and far plane time - 4.5561155E7
+loop time 7.767543988E9
+element fraction loop time  255456.0
+ComputeBoundingBox time - 7.768419956E9
+Near and far plane time - 7358.0
+loop time 7.781904216E9
+loop time 7.603643823E9
+element fraction loop time  159617.0
+ComputeBoundingBox time - 7.604375706E9
+Near and far plane time - 7511.0
+element fraction loop time  1.60390283E8
+ComputeBoundingBox time - 7.943039251E9
+Near and far plane time - 7033.0
+loop time 3.547733086E9
+element fraction loop time  123614.0
+ComputeBoundingBox time - 3.548517377E9
+Near and far plane time - 7722.0
+loop time 3.589155588E9
+element fraction loop time  232541.0
+ComputeBoundingBox time - 3.590082765E9
+Near and far plane time - 8268.0
+loop time 2.049549023E9
+element fraction loop time  311038.0
+ComputeBoundingBox time - 2.050538058E9
+Near and far plane time - 8917.0
+loop time 8.095011126E9
+element fraction loop time  298484.0
+ComputeBoundingBox time - 8.096016755E9
+Near and far plane time - 6569.0
+loop time 8.151805089E9
+element fraction loop time  459722.0
+ComputeBoundingBox time - 8.152967072E9
+Near and far plane time - 7751.0
+loop time 3.4579762E9
+element fraction loop time  125591.0
+ComputeBoundingBox time - 3.578930354E9
+Near and far plane time - 9569.0
+loop time 8.316573383E9
+element fraction loop time  457131.0
+ComputeBoundingBox time - 8.317732705E9
+Near and far plane time - 8438.0
+loop time 3.532893185E9
+element fraction loop time  72506.0
+ComputeBoundingBox time - 3.533642278E9
+Near and far plane time - 9263.0
+loop time 3.565580159E9
+element fraction loop time  63193.0
+ComputeBoundingBox time - 3.566337473E9
+Near and far plane time - 9226.0
+loop time 2.245652334E9
+element fraction loop time  223319.0
+ComputeBoundingBox time - 2.246592936E9
+Near and far plane time - 7191.0
+loop time 3.646917699E9
+element fraction loop time  74070.0
+ComputeBoundingBox time - 3.647669994E9
+Near and far plane time - 8617.0
+loop time 3.14856757E9
+element fraction loop time  315462.0
+ComputeBoundingBox time - 3.269723969E9
+Near and far plane time - 8000.0
+loop time 3.007268824E9
+element fraction loop time  306937.0
+ComputeBoundingBox time - 3.00828241E9
+Near and far plane time - 7850.0
+loop time 3.095808405E9
+element fraction loop time  322464.0
+ComputeBoundingBox time - 3.096788252E9
+Near and far plane time - 8148.0
+loop time 2.92483352E9
+element fraction loop time  127102.0
+ComputeBoundingBox time - 2.925635943E9
+Near and far plane time - 8433.0
+loop time 9.398592197E9
+element fraction loop time  451321.0
+ComputeBoundingBox time - 9.399738996E9
+Near and far plane time - 7584.0
+loop time 2.432432985E9
+element fraction loop time  264251.0
+ComputeBoundingBox time - 2.433405538E9
+Near and far plane time - 8434.0
+loop time 7.224179039E9
+element fraction loop time  324649.0
+ComputeBoundingBox time - 7.225194911E9
+Near and far plane time - 7617.0
+loop time 3.786258758E9
+element fraction loop time  224431.0
+ComputeBoundingBox time - 3.787153312E9
+Near and far plane time - 7363.0
+loop time 3.543506432E9
+element fraction loop time  125664.0
+loop time 9.847819655E9
+element fraction loop time  442863.0
+ComputeBoundingBox time - 9.848973746E9
+Near and far plane time - 8043.0
+ComputeBoundingBox time - 3.688154852E9
+Near and far plane time - 8010.0
+loop time 3.656074018E9
+element fraction loop time  217486.0
+ComputeBoundingBox time - 3.656893259E9
+Near and far plane time - 6774.0
+loop time 3.195305619E9
+element fraction loop time  3431793.0
+ComputeBoundingBox time - 3.199471592E9
+Near and far plane time - 8183.0
+loop time 3.046407026E9
+element fraction loop time  305720.0
+ComputeBoundingBox time - 3.047392527E9
+Near and far plane time - 7962.0
+loop time 4.101479817E9
+element fraction loop time  63050.0
+ComputeBoundingBox time - 4.10224427E9
+Near and far plane time - 8760.0
+loop time 2.882715337E9
+element fraction loop time  303208.0
+ComputeBoundingBox time - 2.883684182E9
+Near and far plane time - 7802.0
+loop time 2.910040093E9
+element fraction loop time  321912.0
+ComputeBoundingBox time - 2.954020693E9
+Near and far plane time - 8221.0
+loop time 3.684279076E9
+element fraction loop time  72128.0
+ComputeBoundingBox time - 3.685038023E9
+Near and far plane time - 9105.0
+loop time 4.037498531E9
+element fraction loop time  122373.0
+ComputeBoundingBox time - 4.038301038E9
+Near and far plane time - 9409.0
+loop time 4.254733523E9
+element fraction loop time  119852.0
+ComputeBoundingBox time - 4.255984601E9
+Near and far plane time - 9223.0
+loop time 3.192381357E9
+element fraction loop time  145852.0
+ComputeBoundingBox time - 3.193217636E9
+Near and far plane time - 8389.0
+loop time 2.912730728E9
+element fraction loop time  304757.0
+ComputeBoundingBox time - 2.913719428E9
+Near and far plane time - 7877.0
+loop time 2.020982736E9
+element fraction loop time  306907.0
+ComputeBoundingBox time - 2.021984353E9
+Near and far plane time - 7895.0
+loop time 3.442246136E9
+element fraction loop time  278285.0
+ComputeBoundingBox time - 3.443226803E9
+Near and far plane time - 7960.0
+loop time 7.772828181E9
+element fraction loop time  397449.0
+ComputeBoundingBox time - 7.773923305E9
+Near and far plane time - 8854.0
+loop time 7.659324399E9
+element fraction loop time  321123.0
+ComputeBoundingBox time - 7.660333708E9
+Near and far plane time - 7443.0
+loop time 3.175442675E9
+element fraction loop time  269409.0
+ComputeBoundingBox time - 3.176344926E9
+Near and far plane time - 7890.0
+loop time 3.233426828E9
+element fraction loop time  123679.0
+ComputeBoundingBox time - 3.234246658E9
+Near and far plane time - 8383.0
+loop time 2.632733278E9
+element fraction loop time  306269.0
+ComputeBoundingBox time - 2.63369199E9
+Near and far plane time - 8183.0
+loop time 7.289840668E9
+element fraction loop time  431128.0
+ComputeBoundingBox time - 7.575062657E9
+Near and far plane time - 8492.0
+loop time 7.503030829E9
+element fraction loop time  268386.0
+ComputeBoundingBox time - 7.503983536E9
+Near and far plane time - 7649.0
+loop time 7.447973648E9
+element fraction loop time  280649.0
+ComputeBoundingBox time - 7.44892994E9
+Near and far plane time - 7369.0
+loop time 7.774573846E9
+element fraction loop time  191787.0
+ComputeBoundingBox time - 7.775439992E9
+Near and far plane time - 6777.0
+loop time 7.291372591E9
+element fraction loop time  295839.0
+ComputeBoundingBox time - 7.327843823E9
+Near and far plane time - 7449.0
+loop time 3.019210673E9
+element fraction loop time  355837.0
+ComputeBoundingBox time - 3.020236823E9
+Near and far plane time - 8060.0
+loop time 2.888314756E9
+element fraction loop time  6.0444865E7
+ComputeBoundingBox time - 2.949498223E9
+Near and far plane time - 8158.0
+loop time 7.6794493E9
+element fraction loop time  441358.0
+ComputeBoundingBox time - 7.680595944E9
+Near and far plane time - 8025.0
+loop time 2.981385099E9
+element fraction loop time  311624.0
+ComputeBoundingBox time - 2.982386154E9
+Near and far plane time - 8296.0
+loop time 3.700585101E9
+element fraction loop time  71621.0
+ComputeBoundingBox time - 3.701341285E9
+Near and far plane time - 8755.0
+loop time 3.33198601E9
+element fraction loop time  126592.0
+ComputeBoundingBox time - 3.332800968E9
+Near and far plane time - 8594.0
+loop time 3.745859145E9
+element fraction loop time  58807.0
+ComputeBoundingBox time - 3.746564586E9
+Near and far plane time - 7933.0
+loop time 4.132868562E9
+element fraction loop time  114752.0
+ComputeBoundingBox time - 4.133692058E9
+Near and far plane time - 8506.0
+loop time 8.355784948E9
+element fraction loop time  433379.0
+ComputeBoundingBox time - 8.356912605E9
+Near and far plane time - 8073.0
+loop time 4.372919395E9
+element fraction loop time  123419.0
+ComputeBoundingBox time - 4.373735786E9
+Near and far plane time - 9379.0
+loop time 3.27547355E9
+element fraction loop time  315025.0
+ComputeBoundingBox time - 3.276501979E9
+Near and far plane time - 8181.0
+loop time 2.694697366E9
+element fraction loop time  307657.0
+ComputeBoundingBox time - 2.695681777E9
+Near and far plane time - 8699.0
+loop time 6.924985506E9
+element fraction loop time  380113.0
+ComputeBoundingBox time - 6.926049097E9
+Near and far plane time - 8582.0
+loop time 3.529529833E9
+element fraction loop time  327727.0
+ComputeBoundingBox time - 3.530577983E9
+Near and far plane time - 8323.0
+loop time 3.19244611E9
+element fraction loop time  179910.0
+ComputeBoundingBox time - 3.193326548E9
+Near and far plane time - 8138.0
+loop time 3.4518159E9
+element fraction loop time  221428.0
+ComputeBoundingBox time - 3.45272998E9
+Near and far plane time - 7163.0
+loop time 2.862127134E9
+element fraction loop time  314316.0
+ComputeBoundingBox time - 2.863144416E9
+Near and far plane time - 8130.0
+loop time 3.123727079E9
+element fraction loop time  301394.0
+ComputeBoundingBox time - 3.124711277E9
+Near and far plane time - 7905.0
+loop time 8.343586866E9
+element fraction loop time  427368.0
+ComputeBoundingBox time - 8.344710779E9
+Near and far plane time - 8436.0
+loop time 2.741445718E9
+element fraction loop time  72635.0
+ComputeBoundingBox time - 2.74222549E9
+Near and far plane time - 9223.0
+loop time 3.238820847E9
+element fraction loop time  314559.0
+ComputeBoundingBox time - 3.239861838E9
+Near and far plane time - 8696.0
+loop time 8.01057888E9
+element fraction loop time  437008.0
+ComputeBoundingBox time - 8.011718933E9
+Near and far plane time - 8110.0
+loop time 3.302289903E9
+element fraction loop time  126898.0
+ComputeBoundingBox time - 3.303114304E9
+Near and far plane time - 8052.0
+loop time 3.553224621E9
+element fraction loop time  73556.0
+ComputeBoundingBox time - 3.554005639E9
+Near and far plane time - 8484.0
+loop time 8.82842907E8
+element fraction loop time  124682.0
+ComputeBoundingBox time - 8.83620807E8
+Near and far plane time - 8160.0
+loop time 4.39330253E9
+element fraction loop time  123977.0
+ComputeBoundingBox time - 4.39411573E9
+Near and far plane time - 8992.0
+loop time 3.257294714E9
+element fraction loop time  299448.0
+ComputeBoundingBox time - 3.258307654E9
+Near and far plane time - 8238.0
+loop time 3.710701319E9
+element fraction loop time  219476.0
+ComputeBoundingBox time - 3.711623101E9
+Near and far plane time - 7890.0
+loop time 3.460200343E9
+element fraction loop time  178163.0
+ComputeBoundingBox time - 3.461099807E9
+Near and far plane time - 8300.0
+loop time 3.248219177E9
+loop time 3.727026835E9
+element fraction loop time  292328.0
+ComputeBoundingBox time - 3.898471881E9
+Near and far plane time - 8591.0
+loop time 4.301728916E9
+element fraction loop time  138481.0
+ComputeBoundingBox time - 4.51611707E9
+Near and far plane time - 9494.0
+loop time 3.546217531E9
+loop time 3.176044464E9
+loop time 6.75249601E9
+element fraction loop time  315509.0
+ComputeBoundingBox time - 6.957602795E9
+Near and far plane time - 7604.0
+element fraction loop time  4.7456094E7
+ComputeBoundingBox time - 3.536188255E9
+Near and far plane time - 8281.0
+element fraction loop time  337632.0
+ComputeBoundingBox time - 3.401796914E9
+Near and far plane time - 7448.0
+element fraction loop time  322421.0
+ComputeBoundingBox time - 3.67854156E9
+Near and far plane time - 7482.0
+loop time 7.517565139E9
+element fraction loop time  490234.0
+ComputeBoundingBox time - 7.518761653E9
+Near and far plane time - 8398.0
+loop time 2.259623162E9
+element fraction loop time  1.10158792E8
+ComputeBoundingBox time - 2.370597945E9
+Near and far plane time - 8536.0
+loop time 7.889820804E9
+element fraction loop time  325923.0
+ComputeBoundingBox time - 7.890858002E9
+Near and far plane time - 7320.0
+loop time 7.364166865E9
+element fraction loop time  297492.0
+ComputeBoundingBox time - 7.495297099E9
+Near and far plane time - 7203.0
+loop time 7.813548275E9
+element fraction loop time  437273.0
+ComputeBoundingBox time - 7.814662156E9
+Near and far plane time - 8250.0
+loop time 3.183728298E9
+element fraction loop time  303988.0
+ComputeBoundingBox time - 3.184689708E9
+Near and far plane time - 7741.0
+loop time 3.198311509E9
+element fraction loop time  123494.0
+ComputeBoundingBox time - 3.204434817E9
+Near and far plane time - 8063.0
+loop time 7.733814904E9
+element fraction loop time  199216.0
+ComputeBoundingBox time - 7.734682947E9
+Near and far plane time - 7246.0
+loop time 7.723351304E9
+element fraction loop time  296394.0
+ComputeBoundingBox time - 7.724342503E9
+Near and far plane time - 7506.0
+loop time 3.015629446E9
+element fraction loop time  309088.0
+ComputeBoundingBox time - 3.016626469E9
+Near and far plane time - 8265.0
+loop time 8.292718001E9
+element fraction loop time  456381.0
+ComputeBoundingBox time - 8.293871909E9
+Near and far plane time - 8083.0
+loop time 4.188236458E9
+element fraction loop time  236020.0
+ComputeBoundingBox time - 4.189152574E9
+Near and far plane time - 9378.0
+loop time 3.400174191E9
+element fraction loop time  229381.0
+ComputeBoundingBox time - 3.401114902E9
+Near and far plane time - 8860.0
+loop time 2.651954042E9
+element fraction loop time  305597.0
+ComputeBoundingBox time - 2.652940313E9
+Near and far plane time - 8141.0
+loop time 3.988915828E9
+element fraction loop time  125200.0
+ComputeBoundingBox time - 4.013227783E9
+Near and far plane time - 9130.0
+loop time 3.309793194E9
+element fraction loop time  178644.0
+ComputeBoundingBox time - 3.310682536E9
+Near and far plane time - 8687.0
+loop time 3.015534646E9
+element fraction loop time  311639.0
+ComputeBoundingBox time - 3.016532854E9
+Near and far plane time - 7666.0
+loop time 3.421064071E9
+element fraction loop time  201368.0
+ComputeBoundingBox time - 3.421982202E9
+Near and far plane time - 8584.0
+loop time 7.503975117E9
+element fraction loop time  383436.0
+ComputeBoundingBox time - 7.505082308E9
+Near and far plane time - 8807.0
+loop time 8.666417991E9
+element fraction loop time  456857.0
+ComputeBoundingBox time - 8.66757346E9
+Near and far plane time - 7797.0
+loop time 3.59693486E9
+element fraction loop time  69839.0
+loop time 3.629086514E9
+element fraction loop time  278589.0
+ComputeBoundingBox time - 3.630055378E9
+Near and far plane time - 7908.0
+loop time 2.840500389E9
+element fraction loop time  305532.0
+ComputeBoundingBox time - 2.841467006E9
+Near and far plane time - 8028.0
+ComputeBoundingBox time - 3.597713099E9
+Near and far plane time - 9824.0
+loop time 2.959226728E9
+element fraction loop time  127869.0
+ComputeBoundingBox time - 2.960064812E9
+Near and far plane time - 8293.0
+loop time 3.840612774E9
+element fraction loop time  90456.0
+ComputeBoundingBox time - 3.841459937E9
+Near and far plane time - 8286.0
+loop time 2.973207914E9
+element fraction loop time  251431.0
+ComputeBoundingBox time - 3.097030365E9
+Near and far plane time - 7820.0
+loop time 3.04821427E9
+element fraction loop time  239611.0
+ComputeBoundingBox time - 3.0491511E9
+Near and far plane time - 8462.0
+loop time 8.901885277E9
+element fraction loop time  329789.0
+ComputeBoundingBox time - 9.045888408E9
+Near and far plane time - 8962.0
+loop time 3.771422317E9
+element fraction loop time  54141.0
+loop time 3.463597741E9
+element fraction loop time  155742.0
+ComputeBoundingBox time - 3.501313717E9
+Near and far plane time - 7581.0
+ComputeBoundingBox time - 3.852176742E9
+Near and far plane time - 8875.0
+loop time 3.084448112E9
+element fraction loop time  246243.0
+ComputeBoundingBox time - 3.143254125E9
+Near and far plane time - 7664.0
+loop time 3.299815853E9
+element fraction loop time  130819.0
+ComputeBoundingBox time - 3.300666415E9
+Near and far plane time - 8840.0
+loop time 2.88726026E9
+element fraction loop time  238088.0
+ComputeBoundingBox time - 2.888217872E9
+Near and far plane time - 7494.0
+loop time 3.885257995E9
+element fraction loop time  54286.0
+ComputeBoundingBox time - 3.886004862E9
+Near and far plane time - 9536.0
+loop time 9.086024266E9
+element fraction loop time  363905.0
+ComputeBoundingBox time - 9.087087594E9
+Near and far plane time - 7965.0
+loop time 3.604635404E9
+element fraction loop time  164823.0
+ComputeBoundingBox time - 3.605510299E9
+Near and far plane time - 7727.0
+loop time 3.40132781E9
+element fraction loop time  165168.0
+ComputeBoundingBox time - 3.402195861E9
+Near and far plane time - 8659.0
+loop time 3.140774245E9
+element fraction loop time  88018.0
+ComputeBoundingBox time - 3.141547844E9
+Near and far plane time - 7765.0
+loop time 7.164858817E9
+element fraction loop time  229592.0
+ComputeBoundingBox time - 7.165793977E9
+Near and far plane time - 7098.0
+loop time 7.01189681E9
+element fraction loop time  373647.0
+ComputeBoundingBox time - 7.012956273E9
+Near and far plane time - 8193.0
+loop time 4.021182298E9
+element fraction loop time  90371.0
+ComputeBoundingBox time - 4.022020615E9
+Near and far plane time - 9777.0
+loop time 7.287030269E9
+element fraction loop time  273599.0
+ComputeBoundingBox time - 7.288008332E9
+Near and far plane time - 7812.0
+loop time 3.67515473E9
+loop time 7.373711981E9
+element fraction loop time  229388.0
+element fraction loop time  1.32576127E8
+ComputeBoundingBox time - 3.808494529E9
+Near and far plane time - 8293.0
+loop time 6.950712732E9
+element fraction loop time  231411.0
+ComputeBoundingBox time - 6.951630769E9
+Near and far plane time - 7378.0
+loop time 3.116120904E9
+element fraction loop time  226203.0
+ComputeBoundingBox time - 3.116955966E9
+Near and far plane time - 8078.0
+ComputeBoundingBox time - 7.494747403E9
+Near and far plane time - 7534.0
+loop time 7.61985535E9
+element fraction loop time  386147.0
+ComputeBoundingBox time - 7.620932312E9
+Near and far plane time - 8328.0
+loop time 7.676433749E9
+element fraction loop time  130789.0
+ComputeBoundingBox time - 7.787399173E9
+Near and far plane time - 7508.0
+loop time 2.73704541E9
+element fraction loop time  230556.0
+ComputeBoundingBox time - 2.737866676E9
+Near and far plane time - 8076.0
+loop time 3.206778024E9
+element fraction loop time  233173.0
+ComputeBoundingBox time - 3.207685224E9
+Near and far plane time - 8030.0
+loop time 3.022446493E9
+element fraction loop time  93664.0
+ComputeBoundingBox time - 3.02325106E9
+Near and far plane time - 8413.0
+loop time 3.243248603E9
+element fraction loop time  191108.0
+ComputeBoundingBox time - 3.257725018E9
+Near and far plane time - 8212.0
+loop time 2.93339791E9
+element fraction loop time  199544.0
+ComputeBoundingBox time - 2.934274003E9
+Near and far plane time - 8228.0
+loop time 7.664750368E9
+element fraction loop time  351652.0
+ComputeBoundingBox time - 7.665794521E9
+Near and far plane time - 8757.0
+loop time 2.872757283E9
+element fraction loop time  121756.0
+ComputeBoundingBox time - 2.873558574E9
+Near and far plane time - 8183.0
+loop time 3.84323006E9
+element fraction loop time  167507.0
+ComputeBoundingBox time - 3.844069294E9
+Near and far plane time - 8762.0
+loop time 6.86635605E9
+element fraction loop time  297584.0
+ComputeBoundingBox time - 6.875696045E9
+Near and far plane time - 8321.0
+loop time 3.432004393E9
+element fraction loop time  201451.0
+ComputeBoundingBox time - 3.432929032E9
+Near and far plane time - 8211.0
+loop time 3.811006171E9
+element fraction loop time  86361.0
+ComputeBoundingBox time - 3.811777004E9
+Near and far plane time - 8974.0
+loop time 3.634337608E9
+element fraction loop time  200071.0
+ComputeBoundingBox time - 3.635242538E9
+Near and far plane time - 8105.0
+loop time 3.068613419E9
+element fraction loop time  237291.0
+ComputeBoundingBox time - 3.069500677E9
+Near and far plane time - 8143.0
+loop time 8.066843865E9
+element fraction loop time  348035.0
+ComputeBoundingBox time - 8.067902788E9
+Near and far plane time - 8321.0
+loop time 3.684769515E9
+element fraction loop time  77948.0
+ComputeBoundingBox time - 3.685494819E9
+Near and far plane time - 8138.0
+loop time 2.952964102E9
+element fraction loop time  243438.0
+ComputeBoundingBox time - 2.953855185E9
+Near and far plane time - 7887.0
+loop time 3.219987267E9
+element fraction loop time  234240.0
+ComputeBoundingBox time - 3.22090067E9
+Near and far plane time - 7652.0
+loop time 4.448637592E9
+element fraction loop time  92672.0
+ComputeBoundingBox time - 4.44942264E9
+Near and far plane time - 9569.0
+loop time 2.968997311E9
+element fraction loop time  686271.0
+ComputeBoundingBox time - 2.970373526E9
+Near and far plane time - 8013.0
+loop time 3.244550424E9
+element fraction loop time  234358.0
+ComputeBoundingBox time - 3.2454775E9
+Near and far plane time - 7774.0
+loop time 3.428738765E9
+element fraction loop time  131160.0
+ComputeBoundingBox time - 3.429559489E9
+Near and far plane time - 8127.0
+loop time 3.160460602E9
+element fraction loop time  96799.0
+ComputeBoundingBox time - 3.161231891E9
+Near and far plane time - 8358.0
+loop time 3.090823072E9
+element fraction loop time  94323.0
+ComputeBoundingBox time - 3.091612315E9
+Near and far plane time - 8661.0
+loop time 5.507880485E9
+element fraction loop time  234592.0
+ComputeBoundingBox time - 5.508799781E9
+Near and far plane time - 7153.0
+loop time 3.530462366E9
+element fraction loop time  169932.0
+ComputeBoundingBox time - 3.531347326E9
+loop time 4.03757744E9
+element fraction loop time  42542.0
+ComputeBoundingBox time - 4.03819929E9
+Near and far plane time - 9607.0
+Near and far plane time - 10511.0
+loop time 3.624065667E9
+element fraction loop time  170183.0
+ComputeBoundingBox time - 3.624930574E9
+Near and far plane time - 8228.0
+loop time 2.966685247E9
+element fraction loop time  226695.0
+ComputeBoundingBox time - 3.019782044E9
+Near and far plane time - 8040.0
+loop time 2.434988665E9
+element fraction loop time  238546.0
+ComputeBoundingBox time - 2.435916487E9
+Near and far plane time - 8378.0
+loop time 7.148777503E9
+element fraction loop time  363749.0
+ComputeBoundingBox time - 7.14984084E9
+Near and far plane time - 7777.0
+loop time 8.710058187E9
+element fraction loop time  343556.0
+ComputeBoundingBox time - 8.711110435E9
+Near and far plane time - 8313.0
+loop time 2.942398679E9
+element fraction loop time  76867.0
+ComputeBoundingBox time - 3.053176411E9
+Near and far plane time - 9265.0
+loop time 7.806925637E9
+element fraction loop time  231822.0
+ComputeBoundingBox time - 7.807835607E9
+Near and far plane time - 7176.0
+loop time 2.896606072E9
+element fraction loop time  237366.0
+ComputeBoundingBox time - 2.937689476E9
+Near and far plane time - 8205.0
+loop time 3.002477114E9
+element fraction loop time  232253.0
+ComputeBoundingBox time - 3.142869308E9
+Near and far plane time - 8448.0
+loop time 7.832639003E9
+element fraction loop time  238492.0
+ComputeBoundingBox time - 7.83356403E9
+Near and far plane time - 6747.0
+loop time 3.739091428E9
+element fraction loop time  82626.0
+ComputeBoundingBox time - 3.739818614E9
+Near and far plane time - 9346.0
+loop time 3.322127376E9
+element fraction loop time  95082.0
+ComputeBoundingBox time - 3.322927343E9
+Near and far plane time - 8313.0
+loop time 7.904996501E9
+element fraction loop time  232767.0
+ComputeBoundingBox time - 7.905902659E9
+Near and far plane time - 7122.0
+loop time 3.4102987E9
+element fraction loop time  124639.0
+ComputeBoundingBox time - 3.410993199E9
+Near and far plane time - 7680.0
+loop time 3.001979659E9
+element fraction loop time  160177.0
+ComputeBoundingBox time - 3.002822813E9
+loop time 9.387153676E9
+element fraction loop time  344845.0
+ComputeBoundingBox time - 9.388185536E9
+Near and far plane time - 8100.0
+Near and far plane time - 8028.0
+loop time 7.774416301E9
+element fraction loop time  422156.0
+ComputeBoundingBox time - 7.775536137E9
+Near and far plane time - 8101.0
+loop time 7.373216201E9
+element fraction loop time  224832.0
+ComputeBoundingBox time - 7.374072572E9
+Near and far plane time - 7328.0
+loop time 2.830682146E9
+element fraction loop time  229078.0
+ComputeBoundingBox time - 2.831555692E9
+Near and far plane time - 8055.0
+loop time 7.497120224E9
+element fraction loop time  335705.0
+ComputeBoundingBox time - 7.498162649E9
+Near and far plane time - 7827.0
+loop time 7.145451583E9
+element fraction loop time  286389.0
+ComputeBoundingBox time - 7.146402762E9
+Near and far plane time - 7684.0
+loop time 3.01362168E9
+element fraction loop time  228734.0
+ComputeBoundingBox time - 3.185150809E9
+loop time 3.84173095E9
+element fraction loop time  85978.0
+ComputeBoundingBox time - 3.84249299E9
+Near and far plane time - 9431.0
+Near and far plane time - 7030.0
+loop time 3.352068161E9
+loop time 3.294289801E9
+element fraction loop time  8.740265E7
+ComputeBoundingBox time - 3.440223475E9
+Near and far plane time - 7416.0
+element fraction loop time  3.5608146E7
+ComputeBoundingBox time - 3.410729314E9
+Near and far plane time - 8158.0
+loop time 3.650057702E9
+element fraction loop time  76660.0
+ComputeBoundingBox time - 3.650782074E9
+Near and far plane time - 9195.0
+loop time 3.042384243E9
+element fraction loop time  231739.0
+ComputeBoundingBox time - 3.043299188E9
+Near and far plane time - 7847.0
+loop time 2.975139624E9
+element fraction loop time  201303.0
+ComputeBoundingBox time - 2.97603785E9
+Near and far plane time - 8712.0
+loop time 4.298824916E9
+element fraction loop time  92443.0
+ComputeBoundingBox time - 4.439683841E9
+Near and far plane time - 8864.0
+loop time 3.312434107E9
+element fraction loop time  390954.0
+ComputeBoundingBox time - 3.31372023E9
+Near and far plane time - 8048.0
+loop time 3.205573333E9
+element fraction loop time  87348.0
+ComputeBoundingBox time - 3.206338078E9
+Near and far plane time - 7963.0
+loop time 3.648108833E9
+element fraction loop time  94506.0
+ComputeBoundingBox time - 3.648932843E9
+Near and far plane time - 7884.0
+loop time 3.832756062E9
+element fraction loop time  57328.0
+ComputeBoundingBox time - 3.833592158E9
+Near and far plane time - 9364.0
+loop time 8.339573915E9
+element fraction loop time  338404.0
+ComputeBoundingBox time - 8.340613165E9
+Near and far plane time - 7857.0
+loop time 3.064718014E9
+element fraction loop time  317707.0
+ComputeBoundingBox time - 3.125823165E9
+Near and far plane time - 8474.0
+loop time 2.752491423E9
+element fraction loop time  394146.0
+ComputeBoundingBox time - 2.880032751E9
+Near and far plane time - 7366.0
+loop time 3.388692979E9
+element fraction loop time  83804.0
+ComputeBoundingBox time - 3.485989862E9
+Near and far plane time - 9509.0
+loop time 7.477768849E9
+element fraction loop time  464479.0
+ComputeBoundingBox time - 7.479210662E9
+Near and far plane time - 7233.0
+loop time 3.601383796E9
+element fraction loop time  135036.0
+ComputeBoundingBox time - 3.602232283E9
+Near and far plane time - 8476.0
+loop time 3.289122176E9
+element fraction loop time  183459.0
+ComputeBoundingBox time - 3.290003012E9
+Near and far plane time - 7852.0
+loop time 3.818417271E9
+element fraction loop time  137855.0
+ComputeBoundingBox time - 3.819246845E9
+Near and far plane time - 7521.0
+loop time 7.517338497E9
+element fraction loop time  328434.0
+ComputeBoundingBox time - 7.518341831E9
+Near and far plane time - 8096.0
+loop time 3.425443822E9
+element fraction loop time  6.4732671E7
+ComputeBoundingBox time - 3.490987237E9
+Near and far plane time - 8920.0
+loop time 4.502260828E9
+element fraction loop time  134589.0
+ComputeBoundingBox time - 4.503102892E9
+Near and far plane time - 9311.0
+loop time 3.353257535E9
+element fraction loop time  130734.0
+ComputeBoundingBox time - 3.354108984E9
+Near and far plane time - 7948.0
+loop time 7.88997558E9
+element fraction loop time  204829.0
+ComputeBoundingBox time - 7.890861357E9
+Near and far plane time - 7815.0
+loop time 3.633662021E9
+element fraction loop time  163116.0
+ComputeBoundingBox time - 3.73464554E9
+Near and far plane time - 8103.0
+loop time 3.465337678E9
+element fraction loop time  71874.0
+ComputeBoundingBox time - 3.46606952E9
+Near and far plane time - 7904.0
+loop time 3.972184329E9
+element fraction loop time  47594.0
+ComputeBoundingBox time - 3.972945555E9
+Near and far plane time - 7860.0
+loop time 3.240142053E9
+element fraction loop time  186790.0
+ComputeBoundingBox time - 3.241035673E9
+Near and far plane time - 7556.0
+loop time 8.999923441E9
+element fraction loop time  275461.0
+ComputeBoundingBox time - 9.000889111E9
+Near and far plane time - 8168.0
+loop time 3.301344239E9
+element fraction loop time  185095.0
+ComputeBoundingBox time - 3.30219351E9
+Near and far plane time - 7904.0
+loop time 7.883068062E9
+element fraction loop time  237193.0
+ComputeBoundingBox time - 8.002023122E9
+Near and far plane time - 7263.0
+loop time 7.887976073E9
+element fraction loop time  207584.0
+ComputeBoundingBox time - 7.88889482E9
+Near and far plane time - 7692.0
+loop time 7.822786226E9
+element fraction loop time  338707.0
+ComputeBoundingBox time - 7.823847254E9
+Near and far plane time - 8141.0
+loop time 4.449005863E9
+element fraction loop time  73471.0
+ComputeBoundingBox time - 4.449786007E9
+Near and far plane time - 9694.0
+loop time 7.003310166E9
+element fraction loop time  270163.0
+ComputeBoundingBox time - 7.004288101E9
+Near and far plane time - 7922.0
+loop time 8.129066385E9
+element fraction loop time  134050.0
+ComputeBoundingBox time - 8.129858185E9
+Near and far plane time - 7258.0
+loop time 7.150355633E9
+element fraction loop time  234767.0
+ComputeBoundingBox time - 7.151316096E9
+Near and far plane time - 7752.0
+loop time 3.497406299E9
+element fraction loop time  219409.0
+ComputeBoundingBox time - 3.498319894E9
+Near and far plane time - 8002.0
+loop time 2.955957175E9
+element fraction loop time  301108.0
+ComputeBoundingBox time - 2.957402326E9
+Near and far plane time - 8075.0
+loop time 9.5946101E9
+element fraction loop time  273323.0
+ComputeBoundingBox time - 9.665756803E9
+Near and far plane time - 8464.0
+loop time 4.631057333E9
+element fraction loop time  342193.0
+ComputeBoundingBox time - 4.632368777E9
+Near and far plane time - 8045.0
+loop time 3.349728234E9
+element fraction loop time  62730.0
+ComputeBoundingBox time - 3.350443916E9
+Near and far plane time - 8438.0
+loop time 3.031772322E9
+element fraction loop time  79556.0
+ComputeBoundingBox time - 3.032452886E9
+Near and far plane time - 8120.0
+loop time 2.918941309E9
+element fraction loop time  150897.0
+ComputeBoundingBox time - 2.919744247E9
+Near and far plane time - 8271.0
+loop time 4.383817571E9
+element fraction loop time  267935.0
+ComputeBoundingBox time - 4.384749429E9
+Near and far plane time - 9720.0
+loop time 3.560039511E9
+element fraction loop time  81461.0
+ComputeBoundingBox time - 3.560754198E9
+Near and far plane time - 7203.0
+loop time 5.546436673E9
+element fraction loop time  105376.0
+ComputeBoundingBox time - 5.547234297E9
+Near and far plane time - 8168.0
+loop time 5.725177047E9
+element fraction loop time  57967.0
+ComputeBoundingBox time - 5.835037447E9
+Near and far plane time - 9228.0
+loop time 3.324507712E9
+element fraction loop time  143424.0
+ComputeBoundingBox time - 3.325289236E9
+Near and far plane time - 7967.0
+loop time 4.465252271E9
+element fraction loop time  62532.0
+ComputeBoundingBox time - 4.46603567E9
+Near and far plane time - 8564.0
+loop time 2.839798774E9
+element fraction loop time  146533.0
+ComputeBoundingBox time - 2.840589751E9
+Near and far plane time - 8243.0
+loop time 8.607078588E9
+element fraction loop time  277318.0
+ComputeBoundingBox time - 8.616796197E9
+Near and far plane time - 7802.0
+loop time 3.732835421E9
+element fraction loop time  104655.0
+ComputeBoundingBox time - 3.733602258E9
+Near and far plane time - 8204.0
+loop time 2.767752101E9
+element fraction loop time  162978.0
+ComputeBoundingBox time - 2.76856453E9
+Near and far plane time - 8050.0
+loop time 4.700795478E9
+element fraction loop time  62542.0
+ComputeBoundingBox time - 4.701511581E9
+Near and far plane time - 8647.0
+loop time 3.119937611E9
+element fraction loop time  122361.0
+ComputeBoundingBox time - 3.12073704E9
+Near and far plane time - 8454.0
+loop time 3.100703743E9
+element fraction loop time  130815.0
+ComputeBoundingBox time - 3.10148662E9
+Near and far plane time - 7820.0
+loop time 3.348545912E9
+element fraction loop time  92501.0
+ComputeBoundingBox time - 3.349298102E9
+Near and far plane time - 7677.0
+loop time 8.62554944E9
+element fraction loop time  196175.0
+ComputeBoundingBox time - 8.626707042E9
+Near and far plane time - 7238.0
+loop time 3.194949235E9
+element fraction loop time  93649.0
+ComputeBoundingBox time - 3.195700573E9
+Near and far plane time - 7909.0
+loop time 8.075996095E9
+element fraction loop time  199411.0
+ComputeBoundingBox time - 8.076885506E9
+Near and far plane time - 8281.0
+loop time 3.140560437E9
+element fraction loop time  127654.0
+ComputeBoundingBox time - 3.141338464E9
+Near and far plane time - 7895.0
+loop time 3.584618445E9
+element fraction loop time  7.4168592E7
+ComputeBoundingBox time - 3.659520381E9
+Near and far plane time - 8025.0
+loop time 7.616444326E9
+element fraction loop time  123998.0
+ComputeBoundingBox time - 7.617208909E9
+Near and far plane time - 6912.0
+loop time 7.116286644E9
+element fraction loop time  181185.0
+loop time 2.932302873E9
+element fraction loop time  119785.0
+ComputeBoundingBox time - 2.933057287E9
+Near and far plane time - 8479.0
+ComputeBoundingBox time - 7.117142774E9
+Near and far plane time - 8522.0
+loop time 4.325458164E9
+element fraction loop time  56083.0
+ComputeBoundingBox time - 4.32619141E9
+Near and far plane time - 9220.0
+loop time 7.517595324E9
+element fraction loop time  146462.0
+ComputeBoundingBox time - 7.518411668E9
+Near and far plane time - 7434.0
+loop time 4.525006096E9
+element fraction loop time  51265.0
+ComputeBoundingBox time - 4.525715028E9
+Near and far plane time - 9697.0
+loop time 7.306541176E9
+element fraction loop time  223431.0
+ComputeBoundingBox time - 7.307435061E9
+Near and far plane time - 8358.0
+loop time 7.837716759E9
+element fraction loop time  129777.0
+ComputeBoundingBox time - 7.838525418E9
+Near and far plane time - 7519.0
+loop time 2.996917338E9
+element fraction loop time  142056.0
+ComputeBoundingBox time - 2.99770816E9
+Near and far plane time - 8819.0
+loop time 3.962588723E9
+element fraction loop time  60173.0
+ComputeBoundingBox time - 4.090488236E9
+Near and far plane time - 8135.0
+loop time 7.271768938E9
+element fraction loop time  154868.0
+ComputeBoundingBox time - 7.272626312E9
+Near and far plane time - 8416.0
+loop time 3.205568284E9
+element fraction loop time  128093.0
+ComputeBoundingBox time - 3.206330519E9
+Near and far plane time - 8679.0
+loop time 7.820964674E9
+element fraction loop time  75266.0
+ComputeBoundingBox time - 7.821732862E9
+Near and far plane time - 7299.0
+loop time 7.888105623E9
+loop time 3.143163942E9
+element fraction loop time  57116.0
+ComputeBoundingBox time - 3.143922588E9
+Near and far plane time - 8093.0
+element fraction loop time  1.20278071E8
+ComputeBoundingBox time - 8.009121438E9
+Near and far plane time - 8850.0
+loop time 3.149562916E9
+element fraction loop time  133549.0
+ComputeBoundingBox time - 3.150368906E9
+Near and far plane time - 8391.0
+loop time 3.75546018E9
+element fraction loop time  3088.0
+ComputeBoundingBox time - 3.794970966E9
+Near and far plane time - 9314.0
+loop time 3.296361899E9
+element fraction loop time  72336.0
+ComputeBoundingBox time - 3.297072872E9
+Near and far plane time - 8226.0
+loop time 3.156843562E9
+element fraction loop time  127847.0
+ComputeBoundingBox time - 3.157630181E9
+Near and far plane time - 7190.0
+loop time 2.968133504E9
+element fraction loop time  132359.0
+ComputeBoundingBox time - 2.99422882E9
+Near and far plane time - 7917.0
+loop time 2.782195123E9
+element fraction loop time  129777.0
+ComputeBoundingBox time - 2.782967763E9
+Near and far plane time - 8481.0
+loop time 3.391364844E9
+element fraction loop time  96125.0
+ComputeBoundingBox time - 3.392130958E9
+Near and far plane time - 8614.0
+loop time 2.857724629E9
+element fraction loop time  152319.0
+ComputeBoundingBox time - 2.858537109E9
+Near and far plane time - 8389.0
+loop time 9.240241484E9
+element fraction loop time  158737.0
+ComputeBoundingBox time - 9.241063435E9
+Near and far plane time - 7191.0
+loop time 4.363364367E9
+element fraction loop time  55193.0
+ComputeBoundingBox time - 4.364064192E9
+Near and far plane time - 8166.0
+loop time 3.92792821E9
+element fraction loop time  50188.0
+ComputeBoundingBox time - 3.928569852E9
+Near and far plane time - 9289.0
+loop time 3.293953032E9
+element fraction loop time  80135.0
+ComputeBoundingBox time - 3.404709641E9
+Near and far plane time - 7208.0
+loop time 2.960822099E9
+element fraction loop time  108968.0
+ComputeBoundingBox time - 2.961571097E9
+Near and far plane time - 8210.0
+loop time 3.041835747E9
+element fraction loop time  150424.0
+ComputeBoundingBox time - 3.042673822E9
+Near and far plane time - 8226.0
+loop time 2.888954323E9
+element fraction loop time  122571.0
+ComputeBoundingBox time - 2.889732025E9
+Near and far plane time - 8206.0
+loop time 3.404707671E9
+element fraction loop time  2938.0
+ComputeBoundingBox time - 3.405340151E9
+Near and far plane time - 9235.0
+loop time 4.370082118E9
+element fraction loop time  70200.0
+ComputeBoundingBox time - 4.370775085E9
+Near and far plane time - 8384.0
+loop time 3.432871208E9
+element fraction loop time  52762.0
+ComputeBoundingBox time - 3.433555636E9
+Near and far plane time - 8030.0
+loop time 7.86090596E9
+element fraction loop time  237266.0
+ComputeBoundingBox time - 7.861799842E9
+Near and far plane time - 8626.0
+loop time 3.389469851E9
+element fraction loop time  70314.0
+ComputeBoundingBox time - 3.390172727E9
+Near and far plane time - 11196.0
+loop time 3.137381557E9
+element fraction loop time  106614.0
+ComputeBoundingBox time - 3.138098648E9
+Near and far plane time - 8035.0
+loop time 7.051872608E9
+loop time 7.250791855E9
+element fraction loop time  113691.0
+ComputeBoundingBox time - 7.251511035E9
+Near and far plane time - 7479.0
+element fraction loop time  6.4595242E7
+ComputeBoundingBox time - 7.117175497E9
+Near and far plane time - 8376.0
+loop time 3.557566315E9
+element fraction loop time  106298.0
+ComputeBoundingBox time - 3.558314172E9
+Near and far plane time - 7760.0
+loop time 3.072833528E9
+element fraction loop time  125594.0
+ComputeBoundingBox time - 3.073625583E9
+Near and far plane time - 7846.0
+loop time 7.52966026E9
+element fraction loop time  109672.0
+ComputeBoundingBox time - 7.530399915E9
+Near and far plane time - 7328.0
+loop time 7.136707696E9
+element fraction loop time  132501.0
+ComputeBoundingBox time - 7.137495603E9
+Near and far plane time - 7316.0
+loop time 3.236490218E9
+element fraction loop time  56125.0
+ComputeBoundingBox time - 3.237206674E9
+Near and far plane time - 8504.0
+loop time 3.215538657E9
+element fraction loop time  3078.0
+ComputeBoundingBox time - 3.355770785E9
+loop time 3.007580571E9
+Near and far plane time - 10469.0
+element fraction loop time  144609.0
+ComputeBoundingBox time - 3.028083321E9
+Near and far plane time - 7311.0
+loop time 3.476312416E9
+element fraction loop time  92769.0
+ComputeBoundingBox time - 3.477030441E9
+Near and far plane time - 8331.0
+loop time 2.820195716E9
+element fraction loop time  122948.0
+ComputeBoundingBox time - 2.820971869E9
+Near and far plane time - 8702.0
+loop time 7.082180414E9
+element fraction loop time  162013.0
+ComputeBoundingBox time - 7.082979239E9
+Near and far plane time - 8223.0
+loop time 3.766266108E9
+element fraction loop time  3256.0
+ComputeBoundingBox time - 3.766867219E9
+Near and far plane time - 9341.0
+loop time 7.796510381E9
+element fraction loop time  161233.0
+ComputeBoundingBox time - 7.797287538E9
+Near and far plane time - 8408.0
+loop time 8.386262032E9
+element fraction loop time  163176.0
+ComputeBoundingBox time - 8.387068433E9
+Near and far plane time - 8165.0
+loop time 7.556828472E9
+element fraction loop time  109046.0
+ComputeBoundingBox time - 7.557566088E9
+Near and far plane time - 7496.0
+loop time 7.246672952E9
+element fraction loop time  54444.0
+ComputeBoundingBox time - 7.247381723E9
+Near and far plane time - 7950.0
+loop time 3.305580067E9
+element fraction loop time  73449.0
+ComputeBoundingBox time - 3.306297516E9
+Near and far plane time - 7975.0
+loop time 3.439132919E9
+element fraction loop time  3193.0
+ComputeBoundingBox time - 3.439733817E9
+Near and far plane time - 8311.0
+loop time 2.835011575E9
+element fraction loop time  105554.0
+ComputeBoundingBox time - 2.835723834E9
+Near and far plane time - 9055.0
+loop time 3.32330382E9
+element fraction loop time  87386.0
+ComputeBoundingBox time - 3.32404085E9
+Near and far plane time - 7135.0
+loop time 7.768843446E9
+element fraction loop time  170782.0
+ComputeBoundingBox time - 7.76967528E9
+Near and far plane time - 8968.0
+loop time 4.026313418E9
+element fraction loop time  54887.0
+ComputeBoundingBox time - 4.026992117E9
+Near and far plane time - 7797.0
+loop time 1.776275792E9
+element fraction loop time  84216.0
+ComputeBoundingBox time - 1.776987273E9
+Near and far plane time - 7842.0
+loop time 3.115736545E9
+element fraction loop time  124827.0
+ComputeBoundingBox time - 3.11650423E9
+Near and far plane time - 8418.0
+loop time 3.601428223E9
+element fraction loop time  110601.0
+ComputeBoundingBox time - 3.602185606E9
+Near and far plane time - 8150.0
+loop time 2.872605659E9
+element fraction loop time  111037.0
+ComputeBoundingBox time - 2.873364444E9
+Near and far plane time - 11491.0
+loop time 3.222838264E9
+element fraction loop time  121872.0
+ComputeBoundingBox time - 3.223527246E9
+Near and far plane time - 7920.0
+loop time 3.06405332E9
+element fraction loop time  142313.0
+ComputeBoundingBox time - 3.110911341E9
+Near and far plane time - 8368.0
+loop time 3.638662636E9
+element fraction loop time  31709.0
+ComputeBoundingBox time - 3.639341503E9
+Near and far plane time - 9461.0
+loop time 3.696045151E9
+element fraction loop time  3032.0
+ComputeBoundingBox time - 3.69664747E9
+Near and far plane time - 9529.0
+loop time 3.086174272E9
+element fraction loop time  124278.0
+ComputeBoundingBox time - 3.086951245E9
+Near and far plane time - 8794.0
+loop time 3.516175131E9
+element fraction loop time  52993.0
+ComputeBoundingBox time - 3.516872785E9
+Near and far plane time - 8005.0
+loop time 3.239829353E9
+element fraction loop time  271566.0
+ComputeBoundingBox time - 3.240737731E9
+Near and far plane time - 8652.0
+loop time 3.600362076E9
+element fraction loop time  2686.0
+ComputeBoundingBox time - 3.60094118E9
+Near and far plane time - 8679.0
+loop time 6.444533531E9
+element fraction loop time  111649.0
+ComputeBoundingBox time - 6.445286554E9
+Near and far plane time - 7424.0
+loop time 3.028908401E9
+element fraction loop time  118363.0
+ComputeBoundingBox time - 3.029669983E9
+Near and far plane time - 8013.0
+loop time 3.056697424E9
+element fraction loop time  138865.0
+ComputeBoundingBox time - 3.057487282E9
+Near and far plane time - 8609.0
+loop time 7.89487468E9
+element fraction loop time  171433.0
+ComputeBoundingBox time - 7.895671645E9
+Near and far plane time - 8178.0
+loop time 4.064592012E9
+element fraction loop time  32211.0
+ComputeBoundingBox time - 4.065234865E9
+Near and far plane time - 8210.0
+loop time 7.22982456E9
+element fraction loop time  171885.0
+ComputeBoundingBox time - 7.230643071E9
+Near and far plane time - 8474.0
+loop time 3.589228762E9
+element fraction loop time  110234.0
+ComputeBoundingBox time - 3.589992105E9
+Near and far plane time - 8596.0
+loop time 3.15969951E9
+element fraction loop time  53569.0
+ComputeBoundingBox time - 3.160413937E9
+Near and far plane time - 8045.0
+loop time 9.658560183E9
+element fraction loop time  166198.0
+ComputeBoundingBox time - 9.65936205E9
+Near and far plane time - 8313.0
+loop time 2.872086392E9
+element fraction loop time  125370.0
+ComputeBoundingBox time - 2.872842382E9
+Near and far plane time - 8619.0
+loop time 3.028399499E9
+element fraction loop time  123915.0
+ComputeBoundingBox time - 3.119207295E9
+Near and far plane time - 8889.0
+loop time 7.132801949E9
+element fraction loop time  114875.0
+ComputeBoundingBox time - 7.13355216E9
+Near and far plane time - 7265.0
+loop time 7.267210194E9
+element fraction loop time  130707.0
+ComputeBoundingBox time - 7.267990203E9
+Near and far plane time - 7607.0
+loop time 6.793056629E9
+element fraction loop time  125725.0
+ComputeBoundingBox time - 6.793810409E9
+Near and far plane time - 8163.0
+loop time 2.879215766E9
+element fraction loop time  119975.0
+ComputeBoundingBox time - 2.879937596E9
+Near and far plane time - 7917.0
+loop time 7.18624791E9
+element fraction loop time  163358.0
+ComputeBoundingBox time - 7.187032108E9
+Near and far plane time - 8093.0
+loop time 3.323006991E9
+element fraction loop time  74226.0
+ComputeBoundingBox time - 3.323727477E9
+Near and far plane time - 8371.0
+loop time 3.31388946E9
+element fraction loop time  111086.0
+ComputeBoundingBox time - 3.387920385E9
+Near and far plane time - 8131.0
+loop time 4.228927176E9
+element fraction loop time  70967.0
+ComputeBoundingBox time - 4.309750775E9
+Near and far plane time - 8499.0
+loop time 2.858846999E9
+element fraction loop time  120855.0
+ComputeBoundingBox time - 2.859610232E9
+Near and far plane time - 8233.0
+loop time 7.646626347E9
+element fraction loop time  112597.0
+ComputeBoundingBox time - 7.64738763E9
+Near and far plane time - 7256.0
+loop time 4.346595147E9
+element fraction loop time  49068.0
+ComputeBoundingBox time - 4.347290568E9
+Near and far plane time - 8817.0
+loop time 7.747308033E9
+element fraction loop time  111316.0
+ComputeBoundingBox time - 7.748054775E9
+Near and far plane time - 7356.0
+loop time 3.7043974E9
+element fraction loop time  89343.0
+ComputeBoundingBox time - 3.705148216E9
+Near and far plane time - 7717.0
+loop time 4.239096338E9
+element fraction loop time  70098.0
+ComputeBoundingBox time - 4.239796398E9
+Near and far plane time - 8985.0
+loop time 2.837768323E9
+element fraction loop time  53887.0
+ComputeBoundingBox time - 2.838442207E9
+Near and far plane time - 8263.0
+loop time 8.432628142E9
+element fraction loop time  158679.0
+ComputeBoundingBox time - 8.433407202E9
+Near and far plane time - 8131.0
+loop time 3.00023609E9
+element fraction loop time  124546.0
+ComputeBoundingBox time - 3.001013412E9
+Near and far plane time - 8601.0
+loop time 2.77896725E9
+element fraction loop time  1.91190116E8
+ComputeBoundingBox time - 2.970871455E9
+Near and far plane time - 8080.0
+loop time 3.569017674E9
+element fraction loop time  108769.0
+ComputeBoundingBox time - 3.569759905E9
+Near and far plane time - 8188.0
+loop time 7.983938616E9
+element fraction loop time  149747.0
+ComputeBoundingBox time - 7.984692428E9
+Near and far plane time - 8103.0
+loop time 4.143484723E9
+element fraction loop time  55461.0
+ComputeBoundingBox time - 4.144174665E9
+Near and far plane time - 8015.0
+loop time 3.305736722E9
+element fraction loop time  107238.0
+ComputeBoundingBox time - 3.306480835E9
+Near and far plane time - 8559.0
+loop time 3.243593705E9
+element fraction loop time  74537.0
+ComputeBoundingBox time - 3.244320375E9
+Near and far plane time - 7684.0
+loop time 3.30685198E9
+element fraction loop time  86724.0
+ComputeBoundingBox time - 3.307585324E9
+Near and far plane time - 7616.0
+loop time 3.055703786E9
+element fraction loop time  118446.0
+ComputeBoundingBox time - 3.056447469E9
+Near and far plane time - 7902.0
+loop time 3.501671785E9
+element fraction loop time  3566.0
+ComputeBoundingBox time - 3.502260158E9
+Near and far plane time - 9266.0
+loop time 3.955385216E9
+element fraction loop time  55261.0
+ComputeBoundingBox time - 4.076219405E9
+Near and far plane time - 9328.0
+loop time 5.637972529E9
+element fraction loop time  109807.0
+ComputeBoundingBox time - 5.63872352E9
+Near and far plane time - 7250.0
+loop time 3.270419384E9
+element fraction loop time  54291.0
+ComputeBoundingBox time - 3.27109986E9
+Near and far plane time - 7914.0
+loop time 7.346700417E9
+element fraction loop time  116266.0
+ComputeBoundingBox time - 7.347451778E9
+Near and far plane time - 7544.0
+loop time 3.168011328E9
+element fraction loop time  119524.0
+ComputeBoundingBox time - 3.168772188E9
+loop time 3.519817441E9
+element fraction loop time  3148.0
+ComputeBoundingBox time - 3.520404063E9
+Near and far plane time - 9732.0
+loop time 3.75794655E9
+element fraction loop time  110674.0
+ComputeBoundingBox time - 3.758680891E9
+Near and far plane time - 8304.0
+Near and far plane time - 10165.0
+loop time 3.024706769E9
+element fraction loop time  115589.0
+ComputeBoundingBox time - 3.025441353E9
+Near and far plane time - 7747.0
+loop time 7.043363425E9
+element fraction loop time  162717.0
+ComputeBoundingBox time - 7.044159852E9
+Near and far plane time - 8942.0
+loop time 3.371948523E9
+element fraction loop time  89171.0
+ComputeBoundingBox time - 3.372674193E9
+Near and far plane time - 7864.0
+loop time 2.863909047E9
+element fraction loop time  87719.0
+ComputeBoundingBox time - 2.864642935E9
+Near and far plane time - 8276.0
+loop time 3.568721651E9
+element fraction loop time  3188.0
+ComputeBoundingBox time - 3.569304486E9
+Near and far plane time - 8258.0
+loop time 6.695443328E9
+element fraction loop time  161810.0
+ComputeBoundingBox time - 6.696235544E9
+Near and far plane time - 8557.0
+loop time 8.539172391E9
+element fraction loop time  170211.0
+ComputeBoundingBox time - 8.539992162E9
+Near and far plane time - 8900.0
+loop time 3.168488062E9
+element fraction loop time  52842.0
+ComputeBoundingBox time - 3.169165742E9
+Near and far plane time - 8061.0
+loop time 3.230490639E9
+element fraction loop time  118464.0
+ComputeBoundingBox time - 3.231241481E9
+Near and far plane time - 8263.0
+loop time 3.603916384E9
+element fraction loop time  375805.0
+ComputeBoundingBox time - 3.60493584E9
+Near and far plane time - 8198.0
+loop time 7.594106079E9
+element fraction loop time  138677.0
+ComputeBoundingBox time - 7.594869648E9
+Near and far plane time - 7358.0
+loop time 2.296057033E9
+element fraction loop time  127744.0
+ComputeBoundingBox time - 2.296838795E9
+Near and far plane time - 8596.0
+loop time 2.986633662E9
+element fraction loop time  54047.0
+ComputeBoundingBox time - 2.987326535E9
+Near and far plane time - 8316.0
+loop time 7.503321609E9
+element fraction loop time  164318.0
+ComputeBoundingBox time - 7.504084789E9
+Near and far plane time - 7983.0
+loop time 9.124089926E9
+element fraction loop time  180324.0
+ComputeBoundingBox time - 9.124905347E9
+Near and far plane time - 8243.0
+loop time 3.032587528E9
+element fraction loop time  287033.0
+ComputeBoundingBox time - 3.033501777E9
+Near and far plane time - 7902.0
+loop time 3.171456194E9
+element fraction loop time  156790.0
+ComputeBoundingBox time - 3.17225486E9
+Near and far plane time - 7867.0
+loop time 3.580689181E9
+element fraction loop time  36880.0
+ComputeBoundingBox time - 3.581348264E9
+Near and far plane time - 9401.0
+loop time 7.340083931E9
+element fraction loop time  115968.0
+ComputeBoundingBox time - 7.340855064E9
+Near and far plane time - 7351.0
+loop time 7.518059676E9
+element fraction loop time  118667.0
+ComputeBoundingBox time - 7.518810064E9
+Near and far plane time - 7572.0
+loop time 4.261506372E9
+element fraction loop time  90739.0
+ComputeBoundingBox time - 4.262214645E9
+Near and far plane time - 8319.0
+loop time 3.028566849E9
+element fraction loop time  55198.0
+ComputeBoundingBox time - 3.029262365E9
+Near and far plane time - 7790.0
+loop time 3.58729374E9
+element fraction loop time  106760.0
+ComputeBoundingBox time - 3.588045572E9
+Near and far plane time - 8509.0
+loop time 4.287872924E9
+element fraction loop time  69221.0
+ComputeBoundingBox time - 4.288593037E9
+Near and far plane time - 9126.0
+loop time 2.444566365E9
+element fraction loop time  123591.0
+ComputeBoundingBox time - 2.44534049E9
+Near and far plane time - 8484.0
+loop time 8.436148663E9
+element fraction loop time  167722.0
+ComputeBoundingBox time - 8.436943809E9
+Near and far plane time - 8208.0
+loop time 3.172614158E9
+element fraction loop time  141747.0
+ComputeBoundingBox time - 3.173402676E9
+Near and far plane time - 8286.0
+loop time 2.976139409E9
+element fraction loop time  107008.0
+ComputeBoundingBox time - 3.046905367E9
+Near and far plane time - 7353.0
+loop time 8.218444696E9
+element fraction loop time  169439.0
+ComputeBoundingBox time - 8.219252639E9
+Near and far plane time - 8324.0
+loop time 4.41341995E9
+element fraction loop time  54032.0
+ComputeBoundingBox time - 4.414112197E9
+Near and far plane time - 8058.0
+loop time 3.237405688E9
+element fraction loop time  122368.0
+ComputeBoundingBox time - 3.238175449E9
+Near and far plane time - 8386.0
+loop time 2.894577641E9
+loop time 3.238582722E9
+element fraction loop time  71552.0
+ComputeBoundingBox time - 3.239318963E9
+Near and far plane time - 8769.0
+element fraction loop time  126706.0
+ComputeBoundingBox time - 2.93904743E9
+Near and far plane time - 6870.0
+loop time 3.415810382E9
+element fraction loop time  97940.0
+ComputeBoundingBox time - 3.416539044E9
+Near and far plane time - 8040.0
+loop time 7.025274594E9
+element fraction loop time  107719.0
+ComputeBoundingBox time - 7.026013229E9
+Near and far plane time - 7584.0
+loop time 3.742546572E9
+element fraction loop time  34779.0
+ComputeBoundingBox time - 3.743214702E9
+Near and far plane time - 9246.0
+loop time 3.333624085E9
+element fraction loop time  121446.0
+ComputeBoundingBox time - 3.334391849E9
+Near and far plane time - 8306.0
+loop time 3.364809435E9
+element fraction loop time  136438.0
+ComputeBoundingBox time - 3.365587358E9
+Near and far plane time - 7158.0
+loop time 3.636019146E9
+element fraction loop time  3320.0
+ComputeBoundingBox time - 3.709351193E9
+Near and far plane time - 9514.0
+loop time 8.01692597E9
+element fraction loop time  112868.0
+ComputeBoundingBox time - 8.017660524E9
+Near and far plane time - 7524.0
+loop time 3.034749864E9
+element fraction loop time  122947.0
+ComputeBoundingBox time - 3.035506353E9
+Near and far plane time - 8077.0
+loop time 7.600373484E9
+element fraction loop time  152012.0
+ComputeBoundingBox time - 7.601163461E9
+Near and far plane time - 8152.0
+loop time 3.062081674E9
+element fraction loop time  120985.0
+ComputeBoundingBox time - 3.062756258E9
+Near and far plane time - 10025.0
+loop time 3.201773354E9
+element fraction loop time  127676.0
+ComputeBoundingBox time - 3.202534244E9
+Near and far plane time - 8649.0
+loop time 4.069802239E9
+element fraction loop time  54359.0
+ComputeBoundingBox time - 4.070474315E9
+Near and far plane time - 8137.0
+loop time 2.411687487E9
+element fraction loop time  290983.0
+ComputeBoundingBox time - 2.412620686E9
+Near and far plane time - 9276.0
+loop time 7.319846316E9
+element fraction loop time  126286.0
+ComputeBoundingBox time - 7.320612023E9
+Near and far plane time - 7992.0
+loop time 3.616647614E9
+element fraction loop time  48784.0
+ComputeBoundingBox time - 3.617331572E9
+Near and far plane time - 7376.0
+loop time 3.063259113E9
+element fraction loop time  119263.0
+ComputeBoundingBox time - 3.063931214E9
+Near and far plane time - 7920.0
+loop time 5.912448665E9
+element fraction loop time  182679.0
+ComputeBoundingBox time - 5.913278482E9
+Near and far plane time - 7448.0
+loop time 4.062394451E9
+element fraction loop time  35284.0
+ComputeBoundingBox time - 4.063051894E9
+Near and far plane time - 8494.0
+loop time 6.963286987E9
+element fraction loop time  182696.0
+ComputeBoundingBox time - 6.964092172E9
+Near and far plane time - 7739.0
+loop time 3.215195469E9
+element fraction loop time  108589.0
+ComputeBoundingBox time - 3.215908011E9
+Near and far plane time - 8321.0
+loop time 2.795058678E9
+element fraction loop time  34055.0
+ComputeBoundingBox time - 2.795675937E9
+Near and far plane time - 9527.0
+loop time 7.658474781E9
+element fraction loop time  137534.0
+ComputeBoundingBox time - 7.661281546E9
+Near and far plane time - 8777.0
+loop time 8.354131389E9
+element fraction loop time  169196.0
+ComputeBoundingBox time - 8.354952458E9
+Near and far plane time - 8659.0
+loop time 2.904046838E9
+element fraction loop time  50739.0
+ComputeBoundingBox time - 2.904707335E9
+Near and far plane time - 8000.0
+loop time 3.401262564E9
+element fraction loop time  91529.0
+ComputeBoundingBox time - 3.40199583E9
+Near and far plane time - 9123.0
+loop time 7.359536155E9
+element fraction loop time  53624.0
+ComputeBoundingBox time - 7.360242112E9
+Near and far plane time - 7649.0
+loop time 2.82911237E9
+element fraction loop time  6.4881629E7
+ComputeBoundingBox time - 2.894703064E9
+Near and far plane time - 8067.0
+loop time 3.393774312E9
+element fraction loop time  123684.0
+ComputeBoundingBox time - 3.394554994E9
+Near and far plane time - 8874.0
+loop time 3.976338576E9
+element fraction loop time  54080.0
+ComputeBoundingBox time - 3.97704992E9
+Near and far plane time - 9772.0
+loop time 3.087259045E9
+element fraction loop time  52481.0
+ComputeBoundingBox time - 3.087952506E9
+Near and far plane time - 8889.0
+loop time 3.116657877E9
+element fraction loop time  130125.0
+ComputeBoundingBox time - 3.237287328E9
+Near and far plane time - 7366.0
+loop time 3.34834834E9
+element fraction loop time  2868.0
+ComputeBoundingBox time - 3.348941634E9
+Near and far plane time - 9328.0
+loop time 3.12265577E9
+element fraction loop time  71627.0
+ComputeBoundingBox time - 3.123329638E9
+Near and far plane time - 8303.0
+loop time 9.397186099E9
+element fraction loop time  184870.0
+ComputeBoundingBox time - 9.398001535E9
+Near and far plane time - 9709.0
+loop time 3.184454531E9
+element fraction loop time  138506.0
+ComputeBoundingBox time - 3.295776662E9
+Near and far plane time - 8263.0
+loop time 2.937252884E9
+element fraction loop time  3107.0
+ComputeBoundingBox time - 2.937826371E9
+Near and far plane time - 8920.0
+loop time 2.999056376E9
+element fraction loop time  145777.0
+ComputeBoundingBox time - 3.0415621E9
+Near and far plane time - 8459.0
+loop time 3.413020588E9
+element fraction loop time  91992.0
+ComputeBoundingBox time - 3.413752252E9
+Near and far plane time - 8469.0
+loop time 3.373841256E9
+element fraction loop time  3298.0
+ComputeBoundingBox time - 3.432723935E9
+Near and far plane time - 9215.0

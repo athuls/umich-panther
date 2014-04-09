@@ -1,0 +1,6 @@
+Winter 2012
+MDOT
+This directory currently has data for sparse nodes i.e. only on the surface with 13 elements identified
+
+Have the ground truth with surface nodes only first, before running this experiment!!!
+NOTE : view angle will be 30 degrees only for the ground truth. It will change only for the error positions, i.e. it will become 45 and 60 degrees

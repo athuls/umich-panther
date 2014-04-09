@@ -1,0 +1,723 @@
+This is run 21
+time taken is -3.033749779E9
+
+time taken is -1.542781716E9
+
+time taken is -7.40469001E8
+
+time taken is -6.43103801E8
+
+time taken is -6.39718531E8
+
+time taken is -6.41812966E8
+
+time taken is -6.3494442E8
+
+time taken is -6.41183652E8
+
+time taken is -6.5820045E8
+
+time taken is -6.42422831E8
+
+time taken is -6.43942188E8
+
+time taken is -6.47644326E8
+
+time taken is -6.4906335E8
+
+time taken is -6.41678342E8
+
+time taken is -6.44199666E8
+
+time taken is -6.38810771E8
+
+time taken is -6.40709407E8
+
+time taken is -6.3876092E8
+
+time taken is -6.41193878E8
+
+time taken is -6.44470754E8
+
+time taken is -6.39584324E8
+
+time taken is -6.39310482E8
+
+time taken is -6.40831953E8
+
+time taken is -6.44375746E8
+
+time taken is -6.40569557E8
+
+time taken is -6.39395392E8
+
+time taken is -6.36349724E8
+
+time taken is -6.43030952E8
+
+time taken is -6.34683416E8
+
+time taken is -6.3969055E8
+
+time taken is -6.39480474E8
+
+time taken is -6.47144296E8
+
+time taken is -6.38983935E8
+
+time taken is -6.41782997E8
+
+time taken is -6.37332201E8
+
+time taken is -6.43154863E8
+
+time taken is -6.43801771E8
+
+time taken is -6.52606022E8
+
+time taken is -6.44504078E8
+
+time taken is -6.41444582E8
+
+time taken is -6.48454109E8
+
+time taken is -6.49775663E8
+
+time taken is -6.47085536E8
+
+time taken is -6.5268717E8
+
+time taken is -6.73301259E8
+
+time taken is -1.168482763E9
+
+time taken is -8.8830952E8
+
+time taken is -6.72861399E8
+
+time taken is -6.83595345E8
+
+time taken is -6.81352048E8
+
+time taken is -6.73916447E8
+
+time taken is -6.78066894E8
+
+time taken is -6.89993963E8
+
+time taken is -6.85427397E8
+
+time taken is -6.96545872E8
+
+time taken is -7.06069403E8
+
+time taken is -7.0728199E8
+
+time taken is -7.08599028E8
+
+time taken is -7.66578093E8
+
+time taken is -7.12660545E8
+
+time taken is -7.1510372E8
+
+time taken is -7.1159958E8
+
+time taken is -7.25530708E8
+
+time taken is -7.77667214E8
+
+time taken is -6.97237184E8
+
+time taken is -6.99112309E8
+
+time taken is -6.95948473E8
+
+time taken is -6.90001845E8
+
+time taken is -6.88894278E8
+
+time taken is -6.84655332E8
+
+time taken is -6.81416682E8
+
+time taken is -6.83217184E8
+
+time taken is -6.75419443E8
+
+time taken is -6.68412273E8
+
+time taken is -6.71395519E8
+
+time taken is -6.70243366E8
+
+time taken is -6.64865424E8
+
+time taken is -6.74001091E8
+
+time taken is -6.64697409E8
+
+time taken is -6.70434113E8
+
+time taken is -6.6172604E8
+
+time taken is -6.76459933E8
+
+time taken is -6.63199018E8
+
+time taken is -6.58950069E8
+
+time taken is -6.58903464E8
+
+time taken is -6.54590078E8
+
+time taken is -6.57302836E8
+
+time taken is -6.54635679E8
+
+time taken is -6.53820917E8
+
+time taken is -6.61501776E8
+
+time taken is -6.52116757E8
+
+time taken is -6.48035304E8
+
+time taken is -6.51210398E8
+
+time taken is -6.5982507E8
+
+time taken is -6.46979434E8
+
+time taken is -6.48749765E8
+
+time taken is -6.50820465E8
+
+time taken is -6.50767372E8
+
+time taken is -6.55433529E8
+
+time taken is -6.55459416E8
+
+time taken is -6.46092341E8
+
+time taken is -6.68607776E8
+
+time taken is -6.77420385E8
+
+time taken is -6.4268222E8
+
+time taken is -6.44630377E8
+
+time taken is -6.39170702E8
+
+time taken is -6.48846542E8
+
+time taken is -6.42629563E8
+
+time taken is -6.38568575E8
+
+time taken is -6.42943901E8
+
+time taken is -6.37558228E8
+
+time taken is -6.40430322E8
+
+time taken is -6.49846555E8
+
+time taken is -6.3829383E8
+
+time taken is -6.49212786E8
+
+time taken is -6.42969172E8
+
+time taken is -6.35670959E8
+
+time taken is -6.38680271E8
+
+time taken is -6.40767179E8
+
+time taken is -6.36098037E8
+
+time taken is -6.50488877E8
+
+time taken is -6.54490351E8
+
+time taken is -6.3575113E8
+
+time taken is -6.83066262E8
+
+time taken is -6.44511576E8
+
+time taken is -6.39936156E8
+
+time taken is -6.37899063E8
+
+time taken is -6.34814528E8
+
+time taken is -6.38650155E8
+
+time taken is -6.42426789E8
+
+time taken is -6.35255679E8
+
+time taken is -6.41044306E8
+
+time taken is -6.47941728E8
+
+time taken is -6.50969312E8
+
+time taken is -6.42607402E8
+
+time taken is -6.36342339E8
+
+time taken is -6.39072589E8
+
+time taken is -6.89050819E8
+
+time taken is -6.37712511E8
+
+time taken is -6.3907685E8
+
+time taken is -6.38861336E8
+
+time taken is -6.40769956E8
+
+time taken is -6.46933316E8
+
+time taken is -6.3796631E8
+
+time taken is -6.4401306E8
+
+time taken is -6.3761793E8
+
+time taken is -6.37245732E8
+
+time taken is -6.5295339E8
+
+time taken is -6.38841437E8
+
+time taken is -6.67303693E8
+
+time taken is -6.59383307E8
+
+time taken is -6.46473272E8
+
+time taken is -6.33671066E8
+
+time taken is -6.37205164E8
+
+time taken is -6.37404731E8
+
+time taken is -6.35115498E8
+
+time taken is -6.3735584E8
+
+time taken is -6.383394E8
+
+time taken is -6.37566276E8
+
+time taken is -6.37979076E8
+
+time taken is -6.34907285E8
+
+time taken is -6.42247232E8
+
+time taken is -6.40945903E8
+
+time taken is -6.43375315E8
+
+time taken is -6.40808037E8
+
+time taken is -6.38478475E8
+
+time taken is -6.36867546E8
+
+time taken is -6.40266988E8
+
+time taken is -6.3482622E8
+
+time taken is -6.49052562E8
+
+time taken is -6.39819414E8
+
+time taken is -6.42469244E8
+
+time taken is -6.40726484E8
+
+time taken is -6.55196839E8
+
+time taken is -6.44036175E8
+
+time taken is -6.96125823E8
+
+time taken is -6.43415127E8
+
+time taken is -6.38299314E8
+
+time taken is -6.50873176E8
+
+time taken is -6.40194327E8
+
+time taken is -6.54495622E8
+
+time taken is -6.41692412E8
+
+time taken is -6.44530523E8
+
+time taken is -6.46192651E8
+
+time taken is -6.45035656E8
+
+time taken is -6.3750214E8
+
+time taken is -6.40868445E8
+
+time taken is -6.41816666E8
+
+time taken is -6.91077296E8
+
+time taken is -6.46083699E8
+
+time taken is -6.4462228E8
+
+time taken is -6.40272805E8
+
+time taken is -6.98713136E8
+
+time taken is -6.42307063E8
+
+time taken is -6.46948022E8
+
+time taken is -6.43210779E8
+
+time taken is -6.41862833E8
+
+time taken is -6.4326226E8
+
+time taken is -6.46460763E8
+
+time taken is -6.40838126E8
+
+time taken is -6.53261075E8
+
+time taken is -6.67675417E8
+
+time taken is -6.39774619E8
+
+time taken is -6.99245993E8
+
+time taken is -6.43678197E8
+
+time taken is -6.52051252E8
+
+time taken is -6.42972084E8
+
+time taken is -6.82484219E8
+
+time taken is -6.37583641E8
+
+time taken is -6.59864503E8
+
+time taken is -6.64848715E8
+
+time taken is -6.42522648E8
+
+time taken is -6.53561766E8
+
+time taken is -6.51031122E8
+
+time taken is -6.42895125E8
+
+time taken is -6.45706897E8
+
+time taken is -6.45727521E8
+
+time taken is -6.75159853E8
+
+time taken is -6.8297465E8
+
+time taken is -6.5132835E8
+
+time taken is -6.5414601E8
+
+time taken is -7.05812729E8
+
+time taken is -6.51253726E8
+
+time taken is -6.58745044E8
+
+time taken is -6.59757663E8
+
+time taken is -6.69286799E8
+
+time taken is -6.69161657E8
+
+time taken is -6.81761632E8
+
+time taken is -6.76011608E8
+
+time taken is -6.80344088E8
+
+time taken is -6.81949389E8
+
+time taken is -6.80427529E8
+
+time taken is -6.7790011E8
+
+time taken is -6.91562815E8
+
+time taken is -7.04176065E8
+
+time taken is -7.01948879E8
+
+time taken is -7.10972771E8
+
+time taken is -7.15116208E8
+
+time taken is -7.12672606E8
+
+time taken is -7.15896442E8
+
+time taken is -7.152856E8
+
+time taken is -7.06914214E8
+
+time taken is -7.20407064E8
+
+time taken is -7.11834854E8
+
+time taken is -7.05264744E8
+
+time taken is -6.97816139E8
+
+time taken is -6.98668878E8
+
+time taken is -6.92285477E8
+
+time taken is -6.84282264E8
+
+time taken is -6.8512208E8
+
+time taken is -6.85379914E8
+
+time taken is -6.75923284E8
+
+time taken is -6.77604456E8
+
+time taken is -6.8530827E8
+
+time taken is -6.68234864E8
+
+time taken is -6.70364176E8
+
+time taken is -6.70231718E8
+
+time taken is -6.65775342E8
+
+time taken is -6.66906485E8
+
+time taken is -6.67389768E8
+
+time taken is -6.6215518E8
+
+time taken is -6.62433406E8
+
+time taken is -6.62762266E8
+
+time taken is -6.58975831E8
+
+time taken is -6.67900042E8
+
+time taken is -6.59610131E8
+
+time taken is -6.57857558E8
+
+time taken is -6.58216916E8
+
+time taken is -6.59121184E8
+
+time taken is -6.53748061E8
+
+time taken is -6.57911868E8
+
+time taken is -6.54410348E8
+
+time taken is -6.59302623E8
+
+time taken is -6.53312192E8
+
+time taken is -6.52124009E8
+
+time taken is -6.49759292E8
+
+time taken is -6.49845054E8
+
+time taken is -6.47461812E8
+
+time taken is -6.50441397E8
+
+time taken is -6.48873473E8
+
+time taken is -6.43866285E8
+
+time taken is -6.47251241E8
+
+time taken is -6.48673637E8
+
+time taken is -6.50166929E8
+
+time taken is -6.4822188E8
+
+time taken is -6.54467325E8
+
+time taken is -6.50892991E8
+
+time taken is -6.46433882E8
+
+time taken is -6.49398494E8
+
+time taken is -6.40363507E8
+
+time taken is -6.47192116E8
+
+time taken is -6.42725417E8
+
+time taken is -6.46257218E8
+
+time taken is -6.44178703E8
+
+time taken is -6.41275473E8
+
+time taken is -6.58154014E8
+
+time taken is -6.42424691E8
+
+time taken is -6.41498254E8
+
+time taken is -6.43347921E8
+
+time taken is -6.47137537E8
+
+time taken is -6.4255242E8
+
+time taken is -6.42220473E8
+
+time taken is -6.48174204E8
+
+time taken is -6.49361655E8
+
+time taken is -6.53575739E8
+
+time taken is -6.46255108E8
+
+time taken is -6.43880418E8
+
+time taken is -6.41522498E8
+
+time taken is -6.39806294E8
+
+time taken is -6.42933939E8
+
+time taken is -6.50474863E8
+
+time taken is -6.40387872E8
+
+time taken is -6.41623656E8
+
+time taken is -6.44690952E8
+
+time taken is -6.3927058E8
+
+time taken is -6.4969742E8
+
+time taken is -6.45788388E8
+
+time taken is -6.43618892E8
+
+time taken is -6.43266004E8
+
+time taken is -6.37669948E8
+
+time taken is -6.44272961E8
+
+time taken is -6.42526455E8
+
+time taken is -6.37719236E8
+
+time taken is -6.44377075E8
+
+time taken is -6.4578603E8
+
+time taken is -6.61790301E8
+
+time taken is -6.43233307E8
+
+time taken is -6.39143191E8
+
+time taken is -6.43598708E8
+
+time taken is -6.40964006E8
+
+time taken is -6.39292705E8
+
+time taken is -6.42314407E8
+
+time taken is -6.42551237E8
+
+time taken is -6.41600257E8
+
+time taken is -6.51515979E8
+
+time taken is -6.60143843E8
+
+time taken is -6.7329224E8
+
+time taken is -6.42130384E8
+
+time taken is -6.41879701E8
+
+time taken is -6.38988614E8
+
+time taken is -6.42500733E8
+
+time taken is -6.44018721E8
+
+time taken is -6.93174866E8
+
+time taken is -6.4155149E8
+
+time taken is -6.37125383E8
+
+time taken is -6.50281157E8
+
+time taken is -6.42112039E8
+
+time taken is -6.38510061E8
+
+time taken is -6.43973708E8
+
+time taken is -6.43794076E8
+
+time taken is -6.40199049E8
+
+time taken is -6.42396721E8
+
+time taken is -6.38215351E8
+
+time taken is -6.43212175E8
+
+time taken is -6.4247032E8
+
+time taken is -6.38677757E8
+
+time taken is -6.49959492E8
+
+time taken is -6.41641668E8
+
+time taken is -6.37216575E8
+
+time taken is -6.44737684E8
+
+time taken is -6.42869749E8
+
