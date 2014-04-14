@@ -114,9 +114,8 @@ public class ApproximateAlgorithm
 		
 		double[] bridgeOrigin = sel.getBridgeOrigin();
 		System.out.println("Bridge origin " + bridgeOrigin[0] + "  " + bridgeOrigin[1] + " " + bridgeOrigin[2]);
-		return;
 		
-		/*
+		
 		//Loop through the position/orientation file and pass inspector position/orientation to InspectorParameters object
 		while((line=in.readLine()) != null)
 		{ 
@@ -133,8 +132,7 @@ public class ApproximateAlgorithm
 			//ComputeBoundingBoxInterface boundingBox=new ComputeBoundingBox(positionParameters.getInspectorBFR(), positionParameters.getNearPlane(), positionParameters.getFarPlane(), positionParameters.getViewAngle(), posCount);
 			//boundingBox.captureNodesInBox();
 			posCount++;
-		}
-		*/
+		}		
 
 	}			
 	

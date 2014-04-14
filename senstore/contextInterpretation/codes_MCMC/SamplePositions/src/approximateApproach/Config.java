@@ -2,6 +2,8 @@ package approximateApproach;
 
 public class Config {
 
+	private static String currentPath = "/mnt/sde/oldsystem/opt/umich-panther/senstore/contextInterpretation/";
+	
 	//Enter the GPS and bridge coordinates for 4 points on the bridge (used to determine the origin of the bridge
 	private static final double[] gpspoint1={-83.346354, 42.01812367, 627};
 	private static final double[] gpspoint2={-83.3467475, 42.0186215, 627};
@@ -25,16 +27,16 @@ public class Config {
 	private static final double viewAngle=30;
 	
 	//Input file with all nodes on the bridge (from database) and output file for storing points in bounding box
-	private static final String m_allNodes="/mnt/sde/oldsystem/opt/senstore/contextInterpretation/bridge_model_sparse_62/final_merge.txt";
-	private static final String m_allPositions="/mnt/sde/oldsystem/opt/senstore/contextInterpretation/field_inspector_trail/RTKGPS";
+	private static final String m_allNodes = Config.currentPath + "bridge_model_sparse_62/final_merge.txt";
+	private static final String m_allPositions = Config.currentPath + "field_inspector_trail/WAASGPS_TCM5";
 	
-	private static final String m_nodesAboveDeck="/mnt/sde/oldsystem/opt/senstore/contextInterpretation/bridge_model_sparse_62/above_deck";
-	private static final String m_nodesBelowDeck="/mnt/sde/oldsystem/opt/senstore/contextInterpretation/bridge_model_sparse_62/below_deck";
+	private static final String m_nodesAboveDeck=Config.currentPath + "bridge_model_sparse_62/above_deck";
+	private static final String m_nodesBelowDeck=Config.currentPath + "bridge_model_sparse_62/below_deck";
 	
-	private static final String m_boundedNodes="/mnt/sde/oldsystem/opt/senstore/contextInterpretation/BFRErrorAnalysis/error_files/output";
+	private static final String m_boundedNodes=Config.currentPath + "BFRErrorAnalysis/error_files/output";
 	
-	private static final String m_uniqueBoundedElements="/mnt/sde/oldsystem/opt/senstore/contextInterpretation/BFRErrorAnalysis/error_files/field_data/run1/";
-	private static final String m_visibleElementsFile="/mnt/sde/oldsystem/opt/senstore/contextInterpretation/bridge_model_sparse_62/elementVisibility";
+	private static final String m_uniqueBoundedElements=Config.currentPath + "BFRErrorAnalysis/error_files/field_data/run2/";
+	private static final String m_visibleElementsFile=Config.currentPath+"bridge_model_sparse_62/elementVisibility";
 
 	private static final double m_deckZPosition=19;	//19 
 	
