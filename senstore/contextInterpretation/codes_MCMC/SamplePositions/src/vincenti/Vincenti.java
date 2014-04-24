@@ -51,9 +51,9 @@ public class Vincenti
 	public Vincenti()
 	{
 		bridge_origin=new double[3];
-		bridge_origin[0]=-83.346803; //compute the bridge origin in GPS
-		bridge_origin[1]=42.018544;
-		bridge_origin[2]=183.2;
+		bridge_origin[0]=-83.34684295454545; //compute the bridge origin in GPS
+		bridge_origin[1]=42.01858138863636;
+		bridge_origin[2]=600.0;
 		BFR_roll=0;
 		BFR_pitch=0;
 		BFR_yaw=-61.237;
@@ -143,7 +143,7 @@ public class Vincenti
 			
 	}
 	
-	void computeIO_BFR()
+	double computeIO_BFR()
 	{
 		// instantiate the calculator
 		GeodeticCalculator geoCalc = new GeodeticCalculator();
@@ -175,7 +175,8 @@ public class Vincenti
 		inspector_BFR[0]=p2pmeters*Math.cos(angle_p)*Math.sin(Math.PI*(azimuth-BFR_azimuth)/180);
 		inspector_BFR[1]=p2pmeters*Math.cos(angle_p)*Math.cos(Math.PI*(azimuth-BFR_azimuth)/180);
 		inspector_BFR[2]=elevChangeMeters;
-			
+		
+		return p2pmeters;		
 	}
 	
 	void computeIFRorient_BFR()
@@ -265,19 +266,38 @@ public class Vincenti
 		temp1.IFR_roll=0;
 		temp1.IFR_pitch=6.9157;
 		temp1.IFR_yaw=-208.3507;
-		*/
-
-		temp1.inspector_origin[0]=-83.346581;
-		temp1.inspector_origin[1]=42.018851;
-		temp1.inspector_origin[2]=178.5;
-		temp1.IFR_roll=0;
-		temp1.IFR_pitch=6.9157;
-		temp1.IFR_yaw=-208.3507;
-		temp1.query_IFR=new double[3];
-		temp1.computeIO_BFR();
-		temp1.computeIFRorient_BFR();
 		
-		System.out.println(temp1.inspector_BFR[0] + " " + temp1.inspector_BFR[1] + " " + temp1.inspector_BFR[2]); 
+		temp1.inspector_origin[0]=-83.3464666667;
+		temp1.inspector_origin[1]=42.018018;
+		temp1.inspector_origin[2]=627;
+		temp1.IFR_roll=0;
+		temp1.IFR_pitch=-10;
+		temp1.IFR_yaw=-142;
+		temp1.query_IFR=new double[3];
+		double linearDistance = temp1.computeIO_BFR();
+		temp1.computeIFRorient_BFR();
+		*/
+			
+		BufferedReader in = new BufferedReader(new FileReader("/mnt/sde/oldsystem/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/RTKGPS"));
+		BufferedWriter out = new BufferedWriter(new FileWriter("output_4_24_2014_VincentiRTKDistances"));
+		String line;
+		while((line = in.readLine()) != null)
+		{
+			String temp[];
+			double query1[]={0,0,0};
+			temp=line.split("\\s+");
+			for(int i=0;i<3;i++)
+			{
+				query1[i]=Double.parseDouble(temp[i]);									
+			}
+			temp1.inspector_origin[0] = -query1[0];
+			temp1.inspector_origin[1] = query1[1];
+			temp1.inspector_origin[2] = query1[2];
+			double distance = temp1.computeIO_BFR();
+			out.write(distance + "\n");	
+		}
+		out.close();
+		in.close();
 		//temp1.computeQuery_BFR();
 		/*
 		//Enter the GPS and bridge coordinates for 4 points on the bridge (used to determine the origin of the bridge
@@ -302,13 +322,15 @@ public class Vincenti
 		
 		//Set the region of interest (near and far plane distances) 
 		//Compute bounding box parameters
-		temp1.setNPD_FPD(19.5168,39.0336);
+		/*temp1.setNPD_FPD(19.5168,39.0336);
 		temp1.computeBoundingBoxParameters();
 		temp1.setViewAngle(30);
 		end1=System.nanoTime();
-		int count=0;
+		int count=0;*/
 		//File handling section 
-			BufferedReader in = new BufferedReader(new FileReader("/home/athuls89/Desktop/result_file"));
+
+/*
+			BufferedReader in = new BufferedReader(new FileReader(""));
 			BufferedWriter out = new BufferedWriter(new FileWriter("/home/athuls89/Desktop/gsra/result_vincenti_test_8"));
 			String str;
 			Integer object_id;
@@ -340,6 +362,6 @@ public class Vincenti
 			in.close();
 			out.close();
 			System.out.println(end1-start1);			
-		System.out.println(end2-start2);
+		System.out.println(end2-start2);*/
 	}
 }

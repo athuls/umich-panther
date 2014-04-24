@@ -51,9 +51,9 @@ public class Vincenti
 	public Vincenti()
 	{
 		bridge_origin=new double[3];
-		bridge_origin[0]=-83.34684295454545; //compute the bridge origin in GPS
-		bridge_origin[1]=42.01858138863636;
-		bridge_origin[2]=600.0;
+		bridge_origin[0]=-83.346803; //compute the bridge origin in GPS
+		bridge_origin[1]=42.018544;
+		bridge_origin[2]=183.2;
 		BFR_roll=0;
 		BFR_pitch=0;
 		BFR_yaw=-61.237;
