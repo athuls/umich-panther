@@ -5,14 +5,24 @@ public class Config {
 	private static String currentPath = "/mnt/sde/oldsystem/opt/umich-panther/senstore/contextInterpretation/";
 	
 	//Enter the GPS and bridge coordinates for 4 points on the bridge (used to determine the origin of the bridge
-	private static final double[] gpspoint1={-83.346354, 42.01812367, 627};
-	private static final double[] gpspoint2={-83.3467475, 42.0186215, 627};
-	private static final double[] gpspoint3={-83.3468875, 42.01856267, 627};
-	private static final double[] gpspoint4={-83.346354, 42.01812367, 633};
-	private static final double[] bfrpoint1={210, 30, 27};
-	private static final double[] bfrpoint2={0, 30, 27};
-	private static final double[] bfrpoint3={0, -14, 27};
-	private static final double[] bfrpoint4={210, 30, 33};
+	private static final double[] gpspoint1={-83.72387557, 42.28146673, 0};
+	private static final double[] gpspoint2={-83.7995304, 42.29588238, 0};
+	private static final double[] gpspoint3={-83.74249522, 42.3271024, 0};
+	private static final double[] gpspoint4={-83.71424567, 42.25560754, 0};
+	
+	public static final double[] OriginalGPSPoint = {-83.74303780000002, 42.2808256, 0};	
+
+	// Distances are in feet
+	public static final double bearing1 = 87.404;
+	public static final double bearing2 = 289.832;
+	public static final double bearing3 = 0.497;
+	public static final double bearing4 = 139.796;
+	
+	/*private static final double[] bfrpoint1={210, 30, 0};
+	private static final double[] bfrpoint2={0, 30, 0};
+	private static final double[] bfrpoint3={0, -14, 0};
+	private static final double[] bfrpoint4={210, 30, 0};
+	*/
 	
 	//Position of the inspector in GPS
 	//private static final double[] inspector_position={-83.346581, 42.018851, 178.5};	//this is in GPS
@@ -28,7 +38,7 @@ public class Config {
 	
 	//Input file with all nodes on the bridge (from database) and output file for storing points in bounding box
 	private static final String m_allNodes = Config.currentPath + "bridge_model_sparse_62/final_merge.txt";
-	private static final String m_allPositions = Config.currentPath + "field_inspector_trail/WAASGPS_TCM5";
+	private static final String m_allPositions = Config.currentPath + "field_inspector_trail/SampledGPS";
 	
 	private static final String m_nodesAboveDeck=Config.currentPath + "bridge_model_sparse_62/above_deck";
 	private static final String m_nodesBelowDeck=Config.currentPath + "bridge_model_sparse_62/below_deck";
@@ -108,6 +118,7 @@ public class Config {
 		return gpspoint4;
 	}
 	
+	/*
 	public static double[] getBFRPoint1(){
 		return bfrpoint1;
 	}
@@ -123,6 +134,6 @@ public class Config {
 	public static double[] getBFRPoint4(){
 		return bfrpoint4;
 	}
-		
+	*/	
 	
 }

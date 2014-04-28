@@ -103,6 +103,11 @@ public class ApproximateAlgorithm
 
 	public static void main(String args[]) throws IOException
 	{
+		//Calibrate BFR by computing BFR reference coordinates
+		double[] BFRPoint1 = Calibrator.computeIO_BFR(Config.OriginalGPSPoint, Config.getGPSPoint1(), Config.bearing1);
+		double[] BFRPoint2 = Calibrator.computeIO_BFR(Config.OriginalGPSPoint, Config.getGPSPoint2(), Config.bearing2);
+		double[] BFRPoint3 = Calibrator.computeIO_BFR(Config.OriginalGPSPoint, Config.getGPSPoint3(), Config.bearing3);
+		double[] BFRPoint4 = Calibrator.computeIO_BFR(Config.OriginalGPSPoint, Config.getGPSPoint4(), Config.bearing4);
 		
 		//For file writing
 		BufferedReader in = new BufferedReader(new FileReader(Config.getAllPositions()));
@@ -110,7 +115,8 @@ public class ApproximateAlgorithm
 		String line;
 
 		//Compute Bridge Parameters
-		ApproximateAlgorithm sel=new ApproximateAlgorithm(Config.getGPSPoint1(), Config.getGPSPoint2(), Config.getGPSPoint3(), Config.getGPSPoint4(), Config.getBFRPoint1(), Config.getBFRPoint2(), Config.getBFRPoint3(), Config.getBFRPoint4());
+		//ApproximateAlgorithm sel=new ApproximateAlgorithm(Config.getGPSPoint1(), Config.getGPSPoint2(), Config.getGPSPoint3(), Config.getGPSPoint4(), Config.getBFRPoint1(), Config.getBFRPoint2(), Config.getBFRPoint3(), Config.getBFRPoint4());
+		ApproximateAlgorithm sel=new ApproximateAlgorithm(Config.getGPSPoint1(), Config.getGPSPoint2(), Config.getGPSPoint3(), Config.getGPSPoint4(), BFRPoint1, BFRPoint2, BFRPoint3, BFRPoint4);
 		
 		double[] bridgeOrigin = sel.getBridgeOrigin();
 		System.out.println("Bridge origin " + bridgeOrigin[0] + "  " + bridgeOrigin[1] + " " + bridgeOrigin[2]);
