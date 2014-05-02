@@ -37,6 +37,7 @@ $oldMean = $oldMean / $countOldMean;
 my $count = 0;
 my @clusterMeans = ();
 open FINALFILE, ">FinalFile.csv";
+open OUTPUTFILE, ">SampleDistances.csv";
 my $averageClusterDistance=0;
 while($count <= 10000)
 {
@@ -56,24 +57,27 @@ while($count <= 10000)
 	}
 	$clusterMean = $clusterMean/($#randomIndexes+1);
 
-	if($count % 10 == 0)
+	if($count % 4 == 0)
 	{
 		$averageClusterDistance = $averageClusterDistance/(($#randomIndexes + 1) * 10);	
 		#print "$count and $averageClusterDistance\n";
-		print "$averageClusterDistance\n";
+		print OUTPUTFILE "$averageClusterDistance\n";
 		$averageClusterDistance = 0;
 	}
 
 	for(my $i=0;$i<=$#randomIndexes;$i++)
 	{
 		my $distance = &GetDistance($clusterMean, $clusterPoints[$i]);	
-		$averageClusterDistance += $distance;
 		my $randomNum = rand();
 		my $pointProbability = &GetProbability($distance);
 		if($randomNum <= $pointProbability)
 		{
 			$allData[$randomIndexes[$i]] = -267;
 			#splice(@allData, $randomIndexes[$i], 1);
+		}
+		else
+		{	
+			$averageClusterDistance += $distance;	
 		}
 	}
 	
@@ -104,7 +108,7 @@ foreach(@allData)
 	print FINALFILE "$countActual,$allData[$countActual]\n";
 	$countActual++;
 }
-my $newMean = $newMean/$countActual;
+$newMean = $newMean/$countActual;
 print "New mean is $newMean\n";
 print "Old mean is $oldMean\n";
 close FINALFILE;

@@ -5,12 +5,12 @@ public class Config {
 	private static String currentPath = "/mnt/sde/oldsystem/opt/umich-panther/senstore/contextInterpretation/";
 	
 	//Enter the GPS and bridge coordinates for 4 points on the bridge (used to determine the origin of the bridge
-	private static final double[] gpspoint1={-83.72387557, 42.28146673, 0};
-	private static final double[] gpspoint2={-83.7995304, 42.29588238, 0};
-	private static final double[] gpspoint3={-83.74249522, 42.3271024, 0};
-	private static final double[] gpspoint4={-83.71424567, 42.25560754, 0};
+	private static final double[] gpspoint1={-83.72387557, 42.28146673, 845};
+	private static final double[] gpspoint2={-83.7995304, 42.29588238, 962};
+	private static final double[] gpspoint3={-83.74249522, 42.3271024, 938};
+	private static final double[] gpspoint4={-83.71424567, 42.25560754, 854};
 	
-	public static final double[] OriginalGPSPoint = {-83.74303780000002, 42.2808256, 0};	
+	public static final double[] OriginalGPSPoint = {-83.74303780000002, 42.2808256, 863};	
 
 	// Distances are in feet
 	public static final double bearing1 = 87.404;
