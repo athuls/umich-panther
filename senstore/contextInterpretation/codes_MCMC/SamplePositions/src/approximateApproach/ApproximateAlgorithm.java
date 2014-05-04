@@ -101,6 +101,18 @@ public class ApproximateAlgorithm
 		return bridge_origin;
 	}
 
+	private double getEuclideanDistance(double[] pointCoordinates)
+	{
+		double distance = 0;
+		for(int i =0; i < 3; i++)
+		{
+			distance += Math.pow(pointCoordinates[i],2);
+		}
+	
+		// Converting from feet to miles	
+		return (double)(Math.sqrt(distance) * 0.3)/1609.34;
+	}
+	
 	public static void main(String args[]) throws IOException
 	{
 		//Calibrate BFR by computing BFR reference coordinates
@@ -119,8 +131,6 @@ public class ApproximateAlgorithm
 		ApproximateAlgorithm sel=new ApproximateAlgorithm(Config.getGPSPoint1(), Config.getGPSPoint2(), Config.getGPSPoint3(), Config.getGPSPoint4(), BFRPoint1, BFRPoint2, BFRPoint3, BFRPoint4);
 		
 		double[] bridgeOrigin = sel.getBridgeOrigin();
-		System.out.println("Bridge origin " + bridgeOrigin[0] + "  " + bridgeOrigin[1] + " " + bridgeOrigin[2]);
-		
 		
 		//Loop through the position/orientation file and pass inspector position/orientation to InspectorParameters object
 		while((line=in.readLine()) != null)
@@ -132,7 +142,8 @@ public class ApproximateAlgorithm
 			double[] inspectorBFRCheck = positionParameters.getInspectorBFR();
 			double[] inspectorOrientCheck = positionParameters.getInspectorOrientation();
 
-			System.out.println(posCount+"\t"+inspectorBFRCheck[0]+"\t"+inspectorBFRCheck[1]+"\t"+inspectorBFRCheck[2]+"\t"+inspectorOrientCheck[0]+"\t"+inspectorOrientCheck[1]+"\t"+inspectorOrientCheck[2]);
+			System.out.println(sel.getEuclideanDistance(inspectorBFRCheck));
+			//System.out.println(posCount+"\t"+inspectorBFRCheck[0]+"\t"+inspectorBFRCheck[1]+"\t"+inspectorBFRCheck[2]+"\t"+inspectorOrientCheck[0]+"\t"+inspectorOrientCheck[1]+"\t"+inspectorOrientCheck[2]);
 	
 			//File handling and bounding box computation section 
 			//ComputeBoundingBoxInterface boundingBox=new ComputeBoundingBox(positionParameters.getInspectorBFR(), positionParameters.getNearPlane(), positionParameters.getFarPlane(), positionParameters.getViewAngle(), posCount);

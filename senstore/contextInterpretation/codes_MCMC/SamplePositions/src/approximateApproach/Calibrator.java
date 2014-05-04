@@ -65,13 +65,10 @@ public class Calibrator
 		double[] inspector_BFR=new double[3];
 		inspector_BFR[0]=p2pmeters*Math.cos(angle_p)*Math.sin(Math.PI*(azimuth)/180);
 		inspector_BFR[0] = (double)inspector_BFR[0] / 0.3;
-		System.out.println(inspector_BFR[0]);
 		inspector_BFR[1]=p2pmeters*Math.cos(angle_p)*Math.cos(Math.PI*(azimuth)/180);
 		inspector_BFR[1] = (double)inspector_BFR[1] / 0.3;
-		System.out.println(inspector_BFR[1]);
 		inspector_BFR[2]=elevChangeMeters;
 		inspector_BFR[2] = (double)inspector_BFR[2] / 0.3;
-		System.out.println(inspector_BFR[2]);
 		
 		return inspector_BFR;		
 	}
