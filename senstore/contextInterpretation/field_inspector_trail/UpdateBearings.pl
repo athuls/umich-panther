@@ -27,7 +27,8 @@ while(<FI>)
 		
 		#Remove the degree symbol from end of bearing angle
 		#$bearingAngle = substr($bearingAngle,0,-1); 
-		$bearingAngle =~ s/$bearingAngle[$#bearingAngle]/"\n"/g;
+		$bearingAngle = substr($bearingAngle, 0, $#bearingAngle);
+		chop $bearingAngle;
 		seek FComplete, 0, 0;
 		while(my $line = <FComplete>)
 		{
@@ -40,7 +41,7 @@ while(<FI>)
 			}	
 		}
 
-		print FIO $latitude."\t".$longitude."\t".$altitude."\t0\t0\t".$bearingAngle."\r\n";
+		print FIO $latitude."\t".$longitude."\t".$altitude."\t0\t0\t".$bearingAngle."\n";
 	}
 }
 
