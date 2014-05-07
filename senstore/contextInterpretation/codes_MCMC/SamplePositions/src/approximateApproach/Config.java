@@ -38,7 +38,7 @@ public class Config {
 	
 	//Input file with all nodes on the bridge (from database) and output file for storing points in bounding box
 	private static final String m_allNodes = Config.currentPath + "bridge_model_sparse_62/final_merge.txt";
-	private static final String m_allPositions = Config.currentPath + "field_inspector_trail/SampledGPS";
+	private static final String m_allPositions = Config.currentPath + "field_inspector_trail/AmsterdamLocLinearInput";
 	
 	private static final String m_nodesAboveDeck=Config.currentPath + "bridge_model_sparse_62/above_deck";
 	private static final String m_nodesBelowDeck=Config.currentPath + "bridge_model_sparse_62/below_deck";

@@ -135,8 +135,15 @@ public class ApproximateAlgorithm
 		//Loop through the position/orientation file and pass inspector position/orientation to InspectorParameters object
 		while((line=in.readLine()) != null)
 		{ 
+			String[] splitLine = line.split(" +");
+		
+			// If data is incorrect, like missing altitude, proceed to next point
+			if(splitLine.length < 6)
+			{
+				continue;
+			}
 			//Compute Inspector Position Parameters
-			InspectorParametersInterface positionParameters=new InspectorParameters(line, sel.BG, sel.gpsScalingFactors, sel.bridge_origin);
+			InspectorParametersInterface positionParameters=new InspectorParameters(splitLine, sel.BG, sel.gpsScalingFactors, sel.bridge_origin);
 			positionParameters.computeBoundingBoxParameters();
 				
 			double[] inspectorBFRCheck = positionParameters.getInspectorBFR();

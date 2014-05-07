@@ -7,7 +7,8 @@ public class InspectorParameters implements InspectorParametersInterface{
 	private Matrix m_IG;
 	private Matrix m_BG;
 	//Get the line read from inspector position/orientation file, and then process it to extract inspector position/orientation
-	private String m_line;
+	//private String m_line;
+	private String[] m_splitLine;
 	private double[] m_query;
 	private double m_nearPlane;
 	private double m_farPlane;
@@ -21,20 +22,24 @@ public class InspectorParameters implements InspectorParametersInterface{
 	public double[] m_FPD;
 	public double[] m_inspectorBFR;
 	
-	
-  	public InspectorParameters(String line, Matrix BG, double[] scalingFactors, double[] bridgeOriginGPS) {
-		m_BG=BG; 
-		m_scalingFactors=scalingFactors;
-		m_bridgeOriginGPS=bridgeOriginGPS;	
-		m_line = line;
+	public InspectorParameters(String[] splitLine, Matrix BG, double[] scalingFactors, double[] bridgeOriginGPS)
+	{
+		m_BG = BG;
+		m_scalingFactors = scalingFactors; 
+		m_bridgeOriginGPS = bridgeOriginGPS;
+		m_splitLine = splitLine; 
 		determineInspectorParameters();
+	}
+
+  	public InspectorParameters(String line, Matrix BG, double[] scalingFactors, double[] bridgeOriginGPS) {
+		this(line.split(" +"), BG, scalingFactors, bridgeOriginGPS);
 	}
  	
   	public InspectorParameters(String line, Matrix BG, double[] scalingFactors, double[] bridgeOriginGPS, double[] inspectorPositionError, double[] inspectorOrientationError){
+		m_splitLine = line.split(" +");
   		m_BG=BG; 
 		m_scalingFactors=scalingFactors;
 		m_bridgeOriginGPS=bridgeOriginGPS;
-		m_line = line;
 		determineInspectorParameters(inspectorPositionError, inspectorOrientationError);
   	}
   	
@@ -55,11 +60,10 @@ public class InspectorParameters implements InspectorParametersInterface{
 	//Function to split given string, and then obtain position array
         private double[] getInspectorPosition()
         {
-                String[] tempLine = m_line.split("\t");
                 double[] tempRet = new double[3];
 		
                 for(int count = 0; count < 3; count++)
-                        tempRet[count] = Double.parseDouble(tempLine[count]);
+                        tempRet[count] = Double.parseDouble(m_splitLine[count]);
 
 		//Longitude values in real field data should be negative because we are in western hemisphere
 		tempRet[0] = -tempRet[0];
@@ -71,11 +75,10 @@ public class InspectorParameters implements InspectorParametersInterface{
 	@Override
         public double[] getInspectorOrientation()
         {
-                String[] tempLine = m_line.split("\t");
                 double[] tempRet = new double[3];
 
                 for(int count = 0; count < 3; count++)
-                        tempRet[count] = Double.parseDouble(tempLine[count+3]);
+                        tempRet[count] = Double.parseDouble(m_splitLine[count+3]);
 
                 return tempRet;
         }
