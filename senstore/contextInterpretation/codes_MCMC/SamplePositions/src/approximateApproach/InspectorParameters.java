@@ -32,11 +32,11 @@ public class InspectorParameters implements InspectorParametersInterface{
 	}
 
   	public InspectorParameters(String line, Matrix BG, double[] scalingFactors, double[] bridgeOriginGPS) {
-		this(line.split(" +"), BG, scalingFactors, bridgeOriginGPS);
+		this(line.split("\\s+"), BG, scalingFactors, bridgeOriginGPS);
 	}
  	
   	public InspectorParameters(String line, Matrix BG, double[] scalingFactors, double[] bridgeOriginGPS, double[] inspectorPositionError, double[] inspectorOrientationError){
-		m_splitLine = line.split(" +");
+		m_splitLine = line.split("\\s+");
   		m_BG=BG; 
 		m_scalingFactors=scalingFactors;
 		m_bridgeOriginGPS=bridgeOriginGPS;
@@ -65,8 +65,12 @@ public class InspectorParameters implements InspectorParametersInterface{
                 for(int count = 0; count < 3; count++)
                         tempRet[count] = Double.parseDouble(m_splitLine[count]);
 
+		// [5/10/2014] We were initially converting this to negative for western hemisphere but
+		// all coordinates are exact with running excperiments for different locations in the world
+     		// including Amsterdam, London, etc.
+	
 		//Longitude values in real field data should be negative because we are in western hemisphere
-		tempRet[0] = -tempRet[0];
+		//tempRet[0] = -tempRet[0];
 		
                 return tempRet;
         }

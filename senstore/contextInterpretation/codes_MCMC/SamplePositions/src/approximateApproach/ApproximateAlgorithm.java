@@ -104,6 +104,7 @@ public class ApproximateAlgorithm
 	private double getEuclideanDistance(double[] pointCoordinates)
 	{
 		double distance = 0;
+		double[] bridgeOrigin = this.getBridgeOrigin();
 		for(int i =0; i < 3; i++)
 		{
 			distance += Math.pow(pointCoordinates[i],2);
@@ -131,17 +132,20 @@ public class ApproximateAlgorithm
 		ApproximateAlgorithm sel=new ApproximateAlgorithm(Config.getGPSPoint1(), Config.getGPSPoint2(), Config.getGPSPoint3(), Config.getGPSPoint4(), BFRPoint1, BFRPoint2, BFRPoint3, BFRPoint4);
 		
 		double[] bridgeOrigin = sel.getBridgeOrigin();
+		//System.out.println("Bridge origin is " + BFRPoint1[0] + " " + BFRPoint1[1] + " " + BFRPoint1[2]);
 		
 		//Loop through the position/orientation file and pass inspector position/orientation to InspectorParameters object
 		while((line=in.readLine()) != null)
 		{ 
-			String[] splitLine = line.split(" +");
+			String[] splitLine = line.split("\\s+");
+			System.out.println(splitLine.length + " is the line length");
 		
 			// If data is incorrect, like missing altitude, proceed to next point
 			if(splitLine.length < 6)
 			{
 				continue;
 			}
+
 			//Compute Inspector Position Parameters
 			InspectorParametersInterface positionParameters=new InspectorParameters(splitLine, sel.BG, sel.gpsScalingFactors, sel.bridge_origin);
 			positionParameters.computeBoundingBoxParameters();
@@ -155,6 +159,10 @@ public class ApproximateAlgorithm
 			//File handling and bounding box computation section 
 			//ComputeBoundingBoxInterface boundingBox=new ComputeBoundingBox(positionParameters.getInspectorBFR(), positionParameters.getNearPlane(), positionParameters.getFarPlane(), positionParameters.getViewAngle(), posCount);
 			//boundingBox.captureNodesInBox();
+			//if(posCount == 0)
+			//{
+			//	System.out.println("First coordingates " + inspectorBFRCheck[0] + " " +  inspectorBFRCheck[1] + " " +  inspectorBFRCheck[2]);				
+			//}
 			posCount++;
 		}		
 

@@ -41,7 +41,7 @@ while(<FI>)
 			}	
 		}
 
-		print FIO $latitude."\t".$longitude."\t".$altitude."\t0\t0\t".$bearingAngle."\n";
+		print FIO $longitude."\t".$latitude."\t".$altitude."\t0\t0\t".$bearingAngle."\n";
 	}
 }
 
