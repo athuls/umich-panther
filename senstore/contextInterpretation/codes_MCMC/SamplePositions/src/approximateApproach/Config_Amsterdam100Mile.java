@@ -5,20 +5,19 @@ public class Config {
 	private static String currentPath = "/mnt/sde/oldsystem/opt/umich-panther/senstore/contextInterpretation/";
 	
 	//Enter the GPS and bridge coordinates for 4 points on the bridge (used to determine the origin of the bridge
-	// Note that all altitudes are in metres
-	private static final double[] gpspoint1={4.89694281, 52.37049362, 13.4};
-	private static final double[] gpspoint2={4.89499895, 52.37081567, 7.2};
-	private static final double[] gpspoint3={4.89368916, 52.37120635, 10.3};
-	private static final double[] gpspoint4={4.89673338, 52.36936002, 4.2};
+	private static final double[] gpspoint1={4.89414659, 52.3664829, 11.5};
+	private static final double[] gpspoint2={4.89598754, 52.36598811, 8.7};
+	private static final double[] gpspoint3={4.90067915, 52.37222324, 6.9};
+	private static final double[] gpspoint4={4.89975465, 52.36783254, 3.9};
 	
 	// Amsterdam coordinates
-	public static final double[] OriginalGPSPoint = {72.87765590000004, 19.0759837, 9.5};	
+	public static final double[] OriginalGPSPoint = {4.895167899999933, 52.3702157, 10.6};	
 
 	// Distances are in feet
-	public static final double bearing1 = 75.615;
-	public static final double bearing2 = 350.245;
-	public static final double bearing3 = 317.656;
-	public static final double bearing4 = 131.835;
+	public static final double bearing1 = 189.485;
+	public static final double bearing2 = 173.248;
+	public static final double bearing3 = 59.177;
+	public static final double bearing4 = 130.395;
 	
 	/*private static final double[] bfrpoint1={210, 30, 0};
 	private static final double[] bfrpoint2={0, 30, 0};
