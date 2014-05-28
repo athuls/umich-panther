@@ -6,19 +6,20 @@ public class Config {
 	
 	//Enter the GPS and bridge coordinates for 4 points on the bridge (used to determine the origin of the bridge
 	// Note that all altitudes are in metres
-	private static final double[] gpspoint1={4.89694281, 52.37049362, 13.4};
-	private static final double[] gpspoint2={4.89499895, 52.37081567, 7.2};
-	private static final double[] gpspoint3={4.89368916, 52.37120635, 10.3};
-	private static final double[] gpspoint4={4.89673338, 52.36936002, 4.2};
+	// Also note that the points are within 0.5 miles of origin GPS coordinates
+	private static final double[] gpspoint1={72.87686596, 37.983917, 6.3};
+	private static final double[] gpspoint2={72.87862689, , 6.8};
+	private static final double[] gpspoint3={72.87733326, 19.07624355, 5.1};
+	private static final double[] gpspoint4={72.87779503, 19.07536057, 7};
 	
 	// Amsterdam coordinates
-	public static final double[] OriginalGPSPoint = {72.87765590000004, 19.0759837, 9.5};	
+	public static final double[] OriginalGPSPoint = {23.729359899999963, 37.983917, 5.5};	
 
 	// Distances are in feet
-	public static final double bearing1 = 75.615;
-	public static final double bearing2 = 350.245;
-	public static final double bearing3 = 317.656;
-	public static final double bearing4 = 131.835;
+	public static final double bearing1 = 324.606;
+	public static final double bearing2 = 66.22;
+	public static final double bearing3 = 310.437;
+	public static final double bearing4 = 168.085;
 	
 	/*private static final double[] bfrpoint1={210, 30, 0};
 	private static final double[] bfrpoint2={0, 30, 0};
@@ -40,7 +41,7 @@ public class Config {
 	
 	//Input file with all nodes on the bridge (from database) and output file for storing points in bounding box
 	private static final String m_allNodes = Config.currentPath + "bridge_model_sparse_62/final_merge.txt";
-	private static final String m_allPositions = Config.currentPath + "field_inspector_trail/AmsterdamLocLinearInput";
+	private static final String m_allPositions = Config.currentPath + "field_inspector_trail/ApproxApproachAcrossPlanet/MumbaiLocLinearInput";
 	
 	private static final String m_nodesAboveDeck=Config.currentPath + "bridge_model_sparse_62/above_deck";
 	private static final String m_nodesBelowDeck=Config.currentPath + "bridge_model_sparse_62/below_deck";
