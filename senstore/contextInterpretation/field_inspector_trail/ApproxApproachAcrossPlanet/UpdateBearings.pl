@@ -1,9 +1,9 @@
 #!/usr/bin/perl
 use warnings;
 
-open FI, "</mnt/sde/oldsystem/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/MumbaiRandomGPS_100Miles";
-open FComplete, "</mnt/sde/oldsystem/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/MumbaiCompleteCoordinates";
-open FIO, ">/mnt/sde/oldsystem/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/MumbaiLocLinearInput";
+open FI, "</mnt/sdb/oldsystem/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/AthensRandomGPS_5And100Miles";
+open FComplete, "</mnt/sdb/oldsystem/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/AthensCompleteCoordinates";
+open FIO, ">/mnt/sdb/oldsystem/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/AthensLocLinearInput";
 
 my $latitude = 0;
 my $longitude = 0;

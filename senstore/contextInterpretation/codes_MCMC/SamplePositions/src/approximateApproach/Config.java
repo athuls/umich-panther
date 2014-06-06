@@ -2,24 +2,24 @@ package approximateApproach;
 
 public class Config {
 
-	private static String currentPath = "/mnt/sde/oldsystem/opt/umich-panther/senstore/contextInterpretation/";
+	private static String currentPath = "/mnt/sdb/oldsystem/opt/umich-panther/senstore/contextInterpretation/";
 	
 	//Enter the GPS and bridge coordinates for 4 points on the bridge (used to determine the origin of the bridge
 	// Note that all altitudes are in metres
 	// Also note that the points are within 0.5 miles of origin GPS coordinates
-	private static final double[] gpspoint1={72.87686596, 37.983917, 6.3};
-	private static final double[] gpspoint2={72.87862689, , 6.8};
-	private static final double[] gpspoint3={72.87733326, 19.07624355, 5.1};
-	private static final double[] gpspoint4={72.87779503, 19.07536057, 7};
+	private static final double[] gpspoint1={23.73254663, 37.98042062, 84.2};
+	private static final double[] gpspoint2={23.73435654, 37.98905796, 80.3};
+	private static final double[] gpspoint3={23.73543787, 37.98916947, 87.6};
+	private static final double[] gpspoint4={23.72359266, 37.98684658, 56.9};
 	
 	// Amsterdam coordinates
-	public static final double[] OriginalGPSPoint = {23.729359899999963, 37.983917, 5.5};	
+	public static final double[] OriginalGPSPoint = {23.729359899999963, 37.983917, 70.3};	
 
 	// Distances are in feet
-	public static final double bearing1 = 324.606;
-	public static final double bearing2 = 66.22;
-	public static final double bearing3 = 310.437;
-	public static final double bearing4 = 168.085;
+	public static final double bearing1 = 144.306;
+	public static final double bearing2 = 37.452;
+	public static final double bearing3 = 42.364;
+	public static final double bearing4 = 302.803;
 	
 	/*private static final double[] bfrpoint1={210, 30, 0};
 	private static final double[] bfrpoint2={0, 30, 0};
@@ -41,7 +41,7 @@ public class Config {
 	
 	//Input file with all nodes on the bridge (from database) and output file for storing points in bounding box
 	private static final String m_allNodes = Config.currentPath + "bridge_model_sparse_62/final_merge.txt";
-	private static final String m_allPositions = Config.currentPath + "field_inspector_trail/ApproxApproachAcrossPlanet/MumbaiLocLinearInput";
+	private static final String m_allPositions = Config.currentPath + "field_inspector_trail/ApproxApproachAcrossPlanet/AthensLocLinearInput";
 	
 	private static final String m_nodesAboveDeck=Config.currentPath + "bridge_model_sparse_62/above_deck";
 	private static final String m_nodesBelowDeck=Config.currentPath + "bridge_model_sparse_62/below_deck";

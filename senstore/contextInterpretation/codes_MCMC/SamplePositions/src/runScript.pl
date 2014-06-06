@@ -3,7 +3,7 @@
 use warnings;
 #NOTE : before this compile by  - javac -cp .:../../Jama-1.0.2.jar ./directBFRErrors/BFRErrorAnalysis.java 
 
-my $OutputFilePath = "/mnt/sde/oldsystem/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/";
+my $OutputFilePath = "/mnt/sdb/oldsystem/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/";
 my $OutputFileName = $ARGV[0];
 my $OutputFile = $OutputFilePath.$OutputFileName;
 my $ErrorFile = $OutputFilePath.$OutputFileName."Error";
