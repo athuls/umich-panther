@@ -2,8 +2,8 @@
 use warnings;
 use Cwd;
  
-open FActualDist, "<", cwd()."/MumbaiRandomGPS_100Miles";
-open FExpectedDist, "<", cwd()."/MumbaiExpectedDist";
+open FActualDist, "<", cwd()."/AthensRandomGPS_5And100Miles";
+open FExpectedDist, "<", cwd()."/AthensExpectedDist";
 
 my %PointDistances = ();
 my $pointCount = 0;
