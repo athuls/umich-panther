@@ -2,7 +2,7 @@ package approximateApproach;
 
 public class Config {
 
-	private static String currentPath = "/mnt/sdc/old/opt/umich-panther/senstore/contextInterpretation/";
+	private static String currentPath = "/mnt/sdb/old/opt/umich-panther/senstore/contextInterpretation/";
 	
 	//Enter the GPS and bridge coordinates for 4 points on the bridge (used to determine the origin of the bridge
 	// Note that all altitudes are in metres
