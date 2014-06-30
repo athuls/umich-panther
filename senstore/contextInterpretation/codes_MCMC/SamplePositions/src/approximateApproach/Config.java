@@ -7,19 +7,19 @@ public class Config {
 	//Enter the GPS and bridge coordinates for 4 points on the bridge (used to determine the origin of the bridge
 	// Note that all altitudes are in metres
 	// Also note that the points are within 0.5 miles of origin GPS coordinates
-	private static final double[] gpspoint1={116.40445611, 39.89816755, 54};
-	private static final double[] gpspoint2={116.4142013, 39.90557888, 53.2};
-	private static final double[] gpspoint3={116.4152891, 39.9066358, 55.9};
-	private static final double[] gpspoint4={116.41051813, 39.89844792, 53.2};
+	private static final double[] gpspoint1={31.2333531, 30.04064221, 26.4};
+	private static final double[] gpspoint2={31.23745705, 30.04961755, 27.6};
+	private static final double[] gpspoint3={31.23652982, 30.05037147, 27.4};
+	private static final double[] gpspoint4={31.23034319, 30.04184957, 15.3};
 	
-	// Beijing coordinates
-	public static final double[] OriginalGPSPoint = {116.40752599999996, 39.90403, 52.3};	
+	// Cairo coordinates
+	public static final double[] OriginalGPSPoint = {31.23571160000006, 30.0444196, 26.7};	
 
 	// Distances are in feet
-	public static final double bearing1 = 201.887;
-	public static final double bearing2 = 73.169;
-	public static final double bearing3 = 66.365;
-	public static final double bearing4 = 157.646;
+	public static final double bearing1 = 208.391;
+	public static final double bearing2 = 16.207;
+	public static final double bearing3 = 6.786;
+	public static final double bearing4 = 241.057;
 	
 	/*private static final double[] bfrpoint1={210, 30, 0};
 	private static final double[] bfrpoint2={0, 30, 0};
