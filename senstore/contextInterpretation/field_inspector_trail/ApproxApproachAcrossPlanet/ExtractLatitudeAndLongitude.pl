@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 
-open FI, "</mnt/sdb/old/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/HongKongRandomGPS_5And100Miles";
-open FO, ">/mnt/sdb/old/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/HongKongLatLogOnly";
+open FI, "</mnt/sdb/old/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/MadridRandomGPS_5And100Miles";
+open FO, ">/mnt/sdb/old/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/MadridLatLogOnly";
 
 my $latitude = 0;
 my $longitude = 0;
