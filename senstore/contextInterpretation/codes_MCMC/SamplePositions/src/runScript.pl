@@ -5,7 +5,7 @@ use warnings;
 
 my $OutputFilePath = "/mnt/sdb/old/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/";
 my $OutputFileName = $ARGV[0];
-my $OutputFile = $OutputFilePath.$OutputFileName;
+my $OutputFile = $OutputFilePath.$OutputFileName."ErrorOutput";
 my $ErrorFile = $OutputFilePath.$OutputFileName."Error";
 
 open(STDOUT, ">$OutputFile");
