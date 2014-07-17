@@ -2,9 +2,9 @@
 use warnings;
 
 my $place = $ARGV[0];
-open FI, "</mnt/sdb/old/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/MadridRandomGPS_5And100Miles";
-open FComplete, "</mnt/sdb/old/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/MadridCompleteCoordinates";
-open FIO, ">/mnt/sdb/old/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/MadridLocLinearInput";
+open FI, "</mnt/sdb/old/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/ZurichRandomGPS_5And100Miles";
+open FComplete, "</mnt/sdb/old/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/ZurichCompleteCoordinates";
+open FIO, ">/mnt/sdb/old/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/ZurichLocLinearInput";
 
 my $latitude = 0;
 my $longitude = 0;
