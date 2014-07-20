@@ -1,9 +1,11 @@
 #!/usr/bin/perl
 use warnings;
 use Cwd;
+
+my $place = $ARGV[0];
  
-open FActualDist, "<", cwd()."/BeijingRandomGPS_5And100Miles";
-open FExpectedDist, "<", cwd()."/BeijingExpectedDist";
+open FActualDist, "<", cwd()."/$place"."RandomGPS_5And100Miles";
+open FExpectedDist, "<", cwd()."/$place"."ErrorOutput";
 
 my %PointDistances = ();
 my $pointCount = 0;

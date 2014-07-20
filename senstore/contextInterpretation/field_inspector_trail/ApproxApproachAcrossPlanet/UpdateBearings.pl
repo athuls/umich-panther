@@ -1,10 +1,9 @@
 #!/usr/bin/perl
 use warnings;
 
-my $place = $ARGV[0];
-open FI, "</mnt/sdb/old/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/ZurichRandomGPS_5And100Miles";
-open FComplete, "</mnt/sdb/old/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/ZurichCompleteCoordinates";
-open FIO, ">/mnt/sdb/old/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/ZurichLocLinearInput";
+open FI, "</mnt/sdb/old/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/HongKongRandomGPS_5And100Miles";
+open FComplete, "</mnt/sdb/old/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/HongKongCompleteCoordinates";
+open FIO, ">/mnt/sdb/old/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/HongKongLocLinearInput";
 
 my $latitude = 0;
 my $longitude = 0;
@@ -39,7 +38,6 @@ while(<FI>)
 			{
 				$altitude = $splitLine[2];	
 				chomp($altitude);
-				chop $altitude;
 				break;
 			}	
 		}
