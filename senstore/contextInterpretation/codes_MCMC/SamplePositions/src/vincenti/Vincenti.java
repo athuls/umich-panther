@@ -253,9 +253,8 @@ public class Vincenti
 	
 	public static void main(String args[]) throws IOException
 	{
-		long start1, end1, start2, end2;
+		long start1, end1, start2, end2, duration=0;
 		
-		start1=System.nanoTime();
 		Vincenti temp1=new Vincenti();
 		temp1.inspector_origin=new double[3];
 
@@ -283,6 +282,7 @@ public class Vincenti
 		String line;
 		while((line = in.readLine()) != null)
 		{
+			start1=System.nanoTime();
 			String temp[];
 			double query1[]={0,0,0};
 			temp=line.split("\\s+");
@@ -294,6 +294,8 @@ public class Vincenti
 			temp1.inspector_origin[1] = query1[1];
 			temp1.inspector_origin[2] = query1[2];
 			double distance = temp1.computeIO_BFR();
+			end1=System.nanoTime();
+			duration += (end1-start1);
 			out.write(distance + "\n");	
 		}
 		out.close();
