@@ -51,9 +51,11 @@ public class Vincenti
 	public Vincenti()
 	{
 		bridge_origin=new double[3];
-		bridge_origin[0]=-83.34684295454545; //compute the bridge origin in GPS
-		bridge_origin[1]=42.01858138863636;
-		bridge_origin[2]=600.0;
+		
+		// Add latitude/longitude coordinates with sign, beginning with longitude
+		bridge_origin[0]=114.1094970000; //compute the bridge origin in GPS
+		bridge_origin[1]=22.396428;
+		bridge_origin[2]=321.1;
 		BFR_roll=0;
 		BFR_pitch=0;
 		BFR_yaw=-61.237;
@@ -253,7 +255,7 @@ public class Vincenti
 	
 	public static void main(String args[]) throws IOException
 	{
-		long start1, end1, start2, end2, duration=0;
+		long start1, end1, start2, end2, duration=0, countLoop = 0;
 		
 		Vincenti temp1=new Vincenti();
 		temp1.inspector_origin=new double[3];
@@ -277,8 +279,8 @@ public class Vincenti
 		temp1.computeIFRorient_BFR();
 		*/
 			
-		BufferedReader in = new BufferedReader(new FileReader("/mnt/sde/oldsystem/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/RTKGPS"));
-		BufferedWriter out = new BufferedWriter(new FileWriter("output_4_24_2014_VincentiRTKDistances"));
+		BufferedReader in = new BufferedReader(new FileReader("/mnt/sdb/old/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/HongKongLocLinearInput"));
+		BufferedWriter out = new BufferedWriter(new FileWriter("output_HongKongVincentiPerf"));
 		String line;
 		while((line = in.readLine()) != null)
 		{
@@ -286,18 +288,26 @@ public class Vincenti
 			String temp[];
 			double query1[]={0,0,0};
 			temp=line.split("\\s+");
+			if(temp.length < 6)
+			{
+				continue;
+			}
+
 			for(int i=0;i<3;i++)
 			{
 				query1[i]=Double.parseDouble(temp[i]);									
 			}
-			temp1.inspector_origin[0] = -query1[0];
+			temp1.inspector_origin[0] = query1[0];
 			temp1.inspector_origin[1] = query1[1];
 			temp1.inspector_origin[2] = query1[2];
 			double distance = temp1.computeIO_BFR();
 			end1=System.nanoTime();
 			duration += (end1-start1);
-			out.write(distance + "\n");	
+			countLoop++;
+			//out.write(distance + "\n");	
 		}
+		System.out.println("Duratin is " + (double)duration/(double)countLoop);
+		System.out.println("Count loop is " + countLoop);
 		out.close();
 		in.close();
 		//temp1.computeQuery_BFR();

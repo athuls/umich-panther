@@ -111,7 +111,8 @@ public class ApproximateAlgorithm
 		}
 	
 		// Converting from feet to miles	
-		return (double)(Math.sqrt(distance) * 0.3)/1609.34;
+		//return (double)(Math.sqrt(distance) * 0.3)/1609.34;
+		return (double)(Math.sqrt(distance) * 0.3); 
 	}
 	
 	public static void main(String args[]) throws IOException
@@ -125,6 +126,7 @@ public class ApproximateAlgorithm
 		//For file writing
 		BufferedReader in = new BufferedReader(new FileReader(Config.getAllPositions()));
 		int posCount=0;
+		long start1, end1, start2, end2, duration = 0;
 		String line;
 
 		//Compute Bridge Parameters
@@ -132,13 +134,16 @@ public class ApproximateAlgorithm
 		ApproximateAlgorithm sel=new ApproximateAlgorithm(Config.getGPSPoint1(), Config.getGPSPoint2(), Config.getGPSPoint3(), Config.getGPSPoint4(), BFRPoint1, BFRPoint2, BFRPoint3, BFRPoint4);
 		
 		double[] bridgeOrigin = sel.getBridgeOrigin();
+		InspectorParametersInterface positionParameters=new InspectorParameters(sel.BG, sel.gpsScalingFactors, sel.bridge_origin);
+		double[] inspectorBFRCheck = null;
 		//System.out.println("Bridge origin is " + BFRPoint1[0] + " " + BFRPoint1[1] + " " + BFRPoint1[2]);
 		
 		//Loop through the position/orientation file and pass inspector position/orientation to InspectorParameters object
 		while((line=in.readLine()) != null)
 		{ 
+			start1 = System.nanoTime();	
 			String[] splitLine = line.split("\\s+");
-			System.out.println(splitLine.length + " is the line length");
+			//System.out.println(splitLine.length + " is the line length");
 		
 			// If data is incorrect, like missing altitude, proceed to next point
 			if(splitLine.length < 6)
@@ -147,13 +152,12 @@ public class ApproximateAlgorithm
 			}
 
 			//Compute Inspector Position Parameters
-			InspectorParametersInterface positionParameters=new InspectorParameters(splitLine, sel.BG, sel.gpsScalingFactors, sel.bridge_origin);
-			positionParameters.computeBoundingBoxParameters();
+			positionParameters.computeBoundingBoxParameters(splitLine);
 				
-			double[] inspectorBFRCheck = positionParameters.getInspectorBFR();
-			double[] inspectorOrientCheck = positionParameters.getInspectorOrientation();
+			inspectorBFRCheck = positionParameters.getInspectorBFR();
+			//double[] inspectorOrientCheck = positionParameters.getInspectorOrientation();
 
-			System.out.println(sel.getEuclideanDistance(inspectorBFRCheck));
+			sel.getEuclideanDistance(inspectorBFRCheck);
 			//System.out.println(posCount+"\t"+inspectorBFRCheck[0]+"\t"+inspectorBFRCheck[1]+"\t"+inspectorBFRCheck[2]+"\t"+inspectorOrientCheck[0]+"\t"+inspectorOrientCheck[1]+"\t"+inspectorOrientCheck[2]);
 	
 			//File handling and bounding box computation section 
@@ -163,9 +167,12 @@ public class ApproximateAlgorithm
 			//{
 			//	System.out.println("First coordingates " + inspectorBFRCheck[0] + " " +  inspectorBFRCheck[1] + " " +  inspectorBFRCheck[2]);				
 			//}
+			end1 = System.nanoTime();
+			duration += (end1 - start1);
 			posCount++;
 		}		
-
+		System.out.println("Duration is " + (double)duration/(double)posCount);
+		System.out.println("Count is " + posCount);
 	}			
-	
+
 }

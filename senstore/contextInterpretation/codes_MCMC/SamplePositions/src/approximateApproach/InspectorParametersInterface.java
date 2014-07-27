@@ -1,7 +1,7 @@
 package approximateApproach;
 
 public interface InspectorParametersInterface {
-	void computeBoundingBoxParameters();
+	void computeBoundingBoxParameters(String[] splitLine);
 	double[] getBFRCoordinates();
 	void computeIGMatrix();
 	

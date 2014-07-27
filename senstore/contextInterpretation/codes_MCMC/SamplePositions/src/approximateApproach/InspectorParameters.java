@@ -17,22 +17,34 @@ public class InspectorParameters implements InspectorParametersInterface{
 	private double[] m_scalingFactors;
 	private double[] m_inspectorOriginGPS;
 	private double[] m_bridgeOriginGPS;
+	private Matrix temp_yaw, temp_pitch, temp_roll, temp_IG;
 	
 	public double[] m_NPD;
 	public double[] m_FPD;
 	public double[] m_inspectorBFR;
 	
-	public InspectorParameters(String[] splitLine, Matrix BG, double[] scalingFactors, double[] bridgeOriginGPS)
+	public InspectorParameters(Matrix BG, double[] scalingFactors, double[] bridgeOriginGPS)
 	{
 		m_BG = BG;
 		m_scalingFactors = scalingFactors; 
 		m_bridgeOriginGPS = bridgeOriginGPS;
-		m_splitLine = splitLine; 
-		determineInspectorParameters();
+		
+		/*IG=[Angle Matrix (with z(theta1)->alpha(yaw), x(theta2)->beta(pitch), y(theta3)->gamma(roll))] *
+		 * [0,0,scaling_factor[0];0,0,scaling_factor[1];0,0,scaling_factor[2]*/
+		double[][] scaling=new double[1][3];
+		scaling[0]=m_scalingFactors;
+		Matrix scale=new Matrix(scaling);
+		temp_IG=Matrix.identity(3, 3);
+		for(int i=0;i<3;i++)
+			temp_IG.set(i,i,1/scale.get(0,i));
+		temp_yaw=new Matrix(3,3);
+		temp_pitch=new Matrix(3,3);
+		temp_roll=new Matrix(3,3);
 	}
 
   	public InspectorParameters(String line, Matrix BG, double[] scalingFactors, double[] bridgeOriginGPS) {
-		this(line.split("\\s+"), BG, scalingFactors, bridgeOriginGPS);
+		this(BG, scalingFactors, bridgeOriginGPS);
+		computeBoundingBoxParameters(line.split("\\s+"));
 	}
  	
   	public InspectorParameters(String line, Matrix BG, double[] scalingFactors, double[] bridgeOriginGPS, double[] inspectorPositionError, double[] inspectorOrientationError){
@@ -61,7 +73,7 @@ public class InspectorParameters implements InspectorParametersInterface{
         private double[] getInspectorPosition()
         {
                 double[] tempRet = new double[3];
-		
+	
                 for(int count = 0; count < 3; count++)
                         tempRet[count] = Double.parseDouble(m_splitLine[count]);
 
@@ -122,18 +134,20 @@ public class InspectorParameters implements InspectorParametersInterface{
 	} 
  	
  	@Override
-	public void computeBoundingBoxParameters() {
-		//Compute bounding box parameters i.e. 2 points and angle representing conic region of interest
-			
-				computeIGMatrix();
-				m_query=new double[] {0,m_nearPlane,0};
-				m_NPD=getBFRCoordinates();
-				m_query=new double[] {0, m_farPlane, 0};
-				m_FPD=getBFRCoordinates();
+	public void computeBoundingBoxParameters(String[] splitLine) {
+		m_splitLine = splitLine;
+		determineInspectorParameters();
 
-				for(int i=0;i<3;i++)	
-					m_query[i]=0;
-				m_inspectorBFR=getBFRCoordinates();
+		//Compute bounding box parameters i.e. 2 points and angle representing conic region of interest
+		computeIGMatrix();
+		m_query=new double[] {0,m_nearPlane,0};
+		//m_NPD=getBFRCoordinates();
+		//m_query=new double[] {0, m_farPlane, 0};
+		//m_FPD=getBFRCoordinates();
+
+		for(int i=0;i<3;i++)	
+			m_query[i]=0;
+		m_inspectorBFR=getBFRCoordinates();
 	}
 
 	public void setNPD_FPD()
@@ -148,18 +162,6 @@ public class InspectorParameters implements InspectorParametersInterface{
 	public void computeIGMatrix() 
 	//Compute and return IG matrix
 	{
-		/*IG=[Angle Matrix (with z(theta1)->alpha(yaw), x(theta2)->beta(pitch), y(theta3)->gamma(roll))] *
-		 * [0,0,scaling_factor[0];0,0,scaling_factor[1];0,0,scaling_factor[2]*/
-			double[][] scaling=new double[1][3];
-			scaling[0]=m_scalingFactors;
-			Matrix scale=new Matrix(scaling);
-			Matrix temp_IG=Matrix.identity(3, 3);
-			for(int i=0;i<3;i++)
-				temp_IG.set(i,i,1/scale.get(0,i));
-			Matrix temp_yaw=new Matrix(3,3);
-			Matrix temp_pitch=new Matrix(3,3);
-			Matrix temp_roll=new Matrix(3,3);
-			Matrix Angle=new Matrix(3,3);
 			//Setting the roll, pitch and yaw matrices
 			temp_roll.set(0, 0, Math.cos(m_roll));
 			temp_roll.set(0, 2, Math.sin(m_roll));
@@ -179,7 +181,7 @@ public class InspectorParameters implements InspectorParametersInterface{
 			temp_yaw.set(1, 1, Math.cos(m_yaw));
 			temp_yaw.set(2, 2, 1);
 	
-			Angle=temp_roll.times(temp_pitch).times(temp_yaw);
+			Matrix Angle=temp_roll.times(temp_pitch).times(temp_yaw);
 			m_IG=Angle.times(temp_IG);
 		
 	}
