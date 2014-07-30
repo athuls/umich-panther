@@ -5,7 +5,7 @@ import Jama.Matrix;
 public class InspectorParameters implements InspectorParametersInterface{
 	
 	private Matrix m_IG;
-	private Matrix m_BG;
+	private Matrix m_BG, m_InverseBG;
 	//Get the line read from inspector position/orientation file, and then process it to extract inspector position/orientation
 	//private String m_line;
 	private String[] m_splitLine;
@@ -26,6 +26,7 @@ public class InspectorParameters implements InspectorParametersInterface{
 	public InspectorParameters(Matrix BG, double[] scalingFactors, double[] bridgeOriginGPS)
 	{
 		m_BG = BG;
+		m_InverseBG = m_BG.inverse();
 		m_scalingFactors = scalingFactors; 
 		m_bridgeOriginGPS = bridgeOriginGPS;
 		
@@ -65,8 +66,7 @@ public class InspectorParameters implements InspectorParametersInterface{
   	public void determineInspectorParameters(){
   		setOrientation_inspector();
   		setIFR_origin();
-  		setNPD_FPD();
-  		  		
+  		//setNPD_FPD();
   	}
   	
 	//Function to split given string, and then obtain position array
@@ -220,7 +220,9 @@ public class InspectorParameters implements InspectorParametersInterface{
 		temp_origin=new Matrix(new double[][] {m_inspectorOriginGPS});
 		temp_bridge=new Matrix(new double[][] {m_bridgeOriginGPS});
 		
-		return (temp_point.times((m_BG.times(m_IG.inverse())).inverse())).plus((temp_origin.minus(temp_bridge)).times(m_BG.inverse())).getArray()[0];
+		// Commented out to optimize this equation
+		//return (temp_point.times((m_BG.times(m_IG.inverse())).inverse())).plus((temp_origin.minus(temp_bridge)).times(m_InverseBG)).getArray()[0];
+		return (temp_point.times(m_IG.times(m_InverseBG))).plus((temp_origin.minus(temp_bridge)).times(m_InverseBG)).getArray()[0];
 	}
 
 

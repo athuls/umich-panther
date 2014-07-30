@@ -151,6 +151,7 @@ public class ApproximateAlgorithm
 				continue;
 			}
 
+
 			//Compute Inspector Position Parameters
 			positionParameters.computeBoundingBoxParameters(splitLine);
 				
@@ -158,8 +159,8 @@ public class ApproximateAlgorithm
 			//double[] inspectorOrientCheck = positionParameters.getInspectorOrientation();
 
 			sel.getEuclideanDistance(inspectorBFRCheck);
+
 			//System.out.println(posCount+"\t"+inspectorBFRCheck[0]+"\t"+inspectorBFRCheck[1]+"\t"+inspectorBFRCheck[2]+"\t"+inspectorOrientCheck[0]+"\t"+inspectorOrientCheck[1]+"\t"+inspectorOrientCheck[2]);
-	
 			//File handling and bounding box computation section 
 			//ComputeBoundingBoxInterface boundingBox=new ComputeBoundingBox(positionParameters.getInspectorBFR(), positionParameters.getNearPlane(), positionParameters.getFarPlane(), positionParameters.getViewAngle(), posCount);
 			//boundingBox.captureNodesInBox();

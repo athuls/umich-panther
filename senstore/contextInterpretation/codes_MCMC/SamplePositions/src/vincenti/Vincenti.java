@@ -285,14 +285,14 @@ public class Vincenti
 		while((line = in.readLine()) != null)
 		{
 			start1=System.nanoTime();
-			String temp[];
 			double query1[]={0,0,0};
-			temp=line.split("\\s+");
+			String[] temp=line.split("\\s+");
 			if(temp.length < 6)
 			{
 				continue;
 			}
 
+			/*
 			for(int i=0;i<3;i++)
 			{
 				query1[i]=Double.parseDouble(temp[i]);									
@@ -301,6 +301,7 @@ public class Vincenti
 			temp1.inspector_origin[1] = query1[1];
 			temp1.inspector_origin[2] = query1[2];
 			double distance = temp1.computeIO_BFR();
+			*/
 			end1=System.nanoTime();
 			duration += (end1-start1);
 			countLoop++;
