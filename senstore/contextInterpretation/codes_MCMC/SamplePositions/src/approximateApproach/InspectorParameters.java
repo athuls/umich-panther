@@ -16,8 +16,8 @@ public class InspectorParameters implements InspectorParametersInterface{
 	
 	private double[] m_scalingFactors;
 	private double[] m_inspectorOriginGPS;
-	private double[] m_bridgeOriginGPS;
-	private Matrix temp_yaw, temp_pitch, temp_roll, temp_IG;
+	private double[] m_bridgeOriginGPS; 
+	private Matrix temp_yaw, temp_pitch, temp_roll, temp_IG, m_bridgeOriginGPSMatrix;
 	
 	public double[] m_NPD;
 	public double[] m_FPD;
@@ -29,7 +29,8 @@ public class InspectorParameters implements InspectorParametersInterface{
 		m_InverseBG = m_BG.inverse();
 		m_scalingFactors = scalingFactors; 
 		m_bridgeOriginGPS = bridgeOriginGPS;
-		
+		m_bridgeOriginGPSMatrix = new Matrix(new double[][] {m_bridgeOriginGPS});
+
 		/*IG=[Angle Matrix (with z(theta1)->alpha(yaw), x(theta2)->beta(pitch), y(theta3)->gamma(roll))] *
 		 * [0,0,scaling_factor[0];0,0,scaling_factor[1];0,0,scaling_factor[2]*/
 		double[][] scaling=new double[1][3];
@@ -214,15 +215,14 @@ public class InspectorParameters implements InspectorParametersInterface{
 	public double[] getBFRCoordinates() 
 	//Convert a query point from IFR coordinates to BFR coordinates
 	{
-		Matrix temp_point, temp_origin, temp_bridge;
+		Matrix temp_point, temp_origin;
 
 		temp_point=new Matrix(new double[][] {m_query});
 		temp_origin=new Matrix(new double[][] {m_inspectorOriginGPS});
-		temp_bridge=new Matrix(new double[][] {m_bridgeOriginGPS});
 		
 		// Commented out to optimize this equation
 		//return (temp_point.times((m_BG.times(m_IG.inverse())).inverse())).plus((temp_origin.minus(temp_bridge)).times(m_InverseBG)).getArray()[0];
-		return (temp_point.times(m_IG.times(m_InverseBG))).plus((temp_origin.minus(temp_bridge)).times(m_InverseBG)).getArray()[0];
+		return (temp_point.times(m_IG.times(m_InverseBG))).plus((temp_origin.minus(m_bridgeOriginGPSMatrix)).times(m_InverseBG)).getArray()[0];
 	}
 
 
