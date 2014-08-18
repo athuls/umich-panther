@@ -141,13 +141,12 @@ public class InspectorParameters implements InspectorParametersInterface{
 
 		//Compute bounding box parameters i.e. 2 points and angle representing conic region of interest
 		computeIGMatrix();
-		m_query=new double[] {0,m_nearPlane,0};
+		//m_query=new double[] {0,m_nearPlane,0};
 		//m_NPD=getBFRCoordinates();
 		//m_query=new double[] {0, m_farPlane, 0};
 		//m_FPD=getBFRCoordinates();
 
-		for(int i=0;i<3;i++)	
-			m_query[i]=0;
+		m_query = new double[] {0, 0, 0};
 		m_inspectorBFR=getBFRCoordinates();
 	}
 

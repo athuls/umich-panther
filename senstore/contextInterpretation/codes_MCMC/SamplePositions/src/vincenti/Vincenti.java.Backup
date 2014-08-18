@@ -53,9 +53,9 @@ public class Vincenti
 		bridge_origin=new double[3];
 		
 		// Add latitude/longitude coordinates with sign, beginning with longitude
-		bridge_origin[0]=8.539182500000; //compute the bridge origin in GPS
-		bridge_origin[1]=47.3686498;
-		bridge_origin[2]=409;
+		bridge_origin[0]=114.1094970000; //compute the bridge origin in GPS
+		bridge_origin[1]=22.396428;
+		bridge_origin[2]=321.1;
 		BFR_roll=0;
 		BFR_pitch=0;
 		BFR_yaw=-61.237;
@@ -278,10 +278,9 @@ public class Vincenti
 		double linearDistance = temp1.computeIO_BFR();
 		temp1.computeIFRorient_BFR();
 		*/
-		String city = "Zurich";
 			
-		BufferedReader in = new BufferedReader(new FileReader("/mnt/sdb/old/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/" + city + "LocLinearInput"));
-		BufferedWriter out = new BufferedWriter(new FileWriter("/mnt/sdb/old/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/VincentyDistances/output_"+city+"VincentyDistances"));
+		BufferedReader in = new BufferedReader(new FileReader("/mnt/sdb/old/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/HongKongLocLinearInput"));
+		BufferedWriter out = new BufferedWriter(new FileWriter("output_HongKongVincentiPerf"));
 		String line;
 		while((line = in.readLine()) != null)
 		{
@@ -290,7 +289,6 @@ public class Vincenti
 			String[] temp=line.split("\\s+");
 			if(temp.length < 6)
 			{
-				out.write("skipped\n");
 				continue;
 			}
 
@@ -303,10 +301,11 @@ public class Vincenti
 			temp1.inspector_origin[1] = query1[1];
 			temp1.inspector_origin[2] = query1[2];
 			double distance = temp1.computeIO_BFR();
+			
 			end1=System.nanoTime();
 			duration += (end1-start1);
 			countLoop++;
-			out.write((distance * 0.000621371) + "\n");	
+			//out.write(distance + "\n");	
 		}
 		System.out.println("Duratin is " + (double)duration/(double)countLoop);
 		System.out.println("Count loop is " + countLoop);

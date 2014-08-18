@@ -1,0 +1,3 @@
+Write a script to update distances in RandomGPS_* files. 
+Using these distances, rerun Translate* script to compute errors in distances for each city. 
+
