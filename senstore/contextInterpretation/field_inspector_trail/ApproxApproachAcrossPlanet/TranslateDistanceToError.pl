@@ -4,48 +4,48 @@ use Cwd;
 
 my $place = $ARGV[0];
  
-open FActualDist, "<", cwd()."/$place"."RandomGPS_5And100Miles";
-open FExpectedDist, "<", cwd()."/$place"."ErrorOutput";
+open FExpectedDist, "<", cwd()."/VincentyDistances/$place"."RandomGPS_5And100Miles";
+open FActualDist, "<", cwd()."/$place"."ErrorOutput";
 
-my %PointDistances = ();
-my $pointCount = 0;
-while(<FExpectedDist>)
+my %ActualPointDistances = ();
+my $ActualPointCount = 0;
+while(<FActualDist>)
 {
 	if($_ =~ m/6 is the line length/)
 	{
-		$line = <FExpectedDist>;
+		$line = <FActualDist>;
 		chomp($line);
-		$PointDistances{$pointCount} = $line;	
-		$pointCount++;
+		$ActualPointDistances{$ActualPointCount} = $line;	
+		$ActualPointCount++;
 	}
 	elsif($_ =~ m/5 is the line length/)
 	{
-		$PointDistances{$pointCount} = "null";
-		$pointCount++;
+		$ActualPointDistances{$ActualPointCount} = "null";
+		$ActualPointCount++;
 	}
 }
 
-my $ActualDistPoints = 0;
-my %ActualPointDistances = ();
-while(<FActualDist>)
+my $ExpectedDistPoints = 0;
+my %ExpectedPointDistances = ();
+while(<FExpectedDist>)
 {
 	if($_ =~ m/Distance/)
 	{
 		my @splitLine = split("\\s+", $_);
-		$ActualPointDistances{$ActualDistPoints} = $splitLine[1];
-		$ActualDistPoints++;
+		$ExpectedPointDistances{$ExpectedDistPoints} = $splitLine[1];
+		$ExpectedDistPoints++;
 	}
 }
 
 #$expectedCount = keys %PointDistances;
-#$actualCount = keys %ActualPointDistances;
+#$actualCount = keys %ExpectedPointDistances;
 #while(my($key,$value) = each %PointDistances)
-foreach my $key (sort {$ActualPointDistances{$a} <=> $ActualPointDistances{$b}} keys %ActualPointDistances)
+foreach my $key (sort {$ExpectedPointDistances{$a} <=> $ExpectedPointDistances{$b}} keys %ExpectedPointDistances)
 {
-	if($PointDistances{$key} ne "null")
+	if($ActualPointDistances{$key} ne "null")
 	{
-		my $error = $ActualPointDistances{$key} - $PointDistances{$key};
-		print "$ActualPointDistances{$key},$error\n";
+		my $error = $ActualPointDistances{$key} - $ExpectedPointDistances{$key};
+		print "$ExpectedPointDistances{$key},$error\n";
 	}
 }
 

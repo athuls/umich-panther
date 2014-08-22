@@ -1,7 +1,9 @@
 #!/usr/bin/perl
 
-open FI, "<AthensRandomGPS_5And100Miles";
-open FV, "<VincentyDistances//AthensVincenty";
+my $city = $ARGV[0];
+open FI, "<", "$city"."RandomGPS_5And100Miles";
+open FV, "<VincentyDistances//output_".$city."VincentyDistances";
+open FO, ">VincentyDistances//"."$city"."RandomGPS_5And100Miles";
 
 while(<FI>)
 {
@@ -12,8 +14,12 @@ while(<FI>)
 		{
 			my $vincenty = <FV>;
 			chomp $vincenty;
+			
 			$_ =~ s/^Distance(.*)\s+mi/Distance: $vincenty mi/g;	
-			print $_, "VincentyDistances/Athens Vincenty "	
 		}
+		print FO $_;	
 	}
 }
+close FI;
+close FV;
+close FO;
