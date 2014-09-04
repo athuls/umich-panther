@@ -65,7 +65,7 @@ public class InspectorParameters implements InspectorParametersInterface{
   	}
   	
   	public void determineInspectorParameters(){
-  		setOrientation_inspector();
+  		//setOrientation_inspector();
   		setIFR_origin();
   		//setNPD_FPD();
   	}
@@ -140,11 +140,14 @@ public class InspectorParameters implements InspectorParametersInterface{
 		determineInspectorParameters();
 
 		//Compute bounding box parameters i.e. 2 points and angle representing conic region of interest
-		computeIGMatrix();
+		//computeIGMatrix();
+		///////////////////////////////////////////////////////////////////////////////
+		//					Old code
 		//m_query=new double[] {0,m_nearPlane,0};
 		//m_NPD=getBFRCoordinates();
 		//m_query=new double[] {0, m_farPlane, 0};
 		//m_FPD=getBFRCoordinates();
+		/////////////////////////////////////////////////////////////////////////////
 
 		m_query = new double[] {0, 0, 0};
 		m_inspectorBFR=getBFRCoordinates();
@@ -221,7 +224,8 @@ public class InspectorParameters implements InspectorParametersInterface{
 		
 		// Commented out to optimize this equation
 		//return (temp_point.times((m_BG.times(m_IG.inverse())).inverse())).plus((temp_origin.minus(temp_bridge)).times(m_InverseBG)).getArray()[0];
-		return (temp_point.times(m_IG.times(m_InverseBG))).plus((temp_origin.minus(m_bridgeOriginGPSMatrix)).times(m_InverseBG)).getArray()[0];
+		//return (temp_point.times(m_IG.times(m_InverseBG))).plus((temp_origin.minus(m_bridgeOriginGPSMatrix)).times(m_InverseBG)).getArray()[0];
+		return (temp_origin.minus(m_bridgeOriginGPSMatrix)).times(m_InverseBG).getArray()[0];
 	}
 
 
