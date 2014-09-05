@@ -6,6 +6,7 @@ import java.io.IOException;
 
 import Jama.Matrix;
 
+import Java.Util;
 //For file reading
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -137,6 +138,7 @@ public class ApproximateAlgorithm
 		InspectorParametersInterface positionParameters=new InspectorParameters(sel.BG, sel.gpsScalingFactors, sel.bridge_origin);
 		double[] inspectorBFRCheck = null;
 		//System.out.println("Bridge origin is " + BFRPoint1[0] + " " + BFRPoint1[1] + " " + BFRPoint1[2]);
+		ArrayList<long> durationsList = new ArrayList<long>(); 
 		
 		//Loop through the position/orientation file and pass inspector position/orientation to InspectorParameters object
 		while((line=in.readLine()) != null)
@@ -170,10 +172,18 @@ public class ApproximateAlgorithm
 			//}
 			end1 = System.nanoTime();
 			duration += (end1 - start1);
+			durationsList.Add(duration);
 			posCount++;
 		}		
-		System.out.println("Duration is " + (double)duration/(double)posCount);
+		double durationMean = (double)duration/(double)posCount;
+		System.out.println("Duration is " + durationMean);
 		System.out.println("Count is " + posCount);
+		double variance = 0;
+		for(int i = 0; i < durationsList.size(); i++)
+		{
+			variance += Math.pow((durationsList[i] - durationMean), 2);
+		}
+		variance = variance/durationsList.size();
+		System.out.println(Math.sqrt(variance) + " is the variance");	
 	}			
-
 }
