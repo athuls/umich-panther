@@ -6,7 +6,7 @@ import java.io.IOException;
 
 import Jama.Matrix;
 
-import Java.Util;
+import java.util.*;
 //For file reading
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -112,8 +112,8 @@ public class ApproximateAlgorithm
 		}
 	
 		// Converting from feet to miles	
-		//return (double)(Math.sqrt(distance) * 0.3)/1609.34;
-		return (double)(Math.sqrt(distance) * 0.3); 
+		return (double)(Math.sqrt(distance) * 0.3)/1609.34;
+		//return (double)(Math.sqrt(distance) * 0.3); 
 	}
 	
 	public static void main(String args[]) throws IOException
@@ -124,10 +124,7 @@ public class ApproximateAlgorithm
 		double[] BFRPoint3 = Calibrator.computeIO_BFR(Config.OriginalGPSPoint, Config.getGPSPoint3(), Config.bearing3);
 		double[] BFRPoint4 = Calibrator.computeIO_BFR(Config.OriginalGPSPoint, Config.getGPSPoint4(), Config.bearing4);
 		
-		//For file writing
-		BufferedReader in = new BufferedReader(new FileReader(Config.getAllPositions()));
-		int posCount=0;
-		long start1, end1, start2, end2, duration = 0;
+		long start1, end1, start2, end2;
 		String line;
 
 		//Compute Bridge Parameters
@@ -138,52 +135,77 @@ public class ApproximateAlgorithm
 		InspectorParametersInterface positionParameters=new InspectorParameters(sel.BG, sel.gpsScalingFactors, sel.bridge_origin);
 		double[] inspectorBFRCheck = null;
 		//System.out.println("Bridge origin is " + BFRPoint1[0] + " " + BFRPoint1[1] + " " + BFRPoint1[2]);
-		ArrayList<long> durationsList = new ArrayList<long>(); 
+		ArrayList<Long> durationsList = new ArrayList<Long>(); 
 		
-		//Loop through the position/orientation file and pass inspector position/orientation to InspectorParameters object
-		while((line=in.readLine()) != null)
-		{ 
-			start1 = System.nanoTime();	
-			String[] splitLine = line.split("\\s+");
-			//System.out.println(splitLine.length + " is the line length");
-		
-			// If data is incorrect, like missing altitude, proceed to next point
-			if(splitLine.length < 6)
+		// Performance measurements -> Rerun the same algorithm for specified number of times
+		int testCounter  = 0;
+		double overallDurationMean = 0, overallDurationVariance = 0;
+		ArrayList<Double> overallDurationsList = new ArrayList<Double>();
+		while(testCounter < 1)
+		{
+			//For file writing
+			BufferedReader in = new BufferedReader(new FileReader(Config.getAllPositions()));
+			long duration = 0;
+			int posCount = 0;
+
+			//Loop through the position/orientation file and pass inspector position/orientation to InspectorParameters object
+			while((line=in.readLine()) != null)
+			{ 
+				start1 = System.nanoTime();	
+				String[] splitLine = line.split("\\s+");
+				//System.out.println(splitLine.length + " is the line length");
+			
+				// If data is incorrect, like missing altitude, proceed to next point
+				if(splitLine.length < 6)
+				{
+					continue;
+				}
+
+
+				//Compute Inspector Position Parameters
+				positionParameters.computeBoundingBoxParameters(splitLine);
+					
+				inspectorBFRCheck = positionParameters.getInspectorBFR();
+				//double[] inspectorOrientCheck = positionParameters.getInspectorOrientation();
+
+				sel.getEuclideanDistance(inspectorBFRCheck);
+
+				//System.out.println(posCount+"\t"+inspectorBFRCheck[0]+"\t"+inspectorBFRCheck[1]+"\t"+inspectorBFRCheck[2]+"\t"+inspectorOrientCheck[0]+"\t"+inspectorOrientCheck[1]+"\t"+inspectorOrientCheck[2]);
+				//File handling and bounding box computation section 
+				//ComputeBoundingBoxInterface boundingBox=new ComputeBoundingBox(positionParameters.getInspectorBFR(), positionParameters.getNearPlane(), positionParameters.getFarPlane(), positionParameters.getViewAngle(), posCount);
+				//boundingBox.captureNodesInBox();
+				//if(posCount == 0)
+				//{
+				//	System.out.println("First coordingates " + inspectorBFRCheck[0] + " " +  inspectorBFRCheck[1] + " " +  inspectorBFRCheck[2]);				
+				//}
+				end1 = System.nanoTime();
+				duration += (end1 - start1);
+				durationsList.add(duration);
+				posCount++;
+			}		
+
+			double durationMean = (double)duration/(double)posCount;
+			overallDurationsList.add(durationMean);
+			overallDurationMean += durationMean;
+			System.out.println("Duration is " + durationMean);
+			System.out.println("Count is " + posCount);
+			double variance = 0;
+			for(int i = 0; i < durationsList.size(); i++)
 			{
-				continue;
+				variance += Math.pow((durationsList.get(i) - durationMean), 2);
 			}
 
-
-			//Compute Inspector Position Parameters
-			positionParameters.computeBoundingBoxParameters(splitLine);
-				
-			inspectorBFRCheck = positionParameters.getInspectorBFR();
-			//double[] inspectorOrientCheck = positionParameters.getInspectorOrientation();
-
-			sel.getEuclideanDistance(inspectorBFRCheck);
-
-			//System.out.println(posCount+"\t"+inspectorBFRCheck[0]+"\t"+inspectorBFRCheck[1]+"\t"+inspectorBFRCheck[2]+"\t"+inspectorOrientCheck[0]+"\t"+inspectorOrientCheck[1]+"\t"+inspectorOrientCheck[2]);
-			//File handling and bounding box computation section 
-			//ComputeBoundingBoxInterface boundingBox=new ComputeBoundingBox(positionParameters.getInspectorBFR(), positionParameters.getNearPlane(), positionParameters.getFarPlane(), positionParameters.getViewAngle(), posCount);
-			//boundingBox.captureNodesInBox();
-			//if(posCount == 0)
-			//{
-			//	System.out.println("First coordingates " + inspectorBFRCheck[0] + " " +  inspectorBFRCheck[1] + " " +  inspectorBFRCheck[2]);				
-			//}
-			end1 = System.nanoTime();
-			duration += (end1 - start1);
-			durationsList.Add(duration);
-			posCount++;
-		}		
-		double durationMean = (double)duration/(double)posCount;
-		System.out.println("Duration is " + durationMean);
-		System.out.println("Count is " + posCount);
-		double variance = 0;
-		for(int i = 0; i < durationsList.size(); i++)
-		{
-			variance += Math.pow((durationsList[i] - durationMean), 2);
+			variance = (double)variance/(double)durationsList.size();
+			System.out.println(Math.sqrt(variance) + " is the variance and iteration count is " + testCounter);	
+			durationsList.clear();
+			testCounter++;
 		}
-		variance = variance/durationsList.size();
-		System.out.println(Math.sqrt(variance) + " is the variance");	
+		overallDurationMean = (double)overallDurationMean / (double)testCounter;
+		for(int i = 0; i < overallDurationsList.size(); i++)
+		{
+			overallDurationVariance += Math.pow((overallDurationsList.get(i) - overallDurationMean),2);
+		}
+		overallDurationVariance = Math.sqrt((double)overallDurationVariance/(double)testCounter);
+		System.out.println("Overall duration mean and variance are " + overallDurationMean + " " + overallDurationVariance);
 	}			
 }
