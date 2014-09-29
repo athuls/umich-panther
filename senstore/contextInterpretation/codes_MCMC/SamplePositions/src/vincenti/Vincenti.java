@@ -53,9 +53,9 @@ public class Vincenti
 		bridge_origin=new double[3];
 		
 		// Add latitude/longitude coordinates with sign, beginning with longitude
-		bridge_origin[0]=37.6173; //compute the bridge origin in GPS
-		bridge_origin[1]=55.755826;
-		bridge_origin[2]=151.8;
+		bridge_origin[0]=31.23571160000006; //compute the bridge origin in GPS
+		bridge_origin[1]=30.0444196;
+		bridge_origin[2]=26.7;
 		BFR_roll=0;
 		BFR_pitch=0;
 		BFR_yaw=-61.237;
@@ -278,7 +278,7 @@ public class Vincenti
 		double linearDistance = temp1.computeIO_BFR();
 		temp1.computeIFRorient_BFR();
 		*/
-		String city = "Moscow";
+		String city = "Cairo";
 			
 		BufferedReader in = new BufferedReader(new FileReader("/mnt/sdb/old/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/" + city + "LocLinearInput"));
 		BufferedWriter out = new BufferedWriter(new FileWriter("/mnt/sdb/old/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/VincentyDistances/output_"+city+"VincentyDistancesTest"));
@@ -305,9 +305,10 @@ public class Vincenti
 			temp1.inspector_origin[2] = query1[2];
 			double distance = temp1.computeIO_BFR();
 			end1=System.nanoTime();
-			duration += (end1-start1);
+			long currentDuration = (end1 - start1);
+			duration += currentDuration;
 			countLoop++;
-			durationsList.add(duration);
+			durationsList.add(currentDuration);
 			out.write((distance * 0.000621371) + "\n");	
 		}
 		double durationMean = (double)duration/(double)countLoop;
@@ -317,9 +318,10 @@ public class Vincenti
 		for(int i = 0; i < durationsList.size(); i++)
 		{
 			durationVariance += Math.pow((durationsList.get(i) - durationMean), 2);
+			System.out.println("Vincenti," + durationsList.get(i));
 		}
 		durationVariance = Math.sqrt((double)durationVariance/(double)durationsList.size());
-		System.out.println("Vairance is " + durationVariance);
+		System.out.println("Mean is " + durationMean + " Vairance is " + durationVariance);
 		out.close();
 		in.close();
 		//temp1.computeQuery_BFR();

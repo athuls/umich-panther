@@ -179,8 +179,9 @@ public class ApproximateAlgorithm
 				//	System.out.println("First coordingates " + inspectorBFRCheck[0] + " " +  inspectorBFRCheck[1] + " " +  inspectorBFRCheck[2]);				
 				//}
 				end1 = System.nanoTime();
-				duration += (end1 - start1);
-				durationsList.add(duration);
+				long currentDuration = (end1 - start1);
+				duration += currentDuration;
+				durationsList.add(currentDuration);
 				posCount++;
 			}		
 
@@ -193,10 +194,11 @@ public class ApproximateAlgorithm
 			for(int i = 0; i < durationsList.size(); i++)
 			{
 				variance += Math.pow((durationsList.get(i) - durationMean), 2);
+				System.out.println("ApproximateAlgorithm," + durationsList.get(i));
 			}
 
-			variance = (double)variance/(double)durationsList.size();
-			System.out.println(Math.sqrt(variance) + " is the variance and iteration count is " + testCounter);	
+			variance = Math.sqrt((double)variance/(double)durationsList.size());
+			System.out.println(variance + " is the variance and iteration count is " + testCounter);	
 			durationsList.clear();
 			testCounter++;
 		}
@@ -206,6 +208,6 @@ public class ApproximateAlgorithm
 			overallDurationVariance += Math.pow((overallDurationsList.get(i) - overallDurationMean),2);
 		}
 		overallDurationVariance = Math.sqrt((double)overallDurationVariance/(double)testCounter);
-		System.out.println("Overall duration mean and variance are " + overallDurationMean + " " + overallDurationVariance);
+		System.out.println("Final mean = " + overallDurationMean + " and variance is " + overallDurationVariance); 
 	}			
 }

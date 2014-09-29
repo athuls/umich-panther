@@ -1,0 +1,24 @@
+.ex = read.csv("AthensAllDurations",head=TRUE,sep=",")
+> aov.ex=aov(Latency~Algorithm,data=data.ex)
+>
+> summary(aov)
+Error in object[[i]] : object of type 'closure' is not subsettable
+> summary(aov.ex)
+              Df    Sum Sq   Mean Sq F value   Pr(>F)
+Algorithm      1 2.975e+12 2.975e+12   11.87 0.000574 ***
+Residuals   5852 1.467e+15 2.506e+11
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+> TukeyHSD(aov)
+Error in UseMethod("TukeyHSD") :
+  no applicable method for 'TukeyHSD' applied to an object of class "function"
+> TukeyHSD(aov.ex)
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = Latency ~ Algorithm, data = data.ex)
+
+$Algorithm
+                                  diff      lwr      upr     p adj
+Vincenti-ApproximateAlgorithm 45087.15 19432.46 70741.84 0.0005745
+
