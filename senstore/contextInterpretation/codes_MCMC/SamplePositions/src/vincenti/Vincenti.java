@@ -53,9 +53,9 @@ public class Vincenti
 		bridge_origin=new double[3];
 		
 		// Add latitude/longitude coordinates with sign, beginning with longitude
-		bridge_origin[0]=114.1094970000; //compute the bridge origin in GPS
-		bridge_origin[1]=22.396428;
-		bridge_origin[2]=321.1;
+		bridge_origin[0]=-43.19707729999999; //compute the bridge origin in GPS
+		bridge_origin[1]=-22.9082998;
+		bridge_origin[2]=6.6;
 		BFR_roll=0;
 		BFR_pitch=0;
 		BFR_yaw=-61.237;
@@ -278,7 +278,7 @@ public class Vincenti
 		double linearDistance = temp1.computeIO_BFR();
 		temp1.computeIFRorient_BFR();
 		*/
-		String city = "HongKong";
+		String city = "Rio";
 			
 		BufferedReader in = new BufferedReader(new FileReader("/mnt/sdb/old/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/" + city + "LocLinearInput"));
 		BufferedWriter out = new BufferedWriter(new FileWriter("/mnt/sdb/old/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/VincentyDistances/output_"+city+"VincentyDistancesTest"));
