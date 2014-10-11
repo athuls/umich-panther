@@ -147,11 +147,11 @@ public class ApproximateAlgorithm
 			BufferedReader in = new BufferedReader(new FileReader(Config.getAllPositions()));
 			long duration = 0;
 			int posCount = 0;
-			
-			start1 = System.nanoTime();	
+
 			//Loop through the position/orientation file and pass inspector position/orientation to InspectorParameters object
 			while((line=in.readLine()) != null)
 			{ 
+				start1 = System.nanoTime();	
 				String[] splitLine = line.split("\\s+");
 				//System.out.println(splitLine.length + " is the line length");
 			
@@ -178,18 +178,28 @@ public class ApproximateAlgorithm
 				//{
 				//	System.out.println("First coordingates " + inspectorBFRCheck[0] + " " +  inspectorBFRCheck[1] + " " +  inspectorBFRCheck[2]);				
 				//}
+				end1 = System.nanoTime();
+				long currentDuration = (end1 - start1);
+				duration += currentDuration;
+				durationsList.add(currentDuration);
 				posCount++;
 			}		
-			
-			end1 = System.nanoTime();
-			long currentDuration = (end1 - start1);
 
-			double durationMean = (double)currentDuration/(double)posCount;
+			double durationMean = (double)duration/(double)posCount;
 			overallDurationsList.add(durationMean);
 			overallDurationMean += durationMean;
 			System.out.println("Duration is " + durationMean);
 			System.out.println("Count is " + posCount);
+			double variance = 0;
+			for(int i = 0; i < durationsList.size(); i++)
+			{
+				variance += Math.pow((durationsList.get(i) - durationMean), 2);
+				System.out.println("ApproximateAlgorithm," + durationsList.get(i));
+			}
 
+			variance = Math.sqrt((double)variance/(double)durationsList.size());
+			System.out.println(variance + " is the variance and iteration count is " + testCounter);	
+			durationsList.clear();
 			testCounter++;
 		}
 		overallDurationMean = (double)overallDurationMean / (double)testCounter;

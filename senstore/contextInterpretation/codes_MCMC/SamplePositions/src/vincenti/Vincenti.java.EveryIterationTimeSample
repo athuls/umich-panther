@@ -283,9 +283,10 @@ public class Vincenti
 		BufferedReader in = new BufferedReader(new FileReader("/mnt/sdb/old/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/" + city + "LocLinearInput"));
 		BufferedWriter out = new BufferedWriter(new FileWriter("/mnt/sdb/old/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/VincentyDistances/output_"+city+"VincentyDistancesTest"));
 		String line;
-		start1=System.nanoTime();
+		ArrayList<Long> durationsList = new ArrayList<Long>();
 		while((line = in.readLine()) != null)
 		{
+			start1=System.nanoTime();
 			double query1[]={0,0,0};
 			String[] temp=line.split("\\s+");
 			if(temp.length < 6)
@@ -303,16 +304,24 @@ public class Vincenti
 			temp1.inspector_origin[1] = query1[1];
 			temp1.inspector_origin[2] = query1[2];
 			double distance = temp1.computeIO_BFR();
+			end1=System.nanoTime();
+			long currentDuration = (end1 - start1);
+			duration += currentDuration;
 			countLoop++;
+			durationsList.add(currentDuration);
 			out.write((distance * 0.000621371) + "\n");	
 		}
-		
-		end1=System.nanoTime();
-		long currentDuration = (end1 - start1);
-		
-		double durationMean = (double)currentDuration/(double)countLoop;
+		double durationMean = (double)duration/(double)countLoop;
 		System.out.println("Duratin is " + durationMean);
 		System.out.println("Count loop is " + countLoop);
+		double durationVariance=0;
+		for(int i = 0; i < durationsList.size(); i++)
+		{
+			durationVariance += Math.pow((durationsList.get(i) - durationMean), 2);
+			System.out.println("Vincenti," + durationsList.get(i));
+		}
+		durationVariance = Math.sqrt((double)durationVariance/(double)durationsList.size());
+		System.out.println("Mean is " + durationMean + " Vairance is " + durationVariance);
 		out.close();
 		in.close();
 		//temp1.computeQuery_BFR();
