@@ -105,14 +105,14 @@ public class ApproximateAlgorithm
 	private double getEuclideanDistance(double[] pointCoordinates)
 	{
 		double distance = 0;
-		double[] bridgeOrigin = this.getBridgeOrigin();
 		for(int i =0; i < 3; i++)
 		{
 			distance += Math.pow(pointCoordinates[i],2);
 		}
 	
 		// Converting from feet to miles	
-		return (double)(Math.sqrt(distance) * 0.3)/1609.34;
+		//return (double)(Math.sqrt(distance) * 0.3)/1609.34;
+		return (double)Math.sqrt(distance);
 		//return (double)(Math.sqrt(distance) * 0.3); 
 	}
 	
@@ -187,7 +187,7 @@ public class ApproximateAlgorithm
 			double durationMean = (double)currentDuration/(double)posCount;
 			overallDurationsList.add(durationMean);
 			overallDurationMean += durationMean;
-			System.out.println("Duration is " + durationMean);
+			System.out.println("Duration is " + currentDuration);
 			System.out.println("Count is " + posCount);
 
 			testCounter++;

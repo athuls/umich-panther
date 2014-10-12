@@ -22,14 +22,39 @@ public class InspectorParameters implements InspectorParametersInterface{
 	public double[] m_NPD;
 	public double[] m_FPD;
 	public double[] m_inspectorBFR;
+		
+	public double[] m_InverseBGRow1;
+	public double[] m_InverseBGRow2;
+	public double[] m_InverseBGRow3;
 	
 	public InspectorParameters(Matrix BG, double[] scalingFactors, double[] bridgeOriginGPS)
 	{
 		m_BG = BG;
 		m_InverseBG = m_BG.inverse();
+		
+		// Set all inverse BG matrix values
+		m_InverseBGRow1 = new double[3];
+		m_InverseBGRow1[0] = m_InverseBG.get(0,0);
+		m_InverseBGRow1[1] = m_InverseBG.get(0,1);
+		m_InverseBGRow1[2] = m_InverseBG.get(0,2);
+		
+		m_InverseBGRow2 = new double[3];
+		m_InverseBGRow2[0] = m_InverseBG.get(1,0);
+		m_InverseBGRow2[1] = m_InverseBG.get(1,1);
+		m_InverseBGRow2[2] = m_InverseBG.get(1,2);
+		
+		m_InverseBGRow3 = new double[3];
+		m_InverseBGRow3[0] = m_InverseBG.get(2,0);	
+		m_InverseBGRow3[1] = m_InverseBG.get(2,1);
+		m_InverseBGRow3[2] = m_InverseBG.get(2,2);
+		
 		m_scalingFactors = scalingFactors; 
 		m_bridgeOriginGPS = bridgeOriginGPS;
 		m_bridgeOriginGPSMatrix = new Matrix(new double[][] {m_bridgeOriginGPS});
+
+		// Stores the BFR coordinates of inspector
+		m_inspectorBFR = new double[3];
+		m_inspectorOriginGPS = new double[3];
 
 		/*IG=[Angle Matrix (with z(theta1)->alpha(yaw), x(theta2)->beta(pitch), y(theta3)->gamma(roll))] *
 		 * [0,0,scaling_factor[0];0,0,scaling_factor[1];0,0,scaling_factor[2]*/
@@ -71,12 +96,10 @@ public class InspectorParameters implements InspectorParametersInterface{
   	}
   	
 	//Function to split given string, and then obtain position array
-        private double[] getInspectorPosition()
+        private void getInspectorPosition()
         {
-                double[] tempRet = new double[3];
-	
                 for(int count = 0; count < 3; count++)
-                        tempRet[count] = Double.parseDouble(m_splitLine[count]);
+                        m_inspectorOriginGPS[count] = Double.parseDouble(m_splitLine[count]);
 
 		// [5/10/2014] We were initially converting this to negative for western hemisphere but
 		// all coordinates are exact with running excperiments for different locations in the world
@@ -85,7 +108,6 @@ public class InspectorParameters implements InspectorParametersInterface{
 		//Longitude values in real field data should be negative because we are in western hemisphere
 		//tempRet[0] = -tempRet[0];
 		
-                return tempRet;
         }
 
 	//Function to split given string, and then obtain orientation array
@@ -149,8 +171,7 @@ public class InspectorParameters implements InspectorParametersInterface{
 		//m_FPD=getBFRCoordinates();
 		/////////////////////////////////////////////////////////////////////////////
 
-		m_query = new double[] {0, 0, 0};
-		m_inspectorBFR=getBFRCoordinates();
+		getBFRCoordinatesFast();
 	}
 
 	public void setNPD_FPD()
@@ -194,9 +215,7 @@ public class InspectorParameters implements InspectorParametersInterface{
 	{
 		//Changed to accommodate reading from list of inspector position/orientation from file
 		//double[] origin=Config.getInspectorPosition();
-		double[] origin = getInspectorPosition();
-		
-		m_inspectorOriginGPS=origin;
+		getInspectorPosition();
 	}
 	
 	public void setIFR_origin(double[] error)
@@ -204,17 +223,16 @@ public class InspectorParameters implements InspectorParametersInterface{
 	{
 		//Changed to accommodate reading from list of inspector position/orientation from file
 		//double[] origin=Config.getInspectorPosition();
-		double[] origin = getInspectorPosition();
+		getInspectorPosition();
 		
-		for(int i=0;i<origin.length;i++){
-				origin[i]=origin[i]+error[i];
+		for(int i=0;i<m_inspectorOriginGPS.length;i++){
+				m_inspectorOriginGPS[i]=m_inspectorOriginGPS[i]+error[i];
 		}
 		
-		m_inspectorOriginGPS=origin;
 	}
 	
 	@Override
-	public double[] getBFRCoordinates() 
+	public void getBFRCoordinates() 
 	//Convert a query point from IFR coordinates to BFR coordinates
 	{
 		Matrix temp_point, temp_origin;
@@ -225,9 +243,21 @@ public class InspectorParameters implements InspectorParametersInterface{
 		// Commented out to optimize this equation
 		//return (temp_point.times((m_BG.times(m_IG.inverse())).inverse())).plus((temp_origin.minus(temp_bridge)).times(m_InverseBG)).getArray()[0];
 		//return (temp_point.times(m_IG.times(m_InverseBG))).plus((temp_origin.minus(m_bridgeOriginGPSMatrix)).times(m_InverseBG)).getArray()[0];
-		return (temp_origin.minus(m_bridgeOriginGPSMatrix)).times(m_InverseBG).getArray()[0];
+		m_inspectorBFR = (temp_origin.minus(m_bridgeOriginGPSMatrix)).times(m_InverseBG).getArray()[0];
 	}
 
+	public void getBFRCoordinatesFast()
+	{
+		m_inspectorBFR[0] = (m_inspectorOriginGPS[0] - m_bridgeOriginGPS[0]) * m_InverseBGRow1[0]
+				    + (m_inspectorOriginGPS[1] - m_bridgeOriginGPS[1]) * m_InverseBGRow2[0]
+				    + (m_inspectorOriginGPS[2] - m_bridgeOriginGPS[2]) * m_InverseBGRow3[0];
+		m_inspectorBFR[1] = (m_inspectorOriginGPS[0] - m_bridgeOriginGPS[0]) * m_InverseBGRow1[1] 
+				    + (m_inspectorOriginGPS[1] - m_bridgeOriginGPS[1]) * m_InverseBGRow2[1]
+				    + (m_inspectorOriginGPS[2] - m_bridgeOriginGPS[2]) * m_InverseBGRow3[1];
+		m_inspectorBFR[2] = (m_inspectorOriginGPS[0] - m_bridgeOriginGPS[0]) * m_InverseBGRow1[2]
+				    + (m_inspectorOriginGPS[1] - m_bridgeOriginGPS[1]) * m_InverseBGRow2[2]
+				    + (m_inspectorOriginGPS[2] - m_bridgeOriginGPS[2]) * m_InverseBGRow3[2];
+	}
 
 	@Override
 	public double[] getFarPlane() {
