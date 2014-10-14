@@ -192,14 +192,15 @@ public class ApproximateAlgorithm
 			double durationMean = (double)currentDuration/(double)posCount;
 			overallDurationsList.add(durationMean);
 			overallDurationMean += durationMean;
-			System.out.println("Duration is " + currentDuration);
-			System.out.println("Count is " + posCount);
+			//System.out.println("Duration is " + currentDuration);
+			//System.out.println("Count is " + posCount);
 
 			testCounter++;
 		}
 		overallDurationMean = (double)overallDurationMean / (double)testCounter;
 		for(int i = 0; i < overallDurationsList.size(); i++)
 		{
+			System.out.println(overallDurationsList.get(i));
 			overallDurationVariance += Math.pow((overallDurationsList.get(i) - overallDurationMean),2);
 		}
 		overallDurationVariance = Math.sqrt((double)overallDurationVariance/(double)testCounter);

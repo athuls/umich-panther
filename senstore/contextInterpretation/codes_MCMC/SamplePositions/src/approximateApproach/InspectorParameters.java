@@ -248,7 +248,7 @@ public class InspectorParameters implements InspectorParametersInterface{
 
 	public void getBFRCoordinatesFast()
 	{
-		m_inspectorBFR[0] = (m_inspectorOriginGPS[0] - m_bridgeOriginGPS[0]) * m_InverseBGRow1[0]
+		/*m_inspectorBFR[0] = (m_inspectorOriginGPS[0] - m_bridgeOriginGPS[0]) * m_InverseBGRow1[0]
 				    + (m_inspectorOriginGPS[1] - m_bridgeOriginGPS[1]) * m_InverseBGRow2[0]
 				    + (m_inspectorOriginGPS[2] - m_bridgeOriginGPS[2]) * m_InverseBGRow3[0];
 		m_inspectorBFR[1] = (m_inspectorOriginGPS[0] - m_bridgeOriginGPS[0]) * m_InverseBGRow1[1] 
@@ -257,6 +257,17 @@ public class InspectorParameters implements InspectorParametersInterface{
 		m_inspectorBFR[2] = (m_inspectorOriginGPS[0] - m_bridgeOriginGPS[0]) * m_InverseBGRow1[2]
 				    + (m_inspectorOriginGPS[1] - m_bridgeOriginGPS[1]) * m_InverseBGRow2[2]
 				    + (m_inspectorOriginGPS[2] - m_bridgeOriginGPS[2]) * m_InverseBGRow3[2];
+		*/
+
+		m_inspectorBFR[0] = (m_inspectorOriginGPS[0] - m_bridgeOriginGPS[0]) * m_InverseBG.get(0,0)
+                                    + (m_inspectorOriginGPS[1] - m_bridgeOriginGPS[1]) * m_InverseBG.get(1,0)
+                                    + (m_inspectorOriginGPS[2] - m_bridgeOriginGPS[2]) * m_InverseBG.get(2,0);
+                m_inspectorBFR[1] = (m_inspectorOriginGPS[0] - m_bridgeOriginGPS[0]) * m_InverseBG.get(0,1)
+                                    + (m_inspectorOriginGPS[1] - m_bridgeOriginGPS[1]) * m_InverseBG.get(1,1)
+                                    + (m_inspectorOriginGPS[2] - m_bridgeOriginGPS[2]) * m_InverseBG.get(2,1);
+                m_inspectorBFR[2] = (m_inspectorOriginGPS[0] - m_bridgeOriginGPS[0]) * m_InverseBG.get(0,2)
+                                    + (m_inspectorOriginGPS[1] - m_bridgeOriginGPS[1]) * m_InverseBG.get(1,2)
+                                    + (m_inspectorOriginGPS[2] - m_bridgeOriginGPS[2]) * m_InverseBG.get(2,2);
 	}
 
 	@Override

@@ -296,7 +296,7 @@ public class Vincenti
 		{
 			if(splitLine.length < 6)
 			{
-				out.write("skipped\n");
+				//out.write("skipped\n");
 				continue;
 			}
 
@@ -307,7 +307,7 @@ public class Vincenti
 			}
 			double distance = temp1.computeIO_BFR();
 			countLoop++;
-			out.write((distance * 0.000621371) + "\n");	
+			//out.write((distance * 0.000621371) + "\n");	
 		}
 		
 		end1=System.nanoTime();
