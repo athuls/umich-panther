@@ -111,8 +111,7 @@ public class ApproximateAlgorithm
 		}
 	
 		// Converting from feet to miles	
-		//return (double)(Math.sqrt(distance) * 0.3)/1609.34;
-		return (double)Math.sqrt(distance);
+		return (double)(Math.sqrt(distance) * 0.3)/1609.34;
 		//return (double)(Math.sqrt(distance) * 0.3); 
 	}
 	
@@ -148,11 +147,17 @@ public class ApproximateAlgorithm
 			long duration = 0;
 			int posCount = 0;
 			
+			ArrayList<String[]> inputSamplePositions = new ArrayList<String[]>();
+			while((line = in.readLine()) != null)	
+			{
+				String[] splitLine = line.split("\\s+");
+				inputSamplePositions.add(splitLine);
+			}
+
 			start1 = System.nanoTime();	
 			//Loop through the position/orientation file and pass inspector position/orientation to InspectorParameters object
-			while((line=in.readLine()) != null)
+			for(String[] splitLine : inputSamplePositions)
 			{ 
-				String[] splitLine = line.split("\\s+");
 				//System.out.println(splitLine.length + " is the line length");
 			
 				// If data is incorrect, like missing altitude, proceed to next point

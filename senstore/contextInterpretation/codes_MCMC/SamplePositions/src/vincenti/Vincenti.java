@@ -283,12 +283,18 @@ public class Vincenti
 		BufferedReader in = new BufferedReader(new FileReader("/mnt/sdb/old/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/" + city + "LocLinearInput"));
 		BufferedWriter out = new BufferedWriter(new FileWriter("/mnt/sdb/old/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/VincentyDistances/output_"+city+"VincentyDistancesTest"));
 		String line;
-		start1=System.nanoTime();
+		
+		ArrayList<String[]> inputSamplePositions = new ArrayList<String[]>();
 		while((line = in.readLine()) != null)
 		{
-			double query1[]={0,0,0};
-			String[] temp=line.split("\\s+");
-			if(temp.length < 6)
+			String[] splitLine = line.split("\\s+");
+			inputSamplePositions.add(splitLine);
+		}
+		
+		start1=System.nanoTime();
+		for(String[] splitLine : inputSamplePositions)
+		{
+			if(splitLine.length < 6)
 			{
 				out.write("skipped\n");
 				continue;
@@ -297,11 +303,8 @@ public class Vincenti
 			
 			for(int i=0;i<3;i++)
 			{
-				query1[i]=Double.parseDouble(temp[i]);
+				temp1.inspector_origin[i]=Double.parseDouble(splitLine[i]);
 			}
-			temp1.inspector_origin[0] = query1[0];
-			temp1.inspector_origin[1] = query1[1];
-			temp1.inspector_origin[2] = query1[2];
 			double distance = temp1.computeIO_BFR();
 			countLoop++;
 			out.write((distance * 0.000621371) + "\n");	
