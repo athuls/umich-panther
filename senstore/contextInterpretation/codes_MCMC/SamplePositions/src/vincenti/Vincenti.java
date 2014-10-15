@@ -47,6 +47,9 @@ public class Vincenti
 	//view_angle-angle of view in IFR
 	double IFR_roll,IFR_pitch,IFR_yaw, FPD_inspector, NPD_inspector, view_angle;
 	int flag1, flag2, flag3, flag4, flag5;
+
+	GeodeticCalculator m_geoCalc;
+	Ellipsoid m_ellipsoidReference;	
 	
 	public Vincenti()
 	{
@@ -61,6 +64,11 @@ public class Vincenti
 		BFR_yaw=-61.237;
 		BFR_azimuth=-BFR_yaw;
 		flag1=0;flag2=0;flag3=0;flag4=0;flag5=0;
+
+		// instantiate the calculator
+		m_geoCalc = new GeodeticCalculator();
+		// select a reference ellipsoid
+		m_ellipsoidReference = Ellipsoid.WGS84;
 	}
 	
 	public void setOrientation_inspector(double roll1, double pitch1, double yaw1)
@@ -147,10 +155,6 @@ public class Vincenti
 	
 	double computeIO_BFR()
 	{
-		// instantiate the calculator
-		GeodeticCalculator geoCalc = new GeodeticCalculator();
-		// select a reference ellipsoid
-		Ellipsoid reference = Ellipsoid.WGS84;
 		// set Pike's Peak position
 		GlobalPosition BO;
 		BO = new GlobalPosition(bridge_origin[1], bridge_origin[0], bridge_origin[2]);
@@ -161,11 +165,11 @@ public class Vincenti
 
 		// calculate the geodetic measurement
 		GeodeticMeasurement geoMeasurement;
-		double p2pmeters;
+		double p2pmeters = 0;
 		double elevChangeMeters;
 		double azimuth;
 
-		geoMeasurement = geoCalc.calculateGeodeticMeasurement(reference, BO, IO);
+		geoMeasurement = m_geoCalc.calculateGeodeticMeasurement(m_ellipsoidReference, BO, IO);
 		
 		p2pmeters = geoMeasurement.getPointToPointDistance();
 		//elevChangeMeters = geoMeasurement.getElevationChange();
@@ -255,7 +259,7 @@ public class Vincenti
 	
 	public static void main(String args[]) throws IOException
 	{
-		long start1, end1, start2, end2, duration=0, countLoop = 0;
+		long start1 = 0, end1 = 0, start2, end2, duration=0, countLoop = 0;
 		
 		Vincenti temp1=new Vincenti();
 		temp1.inspector_origin=new double[3];
@@ -284,36 +288,44 @@ public class Vincenti
 		BufferedWriter out = new BufferedWriter(new FileWriter("/mnt/sdb/old/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/VincentyDistances/output_"+city+"VincentyDistancesTest"));
 		String line;
 		
-		ArrayList<String[]> inputSamplePositions = new ArrayList<String[]>();
+		ArrayList<Double[]> inputSamplePositions = new ArrayList<Double[]>();
 		while((line = in.readLine()) != null)
 		{
-			String[] splitLine = line.split("\\s+");
-			inputSamplePositions.add(splitLine);
-		}
-		
-		start1=System.nanoTime();
-		for(String[] splitLine : inputSamplePositions)
-		{
+			String[] splitLine = line.split("\\s+");			
 			if(splitLine.length < 6)
 			{
 				//out.write("skipped\n");
 				continue;
 			}
-
 			
-			for(int i=0;i<3;i++)
+			Double[] inspectorPosition = new Double[3];
+			for(int i = 0; i < 3; i++)
 			{
-				temp1.inspector_origin[i]=Double.parseDouble(splitLine[i]);
+				inspectorPosition[i] = Double.parseDouble(splitLine[i]);
+			}
+
+			inputSamplePositions.add(inspectorPosition);
+		}
+		
+		double durationMean = 0;
+		for(Double[] splitLine : inputSamplePositions)
+		{
+			start1=System.nanoTime();
+			for(int i = 0; i < 3; i++)
+			{
+				temp1.inspector_origin[i]=splitLine[i];
 			}
 			double distance = temp1.computeIO_BFR();
 			countLoop++;
 			//out.write((distance * 0.000621371) + "\n");	
+			end1=System.nanoTime();
+			durationMean += (end1-start1);
 		}
-		
-		end1=System.nanoTime();
+		durationMean = (double)durationMean/(double)countLoop;
+		System.out.println("Actual mean is " + durationMean);
 		long currentDuration = (end1 - start1);
 		
-		double durationMean = (double)currentDuration/(double)countLoop;
+		//double durationMean = (double)currentDuration/(double)countLoop;
 		System.out.println("Duratin is " + durationMean);
 		System.out.println("Count loop is " + countLoop);
 		out.close();

@@ -156,6 +156,17 @@ public class InspectorParameters implements InspectorParametersInterface{
 		
 	} 
  	
+	@Override
+	public void computeBoundingBoxParameters(Double[] inspectorPosition)
+	{
+		for(int i = 0; i < 3; i++)
+		{
+			m_inspectorOriginGPS[i] = inspectorPosition[i];	
+		}
+		
+		getBFRCoordinatesFast();
+	}	
+
  	@Override
 	public void computeBoundingBoxParameters(String[] splitLine) {
 		m_splitLine = splitLine;
@@ -171,7 +182,7 @@ public class InspectorParameters implements InspectorParametersInterface{
 		//m_FPD=getBFRCoordinates();
 		/////////////////////////////////////////////////////////////////////////////
 
-		getBFRCoordinatesFast();
+		getBFRCoordinates();
 	}
 
 	public void setNPD_FPD()

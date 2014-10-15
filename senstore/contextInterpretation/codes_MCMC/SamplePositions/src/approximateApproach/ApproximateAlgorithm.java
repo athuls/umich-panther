@@ -24,7 +24,8 @@ public class ApproximateAlgorithm
 	/*bridge_origin->GPS, inspector_origin->GPS, convert_query->IFR point to convert to BFR; 
 	* F1 & F2->points representing near and far plane distance for inspector*/
 	double[] bridge_origin;
-	
+	double feetToMilesConversionFactor = (double)1/(double)1609.34;
+		
 	public ApproximateAlgorithm(double[] pt1, double[] pt2, double[] pt3, double[] pt4, double[] pt5, double[] pt6, double[] pt7, double[] pt8)
 	{
 		gps_p1=pt1;
@@ -111,7 +112,7 @@ public class ApproximateAlgorithm
 		}
 	
 		// Converting from feet to miles	
-		return (double)(Math.sqrt(distance) * 0.3)/1609.34;
+		return (double)(Math.sqrt(distance) * 0.3) * feetToMilesConversionFactor;
 		//return (double)(Math.sqrt(distance) * 0.3); 
 	}
 	
@@ -123,7 +124,7 @@ public class ApproximateAlgorithm
 		double[] BFRPoint3 = Calibrator.computeIO_BFR(Config.OriginalGPSPoint, Config.getGPSPoint3(), Config.bearing3);
 		double[] BFRPoint4 = Calibrator.computeIO_BFR(Config.OriginalGPSPoint, Config.getGPSPoint4(), Config.bearing4);
 		
-		long start1, end1, start2, end2;
+		long start1 = 0, end1 = 0;
 		String line;
 
 		//Compute Bridge Parameters
@@ -147,25 +148,31 @@ public class ApproximateAlgorithm
 			long duration = 0;
 			int posCount = 0;
 			
-			ArrayList<String[]> inputSamplePositions = new ArrayList<String[]>();
+			ArrayList<Double[]> inputSamplePositions = new ArrayList<Double[]>();
 			while((line = in.readLine()) != null)	
 			{
 				String[] splitLine = line.split("\\s+");
-				inputSamplePositions.add(splitLine);
-			}
-
-			start1 = System.nanoTime();	
-			//Loop through the position/orientation file and pass inspector position/orientation to InspectorParameters object
-			for(String[] splitLine : inputSamplePositions)
-			{ 
 				//System.out.println(splitLine.length + " is the line length");
-			
-				// If data is incorrect, like missing altitude, proceed to next point
 				if(splitLine.length < 6)
 				{
+					// If data is incorrect, like missing altitude, proceed to next point
 					continue;
 				}
+		
+				Double[] inspectorPosition = new Double[3];
+				for(int i = 0; i < 3; i++)
+				{
+					inspectorPosition[i] = Double.parseDouble(splitLine[i]);	
+				}
 
+				inputSamplePositions.add(inspectorPosition);
+			}
+
+			double durationMean = 0;
+			//Loop through the position/orientation file and pass inspector position/orientation to InspectorParameters object
+			for(Double[] splitLine : inputSamplePositions)
+			{ 
+				start1 = System.nanoTime();	
 
 				//Compute Inspector Position Parameters
 				positionParameters.computeBoundingBoxParameters(splitLine);
@@ -184,12 +191,15 @@ public class ApproximateAlgorithm
 				//	System.out.println("First coordingates " + inspectorBFRCheck[0] + " " +  inspectorBFRCheck[1] + " " +  inspectorBFRCheck[2]);				
 				//}
 				posCount++;
+				end1 = System.nanoTime();
+				durationMean += (end1 - start1);
 			}		
 			
-			end1 = System.nanoTime();
 			long currentDuration = (end1 - start1);
 
-			double durationMean = (double)currentDuration/(double)posCount;
+			// double durationMean = (double)currentDuration/(double)posCount;
+			durationMean = durationMean/(double)posCount;
+			System.out.println(durationMean + " is the true mean");
 			overallDurationsList.add(durationMean);
 			overallDurationMean += durationMean;
 			//System.out.println("Duration is " + currentDuration);
