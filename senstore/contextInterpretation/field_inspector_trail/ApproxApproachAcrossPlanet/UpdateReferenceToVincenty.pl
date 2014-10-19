@@ -2,7 +2,7 @@
 
 my $city = $ARGV[0];
 open FI, "<", "$city"."RandomGPS_5And100Miles";
-open FV, "<VincentyDistances//output_".$city."VincentyDistances";
+open FV, "<VincentyDistances//output_".$city."VincentyDistancesTest";
 open FO, ">VincentyDistances//"."$city"."RandomGPS_5And100Miles";
 
 while(<FI>)
