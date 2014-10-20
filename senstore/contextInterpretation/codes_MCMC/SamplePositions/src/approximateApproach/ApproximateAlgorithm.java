@@ -140,7 +140,7 @@ public class ApproximateAlgorithm
 		// Performance measurements -> Rerun the same algorithm for specified number of times
 		int testCounter  = 0;
 		double overallDurationMean = 0, overallDurationVariance = 0;
-		ArrayList<Double> overallDurationsList = new ArrayList<Double>();
+		ArrayList<Long> overallDurationsList = new ArrayList<Long>();
 		while(testCounter < 1)
 		{
 			//For file writing
@@ -190,30 +190,31 @@ public class ApproximateAlgorithm
 				//{
 				//	System.out.println("First coordingates " + inspectorBFRCheck[0] + " " +  inspectorBFRCheck[1] + " " +  inspectorBFRCheck[2]);				
 				//}
-				posCount++;
 				end1 = System.nanoTime();
-				durationMean += (end1 - start1);
+				posCount++;
+				duration = end1 - start1;
+				overallDurationsList.add(duration);
 			}		
 			
-			long currentDuration = (end1 - start1);
-
+			double durationVariance = 0;
+			for(Long durationEntry : overallDurationsList)
+			{
+				System.out.println(durationEntry);
+				durationMean += durationEntry;
+			}
+			
+			for(Long durationEntry : overallDurationsList)
+			{
+				durationVariance += Math.pow((durationEntry - durationMean), 2);
+			}
 			// double durationMean = (double)currentDuration/(double)posCount;
 			durationMean = durationMean/(double)posCount;
-			System.out.println(durationMean + " is the true mean");
-			overallDurationsList.add(durationMean);
-			overallDurationMean += durationMean;
-			//System.out.println("Duration is " + currentDuration);
-			//System.out.println("Count is " + posCount);
+			durationVariance = durationVariance/(double)posCount;
+			durationVariance = Math.sqrt(durationVariance);
 
+			System.out.println("Duration mean is " + durationMean);
+			System.out.println("Duration variance is " + durationVariance);
 			testCounter++;
 		}
-		overallDurationMean = (double)overallDurationMean / (double)testCounter;
-		for(int i = 0; i < overallDurationsList.size(); i++)
-		{
-			System.out.println(overallDurationsList.get(i));
-			overallDurationVariance += Math.pow((overallDurationsList.get(i) - overallDurationMean),2);
-		}
-		overallDurationVariance = Math.sqrt((double)overallDurationVariance/(double)testCounter);
-		System.out.println("Final mean = " + overallDurationMean + " and variance is " + overallDurationVariance); 
 	}			
 }

@@ -57,9 +57,9 @@ public class Vincenti
 		bridge_origin=new double[3];
 		
 		// Add latitude/longitude coordinates with sign, beginning with longitude
-		bridge_origin[0]=-43.19707729999999; //compute the bridge origin in GPS
-		bridge_origin[1]=-22.9082998;
-		bridge_origin[2]=6.6;
+		bridge_origin[0]=12.48018019999995; //compute the bridge origin in GPS
+		bridge_origin[1]=41.8723889;
+		bridge_origin[2]=12.6;
 		BFR_roll=0;
 		BFR_pitch=0;
 		BFR_yaw=-61.237;
@@ -387,7 +387,7 @@ public class Vincenti
 		double linearDistance = temp1.computeIO_BFR();
 		temp1.computeIFRorient_BFR();
 		*/
-		String city = "Rio";
+		String city = "Rome";
 			
 		BufferedReader in = new BufferedReader(new FileReader("/mnt/sdb/old/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/" + city + "LocLinearInput"));
 		BufferedWriter out = new BufferedWriter(new FileWriter("/mnt/sdb/old/opt/umich-panther/senstore/contextInterpretation/field_inspector_trail/ApproxApproachAcrossPlanet/VincentyDistances/output_"+city+"VincentyDistancesTest"));
@@ -397,12 +397,12 @@ public class Vincenti
 		while((line = in.readLine()) != null)
 		{
 			String[] splitLine = line.split("\\s+");			
+			
 			if(splitLine.length < 6)
 			{
-				//out.write("skipped\n");
 				continue;
 			}
-			
+
 			Double[] inspectorPosition = new Double[3];
 			for(int i = 0; i < 3; i++)
 			{
@@ -413,6 +413,7 @@ public class Vincenti
 		}
 		
 		double durationMean = 0;
+		ArrayList<Long> overallDurations = new ArrayList<Long>();
 		for(Double[] splitLine : inputSamplePositions)
 		{
 			start1=System.nanoTime();
@@ -420,21 +421,34 @@ public class Vincenti
 			{
 				temp1.inspector_origin[i]=splitLine[i];
 			}
+
 			//double distance = temp1.computeIO_BFR();
 			double distance = temp1.computeIO_BFR_Android();
 			end1=System.nanoTime();
-			durationMean += (end1-start1);
+			Long durationEntry = (end1 - start1);
+			overallDurations.add(durationEntry);
 			countLoop++;
-			out.write((distance * 0.000621371) + "\n");	
+			//out.write((distance * 0.000621371) + "\n");	
+		}
+
+		double durationVariance = 0;
+		for(Long durationEntry : overallDurations)
+		{
+			System.out.println(durationEntry);
+			durationMean += durationEntry;
 		}
 
 		durationMean = (double)durationMean/(double)countLoop;
+		for(Long durationEntry : overallDurations)
+		{
+			durationVariance += Math.pow(durationEntry - durationMean, 2);
+		}
+		durationVariance = (double)durationVariance/(double)countLoop;
+		durationVariance = Math.sqrt(durationVariance);
 		System.out.println("Actual mean is " + durationMean);
-		long currentDuration = (end1 - start1);
-		
+		System.out.println("Actual variance is " + durationVariance);
+
 		//double durationMean = (double)currentDuration/(double)countLoop;
-		System.out.println("Duratin is " + durationMean);
-		System.out.println("Count loop is " + countLoop);
 		out.close();
 		in.close();
 		//temp1.computeQuery_BFR();
