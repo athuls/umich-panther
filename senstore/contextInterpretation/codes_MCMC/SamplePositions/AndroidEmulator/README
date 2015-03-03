@@ -1,0 +1,3 @@
+This folder has the android emulator which is used to ensure the location tracking algorithm can replace the Vincenty algorithm implementation that ships with Android.
+The updated image is then planned to be deployed on an Android mobile system to verify energy consumption gains.
+
