@@ -34,6 +34,26 @@ import Jama.*;
 
 public class Calibrator 
 {
+	public static double getDistanceBtwPoints(double[] gpsPoint1, double[] gpsPoint2)
+	{
+		// instantiate the calculator
+		GeodeticCalculator geoCalc = new GeodeticCalculator();
+		// select a reference ellipsoid
+		Ellipsoid reference = Ellipsoid.WGS84;
+		// set Pike's Peak position
+		GlobalPosition BO;
+		BO = new GlobalPosition(gpsPoint1[1], gpsPoint1[0], gpsPoint1[2]);
+
+		// set Alcatraz Island coordinates
+		GlobalPosition IO;
+		IO = new GlobalPosition(gpsPoint2[1], gpsPoint2[0], gpsPoint2[2]);
+
+		// calculate the geodetic measurement
+		GeodeticMeasurement geoMeasurement;
+		geoMeasurement = geoCalc.calculateGeodeticMeasurement(reference, BO, IO);
+		return geoMeasurement.getPointToPointDistance();
+	}
+	
 	public static double[] computeIO_BFR(double[] gpsPoint1, double[] gpsPoint2)
 	{
 		// instantiate the calculator
@@ -63,12 +83,13 @@ public class Calibrator
 
 		double[] inspector_BFR=new double[3];
 		inspector_BFR[0]=p2pmeters*Math.cos(angle_p)*Math.sin(Math.PI*(azimuth)/180);
-		inspector_BFR[0] = (double)inspector_BFR[0] / 0.3;
+		inspector_BFR[0] = (double)inspector_BFR[0];
 		inspector_BFR[1]=p2pmeters*Math.cos(angle_p)*Math.cos(Math.PI*(azimuth)/180);
-		inspector_BFR[1] = (double)inspector_BFR[1] / 0.3;
+		inspector_BFR[1] = (double)inspector_BFR[1];
 		inspector_BFR[2]=elevChangeMeters;
-		inspector_BFR[2] = (double)inspector_BFR[2] / 0.3;
+		inspector_BFR[2] = (double)inspector_BFR[2];
 		
+		// Note that the returned coordinates are in meters
 		return inspector_BFR;		
 	}
 }

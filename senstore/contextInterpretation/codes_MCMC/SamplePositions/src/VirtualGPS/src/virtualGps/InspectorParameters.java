@@ -94,6 +94,12 @@ public class InspectorParameters implements InspectorParametersInterface{
   		//setNPD_FPD();
   	}
   	
+  	public double[] getCorrespondingGPS(Matrix linearCoordinates)
+  	{
+  		Matrix GPS = linearCoordinates.times(m_BG).plus(m_bridgeOriginGPSMatrix);
+  		return GPS.getArray()[0];
+  	}
+  	
 	//Function to split given string, and then obtain position array
         private void getInspectorPosition()
         {
@@ -288,7 +294,14 @@ public class InspectorParameters implements InspectorParametersInterface{
 
 	@Override
 	public double[] getInspectorBFR() {
-		return m_inspectorBFR;
+		// Deep copy
+		double[] tempInspectorBFR = new double[3];
+		for(int i = 0; i < 3; i++)
+		{
+			tempInspectorBFR[i] = m_inspectorBFR[i];
+		}
+		
+		return tempInspectorBFR;
 	}
 
 

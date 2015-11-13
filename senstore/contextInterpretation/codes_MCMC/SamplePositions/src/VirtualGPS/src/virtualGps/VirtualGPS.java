@@ -99,6 +99,18 @@ public class VirtualGPS
 		return lfr_origin;
 	}
 	
+	double getEuclideanDistance(double[] point1, double[] point2)
+	{
+		double distance = 0;
+		for(int i = 0; i < 3; i++)
+		{
+			distance += Math.pow((point2[i] - point1[i]), 2);
+		}
+		
+		distance = Math.sqrt(distance);
+		return distance;
+	}
+	
 	public static void main(String args[]) throws IOException
 	{
 		//Compute Bridge Parameters
@@ -108,31 +120,52 @@ public class VirtualGPS
 		// double[] gpsSample1 = new double[3], gpsSample2 = new double[3];
 		// Arrays.fill(gpsSample1, 0);
 		// Arrays.fill(gpsSample2, 0);
-		double[] gpsSample1 = {116.36744229, 39.84349658, 43.1};
-		double[] gpsSample2 = {116.42223, 39.861681, 43};
+		double[] gpsSample1 = {116.2607755,39.78757457,55.8};
+		double[] gpsSample2 = {116.277328,39.835829,55.2};
+		double[] finalGpsSample = {116.29390396,39.88408063,54.6};
+		
 		// 39.87983938,116.47704638,43 
+		// 
+		// 116.56116562, 40.74543747, 517.3
+		// 
+		// 116.45729538, 39.84762516, 42.5
 		
 		// Project the GPS samples to linear frame of reference
-		InspectorParametersInterface positionParameters=new InspectorParameters(sel.BG, sel.gpsScalingFactors, sel.lfr_origin);
+		InspectorParametersInterface positionParameters = new InspectorParameters(sel.BG, sel.gpsScalingFactors, sel.lfr_origin);
 		positionParameters.computeBoundingBoxParameters(gpsSample1);
 		double[] userLfrPos1 = positionParameters.getInspectorBFR();
 		positionParameters.computeBoundingBoxParameters(gpsSample2);
 		double[] userLfrPos2 = positionParameters.getInspectorBFR();
+		double distance = Calibrator.getDistanceBtwPoints(gpsSample2, finalGpsSample);
 		
 		// Compute unit vector in direction of user
 		Matrix gpsDirSample1 = new Matrix(new double[][] {userLfrPos1});
 		Matrix gpsDirSample2 = new Matrix(new double[][] {userLfrPos2});
 		Matrix gpsDirDiff = gpsDirSample2.minus(gpsDirSample1);
-		double gpsDirDiffMagnitude = gpsDirDiff.norm1();
-		Matrix userDir = gpsDirDiff.times((double)1 / gpsDirDiffMagnitude);
+		double gpsDirDiffMagnitude = gpsDirDiff.normF();
+		if(gpsDirDiffMagnitude != 0)
+		{
+			Matrix userDir = gpsDirDiff.times((double)1 / gpsDirDiffMagnitude);
 		
-		// Initial GPS point (take the latest GPS point so as to minimize accumulated dead-reckon error)
-		Matrix initialGpsPoint = new Matrix(new double[][] { gpsSample2 });
 		
-		// 116.42223, 39.861681, 43
-		// Dummy dead reckoning distance value in meters 
-		double deadReckonDist = 5105;
-		Matrix newGpsPoint = initialGpsPoint.plus(userDir.times(deadReckonDist));
+			// Initial GPS point (take the latest GPS point so as to minimize accumulated dead-reckon error)
+			Matrix initialGpsPoint = new Matrix(new double[][] { userLfrPos2 });
 		
+			// 116.42223, 39.861681, 43
+			// Dummy dead reckoning distance value in meters 
+			// Matrix distanceMatrix = new Matrix(new double[][]{sel.gpsScalingFactors}).times(deadReckonDist);
+			// Matrix distVector = distanceMatrix.transpose().times(userDir);
+			 Matrix newGpsPoint = initialGpsPoint.plus(userDir.times(distance));
+			// Matrix newGpsPoint = initialGpsPoint.plus(distVector.transpose());
+			
+			// Convert newGpsPoint to GPS coordinates
+			double[] finalGpsCoord = positionParameters.getCorrespondingGPS(newGpsPoint);
+			double gpsErrorDist = Calibrator.getDistanceBtwPoints(finalGpsCoord, finalGpsSample);
+					
+			for(int i = 0; i < 3; i++)
+			{
+				System.out.println("Coordinate is " + newGpsPoint.get(i,i));
+			}
+		}
 	}			
 }
